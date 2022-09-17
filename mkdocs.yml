@@ -71,7 +71,6 @@ theme:
 
 plugins:
   - search
-  - glightbox
   # - pdf-export
   - minify:
       minify_html: true
