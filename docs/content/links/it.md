@@ -24,3 +24,4 @@ title: "IT"
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [Ben Eater](https://www.youtube.com/c/BenEater)
+- [WebAuthn](https://stytch.com/blog/an-introduction-to-webauthn/)
