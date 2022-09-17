@@ -21,9 +21,6 @@ nav:
       - Podcasts: content/links/podcasts.md
   - Extras:
       - Resources: content/extras/resources.md
-# - Dir:
-#   - Subdir:
-#     - Article name: subdir/article.md
 
 site_name: JamFox's Documentation
 site_author: JamFox
