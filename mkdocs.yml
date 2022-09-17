@@ -1,0 +1,126 @@
+---
+nav:
+  - Home: index.md
+  - HomeLab:
+      - Overview: content/homelab/overview.md
+  - DevOps:
+    - Version Control:
+        - Semantic Versioning: content/versioncontrol/semver.md
+        - Git DOs & DON'Ts: content/versioncontrol/gitdos.md
+        - Precommit: content/versioncontrol/precommit.md
+    - Provisioning:
+        - Packer CI/CD: content/provisioning/packerci.md
+    - Secrets Management:
+        - Vault with AD: content/secrets/vaultad.md
+        - Vault with Kerberos: content/secrets/vaultkrb.md
+  - Links:
+      - Interesting: content/links/interesting.md
+      - IT: content/links/it.md
+      - Procrastinate: content/links/procrastinate.md
+      - Essays & Articles: content/links/essays.md
+      - Podcasts: content/links/podcasts.md
+  - Extras:
+      - Resources: content/extras/resources.md
+# - Dir:
+#   - Subdir:
+#     - Article name: subdir/article.md
+
+site_name: JamFox's Documentation
+site_author: JamFox
+site_url: https://docs.jamfox.dev/
+edit_uri: edit/main/docs/
+docs_dir: docs
+repo_name: github.com/JamFox
+repo_url: https://github.com/JamFox/
+
+theme:
+  name: material
+  language: en
+  # custom_dir: overrides
+  favicon: assets/logo.png
+  logo: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - header.autohide
+    #- navigation.expand
+    - navigation.tabs
+    - navigation.top
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - search.share
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  font:
+    text: "Noto Sans"
+    code: "Roboto Mono"
+
+plugins:
+  - search
+  - glightbox
+  # - pdf-export
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+
+markdown_extensions:
+  - def_list
+  - admonition
+  - meta
+  - md_in_html
+  - attr_list
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
+      linenums_style: table
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      title: On this page
+      permalink: ¶
+      permalink_title: Anchor link to this section for reference
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JamFox

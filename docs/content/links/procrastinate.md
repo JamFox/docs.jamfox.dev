@@ -1,0 +1,12 @@
+---
+title: "Procrastinate"
+---
+
+- [Favorite's YouTube Playlist](https://youtube.com/playlist?list=FLCF_318p-7YO2OM18OEYpyw)
+- [Ancient Memes And Internet Classics Playlist](https://www.youtube.com/playlist?list=PLfINogWdDN60ooq4cglyFNzya34TkJaJQ)
+- [Zack Freedman](https://youtu.be/Sy7yPwj2fsg)
+- [rat spin 10 hours](https://youtu.be/euik1Zrs30w)
+- [I did a thing](https://youtu.be/Lti_zl3MnT4)
+- [2kliksphilip](https://www.youtube.com/c/2kliksphilip)
+- [kliksphilip](https://www.youtube.com/c/kliksphilip)
+- [RossCreations](https://www.youtube.com/c/VlogCreations)

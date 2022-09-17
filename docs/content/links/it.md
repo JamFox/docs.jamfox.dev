@@ -1,0 +1,26 @@
+---
+title: "IT"
+---
+
+- [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
+- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+- [The 512KB Club](https://512kb.club/)
+- [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
+- [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
+- [Hacker News](https://news.ycombinator.com)
+- [Privacy Guides](https://www.privacyguides.org/)
+- [Digital Foundry](https://www.youtube.com/user/DigitalFoundry)
+- [RTINGS](https://www.rtings.com/)
+- [Fuck Off As A Service](https://foaas.herokuapp.com/)
+- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [The container orchestrator landscape](https://lwn.net/Articles/905164/)
+- [The documentation system](https://documentation.divio.com/)
+- [How DNS Works](https://howdns.works/)
+- [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
+- [internet quote collection](http://bash.org/)
+- [Linux and FOSS News](https://lwn.net/)
+- [Meltdown and Spectre](https://meltdownattack.com/)
+- [matrix](https://matrix.org/)
+- [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
+- [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
+- [Ben Eater](https://www.youtube.com/c/BenEater)

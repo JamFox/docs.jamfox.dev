@@ -1,0 +1,6 @@
+site/
+.vscode
+.cache/
+public
+*.Identifier
+*.bak
