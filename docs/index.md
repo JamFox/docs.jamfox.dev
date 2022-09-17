@@ -7,14 +7,14 @@ title: Homepage
 
 # Welcome to JamFox's documentation
 
-Here lies a centralized site for documentation, notes and anything else that does not fit on my personal page at [jamfox.dev](https://jamfox.dev).
+Here lies a centralized site for documentation, notes and anything else that does not fit on my personal page at [**jamfox.dev**](https://jamfox.dev)
 
 ## Bird's-eye Overview
 
-**HomeLab** - Anything directly related to the homelab infrastructure.
+[**HomeLab**](content/homelab/overview.md) - Anything directly related to the homelab infrastructure.
 
-**DevOps** - General technical system administration and devops documentation.
+[**DevOps**](content/versioncontrol/semver.md) - General technical system administration and devops documentation.
 
-**Links** - Links of all shapes and sizes, from interesting stuff I have found to other documentation.
+[**Links**](content/links/interesting.md) - Links of all shapes and sizes, from interesting stuff I have found to other documentation.
 
-**Extras** - Other miscellaneous stuff.
+[**Extras**](content/extras/resources.md) - Other miscellaneous stuff.

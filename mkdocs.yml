@@ -119,5 +119,15 @@ extra_css:
 
 extra:
   social:
+    - icon: fontawesome/solid/house
+      link: https://jamfox.dev/
     - icon: fontawesome/brands/github
       link: https://github.com/JamFox
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/katurv/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/karlturvas/
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/id/JamFox/
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/user/kapikmeow
