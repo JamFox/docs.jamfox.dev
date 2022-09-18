@@ -14,12 +14,12 @@ nav:
         - Vault with AD: content/secrets/vaultad.md
         - Vault with Kerberos: content/secrets/vaultkrb.md
   - Links:
-      - Interesting: content/links/interesting.md
-      - IT: content/links/it.md
-      - Procrastinate: content/links/procrastinate.md
       - Essays & Articles: content/links/essays.md
+      - Procrastinate: content/links/procrastinate.md
+      - Interesting: content/links/interesting.md
       - Podcasts: content/links/podcasts.md
       - Piracy: content/links/piracy.md
+      - IT: content/links/it.md
   - Extras:
       - Resources: content/extras/resources.md
 

@@ -24,7 +24,9 @@ title: Piracy
 - [Z-Library](https://z-lib.org/)
 - [Sci Hub](https://sci-hub.se/)
 - [Audiobookbay](http://audiobookbay.nl/)
-    - To get copy the torrent info hash, which you'll paste into your torrent client using the following format: `magnet:?xt=urn:btih:infohash`. Eg. If the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
+
+!!! info "Audiobookbay without an account"
+    To get the torrent magnet, locate the `infohash` field of from your torrent info and paste into your torrent client using the following format: `magnet:?xt=urn:btih:infohash`. For example: if the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
 
 ## Anime
 
