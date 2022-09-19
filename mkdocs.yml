@@ -22,6 +22,7 @@ nav:
       - IT: content/links/it.md
   - Extras:
       - Resources: content/extras/resources.md
+      - Best Of: content/extras/bestof.md
 
 site_name: JamFox's Documentation
 site_author: JamFox
