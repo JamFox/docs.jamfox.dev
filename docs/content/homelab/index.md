@@ -1,8 +1,8 @@
 ---
-title: "Homelab Overview"
+title: "HomeLab"
 ---
 
-# JamLab Overview
+Anything directly related to the homelab infrastructure.
 
 !!! info
     A [homelab](https://old.reddit.com/r/homelab/) is self-hosted infrastructure at home for:

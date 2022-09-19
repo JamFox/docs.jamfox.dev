@@ -2,18 +2,20 @@
 nav:
   - Home: index.md
   - HomeLab:
-      - Overview: content/homelab/overview.md
+      - content/homelab/index.md
   - DevOps:
-    - Version Control:
-        - Semantic Versioning: content/versioncontrol/semver.md
-        - Git DOs & DON'Ts: content/versioncontrol/gitdos.md
-        - Precommit: content/versioncontrol/precommit.md
-    - Provisioning:
-        - Packer CI/CD: content/provisioning/packerci.md
-    - Secrets Management:
-        - Vault with AD: content/secrets/vaultad.md
-        - Vault with Kerberos: content/secrets/vaultkrb.md
+      - content/devops/index.md
+      - Version Control:
+          - Semantic Versioning: content/versioncontrol/semver.md
+          - Git DOs & DON'Ts: content/versioncontrol/gitdos.md
+          - Precommit: content/versioncontrol/precommit.md
+      - Provisioning:
+          - Packer CI/CD: content/provisioning/packerci.md
+      - Secrets Management:
+          - Vault with AD: content/secrets/vaultad.md
+          - Vault with Kerberos: content/secrets/vaultkrb.md
   - Links:
+      - content/links/index.md
       - Essays & Articles: content/links/essays.md
       - Procrastinate: content/links/procrastinate.md
       - Interesting: content/links/interesting.md
@@ -21,7 +23,7 @@ nav:
       - Piracy: content/links/piracy.md
       - IT: content/links/it.md
   - Extras:
-      - Resources: content/extras/resources.md
+      - content/extras/index.md
       - Best Of: content/extras/bestof.md
 
 site_name: JamFox's Documentation
@@ -49,6 +51,9 @@ theme:
     - content.tabs.link
     - search.share
     - content.code.annotate
+    - navigation.indexes
+    - navigation.prune 
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

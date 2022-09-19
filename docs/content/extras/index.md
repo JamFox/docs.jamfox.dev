@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Extras
 ---
 
 !!! info "Site Sources"
