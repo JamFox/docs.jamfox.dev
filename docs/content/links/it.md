@@ -27,3 +27,4 @@ title: "IT"
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
 - [Fireship](https://www.youtube.com/c/Fireship)
+- [DevSec Hardening Framework](https://dev-sec.io/)
