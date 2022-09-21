@@ -27,3 +27,5 @@ title: "IT"
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
 - [Fireship](https://www.youtube.com/c/Fireship)
+- [Spectre passwords](https://spectre.app/)
+- [Fanboy's Annoyances lists for UBlock](https://www.fanboy.co.nz/)

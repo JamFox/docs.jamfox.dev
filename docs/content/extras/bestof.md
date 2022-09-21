@@ -63,6 +63,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Planet Earth](https://www.imdb.com/title/tt5491994/)
 - [Adventure Time](https://www.imdb.com/title/tt1305826/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
+- [Arcane](https://www.imdb.com/title/tt11126994/)
 
 ## Anime
 
