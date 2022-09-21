@@ -29,3 +29,4 @@ title: "IT"
 - [Fireship](https://www.youtube.com/c/Fireship)
 - [Spectre passwords](https://spectre.app/)
 - [Fanboy's Annoyances lists for UBlock](https://www.fanboy.co.nz/)
+- [DevSec Hardening Framework](https://dev-sec.io/)
