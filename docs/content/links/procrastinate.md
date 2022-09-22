@@ -15,3 +15,4 @@ title: "Procrastinate"
 - [9/21](https://www.youtube.com/watch?v=kPwG6L73-VU&list=PLhT8ACQdPzpwkpvnvvPf6jCfWxEPmn-Kk)
 - [Colin Furze](https://www.youtube.com/c/colinfurze)
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
+- [The Educated Barfly](https://www.youtube.com/c/TheEducatedBarfly)
