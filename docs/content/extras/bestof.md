@@ -4,7 +4,30 @@ title: Best Of
 
 A collection of lists of what I believe to be the best of the best from each medium. The lists are not ordered.
 
+!!! info "My subjective rating system"
+    **10: Perfect.** Almost nonexistent, even in my subjective view of perfection. The experience was so groundbreaking that I was able to disregard any negatives. Touched me so deep down that it changed me as a person in a noticeable way. Probably left me in the post-watch depression for as long as a month or so.
+
+    **9: Phenomenal.** Truly left an impact on me. It's an experience I can generally recall even with my bad memory and can enjoy re-watching multiple times. The flaws, if any, would take meticulous attention to actually find. Likely took a week or less in post-watch depression to process.
+
+    **8: Great.** Not so great as to touch the soul, so to speak, but wonderful enough that I was completely satisfied with the experience.
+
+    **7: Good.** A solid movie. The issues are definitely present although not glaring and easily overlooked because the overall experience was good.
+
+    **6: Above average.** Usually popcorn flicks fit this score well unless they go above and beyond. I got something out of it, however small that something may have been. Probably not going to watch it again.
+
+    **5: Average.** Nothing gained and nothing lost.
+
+    **4: Below average.** Unsatisfying, but didn't completely rub me the wrong way.
+
+    **3: Bad.** Experiences that were not only unsatisfying, but also brought a hint of anger or resentment.
+
+    **2: Awful.** I deeply regret spending precious time and energy trying this experience. Induced an unstoppable rant about the awful mark it left on me.
+
+    **1: Abysmal.** Absolute joke, completely irredeemable in every way. Should not exist, and is absolutely offensive and wrong that it does exist.
+
 ## Movies
+
+[Letterboxd ratings](https://letterboxd.com/jamfox/films/by/member-rating/)
 
 - [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/)
 - [Gravity](https://letterboxd.com/film/gravity-2013/)
@@ -67,6 +90,8 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Anime
 
+[MyAnimeList Ratings](https://myanimelist.net/animelist/Jamfox?status=7&order=4&order2=0)
+
 - [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
 - [Ghost In The Shell](https://myanimelist.net/anime/43/Koukaku_Kidoutai)
 - [Berserk](https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk)
@@ -95,6 +120,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
 
 ## Games
+
+[Steam](https://steamcommunity.com/id/JamFox/)
 
 ### Singleplayer
 
