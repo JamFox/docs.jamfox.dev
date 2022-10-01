@@ -18,3 +18,4 @@ title: "Procrastinate"
 - [The Educated Barfly](https://www.youtube.com/c/TheEducatedBarfly)
 - [Morphologis](https://www.youtube.com/c/Morphologis)
 - [Internet Historian](https://www.youtube.com/c/InternetHistorian)
+- [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
