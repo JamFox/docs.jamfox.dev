@@ -16,6 +16,7 @@ title: "Procrastinate"
 - [Colin Furze](https://www.youtube.com/c/colinfurze)
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
 - [The Educated Barfly](https://www.youtube.com/c/TheEducatedBarfly)
+- [How To Drink](https://www.youtube.com/c/howtodrink)
 - [Morphologis](https://www.youtube.com/c/Morphologis)
 - [Internet Historian](https://www.youtube.com/c/InternetHistorian)
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
