@@ -1,5 +1,5 @@
 ---
-title: "Configuration Management (Ansible)"
+title: "Ansible"
 ---
 
 Ansible was the obvious choice for me as I had quite a lot of experience with it. For configuration management it made sense to go with something simple to ease bootstrapping and favoring mutability for fastest development. Running a whole platform like Puppet did not make sense because of bootstrapping and resource overhead. Ansible is simple to write, understand and manage if written well from the get-go.

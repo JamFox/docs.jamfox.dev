@@ -8,11 +8,9 @@ One of the advantages with using Proxmox is that it is a Debian based OS which m
 
 ## Steps
 
-Download the latest iso from [Proxmox VE Downloads](https://www.proxmox.com/en/downloads/category/iso-images-pve)
-
-Flash it onto USB and boot the server from it.
-
-Follow the prompts to configure the volume, locale and install the OS.
+1. Download the latest iso from [Proxmox VE Downloads](https://www.proxmox.com/en/downloads/category/iso-images-pve).
+2. Flash it onto USB and boot the server from it.
+3. Follow the prompts to configure the volume, locale and install the OS.
 
 Since I run hardware RAID I went with xfs instead of zfs with software RAID for the filesystem.
 
@@ -20,4 +18,4 @@ Since I run hardware RAID I went with xfs instead of zfs with software RAID for 
 
 To bootstrap the lab, I wrote [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
 
-Bootstrapping is almost as easy as cloning the repo and running the bootstrap script. Exact steps detailed in the repository and the Configuration Management chapter.
+Bootstrapping is almost as easy as cloning the repo and running the bootstrap script. Exact steps detailed in the repository README and in the Configuration Management chapter.
