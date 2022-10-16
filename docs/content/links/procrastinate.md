@@ -20,3 +20,4 @@ title: "Procrastinate"
 - [Morphologis](https://www.youtube.com/c/Morphologis)
 - [Internet Historian](https://www.youtube.com/c/InternetHistorian)
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
+- [Every version of Bad Apple](https://www.youtube.com/watch?v=tO6sfku_1b8&list=PLfUXLNVXzF5ZslpGPC-HYIbSNeLtuzOZ3)
