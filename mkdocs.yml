@@ -3,6 +3,11 @@ nav:
   - Home: index.md
   - HomeLab:
       - content/homelab/index.md
+      - Server installation:
+          - HP DL380 G9: content/homelab/dl380g9.md
+          - Operating System: content/homelab/os.md
+      - Configuration Management:
+          - Ansible: content/homelab/config.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
