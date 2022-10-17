@@ -8,6 +8,9 @@ nav:
           - Operating System: content/homelab/os.md
       - Configuration Management:
           - Ansible: content/homelab/config.md
+      - Secrets Management:
+          - Ansible Vault: content/homelab/ansiblevault.md
+          - SOPS: content/homelab/sops.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
