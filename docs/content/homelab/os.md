@@ -2,6 +2,12 @@
 title: "Operating System (Debian)"
 ---
 
+!!! info
+    [Debian Homepage](https://www.debian.org/)
+    [Debian Wiki](https://wiki.debian.org/)
+    [Debian CD/DVD images](https://www.debian.org/CD/http-ftp/)
+    [Debian Official Cloud Images](https://cloud.debian.org/images/cloud/)
+
 For the OS I decided to go with the tried and true homelab hypervisor [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-ve) as it is basically the only option when it comes to complete, free and open source Platform-as-a-Service OS choices.
 
 One of the advantages with using Proxmox is that it is a Debian based OS which makes it easy to set up a single Ansible configuration management system for Proxmox hosts together with Raspberry Pi hosts which usually run Debian based distros as well.

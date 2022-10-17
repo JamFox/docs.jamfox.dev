@@ -2,6 +2,9 @@
 title: "Ansible Vault"
 ---
 
+!!! info
+    [Ansible Vault Documentation](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html)
+
 [Ansible Vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html) is a feature that allows users to encrypt values and data structures within Ansible projects. This provides the ability to secure any sensitive data that is necessary to successfully run Ansible plays but should not be publicly visible, like passwords or private keys. Ansible automatically decrypts vault-encrypted content at runtime when the key is provided.
 
 This requires the manual step of setting up a password file and setting it's path (which should not be in the repository) in `ansible.cfg`.

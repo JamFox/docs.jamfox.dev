@@ -1,6 +1,9 @@
 ---
-title: "SOPS"
+title: "Mozilla SOPS"
 ---
+
+!!! info
+    [Mozilla SOPS repository](https://github.com/mozilla/sops)
 
 [SOPS](https://github.com/mozilla/sops), short for Secrets OPerationS, is an open-source text file editor that encrypts/decrypts files automagically.
 
