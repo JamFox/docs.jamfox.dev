@@ -200,24 +200,28 @@ After the announcement of deprecating `hash_behaviour=merge` option in Ansible i
 When merging dictionaries the following convention should be followed:
 
 For role defaults use the regular variable name `exampledict` in `rrr/defaults/main.yml`:
+
 ```yml
 exampledict:
     - name: var1
 ```
 
 For group defaults use the `group_` prefix with variable name `exampledict` in `playbooks/ppp/group_vars/all.yml`:
+
 ```yml
 group_exampledict:
     - name: var2
 ```
 
 For host defaults use the `host_` prefix with variable name `exampledict` in `playbooks/ppp/host_vars/hhh.yml`:
+
 ```yml
 host_exampledict:
     - name: var3
 ```
 
 Combine dictionaries in role tasks `rrr/tasks/main.yml`:
+
 ```yml
 - name: Combine role and group vars
   set_fact:
