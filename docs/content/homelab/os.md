@@ -3,9 +3,9 @@ title: "Operating System (Debian)"
 ---
 
 !!! info
-    [Debian Homepage](https://www.debian.org/)
-    [Debian Wiki](https://wiki.debian.org/)
-    [Debian CD/DVD images](https://www.debian.org/CD/http-ftp/)
+    [Debian Homepage](https://www.debian.org/) |
+    [Debian Wiki](https://wiki.debian.org/) |
+    [Debian CD/DVD images](https://www.debian.org/CD/http-ftp/) |
     [Debian Official Cloud Images](https://cloud.debian.org/images/cloud/)
 
 For the OS I decided to go with the tried and true homelab hypervisor [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-ve) as it is basically the only option when it comes to complete, free and open source Platform-as-a-Service OS choices.

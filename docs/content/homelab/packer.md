@@ -3,9 +3,9 @@ title: "Hashicorp Packer"
 ---
 
 !!! info
-    [Packer Homepage](https://www.packer.io/)
-    [Packer Documentation](https://www.packer.io/docs)
-    [Packer QEMU Builder](https://www.packer.io/plugins/builders/qemu)
+    [Packer Homepage](https://www.packer.io/) |
+    [Packer Documentation](https://www.packer.io/docs) |
+    [Packer QEMU Builder](https://www.packer.io/plugins/builders/qemu) |
     [jamlab-packer](https://github.com/JamFox/jamlab-packer)
 
 Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef, Puppet or Ansible. In fact, when building images, Packer is able to use tools like Chef, Puppet or Ansible to install software onto the image.

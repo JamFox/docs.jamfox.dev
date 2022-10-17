@@ -3,8 +3,8 @@ title: "Ansible"
 ---
 
 !!! info
-    [Ansible Homepage](https://www.ansible.com/)
-    [Ansible Documentation](https://docs.ansible.com/)
+    [Ansible Homepage](https://www.ansible.com/) |
+    [Ansible Documentation](https://docs.ansible.com/) |
     [jamlab-ansible](https://github.com/JamFox/jamlab-ansible)
 
 [Ansible](https://docs.ansible.com/ansible/latest/index.html) is a software tool that provides simple but powerful automation for cross-platform computer support. It is primarily intended for IT professionals, who use it for application deployment, updates on workstations and servers, cloud provisioning, configuration management, intra-service orchestration, and nearly anything a systems administrator does on a weekly or daily basis. Ansible doesn't depend on agent software and has no additional security infrastructure, so it's easy to deploy.
