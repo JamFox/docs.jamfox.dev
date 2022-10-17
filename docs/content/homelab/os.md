@@ -16,6 +16,6 @@ Since I run hardware RAID I went with xfs instead of zfs with software RAID for 
 
 ## Bootstrap the lab
 
-To bootstrap the lab, I wrote [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
+To bootstrap the lab, I use [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash.
 
 Bootstrapping is almost as easy as cloning the repo and running the bootstrap script. Exact steps detailed in the repository README and in the Configuration Management chapter.
