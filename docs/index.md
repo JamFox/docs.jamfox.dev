@@ -15,6 +15,8 @@ Here lies a centralized site for documentation, notes and anything else that doe
 
 [**DevOps**](content/devops/index.md) - General technical system administration and devops documentation.
 
+[**Cooking**](content/cooking/index.md) - Anything related to cooking and recipes is documented in this section.
+
 [**Links**](content/links/index.md) - Links of all shapes and sizes, from interesting stuff I have found to other documentation.
 
 [**Extras**](content/extras/index.md) - Other miscellaneous stuff.
