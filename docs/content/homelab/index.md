@@ -2,7 +2,7 @@
 title: "HomeLab"
 ---
 
-Anything directly related to the homelab infrastructure.
+Anything directly related to the homelab infrastructure is documented in this section.
 
 !!! info
     A [homelab](https://old.reddit.com/r/homelab/) is self-hosted infrastructure at home for:

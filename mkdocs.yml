@@ -24,6 +24,9 @@ nav:
       - Secrets Management:
           - Vault with AD: content/secrets/vaultad.md
           - Vault with Kerberos: content/secrets/vaultkrb.md
+  - Cooking:
+      - content/cooking/index.md
+      - Basics: content/cooking/basics.md
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
