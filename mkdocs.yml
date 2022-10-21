@@ -13,6 +13,7 @@ nav:
           - Mozilla SOPS: content/homelab/sops.md
       - Provisioning:
           - Hashicorp Packer: content/homelab/packer.md
+          - Hashicorp Terraform: content/homelab/terraform.md
   - DevOps:
       - content/devops/index.md
       - Version Control:

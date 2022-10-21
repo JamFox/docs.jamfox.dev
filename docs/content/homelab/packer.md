@@ -6,6 +6,7 @@ title: "Hashicorp Packer"
     [Packer Homepage](https://www.packer.io/) |
     [Packer Documentation](https://www.packer.io/docs) |
     [Packer QEMU Builder](https://www.packer.io/plugins/builders/qemu) |
+    [Proxmox Builder (ISO)](https://www.packer.io/plugins/builders/proxmox/iso) |
     [jamlab-packer](https://github.com/JamFox/jamlab-packer)
 
 Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef, Puppet or Ansible. In fact, when building images, Packer is able to use tools like Chef, Puppet or Ansible to install software onto the image.
@@ -46,3 +47,15 @@ Or also substituted into other strings:
 ```hcl
 iso_full_url = "https://${var.iso_url}${var.iso_checksum}"
 ```
+
+### Preseed
+
+Preseeding provides a way to answer questions asked during the installation process without having to manually enter the answers while the installation is running. Read more about this method in the [preseed documentation](https://wiki.debian.org/DebianInstaller/Preseed).
+
+With preseed I configure the bare minimum for the installation to work before the cloud-init takes over.
+
+### Cloud-init
+
+Cloud-init is used for initial machine configuration like creating users, installing packages, custom scripts or preseeding `authorized_keys` file for SSH authentication. Read more about this in [cloud-init documentation](https://cloudinit.readthedocs.io/en/latest/).
+
+With cloud-init I reset the root password to something randomized, install necessary packages for Ansible to take over the configuration and initialize the script that checks if Ansible management is bootstrapped.
