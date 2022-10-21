@@ -17,6 +17,10 @@ A machine image is a single static unit that contains a pre-configured operating
 
 ## Usage
 
+With the [Proxmox Builder (ISO)](https://www.packer.io/plugins/builders/proxmox/iso) it is possible to use a remote or local ISO file to create and configure a VM which can be converted into a template that can be used for super fast provisioning of VMs.
+
+### Commands
+
 After configuring everything, building images is as easy as running a single command:
 
 ```bash

@@ -14,6 +14,8 @@ Terraform is an infrastructure as code tool that lets you build, change, and ver
 
 ## Usage
 
+With existing VM template(s) built with [Proxmox Builder (ISO)](https://www.packer.io/plugins/builders/proxmox/iso) it is possible to provision VMs with Terraform extra fast using [Terraform Proxmox provider](https://github.com/Telmate/terraform-provider-proxmox).
+
 ### Initializing and verifying configuration
 
 Initialize the configuration directory to download and install the providers defined in the configuration:
