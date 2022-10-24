@@ -6,7 +6,7 @@ Collection of snack recipes.
 
 ## Courgette/Ricotta bread
 
-!!! abstract "Ingredients"
+!!! abstract inline "Ingredients"
     - Courgettes, sliced into 5-7mm slices
     - Olive oil
     - Ciabatta or rustic baguette
@@ -22,12 +22,12 @@ Instructions:
 
 ## Croque Monsieur
 
-!!! abstract "Bechamel Ingredients"
+!!! abstract inline "Bechamel Ingredients"
     - 1 Tbsp butter
     - 1 Tbsp all purpose flour
     - 1 cup milk
 
-!!! abstract "Croque Monsieur Ingredients"
+!!! abstract inline "Croque Monsieur Ingredients"
     - Bechamel
     - Brioche bread
     - Gruyere or Raclette cheese (or both), shredded
