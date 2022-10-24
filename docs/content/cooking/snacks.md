@@ -12,7 +12,7 @@ Collection of snack recipes.
     - Ciabatta or rustic baguette
     - Creamy ricotta cheese
 
-Instructions:
+**Instructions:**
 
 1. Place the courgettes in a bowl with olive oil, season with kosher salt and freshly ground pepper, toss until evenly coated.
 2. Add courgette slices to a griddle/grill pan, cook until golden and striped.
@@ -27,7 +27,7 @@ Instructions:
     - 1 Tbsp all purpose flour
     - 1 cup milk
 
-Bechamel Instructions:
+**Bechamel Instructions:**
 
 1. In a saucepan, melt 1 tablespoon of butter over medium heat for 2-3 minutes until it stops spattering, the stage right before browning. Make sure to swirl regularly, almost constantly.
 2. At this point, add 1 tablespoon of all-purpose flour and whisk into a thick paste and cook for 2-3 minutes until the raw flour dissipates.
@@ -44,7 +44,7 @@ Bechamel Instructions:
     - Slices of ham
     - Dijon mustard
 
-Croque Monsieur Instructions:
+**Croque Monsieur Instructions:**
 
 1. Start by toasting two pieces of brioche bread then shred some of the cheese. Spread a couple of tablespoons worth of the bechamel on the bottom slice of the bread, just enough to cover it.
 2. Top that with a generous amount of cheese along with slices of ham, topping with another generous amount of gruyere, spreading the top slice of bread with dijon mustard before placing on top.
