@@ -25,3 +25,5 @@ title: "Essays & Articles"
 - [Explanation Point](https://www.youtube.com/c/ExplanationPointAnime)
 - [Jacob Geller](https://www.youtube.com/c/JacobGeller)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
+- [ContraPoints](https://www.youtube.com/c/ContraPoints)
+- [jan Misali](https://www.youtube.com/c/HBMmaster)

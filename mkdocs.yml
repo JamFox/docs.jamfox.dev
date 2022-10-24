@@ -28,6 +28,7 @@ nav:
   - Cooking:
       - content/cooking/index.md
       - Basics: content/cooking/basics.md
+      - Snacks: content/cooking/snacks.md
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
