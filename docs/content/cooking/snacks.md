@@ -27,13 +27,6 @@ Instructions:
     - 1 Tbsp all purpose flour
     - 1 cup milk
 
-!!! abstract inline "Croque Monsieur Ingredients"
-    - Bechamel
-    - Brioche bread
-    - Gruyere or Raclette cheese (or both), shredded
-    - Slices of ham
-    - Dijon mustard
-
 Bechamel Instructions:
 
 1. In a saucepan, melt 1 tablespoon of butter over medium heat for 2-3 minutes until it stops spattering, the stage right before browning. Make sure to swirl regularly, almost constantly.
@@ -43,6 +36,13 @@ Bechamel Instructions:
 5. Season with pepper, and a generous pinch of kosher salt.
 6. Whisk to combine and cook for 1 minute until it’s thick enough to run down, but still coat the back of a spoon.
 7. Cover and allow to cool for 10-15 minutes before sandwich assembly.
+
+!!! abstract inline "Croque Monsieur Ingredients"
+    - Bechamel
+    - Brioche bread
+    - Gruyere or Raclette cheese (or both), shredded
+    - Slices of ham
+    - Dijon mustard
 
 Croque Monsieur Instructions:
 
