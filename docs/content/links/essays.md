@@ -14,6 +14,7 @@ title: "Essays & Articles"
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
+- [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 
 ## Favourite authors
 
