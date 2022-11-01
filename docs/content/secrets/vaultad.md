@@ -484,7 +484,7 @@ Datakey generation allows processes to request a high-entropy key of a given bit
 
 ### [Security/Threat model](https://www.vaultproject.io/docs/internals/security#security-model)
 
-HPC specific risks:
+Some risks:
 
 - Vault traffic might be eavesdropped
   - Solution: Disable unencrypted HTTP comms, only use TLS encrypted traffic.
