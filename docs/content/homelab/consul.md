@@ -6,7 +6,8 @@ title: "Hashicorp Consul"
     [Consul Homepage](https://www.consul.io/) |
     [Consul Docs](https://developer.hashicorp.com/consul/docs) |
     [Consul Connect Docs](https://developer.hashicorp.com/consul/docs/connect) |
-    [Envoy Proxy Homepage](https://www.envoyproxy.io/)
+    [Envoy Proxy Homepage](https://www.envoyproxy.io/) |
+    [Envoy Proxy Docs](https://www.envoyproxy.io/docs)
 
 Consul is a service networking solution that enables teams to manage secure network connectivity between services and across multi-cloud environments and runtimes. Consul offers service discovery, identity-based authorization, L7 traffic management, and service-to-service encryption.
 
