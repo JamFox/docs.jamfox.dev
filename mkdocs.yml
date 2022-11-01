@@ -18,6 +18,8 @@ nav:
           - Hashicorp Terraform: content/homelab/terraform.md
       - Container Orchestration:
           - Hashicorp Consul: content/homelab/consul.md
+          - Hashicorp Nomad: content/homelab/nomad.md
+          - Kubernetes: content/homelab/kubernetes.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
