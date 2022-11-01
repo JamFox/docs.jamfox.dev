@@ -15,6 +15,7 @@ title: "Essays & Articles"
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
+- [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 
 ## Favourite authors
 

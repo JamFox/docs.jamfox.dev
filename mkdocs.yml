@@ -6,6 +6,8 @@ nav:
       - Server installation:
           - HP DL380 G9: content/homelab/dl380g9.md
           - Operating System: content/homelab/os.md
+      - Operating systems: 
+          - Proxmox VE: content/homelab/proxmox.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
       - Secrets Management:
@@ -25,10 +27,11 @@ nav:
       - Secrets Management:
           - Vault with AD: content/secrets/vaultad.md
           - Vault with Kerberos: content/secrets/vaultkrb.md
-  - Cooking:
-      - content/cooking/index.md
-      - Basics: content/cooking/basics.md
-      - Snacks: content/cooking/snacks.md
+  - Food:
+      - content/food/index.md
+      - Basics: content/food/basics.md
+      - Snacks: content/food/snacks.md
+      - Wine: content/food/wine.md
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
