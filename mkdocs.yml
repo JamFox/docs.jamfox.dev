@@ -48,6 +48,7 @@ nav:
   - Extras:
       - content/extras/index.md
       - Best Of: content/extras/bestof.md
+      - Recommendations: content/extras/recs.md
 
 site_name: JamFox's Documentation
 site_author: JamFox
