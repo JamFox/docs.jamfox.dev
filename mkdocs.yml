@@ -16,6 +16,8 @@ nav:
       - Provisioning:
           - Hashicorp Packer: content/homelab/packer.md
           - Hashicorp Terraform: content/homelab/terraform.md
+      - Container Orchestration:
+          - Hashicorp Consul: content/homelab/consul.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
