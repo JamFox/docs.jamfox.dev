@@ -18,18 +18,6 @@ Examples of Vault use cases:
 - [Kubernetes Secrets](https://www.vaultproject.io/use-cases/kubernetes)
 - [Secrets Management](https://www.vaultproject.io/use-cases/secrets-management)
 
-CERN specific potential use cases:
-
-- **Personal secret storage** - users will have their personal path that only they have read/write access to store secrets at.
-- **Secure secret sharing** - users will have write (but NOT overwrite) access to other users paths to share secrets.
-- **Host specific secret storage** - hosts are able to authenticate using their keytab to fetch host specific secrets.
-- **e-group/LDAP group secret compartments** \- Vault policies can be mapped to e-groups/LDAP groups and thus secrets can be made available automatically to both users and hosts depending on their e-group membership(s).
-- **Cryptography/Enryption as a service** - encrypt data from applications while still storing that encrypted data in some primary data store.
-- **AD password rotation** \- rotates AD service account passwords dynamically.
-- **AD service checkout** - automatically rotate AD service account password each time a service account is checked in.
-- **PKI certificate management** - generate dynamic X.509 certificates.
-- **Dynamic database credentials** - generates database credentials dynamically based on configured roles. These credentials can also be used for other purposes than accessing databases too!
-
 ### How do I access Vault?
 
 Use the CLI tool, by [installing it](https://www.vaultproject.io/docs/install) and setting your environment variable `VAULT_ADDR='https://vault.cern.ch:8200'`

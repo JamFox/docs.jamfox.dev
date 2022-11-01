@@ -3,10 +3,6 @@ title: "Hashicorp Vault integration with AD and SSH signing"
 date: "2021-12-07"
 ---
 
-## NOTE!
-
-The configurations, descriptions and demo were written on the basis of using Vault with existing infrastructure of TalTech HPC and as such is catered to different requirements: not all is applicaple to your needs and needs some rethinking to fit into the workflows of your use cases. In any case, it should be a good overview of what Vault is capable of, what problems it can resolve, how it can be set up and managed.
-
 ## Vault
 
 Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, or certificates. Vault provides encryption services that are gated by authentication and authorization methods. Using Vault’s UI, CLI, or HTTP API, access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
@@ -53,7 +49,7 @@ vault policy write hpc-default hpc-default.hcl
 
 ### [Azure AD authentication method](https://www.vaultproject.io/docs/auth/jwt/oidc_providers#azure-active-directory-aad) setup
 
-NOTE: users with over 200 groups might run into problems. Additionl setup needed to accomodate users with over 200 groups. Check the relevant chapter in Vault official docs [HERE](https://www.vaultproject.io/docs/auth/jwt/oidc_providers#optional-azure-specific-configuration)!
+NOTE: users with over 200 groups might run into problems. Additional setup needed to accommodate users with over 200 groups. Check the relevant chapter in Vault official docs [HERE](https://www.vaultproject.io/docs/auth/jwt/oidc_providers#optional-azure-specific-configuration)!
 
 Authenticate as root with the generated root token:
 
@@ -605,8 +601,8 @@ SSH into the host machine using the signed key. You must supply both the signed 
 ssh -i <YOUR-KEY>-signed.pub -i ~/.ssh/<YOUR-KEY> username@host
 ```
 
-For the purposes of the demo, ask administrator to add your principal to training headnode. Then try connecting to training headnode:
+For the purposes of the demo, ask administrator to add your principal to training node. Then try connecting to it:
 
 ```bash
-ssh -i <YOUR-KEY>-signed.pub -i ~/.ssh/<YOUR-KEY> centos@193.40.156.61
+ssh -i <YOUR-KEY>-signed.pub -i ~/.ssh/<YOUR-KEY> username@host
 ```
