@@ -16,6 +16,9 @@ nav:
       - Provisioning:
           - Hashicorp Packer: content/homelab/packer.md
           - Hashicorp Terraform: content/homelab/terraform.md
+      - DNS: 
+          - content/homelab/dns.md
+          - Dnsmasq: content/homelab/dnsmasq.md
       - Container Orchestration:
           - Hashicorp Consul: content/homelab/consul.md
           - Hashicorp Nomad: content/homelab/nomad.md
