@@ -35,4 +35,4 @@ HOWEVER all of the things that "Kubernetes does not" do can run ON Kubernetes, a
 
 ## Usage
 
-This doc will probably not have very detailed examples because Kubernetes is in VERY active development so incompatible changes and non-working, broken examples and not-so-thorough documentation is surely to follow. Related to the last point: any documentation should have versions ***everywhere*.
+This doc will probably not have very detailed examples because Kubernetes is in VERY active development so incompatible changes and non-working, broken examples and not-so-thorough documentation is surely to follow. Related to the last point: any documentation should have versions **everywhere**.
