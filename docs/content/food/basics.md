@@ -4,6 +4,15 @@ title: "Basics"
 
 Collection of basic cooking techniques and instructions.
 
+## Cooking eggs
+
+### Boiling timings
+
+- **Soft and runny** - 7min
+- **Soft but jammy** - 8min
+- **Cooked but soft center** - 10min
+- **Hardboiled** - 12-13min
+
 ## Cooking rice
 
 Wash the rice until water runs clear to get rid of starch and facilitate maximum fluffiness. Then add water according to ratios:

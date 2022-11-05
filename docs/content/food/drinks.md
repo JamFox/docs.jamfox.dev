@@ -9,7 +9,13 @@ Collection of my favorite drinks.
 ### Red wine
 
 - [Paul Mas - Château Paul Mas Coteaux du Languedoc Clos des Mures - 2020](https://www.vivino.com/FR/en/paul-mas-chateau-paul-mas-coteaux-du-languedoc-clos-des-mures)
+- Brouilly
 - Zinfandel
+
+### White wine
+
+- Chardonnay
+- Petit Chablis
 
 ### Wine recommendations from others
 
