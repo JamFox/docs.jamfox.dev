@@ -51,3 +51,21 @@ Collection of snack recipes.
 3. Spread another layer of bechamel on top of the sandwich and another layer of cheese.
 4. Place into a broiler or oven until thoroughly brown and bubbly.
 5. Et voilà!
+
+## Hot-Smoked Fish "Salad"
+
+!!! abstract inline "Hot-Smoked Fish Salad Ingredients"
+    - 1 small hot-smoked fish (eg smoked sea bass)
+    - 4 eggs
+    - 1-2 (red) onions
+    - Fresh dill and chives
+    - Hellmann's (or other neutral) mayonnaise
+
+**Hot-Smoked Fish Salad Instructions:**
+
+1. Boil the eggs for 10 minutes, then cool under running cold water, peel and break the eggs with a fork.
+2. Peel and finely chop the onion. Clean the smoked fish and cut it into smaller pieces.
+3. Mix onion, chopped eggs, smoked fish and herbs in a bowl. Add enough mayonnaise to bind the ingredients together.
+4. If desired, season with salt and pepper.
+5. Slap the "salad" on some ciabatta or equivalent alternative and watch even the seafood haters devour it.
+6. Et voilà!
