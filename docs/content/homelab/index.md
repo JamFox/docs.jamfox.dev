@@ -40,4 +40,21 @@ JamLab repositories:
 
 ![jamlab-overview diagram](attachments/jamlab-overview.png)
 
-## Long story long
+## Accessing services
+
+Easiest way to explain what goes on in the JamLab is to look at the flow when a client wishes to access a service. Let's say that the client wishes to access a web server from the address `web.jamfox.dev`.
+
+If the client queries `web.jamfox.dev`:
+
+- from outside the JamLab internal network they get back a response from external DNS (eg Namecheap DNS, Cloudflare DNS or other) pointing to a dynamic IP of the JamLab ISP router. The JamLab ISP router forwards ports to the bastion host running HAProxy.
+- from inside the JamLab internal network then they get back a response pointing to the bastion host running HAProxy from the ISP router using bastion host as the primary DNS.
+
+HAProxy establishes connection and terminates SSL if used. By default, HAProxy balances and directs the traffic to Fabio load balancers on `vs` nodes. If Fabio finds any Nomad services that have been tagged with the address `web.jamfox.dev` it will balance and direct the traffic to the service node(s).
+
+```
+                      +- HTTP(S) -> Fabio LB -+-> web-0 (vs0)
+                      |                       |
+HTTPS --> HAProxy LB -+- HTTP(S) -> Fabio LB -+-> web-1 (vs1)
+                      |                       |
+                      +- HTTP(S) -> Fabio LB -+-> web-n (vsn)
+```
