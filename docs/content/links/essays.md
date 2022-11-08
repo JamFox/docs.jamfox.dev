@@ -16,6 +16,7 @@ title: "Essays & Articles"
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
+- [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
 
 ## Favourite authors
 
