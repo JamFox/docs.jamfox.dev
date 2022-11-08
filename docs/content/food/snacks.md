@@ -11,16 +11,19 @@ Collection of snack recipes.
     - Olive oil
     - Ciabatta or rustic baguette
     - Creamy ricotta cheese
+    - Chilly flakes
 
 **Instructions:**
 
-1. Place the courgettes in a bowl with olive oil, season with kosher salt and freshly ground pepper, toss until evenly coated.
+1. Place the courgettes in a bowl with olive oil, season with kosher salt and freshly ground pepper, add just a tiny amount of chilly flakes and toss until evenly coated.
 2. Add courgette slices to a griddle/grill pan, cook until golden and striped.
 3. Remove courgette slices from pan and toast halved bread of choice in the residual olive oil until golden and crispy. If there is not enough olive oil left, add just a touch of butter.
 4. Apply a coat of creamy ricotta, top with slices of courgette.
 5. Et voilà!
 
 ## Croque Monsieur
+
+Cheese on a toast, but make it advanced.
 
 !!! abstract inline "Bechamel Ingredients"
     - 1 Tbsp butter
@@ -54,14 +57,16 @@ Collection of snack recipes.
 
 ## Hot-Smoked Fish "Salad"
 
-!!! abstract inline "Hot-Smoked Fish Salad Ingredients"
+Every time you're hosting for a group there's bound to be someone like me says things like "I don't really like seafood..." Well, this recipe is perfect for converting people to the Dark Side of seafood because it doesn't really taste very *fishy*. Fortunately it's dead simple to make so it will be no problem if the seafood-haters guests come looking for seconds.
+
+!!! abstract inline "Ingredients"
     - 1 small hot-smoked fish (eg smoked sea bass)
     - 4 eggs
     - 1-2 (red) onions
     - Fresh dill and chives
     - Hellmann's (or other neutral) mayonnaise
 
-**Hot-Smoked Fish Salad Instructions:**
+**Instructions:**
 
 1. Boil the eggs for 10 minutes, then cool under running cold water, peel and break the eggs with a fork.
 2. Peel and finely chop the onion. Clean the smoked fish and cut it into smaller pieces.
@@ -69,3 +74,17 @@ Collection of snack recipes.
 4. If desired, season with salt and pepper.
 5. Slap the "salad" on some ciabatta or equivalent alternative and watch even the seafood haters devour it.
 6. Et voilà!
+
+## Undercover Tuna Dip
+
+Sneak this next to the chips in a small bowl and watch as people unsuspectingly try and start loving it. Works best without telling people that it has tuna inside to avoid suspicions and hesitation, because the concept doesn't *seem* super appetizing, but will surely be devoured if anyone gets a taste.
+
+!!! abstract inline "Ingredients"
+    - 1 can of tuna fillet in oil
+    - 2-3 tsp Hellmann's (or other neutral) mayonnaise
+    - Juice of half of a lemon
+
+**Instructions:**
+
+1. Combine everything and season with salt to taste.
+2. Et voilà!
