@@ -17,6 +17,7 @@ title: "Essays & Articles"
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
+- [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 
 ## Favourite authors
 
@@ -31,3 +32,4 @@ title: "Essays & Articles"
 - [ContraPoints](https://www.youtube.com/c/ContraPoints)
 - [jan Misali](https://www.youtube.com/c/HBMmaster)
 - [oliSUNvia](https://www.youtube.com/c/oliSUNvia)
+- [Solar Sands](https://www.youtube.com/c/SolarSands)
