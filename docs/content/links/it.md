@@ -30,6 +30,7 @@ title: "IT"
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Favourite authors
 
