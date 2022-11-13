@@ -164,6 +164,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Dead Space](https://www.imdb.com/title/tt1267296/)
 - [Grand Theft Auto: San Andreas](https://www.imdb.com/title/tt0383385/)
 - [Grand Theft Auto IV](https://www.imdb.com/title/tt0802999/)
+- [Inscryption](https://www.imdb.com/title/tt16273834/)
 
 ### Multiplayer
 
