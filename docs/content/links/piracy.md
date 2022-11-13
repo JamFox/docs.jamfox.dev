@@ -8,22 +8,22 @@ title: Piracy
 
 ## General
 
-- [rarbg.to](http://rarbg.to/)
 - [1337x](https://1337x.to/)
+- [rarbg.to](http://rarbg.to/)
 
 ## Games
 
+- [CDromance](https://cdromance.com/)
 - [cs.rin.ru](https://cs.rin.ru/)
 - [FitGirl Repacks](http://fitgirl-repacks.site/)
-- [CDromance](https://cdromance.com/)
 
 ## Books
 
+- [Audiobookbay](http://audiobookbay.nl/)
 - [libgen.fun](http://libgen.fun/)
 - [libgen.rs](https://libgen.rs/)
-- [Z-Library](https://z-lib.org/)
 - [Sci Hub](https://sci-hub.se/)
-- [Audiobookbay](http://audiobookbay.nl/)
+- [Z-Library](https://z-lib.org/)
 
 !!! info "Audiobookbay without an account"
     To get the torrent magnet, locate the `infohash` field of from your torrent info and paste into your torrent client using the following format: `magnet:?xt=urn:btih:infohash`. For example: if the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
