@@ -5,9 +5,12 @@ title: "Ansible"
 !!! info
     [Ansible Homepage](https://www.ansible.com/) |
     [Ansible Documentation](https://docs.ansible.com/) |
-    [jamlab-ansible](https://github.com/JamFox/jamlab-ansible)
+    [jamlab-ansible](https://github.com/JamFox/jamlab-ansible) |
+    [Jeff Geerling's Ansible Guide](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series)
 
 [Ansible](https://docs.ansible.com/ansible/latest/index.html) is a software tool that provides simple but powerful automation for cross-platform computer support. It is primarily intended for IT professionals, who use it for application deployment, updates on workstations and servers, cloud provisioning, configuration management, intra-service orchestration, and nearly anything a systems administrator does on a weekly or daily basis. Ansible doesn't depend on agent software and has no additional security infrastructure, so it's easy to deploy.
+
+For the best guide for deep diving into using Ansible check out [Jeff Geerling's Ansible Guide](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series).
 
 Ansible was the obvious choice for me as I had quite a lot of experience with it. For configuration management it made sense to go with something simple to ease bootstrapping and favoring mutability for fastest development. Running a whole platform like Puppet did not make sense because of bootstrapping and resource overhead. Ansible is simple to write, understand and manage if written well from the get-go.
 
@@ -21,7 +24,50 @@ I settled on the following requirements:
 
 The solution was [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash. Most of it is "inspired" by a similar system that we used at CERN.
 
-## Architecture
+## Ansible Best Practices
+
+### Idempotency
+
+The most important thing about using Ansible is that all tasks should be idempotent. It means that each time any task is run, the result of it should be the same regardless of any state on the machine it is run on. For example if you want to install some package on a host with ansible and use the ansible.builtin.shell module for it with some command. Maybe it will succeed the first time but give an error when the package is already installed.
+
+Instead of ansible.builtin.shell module we should use purpose built Ansible modules if they exist since they will make sure that the result is idempotent.
+However you can make shell tasks idempotent as well with some workarounds. For example consider the following very common trick of registering outputs from tasks:
+
+```yaml
+# First we check if a directory for CNI exists.
+- name: Check if cni exists
+ansible.builtin.stat:
+    path: /opt/cni/bin/bridge
+register: r_cni # Then we register the output of this task in a variable called "r_cni" (using r_ prefix is an old convention)
+
+# Check if newer CNI exists IF the directory in the last task did exist, check "when" key at the bottom of this task
+- name: Check if newer cni exists 
+ansible.builtin.shell: |
+    latest_tag=$(curl -s https://api.github.com/repos/containernetworking/plugins/releases/latest | jq -r ".tag_name")
+    current_ver=$(/opt/cni/bin/bridge 2>&1 | cut -d " " -f 4)
+    case "$current_ver" in ${latest_tag} ) echo "latest";; *) echo "outdated";; esac
+register: r_cni_ver # We register the output of our commands which in this case is either "lastest" or "outdated" we will use this for handling the cases in the next task
+when: r_cni.stat.exists # We only run this task if the output of the last task says that the directory did exist
+
+# Get the latest CNI if the output of the last task was not "latest", check "when" key at the bottom of this task
+- name: Get latest cni
+ansible.builtin.shell: |
+    latest_tag=$(curl -s https://api.github.com/repos/containernetworking/plugins/releases/latest | jq -r ".tag_name")
+    latest_url=https://github.com/containernetworking/plugins/releases/download/${latest_tag}/cni-plugins-linux-amd64-${latest_tag}.tgz
+    wget -P /tmp $latest_url
+    mkdir -p /opt/cni/bin
+    tar -C /opt/cni/bin -xzf /tmp/"${latest_url##*/}"
+    rm /tmp/"${latest_url##*/}"
+when: not r_cni.stat.exists or r_cni_ver.stdout != "latest" # We run this task if CNI directory does not exist or when the output of the last task was not "latest"
+```
+
+### Readability
+
+The second most important thing about using Ansible is always being explicit. For example when using modules, it is better to write "ansible.builtin.shell" instead of "shell". That is because external modules and community modules can also be used, but it should be obvious which module is used.
+
+Also it should be immediately obvious where variables come from and what is the variable override precedence. This why it is not native behavior in Ansible to combine dicts and lists from different "variables" or "defaults" files. Instead the variables will follow a precedence and overwrite the one before it. Usually this follows the pattern of (weakest to strongest precedence): global variables, group variables, host variables. So a list from global variables will be overwritten if a list with same name exists in host variables for example.
+
+## Jamlab Ansible Architecture
 
 And as per [Ansible's own best practices](https://www.ansible.com/blog/ansible-best-practices-essentials): complexity kills productivity. And I think that a typical ansible monorepo is a bit too complex and usually it is not immediately obvious what goes where.
 
@@ -133,11 +179,11 @@ For maximum simplicity of maintaining this script and management of the playbook
 
 Thus the logic of the script should be to run a maximum of 2 playbooks for a host: one host playbook and one host group playbook if any of them exist.
 
-## Detailed usage
+### Detailed usage
 
 Here's a few more chapters detailing more specific usage of this system and Ansible in general.
 
-### Secrets
+#### Secrets
 
 To use secret variables and files with sensitive content [Ansible Vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html) can be used. This requires the manual step of setting up a password file and setting it in `ansible.cfg` since you wouldn't want to push the password to a repository:
 
@@ -185,13 +231,13 @@ Decrypt encrypted files with:
 ansible-vault decrypt encrypt_me.txt
 ```
 
-### Global variables and special roles
+#### Global variables and special roles
 
 There can be two special roles at the beginning and at the end of the playbook. For example `pre` and `post`.
 
 They are used to replace the list of common roles to execute before and after specific ones. They can also be used to set "global" variables.
 
-### Variable precedence
+#### Variable precedence
 
 Variable precedence is as follows (from the weakest to the strongest):
 
@@ -200,7 +246,7 @@ Variable precedence is as follows (from the weakest to the strongest):
 3. host vars (`playbooks/ppp/host_vars/hhh.yml`)
 4. ansible argument (`ansible-playbook --extra-vars "my_var=my_value" ...`)
 
-### Combine group and host vars
+#### Combine group and host vars
 
 After the announcement of deprecating `hash_behaviour=merge` option in Ansible it is no longer possible to conveniently combine dictionaries with same names in role, group and host variables.
 
