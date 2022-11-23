@@ -79,6 +79,7 @@ A collection of lists of what I believe to be the best of the best from each med
 ## Series
 
 - [Adventure Time](https://www.imdb.com/title/tt1305826/)
+- [Andor](https://www.imdb.com/title/tt9253284/)
 - [Arcane](https://www.imdb.com/title/tt11126994/)
 - [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 - [Breaking Bad](https://www.imdb.com/title/tt0903747/)

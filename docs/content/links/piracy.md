@@ -21,6 +21,7 @@ title: Piracy
 
 ## Books
 
+- [Anna's Archive](https://annas-archive.org/)
 - [Audiobookbay](http://audiobookbay.nl/)
 
 !!! info "Audiobookbay without an account"
