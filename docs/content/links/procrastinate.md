@@ -16,6 +16,7 @@ title: "Procrastinate"
 ## Favourite authors
 
 - [2kliksphilip](https://www.youtube.com/c/2kliksphilip)
+- [Japanalysis](https://www.youtube.com/@Japanalysis)
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
 - [Colin Furze](https://www.youtube.com/c/colinfurze)
 - [Corridor Crew](https://www.youtube.com/c/corridorcrew)
