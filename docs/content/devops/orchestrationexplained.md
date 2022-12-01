@@ -121,3 +121,10 @@ To put it very short:
 - **Containers** separate service(s) from the host OS
 - **Orchestrators** separate service(s) from hosts themselves
 - **Microservice architecture** allows service's components to be more flexible in terms of managing and deployment
+
+## Practical Examples
+
+- [Enabling Microservices at Orbitz](https://youtu.be/gY7JSjWDFJc)
+- [RedHat: What is containerization?](https://www.redhat.com/en/topics/cloud-native-apps/what-is-containerization)
+- Typical orchestrated app's architecture: [InvenioRDM Infrastructure Architecture](https://inveniordm.docs.cern.ch/develop/architecture/infrastructure/)
+- Pros and cons of monoliths: [Scaling Monolithic Applications](https://medium.com/swlh/scaling-monolithic-applications-3c69193f942a)
