@@ -34,7 +34,7 @@ And then you can check out the commit you wish using: `git checkout <COMMIT HASH
 
 So let's say that your friend did delete some files from your project, now you can undo that reverting the commit where the files were deleted!
 
-## Traveing in time AND space with git
+## Traveling in time AND space with git
 
 Another powerful feature of git is the concept of **branches**. Creating a branch means creating another copy of your project inside the project itself with it's own change tracking. This is especially useful for just trying new changes out without breaking the code in the default branch.
 
