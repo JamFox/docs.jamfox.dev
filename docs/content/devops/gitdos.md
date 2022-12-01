@@ -36,11 +36,11 @@ Example 2:
 * b-crash\_on\_unsecure-ADM\_1337
 * i-acc\_py\_deployment-LUL\_0451
 
-For some groups, 100% consistent naming is not as important, but it is important to **use atleast some kind of convention**. 
+For some groups, 100% consistent naming is not as important, but it is important to **use atleast some kind of convention**.
 
 ## DO atomic commits
 
-Atomic commit is the smallest, most important improvement you can make in your source code. 
+Atomic commit is the smallest, most important improvement you can make in your source code.
 
 Atomic commit = one commit for one change.
 
@@ -101,7 +101,6 @@ Many projects have dependencies and routines that generate some kind of output, 
 Benefits of using .gitignore:
 
 * Keeps the repository organized  
-    
 * Keeps the repository size small
 
 ## DON'T commit secrets

@@ -26,14 +26,17 @@ nav:
   - DevOps:
       - content/devops/index.md
       - Version Control:
-          - Semantic Versioning: content/versioncontrol/semver.md
-          - Git DOs & DON'Ts: content/versioncontrol/gitdos.md
-          - Precommit: content/versioncontrol/precommit.md
+          - Semantic Versioning: content/devops/semver.md
+          - Git For Beginners: content/devops/gitbasics.md
+          - Git DOs & DON'Ts: content/devops/gitdos.md
+          - Precommit: content/devops/precommit.md
       - Provisioning:
-          - Packer CI/CD: content/provisioning/packerci.md
+          - Packer CI/CD: content/devops/packerci.md
+      - Orchestration:
+          - Orchestration Fundamentals Explained Simply: content/devops/orchestrationexplained.md
       - Secrets Management:
-          - Vault with AD: content/secrets/vaultad.md
-          - Vault with Kerberos: content/secrets/vaultkrb.md
+          - Vault with AD: content/devops/vaultad.md
+          - Vault with Kerberos: content/devops/vaultkrb.md
   - Food:
       - content/food/index.md
       - Basics: content/food/basics.md
