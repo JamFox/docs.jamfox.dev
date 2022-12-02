@@ -13,6 +13,7 @@ title: "Essays & Articles"
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U)
 - [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history)
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein)
+- [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE)
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)

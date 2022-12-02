@@ -22,7 +22,9 @@ title: "Interesting"
 ## Favourite authors
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [CGP Grey](https://www.youtube.com/@CGPGrey)
 - [CrashCourse](https://www.youtube.com/c/crashcourse)
 - [CS Ghost Animation](https://www.youtube.com/c/CSGhostAnimation)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 - [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)
+- [Vsauce](https://www.youtube.com/@Vsauce)
