@@ -30,8 +30,9 @@ nav:
           - Git For Beginners: content/devops/gitbasics.md
           - Git DOs & DON'Ts: content/devops/gitdos.md
           - Precommit: content/devops/precommit.md
-      - Provisioning:
+      - GitLab:
           - Packer CI/CD: content/devops/packerci.md
+          - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
       - Orchestration:
           - Orchestration Fundamentals Explained Simply: content/devops/orchestrationexplained.md
       - Secrets Management:
