@@ -4,6 +4,7 @@ title: "IT"
 
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [ASCII textfiles archive](http://textfiles.com/)
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
