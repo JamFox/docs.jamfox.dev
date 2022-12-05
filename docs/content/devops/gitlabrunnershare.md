@@ -8,7 +8,7 @@ For some Runners with specific functionality it is more cost effective to share 
 
 1. Create a new group for the Runner(s)
 
-    Since any management operation to CI/CD settings (like accessing and enabling Runners) requires Maintainer level access create a new group from where the Runners are shared from.
+    Since any management operation to CI/CD settings (like accessing and enabling Runners) requires Maintainer level access create a new empty group with no ciritical codebases or credentials from where the Runners are shared from. This way there is no need to give Maintainer access to existing groups or projects which might contain sensitive information or critical code.
 
 2. Create a new empty project inside the group created in the previous step
 
@@ -58,3 +58,5 @@ Even after locking down the permissions to be as strict as possible members with
 Last point is most notable: any member could decide to remove or add Runners to the group's projects. Other members still have to explicitly enable each Runner they wish to use, but verifying which Runner(s) are maintained and recommended by the group's owners/admins inconvenient, but possible by comparing Runner IDs (to be verified if the IDs can be spoofed).
 
 One alternative would be to reverse the access flow by using a service account as the only one which has access to the Runner(s) project and which people invite to their projects with Maintainer access so that the service account can enable the Runners for them. But this would mean that the service account will have the same amount of power on all projects it is invited to.
+
+Even then if a Runner has been enabled in a project by a service account, anyone who has Maintainer level access to that project where the Runner is enabled can change settings of the all enabled Runners on the project, essentially giving power to break the Runner(s) for everyone.
