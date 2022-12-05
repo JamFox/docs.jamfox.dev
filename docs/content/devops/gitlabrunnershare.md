@@ -8,7 +8,7 @@ For some Runners with specific functionality it is more cost effective to share 
 
 1. Create a new group for the Runner(s)
 
-    Since any management operation to CI/CD settings (like accessing and enabling Runners) requires Maintainer level access create a new group from where the Runners are shared from.
+    Since any management operation to CI/CD settings (like accessing and enabling Runners) requires Maintainer level access create a new empty group with no ciritical codebases or credentials from where the Runners are shared from. This way there is no need to give Maintainer access to existing groups or projects which might contain sensitive information or critical code.
 
 2. Create a new empty project inside the group created in the previous step
 
