@@ -10,6 +10,7 @@ title: "IT"
 - [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 - [DevSec Hardening Framework](https://dev-sec.io/)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
+- [dn42](https://dn42.eu/Home)
 - [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
 - [Fireship](https://www.youtube.com/c/Fireship)
