@@ -70,6 +70,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Star Wars](https://letterboxd.com/film/star-wars/)
 - [Tampopo](https://letterboxd.com/film/tampopo/)
 - [The French Dispatch](https://letterboxd.com/film/the-french-dispatch/)
+- [The Menu](https://letterboxd.com/film/the-menu-2022/)
 - [The Prestige](https://letterboxd.com/film/the-prestige/)
 - [The Revenant](https://letterboxd.com/film/the-revenant-2015/)
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
