@@ -2,7 +2,7 @@
 title: Best Of
 ---
 
-A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order.
+A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order. Items marked with an asterisk `*` are considered 10/10. 
 
 !!! info "My subjective rating system"
     **10: Perfect.** Almost nonexistent, even in my subjective view of perfection. The experience was so groundbreaking that I was able to disregard any negatives. Touched me so deep down that it changed me as a person in a noticeable way. Probably left me in the post-watch depression for as long as a month or so.
@@ -29,7 +29,7 @@ A collection of lists of what I believe to be the best of the best from each med
 
 [Letterboxd ratings](https://letterboxd.com/jamfox/films/by/member-rating/)
 
-- [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/)
+- [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/) 
 - [Amelie](https://letterboxd.com/film/amelie/)
 - [American Beauty](https://letterboxd.com/film/american-beauty/)
 - [Apocalypse Now](https://letterboxd.com/film/apocalypse-now/)
@@ -70,7 +70,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Star Wars](https://letterboxd.com/film/star-wars/)
 - [Tampopo](https://letterboxd.com/film/tampopo/)
 - [The French Dispatch](https://letterboxd.com/film/the-french-dispatch/)
-- [The Menu](https://letterboxd.com/film/the-menu-2022/)
+- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/) 
 - [The Prestige](https://letterboxd.com/film/the-prestige/)
 - [The Revenant](https://letterboxd.com/film/the-revenant-2015/)
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
@@ -84,7 +84,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Arcane](https://www.imdb.com/title/tt11126994/)
 - [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 - [Breaking Bad](https://www.imdb.com/title/tt0903747/)
-- [Mad Men](https://www.imdb.com/title/tt0804503/)
+- `*` [Mad Men](https://www.imdb.com/title/tt0804503/) 
 - [Planet Earth](https://www.imdb.com/title/tt5491994/)
 - [Sense8](https://www.imdb.com/title/tt2431438/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
@@ -109,7 +109,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Legend Of The Galactic Heroes](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)
 - [Made In Abyss](https://myanimelist.net/anime/34599/Made_in_Abyss)
 - [March Comes Like A Lion](https://myanimelist.net/anime/31646/3-gatsu_no_Lion)
-- [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
+- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) 
 - [Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
 - [Revolutionary Girl Utena](https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena)
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
@@ -119,7 +119,12 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Theatre
 
-- [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
+- `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
+
+## Books
+
+- `*` [God Emperor of Dune](https://www.goodreads.com/book/show/44439415-god-emperor-of-dune)
+- `*` [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
 
 ## Games
 
