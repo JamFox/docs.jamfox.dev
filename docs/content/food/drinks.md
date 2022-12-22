@@ -8,15 +8,17 @@ Collection of my favorite drinks.
 
 ### Red wine
 
-- [Paul Mas - Château Paul Mas Coteaux du Languedoc Clos des Mures - 2020](https://www.vivino.com/FR/en/paul-mas-chateau-paul-mas-coteaux-du-languedoc-clos-des-mures)
+- [Paul Mas - Château Paul Mas Coteaux du Languedoc Clos des Mures](https://www.vivino.com/paul-mas-chateau-paul-mas-coteaux-du-languedoc-clos-des-mures/w/1216807)
 - Morgon
 - Brouilly
-- Zinfandel
+- [The Wanted - Zinfandel Old Vines](https://www.vivino.com/the-wanted-zinfandel-old-vines/w/1567077)
+- [Zonin - Primitivo di Manduria](https://www.vivino.com/it-zonin-primitivo-di-manduria-primitivo-di-manduria-red-wine-v/w/11088417)
 
 ### White wine
 
+- [Bernard Gripa - Saint-Joseph](https://www.vivino.com/bernard-gripa-saint-joseph-blanc/w/1108993)
 - Chardonnay
-- Petit Chablis
+- Chablis/Petit Chablis 
 
 ## Liquer
 
