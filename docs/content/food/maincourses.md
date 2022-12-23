@@ -66,43 +66,31 @@ Collection of main courses.
 
 ## Kert Burger
 
-!!! abstract "Kert Salad Ingredients"
+!!! abstract inline "Kert Burger Ingredients"
     - 1/8 mild kale
     - 1 tbsp mayonese
     - 1 tsp Tabasco classic
     - 1/4 yellow onion
-
-**Kert Salad Instructions:**
-
-1. Dice onion and kale into small pieces, mix with tabasco and mayo.
-
-!!! abstract "Kert Sauce Ingredients"
     - 1 tsp BBQ sauce
     - 1 tsp mayonese
     - 1 tsp ketchup
-
-**Kert Sauce Instructions:**
-
-1. Mix BBQ sauce, mayo and ketchup.
-
-!!! abstract inline "Kert Burger Ingredients"
-    - Kert Salad
-    - Kert Sauce
     - 1 strip of bacon
     - 100g minced beef
     - handful of Cheddar
     - 2 brioche buns
     - 1 slice of tomato or pickles 
 
-**Kert Burger Instructions:**
+**Instructions:**
 
-1. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides. 
-2. Heat a pan, add butter and brown the buns from both sides, set aside.
-3. Next season the bacon with salt, pepper and smoked paprika and cook until fat is rendered, then remove onto paper towels to absorb the fat and keep the bacon crispy.
-4. Add the patty with salt and pepper and cook 4-5 minutes from both sides, add some butter when flipping sides.
-5. On a smaller non stick pan, add cheddar.
-6. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side. 
-7. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
+1. Dice onion and kale into small pieces, mix with tabasco and mayo.
+2. Mix BBQ sauce, mayo and ketchup.
+3. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides. 
+4. Heat a pan, add butter and brown the buns from both sides, set aside.
+5. Next season the bacon with salt, pepper and smoked paprika and cook until fat is rendered, then remove onto paper towels to absorb the fat and keep the bacon crispy.
+6. Add the patty with salt and pepper and cook 4-5 minutes from both sides, add some butter when flipping sides.
+7. On a smaller non stick pan, add cheddar.
+8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side. 
+9. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
 
 ## Tartiflette 
 
