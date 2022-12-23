@@ -25,10 +25,10 @@ Collection of main courses.
     - 2 yellow onions
     - 2 red paprika peppers
     - 2 drained pineapple pieces
-    - 200g blue cheese (not too neutral)
+    - 200g Royal Blue blue cheese (or other not too neutral)
     - 400g whipping cream
     - 2 eggs
-    - 400g grated neutral cheddar
+    - 400g grated very neutral cheddar
 
 **Filling Instructions:**
 
