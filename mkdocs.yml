@@ -40,9 +40,10 @@ nav:
           - Vault with Kerberos: content/devops/vaultkrb.md
   - Food:
       - content/food/index.md
-      - Basics: content/food/basics.md
-      - Snacks: content/food/snacks.md
       - Drinks: content/food/drinks.md
+      - Basics: content/food/basics.md
+      - Main Courses: content/food/maincourses.md
+      - Snacks: content/food/snacks.md
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
