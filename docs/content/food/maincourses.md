@@ -40,7 +40,7 @@ Collection of main courses.
 
 ## Bolognese
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 1 tbsp unsalted butter
     - 50g ham
     - 2 yellow onions
@@ -66,7 +66,7 @@ Collection of main courses.
 
 ## Kert Burger
 
-!!! abstract inline "Kert Salad Ingredients"
+!!! abstract "Kert Salad Ingredients"
     - 1/8 mild kale
     - 1 tbsp mayonese
     - 1 tsp Tabasco classic
@@ -76,7 +76,7 @@ Collection of main courses.
 
 1. Dice onion and kale into small pieces, mix with tabasco and mayo.
 
-!!! abstract inline "Kert Sauce Ingredients"
+!!! abstract "Kert Sauce Ingredients"
     - 1 tsp BBQ sauce
     - 1 tsp mayonese
     - 1 tsp ketchup
