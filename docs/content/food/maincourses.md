@@ -40,7 +40,7 @@ Collection of main courses.
 
 ## Bolognese
 
-!!! abstract "Ingredients"
+!!! abstract inline "Ingredients"
     - 1 tbsp unsalted butter
     - 50g ham
     - 2 yellow onions
