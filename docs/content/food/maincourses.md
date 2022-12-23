@@ -60,9 +60,13 @@ Collection of main courses.
 1. Melt butter on a large pan.
 2. Sautee diced ham, carrot and onions for 10 minutes.
 3. Add minced beef, crushed clove of garlic and cook for 10 minutes.
-4. Add wine, chicken stock and steam while covered on low heat for 15 minutes.
-5. Add tomato paste and season, cover for another 20 minutes.
-6. Cook some spaghetti, add some bolognese and grate some parmesan on top.
+4. Add wine, chicken stock.
+5. Steam while covered on low heat for 15 minutes.
+6. Add tomato paste and season
+7. Cover for another 20 minutes.
+8. Cook some spaghetti. 
+9. Add some bolognese to spaghetti. 
+10. (optional) Grate some parmesan on top.
 
 ## Kert Burger
 
