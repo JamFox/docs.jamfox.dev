@@ -4,6 +4,7 @@ title: "Essays & Articles"
 
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A)
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
+- [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
@@ -21,11 +22,13 @@ title: "Essays & Articles"
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
+- [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 
 ## Favourite authors
 
 - [BDobbinsFTW](https://www.youtube.com/user/BDobbinsFTW)
 - [ContraPoints](https://www.youtube.com/c/ContraPoints)
+- Enn Kasak
 - [Explanation Point](https://www.youtube.com/c/ExplanationPointAnime)
 - [Folding Ideas](https://www.youtube.com/c/FoldingIdeas)
 - [Jacob Geller](https://www.youtube.com/c/JacobGeller)
@@ -34,5 +37,6 @@ title: "Essays & Articles"
 - [People Make Games](https://www.youtube.com/c/PeopleMakeGames)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
+- [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Whitelight](https://www.youtube.com/c/Whitelight)
