@@ -24,6 +24,10 @@ Collection of my favorite drinks.
 
 - Jack Daniel's Tennessee Honey
 
+## Rum
+
+- Bumbu The Original
+
 ## Cocktails
 
 ### "Sit in front of a fireplace with a book" cocktails
