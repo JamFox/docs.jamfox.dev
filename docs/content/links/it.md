@@ -37,6 +37,7 @@ title: "IT"
 
 ## Favourite authors
 
+- [Andreas Kling](https://www.youtube.com/@awesomekling)
 - [Ben Eater](https://www.youtube.com/c/BenEater)
 - [Digital Foundry](https://www.youtube.com/user/DigitalFoundry)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
