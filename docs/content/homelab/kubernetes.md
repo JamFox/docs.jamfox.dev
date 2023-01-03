@@ -5,7 +5,8 @@ title: "Kubernetes"
 !!! info
     [Kubernetes Docs](https://kubernetes.io/docs/home/) |
     [Cloud Native Landscape](https://landscape.cncf.io/) |
-    [Kubernetes Secrets threat model](https://www.macchaffee.com/blog/2022/k8s-secrets/)
+    [Kubernetes Secrets threat model](https://www.macchaffee.com/blog/2022/k8s-secrets/) |
+    [Managing Kubernetes without losing your cool](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/)
 
 I often see a lot of skepticism and even hate towards Kubernetes. However the main problem with Kubernetes is not itself, but the hype around it. It's simply used and adopted in places without sufficient research/knowledge about what it does, what problems it solves and how to leverage and maintain it:
 
