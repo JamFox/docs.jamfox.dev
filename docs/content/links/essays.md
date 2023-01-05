@@ -11,8 +11,10 @@ title: "Essays & Articles"
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
+- [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U)
 - [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history)
+- [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg)
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein)
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE)
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
@@ -22,21 +24,21 @@ title: "Essays & Articles"
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
-- [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 
 ## Favourite authors
 
 - [BDobbinsFTW](https://www.youtube.com/user/BDobbinsFTW)
 - [ContraPoints](https://www.youtube.com/c/ContraPoints)
-- Enn Kasak
 - [Explanation Point](https://www.youtube.com/c/ExplanationPointAnime)
 - [Folding Ideas](https://www.youtube.com/c/FoldingIdeas)
 - [Jacob Geller](https://www.youtube.com/c/JacobGeller)
 - [jan Misali](https://www.youtube.com/c/HBMmaster)
+- [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 - [oliSUNvia](https://www.youtube.com/c/oliSUNvia)
 - [People Make Games](https://www.youtube.com/c/PeopleMakeGames)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
-- [Solar Sands](https://www.youtube.com/c/SolarSands)
 - [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
+- [Solar Sands](https://www.youtube.com/c/SolarSands)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Whitelight](https://www.youtube.com/c/Whitelight)
+- Enn Kasak
