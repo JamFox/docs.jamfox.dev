@@ -11,9 +11,9 @@ A collection of lists of what I believe to be the best of the best from each med
 
     **8: Great.** Not so great as to touch the soul, so to speak, but wonderful enough that I was completely satisfied with the experience.
 
-    **7: Good.** A solid movie. The issues are definitely present although not glaring and easily overlooked because the overall experience was good.
+    **7: Good.** A solid experience. The issues are definitely present although not glaring and easily overlooked because the overall experience was good.
 
-    **6: Above average.** Usually popcorn flicks fit this score well unless they go above and beyond. I got something out of it, however small that something may have been. Probably not going to watch it again.
+    **6: Above average.** Usually popcorn flicks fit this score well unless they go above and beyond. I got something out of it, however small that something may have been.
 
     **5: Average.** Nothing gained and nothing lost.
 
@@ -43,6 +43,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Eternal Sunshine of the Spotless Mind](https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/)
 - [Everybody Wants Some](https://letterboxd.com/film/everybody-wants-some/)
 - [Fight Club](https://letterboxd.com/film/fight-club/)
+- [Force Majeure](https://letterboxd.com/film/force-majeure-2014/)
 - [Fred Jüssi. The Beauty of Being](https://letterboxd.com/film/fred-jussi-the-beauty-of-being/)
 - [Gone Girl](https://letterboxd.com/film/gone-girl/)
 - [Grand Budapest Hotel](https://letterboxd.com/film/the-grand-budapest-hotel/)
@@ -70,12 +71,12 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Star Wars](https://letterboxd.com/film/star-wars/)
 - [Tampopo](https://letterboxd.com/film/tampopo/)
 - [The French Dispatch](https://letterboxd.com/film/the-french-dispatch/)
-- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/) 
 - [The Prestige](https://letterboxd.com/film/the-prestige/)
 - [The Revenant](https://letterboxd.com/film/the-revenant-2015/)
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [Trainspotting](https://letterboxd.com/film/trainspotting/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
+- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/) 
 
 ## Series
 
@@ -84,11 +85,11 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Arcane](https://www.imdb.com/title/tt11126994/)
 - [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 - [Breaking Bad](https://www.imdb.com/title/tt0903747/)
-- `*` [Mad Men](https://www.imdb.com/title/tt0804503/) 
 - [Planet Earth](https://www.imdb.com/title/tt5491994/)
 - [Sense8](https://www.imdb.com/title/tt2431438/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
 - [Twin Peaks](https://www.imdb.com/title/tt0098936/)
+- `*` [Mad Men](https://www.imdb.com/title/tt0804503/) 
 
 ## Anime
 
@@ -109,13 +110,13 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Legend Of The Galactic Heroes](https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou)
 - [Made In Abyss](https://myanimelist.net/anime/34599/Made_in_Abyss)
 - [March Comes Like A Lion](https://myanimelist.net/anime/31646/3-gatsu_no_Lion)
-- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) 
 - [Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
 - [Revolutionary Girl Utena](https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena)
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
 - [Sonny Boy](https://myanimelist.net/anime/48849/Sonny_Boy)
 - [Your Lie In April](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 - [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
+- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) 
 
 ## Theatre
 
