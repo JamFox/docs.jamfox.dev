@@ -18,7 +18,9 @@ Collection of my favorite drinks.
 
 - [Bernard Gripa - Saint-Joseph](https://www.vivino.com/bernard-gripa-saint-joseph-blanc/w/1108993)
 - Chardonnay
-- Chablis/Petit Chablis 
+- Sauvignon blanc
+- Chablis
+- [Pinot Grigio - Terre Collina](https://www.vivino.com/terre-collina-pinot-grigio/w/10694948)
 
 ## Liquer
 
