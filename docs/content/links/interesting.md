@@ -26,6 +26,7 @@ title: "Interesting"
 - [CGP Grey](https://www.youtube.com/@CGPGrey)
 - [CrashCourse](https://www.youtube.com/c/crashcourse)
 - [CS Ghost Animation](https://www.youtube.com/c/CSGhostAnimation)
+- [LegalEagle](https://www.youtube.com/@LegalEagle)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 - [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)
 - [Vsauce](https://www.youtube.com/@Vsauce)
