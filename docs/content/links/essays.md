@@ -2,6 +2,7 @@
 title: "Essays & Articles"
 ---
 
+- ![Money creation in the modern economy](attachments/money-creation-in-the-modern-economy.pdf)
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A)
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
@@ -11,7 +12,6 @@ title: "Essays & Articles"
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
-- [Money creation in the modern economy](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf)
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0)
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U)
