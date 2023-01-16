@@ -28,6 +28,7 @@ title: "Essays & Articles"
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
 - [What is Money](https://www.onedb.online/blog/what_is_money)
+- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) and [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/)
 
 ## Favourite authors
 
