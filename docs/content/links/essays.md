@@ -9,6 +9,7 @@ title: "Essays & Articles"
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
+- [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
@@ -17,6 +18,7 @@ title: "Essays & Articles"
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U)
 - [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history)
 - [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg)
+- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) and [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/)
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein)
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE)
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
@@ -24,11 +26,10 @@ title: "Essays & Articles"
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y)
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
+- [What is Money](https://www.onedb.online/blog/what_is_money)
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
-- [What is Money](https://www.onedb.online/blog/what_is_money)
-- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) and [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/)
 
 ## Favourite authors
 
