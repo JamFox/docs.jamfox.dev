@@ -13,12 +13,13 @@ title: "Interesting"
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
 - [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc)
 - [The Library Of Babel](https://libraryofbabel.info/)
+- [The Pretty Good House](https://www.prettygoodhouse.org/)
 - [Tildes](https://tildes.net/)
+- [Vlaspatta Karamazov music playlists](https://www.youtube.com/@vlaspattakaramazov/videos)
 - [VRChat](https://vrchat.com/)
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
-- [Vlaspatta Karamazov music playlists](https://www.youtube.com/@vlaspattakaramazov/videos)
 
 ## Favourite authors
 
