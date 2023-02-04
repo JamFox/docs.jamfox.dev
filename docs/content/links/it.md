@@ -30,6 +30,7 @@ title: "IT"
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
+- [Sad Servers](https://sadservers.com)
 - [The 512KB Club](https://512kb.club/)
 - [The container orchestrator landscape](https://lwn.net/Articles/905164/)
 - [The documentation system](https://documentation.divio.com/)
