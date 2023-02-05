@@ -36,6 +36,8 @@ title: "IT"
 - [The documentation system](https://documentation.divio.com/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
+- [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
+- [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
 
 ## Favourite authors

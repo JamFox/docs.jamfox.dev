@@ -2,6 +2,7 @@
 title: "Interesting"
 ---
 
+- [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z)
 - [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [Cameron's World](https://www.cameronsworld.net/)
@@ -9,6 +10,7 @@ title: "Interesting"
 - [Fauux Neocity](https://fauux.neocities.org/)
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA)
+- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about)
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
 - [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc)
