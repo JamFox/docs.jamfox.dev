@@ -12,6 +12,7 @@ title: "Essays & Articles"
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
+- [Liquid modernity? ](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0)
