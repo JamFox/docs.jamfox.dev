@@ -4,6 +4,7 @@ title: "IT"
 
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 - [ASCII textfiles archive](http://textfiles.com/)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
