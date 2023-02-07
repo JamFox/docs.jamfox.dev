@@ -36,11 +36,13 @@ title: "IT"
 - [The 512KB Club](https://512kb.club/)
 - [The container orchestrator landscape](https://lwn.net/Articles/905164/)
 - [The documentation system](https://documentation.divio.com/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
 - [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
 ## Favourite authors
 
