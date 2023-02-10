@@ -10,7 +10,6 @@ nav:
           - Proxmox VE: content/homelab/proxmox.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
-      - Secrets Management:
           - Ansible Vault: content/homelab/ansiblevault.md
           - Mozilla SOPS: content/homelab/sops.md
       - Provisioning:
@@ -30,6 +29,8 @@ nav:
           - Git For Beginners: content/devops/gitbasics.md
           - Git DOs & DON'Ts: content/devops/gitdos.md
           - Precommit: content/devops/precommit.md
+      - Configuration Management: 
+          - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
       - GitLab:
           - Packer CI/CD: content/devops/packerci.md
           - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
