@@ -195,6 +195,12 @@ reactor:                            # Master config section "reactor"
     - /srv/reactor/monitor.sls      # Other things to do
 ```
 
+### Reusability of tasks
+
+In Ansible it is possible to separate roles into separate repositories and include them in playbooks by linking the repositories. It is also possible to separate multiple components (like multiple roles) into Ansible collections and then to include them in playbooks. With collections it is possible to specify which roles and components to include.
+
+With Saltstack it is possible to separate formulas and include them in the master configuration from the repository. It is possible to specify which formulas and paths to include and where to place them.
+
 ## Conclusion
 
 First, configuration management often turns into smart variable handling as your actual configurations get more generic over time. Thus handling variables becomes really important. Saltstack is more more explicit ways in which it handles variables: they're defined in a pillar. Contrast this with the variable precedence for Ansible (there's a hierarchy of 22 different variable locations). Usually with Ansible an admin will usually only have to think about 4 different variable locations (command line, hostgroup, host and role variables), but the requirement to always needing to consider and build playbooks around variable precedence makes for less readable and harder to maintain repos.
