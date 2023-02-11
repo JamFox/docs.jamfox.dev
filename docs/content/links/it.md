@@ -27,6 +27,7 @@ title: "IT"
 - [internet quote collection](http://bash.org/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Linux and FOSS News](https://lwn.net/)
+- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
@@ -38,11 +39,11 @@ title: "IT"
 - [The documentation system](https://documentation.divio.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
 - [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
 ## Favourite authors
 
