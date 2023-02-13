@@ -23,6 +23,7 @@ title: "Essays & Articles"
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) and [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/)
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein)
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE)
+- [The Incredible Rise of North Korea’s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 - [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
