@@ -4,6 +4,7 @@ title: "Essays & Articles"
 
 - ![Money creation in the modern economy](attachments/money-creation-in-the-modern-economy.pdf)
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A)
+- [Andrew Tate: How to be a Real Man](https://www.youtube.com/watch?v=y6_TOFy3k6k)
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
@@ -45,6 +46,7 @@ title: "Essays & Articles"
 - [oliSUNvia](https://www.youtube.com/c/oliSUNvia)
 - [People Make Games](https://www.youtube.com/c/PeopleMakeGames)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
+- [Shaun](https://www.youtube.com/@Shaun_vids)
 - [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
 - [Wait But Why](https://waitbutwhy.com/)
