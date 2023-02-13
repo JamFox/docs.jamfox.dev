@@ -8,6 +8,7 @@ title: "Essays & Articles"
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
+- [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw))
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
