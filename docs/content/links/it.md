@@ -53,3 +53,16 @@ title: "IT"
 - [Digital Foundry](https://www.youtube.com/user/DigitalFoundry)
 - [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+
+## 10 commandments of IT
+
+1. You are replaceable at work, but you are not replaceable at home
+2. Users lie
+3. Fridays are read-only
+4. Under-promise, over-deliver
+5. Test your backups
+6. Poor planning on a user's part does not constitute an emergency on ours
+7. Cover your ass; if you think it's going to be a disaster, get it in writing
+8. It's always DNS
+9. Are you certain it is plugged in?
+10. Reboot; if it still doesn't work, reboot again.
