@@ -44,6 +44,7 @@ title: "IT"
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
 - [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Favourite authors
 
