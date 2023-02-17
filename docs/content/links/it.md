@@ -8,6 +8,7 @@ title: "IT"
 - [ASCII textfiles archive](http://textfiles.com/)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 - [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [colah's blog about ML, DL, NN](http://colah.github.io/)
 - [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ)
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
@@ -30,6 +31,7 @@ title: "IT"
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
+- [Neural Networks and Deep Learning](neuralnetworksanddeeplearning.com)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
 - [Sad Servers](https://sadservers.com)
@@ -42,9 +44,9 @@ title: "IT"
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
-- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Favourite authors
 
