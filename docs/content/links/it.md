@@ -31,7 +31,7 @@ title: "IT"
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
-- [Neural Networks and Deep Learning](neuralnetworksanddeeplearning.com)
+- [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
 - [Sad Servers](https://sadservers.com)
