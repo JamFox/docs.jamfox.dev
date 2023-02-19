@@ -17,6 +17,8 @@ title: "IT"
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
+- [Explained from First Principles](https://explained-from-first-principles.com/)
+- [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
 - [Fireship](https://www.youtube.com/c/Fireship)
 - [Fuck Off As A Service](https://foaas.herokuapp.com/)
 - [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y)
@@ -35,6 +37,7 @@ title: "IT"
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
 - [Sad Servers](https://sadservers.com)
+- [software that sucks less](https://suckless.org/philosophy/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The 512KB Club](https://512kb.club/)
 - [The container orchestrator landscape](https://lwn.net/Articles/905164/)
@@ -47,7 +50,6 @@ title: "IT"
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
-- [software that sucks less](https://suckless.org/philosophy/)
 
 ## Favourite authors
 
