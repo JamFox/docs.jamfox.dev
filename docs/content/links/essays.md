@@ -5,6 +5,7 @@ title: "Essays & Articles"
 - ![Money creation in the modern economy](attachments/money-creation-in-the-modern-economy.pdf)
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A)
 - [Andrew Tate: How to be a Real Man](https://www.youtube.com/watch?v=y6_TOFy3k6k)
+- [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people)
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
