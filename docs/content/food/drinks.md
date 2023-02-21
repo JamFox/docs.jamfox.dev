@@ -22,6 +22,7 @@ Collection of my favorite drinks.
 - Sauvignon blanc
 - Chablis
 - [Pinot Grigio - Terre Collina](https://www.vivino.com/terre-collina-pinot-grigio/w/10694948)
+- [Pinot Grigio - Masi Masianco](https://www.vivino.com/it-masi-masianco/w/21950)
 
 ## Liquer
 
