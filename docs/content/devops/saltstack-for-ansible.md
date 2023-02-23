@@ -203,6 +203,8 @@ With Saltstack it is possible to separate formulas and include them in the maste
 
 ## Conclusion
 
+### Points against Ansible and for Salt
+
 First, configuration management often turns into smart variable handling as your actual configurations get more generic over time. Thus handling variables becomes really important. Saltstack is more more explicit ways in which it handles variables: they're defined in a pillar. Contrast this with the variable precedence for Ansible (there's a hierarchy of 22 different variable locations). Usually with Ansible an admin will usually only have to think about 4 different variable locations (command line, hostgroup, host and role variables), but the requirement to always needing to consider and build playbooks around variable precedence makes for less readable and harder to maintain repos.
 
 Secondly, Saltstack uses master-agent architecture over Ansible's much much easier to get started with agentless approach. However, as a result, it tends not to scale as well as Saltstack because you have to open an SSH connection to every machine you want to manage. Saltstack, by contrast, uses ZeroMQ to communicate with minions: minions listen for instructions on one ZeroMQ port on the master (4505) and post back results on another (4506). It's blazing fast and it scales really well. Works even when SSH goes down or the machines don't expose ssh (e.g. locked down machines that do not need SSH).
@@ -211,6 +213,14 @@ Worth noting that in terms of actually writing tasks for minions, they are very 
 Thirdly, master-agent architecture of Salt enables true event driven management with reactors which is especially good for dynamic host inventories (with hosts that often power on and off like gray nodes). So we could much easily define scenarios for minion wakeups.
 
 For notifications, Ansible has easier integration for sending emails however if we split the runs (by hostgroup) then that means an email for each hostgroup. Aggregating errors will become a problem that needs a custom script. For Salt aggregating results and more granular control over notifications needs more work, but is a lot more flexible and does not need custom scripts.
+
+### Points for Ansible and against Salt
+
+The support for Ansible is a lot better, there are more people using it in both enterprise and open source. Community is also a lot bigger. Having such a big user base behind them gives Ansible much stable and reliable updates compared to Salt where looking at the best practices even from 3 years ago differ from the ones recommended today.
+
+Even if on paper SaltStack seems a lot better in many aspects on paper, in reality there are quite a few worrying problems. Like the git filesystem. It is possible to use [`gitfs`](https://docs.saltproject.io/en/latest/topics/tutorials/gitfs.html) alongside the default `rootfs` to automatically fetch Salt formulas, pillars etc from remote git repos, however `gitfs` is unfortunately [buggy](https://github.com/saltstack/salt/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+gitfs) and full of python version mismatch errors among other things (Check the warnings in the [`gitfs` documentation](https://docs.saltproject.io/en/latest/topics/tutorials/gitfs.html)). Basic things like version controlling config management should be reliable and it begs the question of what else might be buggy in Salt.
+
+Even variable handling gets messy when moving away from pillar only setups where you have to merge pillars with defaults and use map files in formulas which one might have to do [to keep SaltStack performant when managing a large number of minions](https://saidvandeklundert.net/2019-11-18-saltstack-pillar-data-and-map-files/). Here's where the Ansible variable precedence actually comes in handy, because you can just define variables in the playbook and not have to worry about merging them.
 
 ## Further resources for Saltstack
 
