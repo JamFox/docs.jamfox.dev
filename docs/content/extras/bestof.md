@@ -86,6 +86,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Arcane](https://www.imdb.com/title/tt11126994/)
 - [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 - [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+- [Maniac](https://letterboxd.com/film/maniac-2018/)
 - [Planet Earth](https://www.imdb.com/title/tt5491994/)
 - [Sense8](https://www.imdb.com/title/tt2431438/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
