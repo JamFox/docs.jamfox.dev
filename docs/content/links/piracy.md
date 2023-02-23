@@ -18,6 +18,7 @@ title: Piracy
 - [CDromance](https://cdromance.com/)
 - [cs.rin.ru](https://cs.rin.ru/)
 - [FitGirl Repacks](http://fitgirl-repacks.site/)
+- [The Complete Abandonware Need For Speed Download List](https://old.reddit.com/r/abandonware/comments/zr41zu/the_complete_abandonware_need_for_speed_download)
 
 ## Books
 
