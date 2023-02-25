@@ -38,6 +38,7 @@ title: "IT"
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
+- [Rule 53](https://github.com/pgl/rule53)
 - [Sad Servers](https://sadservers.com)
 - [software that sucks less](https://suckless.org/philosophy/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
