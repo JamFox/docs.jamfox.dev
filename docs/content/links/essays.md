@@ -14,6 +14,7 @@ title: "Essays & Articles"
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
+- [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Liquid modernity? ](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
