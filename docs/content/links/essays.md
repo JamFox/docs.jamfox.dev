@@ -33,6 +33,7 @@ title: "Essays & Articles"
 - [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y)
+- [Tiktok's enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
 - [What is Money](https://www.onedb.online/blog/what_is_money)
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
