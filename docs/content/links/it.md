@@ -2,57 +2,91 @@
 title: "IT"
 ---
 
+
+## Links
+
+### Development
+
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
+- [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [software that sucks less](https://suckless.org/philosophy/)
+- [The documentation system](https://documentation.divio.com/)
+
+### DevOps
+
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
-- [ASCII textfiles archive](http://textfiles.com/)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
-- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-- [colah's blog about ML, DL, NN](http://colah.github.io/)
+- [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
+- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+- [Sad Servers](https://sadservers.com)
+- [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
+
+### Networking
+
 - [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ)
+- [dn42](https://dn42.eu/Home)
+- [How DNS Works](https://howdns.works/)
+- [Rule 53](https://github.com/pgl/rule53)
+- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+
+### Orchestration
+
+- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [The container orchestrator landscape](https://lwn.net/Articles/905164/)
+
+### Machine Learning
+
+- [colah's blog about ML, DL, NN](http://colah.github.io/)
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
+### Security
+
 - [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 - [DevSec Hardening Framework](https://dev-sec.io/)
-- [dn42](https://dn42.eu/Home)
-- [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
-- [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
-- [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
-- [Explained from First Principles](https://explained-from-first-principles.com/)
-- [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
-- [Fireship](https://www.youtube.com/c/Fireship)
-- [Fuck Off As A Service](https://foaas.herokuapp.com/)
+- [Meltdown and Spectre](https://meltdownattack.com/)
+- [WebAuthn](https://webauthn.guide/#about-webauthn)
+
+### Gamedev
+
 - [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y)
-- [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
-- [Hacker News](https://news.ycombinator.com)
+
+### Webdev
+
+- [The 512KB Club](https://512kb.club/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+
+
+### Hardware
+
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
-- [How DNS Works](https://howdns.works/)
+
+### Uncategorized
+
+- [ASCII textfiles archive](http://textfiles.com/)
+- [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
+- [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
+- [Explained from First Principles](https://explained-from-first-principles.com/)
+- [Fireship](https://www.youtube.com/c/Fireship)
+- [Fuck Off As A Service](https://foaas.herokuapp.com/)
+- [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
+- [Hacker News](https://news.ycombinator.com)
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
-- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Linux and FOSS News](https://lwn.net/)
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
-- [Meltdown and Spectre](https://meltdownattack.com/)
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
-- [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
-- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [RTINGS](https://www.rtings.com/)
-- [Rule 53](https://github.com/pgl/rule53)
-- [Sad Servers](https://sadservers.com)
-- [software that sucks less](https://suckless.org/philosophy/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [The 512KB Club](https://512kb.club/)
-- [The container orchestrator landscape](https://lwn.net/Articles/905164/)
-- [The documentation system](https://documentation.divio.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
-- [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
-- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-- [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
-- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
 
 ## Favourite authors
 
