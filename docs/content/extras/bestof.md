@@ -128,15 +128,16 @@ A collection of lists of what I believe to be the best of the best from each med
 
 [GoodReads](https://www.goodreads.com/user/show/78068566-jamfox)
 
-- [Mort](https://www.goodreads.com/book/show/386372.Mort)
-- [Milk and Honey](https://www.goodreads.com/book/show/23513349-milk-and-honey)
-- [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
-- [The Passion](https://www.goodreads.com/book/show/15047.The_Passion)
+- [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [Breakfast of Champions](https://www.goodreads.com/book/show/4980.Breakfast_of_Champions)
 - [Kafka on the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
-- [Mees, kes teadis ussisõnu](https://www.goodreads.com/book/show/6347824-mees-kes-teadis-ussis-nu)
-- [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+- [Mees, kes teadis ussisõnu](https://www.goodreads.com/book/show/6347824-mees-kes-teadis-ussis-nu)
+- [Milk and Honey](https://www.goodreads.com/book/show/23513349-milk-and-honey)
+- [Mort](https://www.goodreads.com/book/show/386372.Mort)
+- [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
+- [The Passion](https://www.goodreads.com/book/show/15047.The_Passion)
+- [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 - `*` [God Emperor of Dune](https://www.goodreads.com/book/show/44439415-god-emperor-of-dune)
 - `*` [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
 
