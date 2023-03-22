@@ -77,4 +77,5 @@ title: "Essays & Articles"
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Whitelight](https://www.youtube.com/c/Whitelight)
+- [Errant Signal](https://www.youtube.com/@ErrantSignal/)
 - Enn Kasak
