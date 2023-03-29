@@ -32,6 +32,7 @@ title: "Essays & Articles"
 - [Normalization of deviance](https://danluu.com/wat/)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) and [HN discussion](https://news.ycombinator.com/item?id=35355703)
+
 ### Economics
 
 - ![Money creation in the modern economy](attachments/money-creation-in-the-modern-economy.pdf)
@@ -59,6 +60,7 @@ title: "Essays & Articles"
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
 - [Tiktok's enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
+- [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
