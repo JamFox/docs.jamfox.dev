@@ -18,14 +18,15 @@ title: "Procrastinate"
 ## Favourite authors
 
 - [2kliksphilip](https://www.youtube.com/c/2kliksphilip)
-- [Japanalysis](https://www.youtube.com/@Japanalysis)
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
+- [Casually Explained](https://www.youtube.com/@CasuallyExplained)
 - [Colin Furze](https://www.youtube.com/c/colinfurze)
 - [Corridor Crew](https://www.youtube.com/c/corridorcrew)
 - [FUNKe](https://www.youtube.com/c/FUNKe)
 - [How To Drink](https://www.youtube.com/c/howtodrink)
 - [I did a thing](https://youtu.be/Lti_zl3MnT4)
 - [Internet Historian](https://www.youtube.com/c/InternetHistorian)
+- [Japanalysis](https://www.youtube.com/@Japanalysis)
 - [kliksphilip](https://www.youtube.com/c/kliksphilip)
 - [Morphologis](https://www.youtube.com/c/Morphologis)
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
