@@ -29,6 +29,7 @@ title: "IT"
 - [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ)
 - [dn42](https://dn42.eu/Home)
 - [How DNS Works](https://howdns.works/)
+- [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/)
 - [Rule 53](https://github.com/pgl/rule53)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
 
