@@ -13,6 +13,7 @@ title: "Procrastinate"
 - [rat spin 10 hours](https://youtu.be/euik1Zrs30w)
 - [The Fall of Minecraft's 2b2t (NOCOM exploit)](https://youtu.be/elqAh3GWRpA)
 - [The Secret Behind 2b2t’s LARGEST Base](https://youtu.be/TMBHP9FDqHI)
+- [HIDARI](https://youtu.be/DpefYPLH67A)
 
 
 ## Favourite authors
