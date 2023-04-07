@@ -4,6 +4,35 @@ title: "Snacks"
 
 Collection of snack recipes.
 
+## Mighty breakfast apple sandwich
+
+!!! abstract inline "Ingredients"
+    - Baguette or equivalent
+    - Neutral cheddar cheese
+    - Bacon
+    - Cayenne pepper
+    - Egg
+    - Soy sauce
+    - Onion flakes
+    - Japanese mayonnaise
+    - Apple
+
+**Notes:**
+
+- The bacon is optional and it is very is for it to overpower the taste balance so use it very sparingly.
+- Depending on the onion flakes, these can be quite strong in taste as well. When used with the bacon, be careful as these two can bring too much of this salty sting into the tastes.
+
+**Instructions:**
+
+1. Slap some butter on the pan, toast the bread from one side until golden brown.
+2. Turn the bread over and add slices of cheese as the other side goldens. 
+3. Remove bread from pan, turn the heat up slighty and add bacon seasoned with cayenne pepper.
+4. When there are slight signs of char on the bacon remove on to paper towels to drain excess fat and keep them crispy.
+5. Turn the heat down to medium, add the egg with a splash of soy sauce, cook and flip until the egg is cooked to your liking.
+6. Add the egg on top of the cheese that is on the bread, then break the bacon into pieces and add on top of the egg.
+7. Draw squiggles of Japanese mayonnaise on the bread, add a sprinkle of onion flakes and top with about 3mm apple slices.
+8. Et voilà!
+
 ## Courgette/Ricotta bread
 
 !!! abstract inline "Ingredients"
