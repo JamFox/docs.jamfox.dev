@@ -26,7 +26,7 @@ Collection of snack recipes.
 
 1. Slap some butter on the pan, toast the bread from one side until golden brown.
 2. Turn the bread over and add slices of cheese as the other side goldens. 
-3. Remove bread from pan, turn the heat up slighty and add bacon seasoned with cayenne pepper.
+3. Remove bread from pan, turn the heat up slightly and add bacon seasoned with cayenne pepper.
 4. When there are slight signs of char on the bacon remove on to paper towels to drain excess fat and keep them crispy.
 5. Turn the heat down to medium, add the egg with a splash of soy sauce, cook and flip until the egg is cooked to your liking.
 6. Add the egg on top of the cheese that is on the bread, then break the bacon into pieces and add on top of the egg.
