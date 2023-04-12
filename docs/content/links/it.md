@@ -43,6 +43,7 @@ title: "IT"
 - [colah's blog about ML, DL, NN](http://colah.github.io/)
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
+- [Semaphore: Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ### Security
