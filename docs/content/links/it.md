@@ -86,6 +86,7 @@ title: "IT"
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [RTINGS](https://www.rtings.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
