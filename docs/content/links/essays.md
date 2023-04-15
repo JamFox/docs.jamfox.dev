@@ -23,7 +23,7 @@ title: "Essays & Articles"
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
 
-## Psychology
+### Psychology
 
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people)
