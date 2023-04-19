@@ -54,6 +54,34 @@ Collection of my favorite drinks.
 - 1.5oz (45 ml) Irish Whiskey
 - Dry shake some heavy cream to top
 
+### Caffeinated sweet flow
+
+**[Espresso Martini](https://www.youtube.com/watch?v=chC-4DxroMo)**:
+
+- Build in Shaker
+- .75 oz. or 22 ml. Kahlua
+- .75 oz. or 22 ml. Vodka
+- 1 oz. or 30 ml. Cold Brew Coffee
+- Lemon peel in the shaker
+- Add ice and shake
+- Strain into glass
+- Garnish with 3 coffee beans
+
+**[The First Lady](https://www.youtube.com/watch?v=chC-4DxroMo)**:
+
+- Build in in Shaker
+- .5 oz. or 15 ml. Lemon juice
+- .5 oz. or 15 ml. Simple syrup
+- .5 oz. 15 ml. Cointreau
+- 1.5 oz. or 45 ml. Gin
+- 1 bar spoon matcha
+- Fresh Basil leaf
+- 1 egg white
+- Dry shake
+- Add ice and shake again
+- Double strain into glass
+- Garnish with basil leaf
+
 ### Summer, palm trees and beach vibes
 
 **[Kitty Highball](https://youtu.be/0HGtsSff7LI)**:
