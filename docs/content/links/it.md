@@ -32,6 +32,7 @@ title: "IT"
 - [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/)
 - [Rule 53](https://github.com/pgl/rule53)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+- [Load Balancing](https://samwho.dev/load-balancing/)
 
 ### Orchestration
 
