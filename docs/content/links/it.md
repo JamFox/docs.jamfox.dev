@@ -53,6 +53,8 @@ title: "IT"
 - [DevSec Hardening Framework](https://dev-sec.io/)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
+- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
+- [What OAuth 2 is, how it works, what you need to know to use it](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
 
 ### Gamedev
 
