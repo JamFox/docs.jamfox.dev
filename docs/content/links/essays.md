@@ -22,6 +22,7 @@ title: "Essays & Articles"
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
+- [Cogito Ergo Proxy: Radical Doubt in Japanese Anime](https://youtu.be/HLaVk4PRN6g)
 
 ### Psychology
 
