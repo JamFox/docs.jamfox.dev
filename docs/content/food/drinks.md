@@ -14,6 +14,7 @@ Collection of my favorite drinks.
 - [The Wanted - Zinfandel Old Vines](https://www.vivino.com/the-wanted-zinfandel-old-vines/w/1567077)
 - [Zonin - Primitivo di Manduria](https://www.vivino.com/it-zonin-primitivo-di-manduria-primitivo-di-manduria-red-wine-v/w/11088417)
 - [Piccini Chianti](https://www.vivino.com/piccini-chianti/w/1598405)
+- [Meerlust - Rubicon](https://www.vivino.com/meerlust-estate-rubicon/w/19304)
 
 ### White wine
 
