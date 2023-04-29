@@ -4,10 +4,12 @@ title: "Interesting"
 
 - [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z)
 - [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom)
+- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [Bicycle](https://ciechanow.ski/bicycle/)
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Electricity Maps](https://app.electricitymaps.com/map)
+- [Ensō - Write now, edit later](https://enso.sonnet.io/)
 - [Every Noise At Once](https://everynoise.com/)
 - [Fauux Neocity](https://fauux.neocities.org/)
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
@@ -26,7 +28,6 @@ title: "Interesting"
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
-- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
 
 ## Favourite authors
 
