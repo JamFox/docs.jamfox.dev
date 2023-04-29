@@ -82,6 +82,7 @@ title: "IT"
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
 - [Hacker News](https://news.ycombinator.com)
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
+- [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
 - [Linux and FOSS News](https://lwn.net/)
