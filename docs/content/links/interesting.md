@@ -9,7 +9,6 @@ title: "Interesting"
 - [Bicycle](https://ciechanow.ski/bicycle/)
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Electricity Maps](https://app.electricitymaps.com/map)
-- [Ensō - Write now, edit later](https://enso.sonnet.io/)
 - [Every Noise At Once](https://everynoise.com/)
 - [Fauux Neocity](https://fauux.neocities.org/)
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)

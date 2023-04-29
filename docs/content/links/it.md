@@ -70,6 +70,7 @@ title: "IT"
 
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
+- [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
 
 ### Uncategorized
 
@@ -81,6 +82,7 @@ title: "IT"
 - [Fuck Off As A Service](https://foaas.herokuapp.com/)
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
 - [Hacker News](https://news.ycombinator.com)
+- [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
