@@ -15,3 +15,11 @@ Collaborative notepad with no login: [ProtectedText](https://www.protectedtext.c
 Separate writing from editing: [Ensō](https://enso.sonnet.io/)
 
 A better thesaurus: [Careful Words](https://carefulwords.com/) or [OneLook](https://onelook.com/thesaurus/)
+
+# AI tools
+
+Text assistant: [ChatGPT](https://chat.openai.com/)
+
+PDF summarizer and QA tool: [Ask Your PDF](https://askyourpdf.com/) and [ChatDOC](https://chatdoc.com/)
+
+Voice cloning: [ElevenLabs](https://elevenlabs.io/) and [Resemble](https://www.resemble.ai/)
