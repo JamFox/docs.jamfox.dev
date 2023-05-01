@@ -70,6 +70,7 @@ title: "Essays & Articles"
 
 - [BDobbinsFTW](https://www.youtube.com/user/BDobbinsFTW)
 - [ContraPoints](https://www.youtube.com/c/ContraPoints)
+- [Errant Signal](https://www.youtube.com/@ErrantSignal/)
 - [Explanation Point](https://www.youtube.com/c/ExplanationPointAnime)
 - [Folding Ideas](https://www.youtube.com/c/FoldingIdeas)
 - [Jacob Geller](https://www.youtube.com/c/JacobGeller)
@@ -82,7 +83,7 @@ title: "Essays & Articles"
 - [Shaun](https://www.youtube.com/@Shaun_vids)
 - [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
+- [Steven Wittens](https://acko.net/)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Whitelight](https://www.youtube.com/c/Whitelight)
-- [Errant Signal](https://www.youtube.com/@ErrantSignal/)
 - Enn Kasak
