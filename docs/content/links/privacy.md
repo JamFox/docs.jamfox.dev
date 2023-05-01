@@ -25,4 +25,5 @@ title: "Privacy"
 
 ## Guides, Articles & Other
 
+- [PRISM Break](https://prism-break.org/en/)
 - [Privacy Guides](https://www.privacyguides.org/)
