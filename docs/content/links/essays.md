@@ -78,6 +78,7 @@ title: "Essays & Articles"
 - [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 - [Max Derrat](https://www.youtube.com/@maxderrat)
 - [oliSUNvia](https://www.youtube.com/c/oliSUNvia)
+- [Patrick Boyle](https://www.youtube.com/@PBoyle)
 - [People Make Games](https://www.youtube.com/c/PeopleMakeGames)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
 - [Shaun](https://www.youtube.com/@Shaun_vids)
