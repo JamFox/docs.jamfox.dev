@@ -9,6 +9,7 @@ title: "Essays & Articles"
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A)
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY)
+- [Psühholoogiline teater – eikusagil või kõikjal?](https://www.sirp.ee/s1-artiklid/teater/psuhholoogiline-teater-eikusagil-voi-koikjal/)
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y)
