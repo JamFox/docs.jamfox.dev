@@ -24,6 +24,7 @@ title: "Interesting"
 - [Tildes](https://tildes.net/)
 - [Vlaspatta Karamazov music playlists](https://www.youtube.com/@vlaspattakaramazov/videos)
 - [VRChat](https://vrchat.com/)
+- [What is permaculture?](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)

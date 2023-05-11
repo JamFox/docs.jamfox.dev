@@ -28,6 +28,7 @@ title: "Essays & Articles"
 ### Psychology
 
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
+- [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people)
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)

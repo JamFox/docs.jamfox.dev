@@ -102,8 +102,9 @@ title: "IT"
 - [Andreas Kling](https://www.youtube.com/@awesomekling)
 - [Ben Eater](https://www.youtube.com/c/BenEater)
 - [Digital Foundry](https://www.youtube.com/user/DigitalFoundry)
-- [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+- [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
+- [Socratica](https://www.youtube.com/@Socratica)
 
 ## 10 commandments of IT
 
