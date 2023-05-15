@@ -15,6 +15,7 @@ title: "Interesting"
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about)
+- [Ranger Roll](https://youtu.be/KPrATJ-u5Rg)
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
 - [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc)
 - [textfiles](http://web.textfiles.com/)

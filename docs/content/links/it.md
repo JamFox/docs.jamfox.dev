@@ -76,6 +76,7 @@ title: "IT"
 ### Uncategorized
 
 - [ASCII textfiles archive](http://textfiles.com/)
+- [DIY Git in Python](https://www.leshenko.net/p/ugit)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
