@@ -33,6 +33,7 @@ title: "Essays & Articles"
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)
 - [Normalization of deviance](https://danluu.com/wat/)
+- [Purpose, Moving Forward and Male Mental Health ft. Charisma On Command​](https://www.youtube.com/watch?v=9UKl9WOihBE)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 
