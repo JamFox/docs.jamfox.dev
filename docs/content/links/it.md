@@ -66,7 +66,6 @@ title: "IT"
 - [The 512KB Club](https://512kb.club/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
-
 ### Hardware
 
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
@@ -76,6 +75,7 @@ title: "IT"
 ### Uncategorized
 
 - [ASCII textfiles archive](http://textfiles.com/)
+- [Ditherpunk](https://surma.dev/things/ditherpunk/)
 - [DIY Git in Python](https://www.leshenko.net/p/ugit)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
