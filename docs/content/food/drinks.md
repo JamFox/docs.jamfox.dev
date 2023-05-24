@@ -19,6 +19,7 @@ Collection of my favorite drinks.
 ### White wine
 
 - [Bernard Gripa - Saint-Joseph](https://www.vivino.com/bernard-gripa-saint-joseph-blanc/w/1108993)
+- [Cielo e Terra - 3 Passo Bianco](https://www.vivino.com/it-cielo-e-terra-three-passo-bianco/w/7247915)
 - Chardonnay
 - Sauvignon blanc
 - Chablis
@@ -34,6 +35,33 @@ Collection of my favorite drinks.
 - Bumbu The Original
 
 ## Cocktails
+
+### The "one bottle bar" aka spritz cocktails
+
+**[Aperol Spritz](https://youtu.be/DbTVEOzs3VE)**:
+
+- 3 parts Prosecco
+- 2 parts Aperol
+- 1 part Club soda
+
+**[Spaghett](https://youtu.be/DbTVEOzs3VE)**:
+1 light beer (sipped down to 10 total oz)
+1½ oz (45ml) Aperol
+½ oz (15ml) lemon juice
+
+**[Hey Mambo](https://youtu.be/DbTVEOzs3VE)**:
+1 oz (30ml) Aperol 
+½ oz (15ml) Mezcal
+½ oz (15ml) Blanco Tequila
+1½ oz (45ml) Pineapple Juice
+1½ oz (45ml) Coconut Cream
+½ oz (15ml) Lime Juice
+
+**[Paper Plane](https://youtu.be/DbTVEOzs3VE)**:
+¾ oz (20ml) bourbon
+¾ oz (20ml) Aperol
+¾ oz (20ml) Amaro Nonino 
+¾ oz (20ml) lemon juice
 
 ### "Sit in front of a fireplace with a book" cocktails
 

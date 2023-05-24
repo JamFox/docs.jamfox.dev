@@ -85,6 +85,7 @@ title: "IT"
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
 - [Hacker News](https://news.ycombinator.com)
 - [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
+- [How to get rich as a solo software developer](https://youtu.be/A4_TFHzqAAg)
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
