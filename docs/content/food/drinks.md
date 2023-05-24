@@ -45,11 +45,13 @@ Collection of my favorite drinks.
 - 1 part Club soda
 
 **[Spaghett](https://youtu.be/DbTVEOzs3VE)**:
+
 1 light beer (sipped down to 10 total oz)
 1½ oz (45ml) Aperol
 ½ oz (15ml) lemon juice
 
 **[Hey Mambo](https://youtu.be/DbTVEOzs3VE)**:
+
 1 oz (30ml) Aperol 
 ½ oz (15ml) Mezcal
 ½ oz (15ml) Blanco Tequila
@@ -58,6 +60,7 @@ Collection of my favorite drinks.
 ½ oz (15ml) Lime Juice
 
 **[Paper Plane](https://youtu.be/DbTVEOzs3VE)**:
+
 ¾ oz (20ml) bourbon
 ¾ oz (20ml) Aperol
 ¾ oz (20ml) Amaro Nonino 
