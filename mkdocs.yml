@@ -3,6 +3,8 @@ nav:
   - Home: index.md
   - HomeLab:
       - content/homelab/index.md
+      - JamLab Nomad:
+          - content/homelab/jamlabnomad.md
       - Networking:
           - content/homelab/networking.md
       - Power:
