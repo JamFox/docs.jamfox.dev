@@ -2,16 +2,15 @@
 title: Piracy
 ---
 
+[r/Piracy Megathread](https://rentry.co/megathread)
+
 [Awesome Piracy repository](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md)
 
 [r/FREEMEDIAHECKYEAH Megathread](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
 
-[r/Piracy Megathread](https://old.reddit.com/r/Piracy/wiki/megathread) (no longer maintained)
-
 ## General
 
 - [1337x](https://1337x.to/)
-- [rarbg.to](http://rarbg.to/)
 
 ## Games
 
