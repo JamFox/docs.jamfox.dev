@@ -39,7 +39,7 @@ title: "Essays & Articles"
 
 ### Economics
 
-- ![Money creation in the modern economy](attachments/money-creation-in-the-modern-economy.pdf)
+- [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [What is Money](https://www.onedb.online/blog/what_is_money)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) 
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/)
