@@ -71,6 +71,7 @@ title: "IT"
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
+- [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
 
 ### Uncategorized
 
