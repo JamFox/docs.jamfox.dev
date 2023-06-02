@@ -2,7 +2,19 @@
 title: "Links"
 ---
 
-Links of all shapes and sizes, from interesting stuff I have found to other documentation.
+Links of all shapes and sizes, from interesting stuff I have found to other documentation.3
+
+# Daily reading
+
+[Hacker News](https://news.ycombinator.com/)
+
+[Tildes](https://tildes.net/)
+
+[Sirp](https://sirp.ee/)
+
+[The Atlantic](https://www.theatlantic.com/)
+
+[The New Yorker](https://www.newyorker.com/)
 
 # Useful links
 
