@@ -20,7 +20,8 @@ Collection of snack recipes.
 **Notes:**
 
 - The bacon is optional and it is very is for it to overpower the taste balance so use it very sparingly.
-- Depending on the onion flakes, these can be quite strong in taste as well. When used with the bacon, be careful as these two can bring too much of this salty sting into the tastes.
+- Depending on the onion flakes, these can be quite strong in taste as well. When used with the bacon, be careful as these two can bring too much salt into the taste profile.
+- Probably just don't add salt.
 
 **Instructions:**
 
