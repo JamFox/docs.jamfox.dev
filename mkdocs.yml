@@ -7,8 +7,9 @@ nav:
       - Networking: content/homelab/networking.md
       - Power: content/homelab/power.md
       - Rack: content/homelab/rack.md
-      - Server installation:
-          - HP DL380 G9: content/homelab/dl380g9.md
+      - Raspberry Pi: content/homelab/rpi.md
+      - HP DL380 G9:
+          - Installation: content/homelab/dl380g9.md
           - Operating System: content/homelab/os.md
       - Operating systems: 
           - Proxmox VE: content/homelab/proxmox.md

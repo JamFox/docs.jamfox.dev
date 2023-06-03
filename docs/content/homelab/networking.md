@@ -17,7 +17,7 @@ Switches are managed using [Easy Smart Configuration Utility](https://www.tp-lin
 | Port | Connection |
 |------|------------|
 | 1PoE | Karl1      |
-| 2PoE | Karl2      |
+| 2PoE | -          |
 | 3PoE | -          |
 | 4PoE | Printer    |
 | 5    | -          |
@@ -43,7 +43,7 @@ Switches are managed using [Easy Smart Configuration Utility](https://www.tp-lin
 
 | Port | PVID      | LAG | Connection |
 |------|-----------|-----|------------|
-| 1PoE | 1         | -   | -          |
+| 1PoE | 1         | -   | rpi0       |
 | 2PoE | 1         | -   | -          |
 | 3PoE | 1         | -   | -          |
 | 4PoE | 1         | -   | -          |
