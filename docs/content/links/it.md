@@ -76,6 +76,7 @@ title: "IT"
 ### Uncategorized
 
 - [ASCII textfiles archive](http://textfiles.com/)
+- [Choose an open source license](https://choosealicense.com/)
 - [Ditherpunk](https://surma.dev/things/ditherpunk/)
 - [DIY Git in Python](https://www.leshenko.net/p/ugit)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
