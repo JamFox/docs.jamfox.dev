@@ -70,7 +70,7 @@ Collection of main courses.
 
 ## Kert Burger
 
-!!! abstract inline "Kert Burger Ingredients"
+!!! abstract inline "Ingredients"
     - 1/8 mild kale
     - 1 tbsp mayonese
     - 1 tsp Tabasco classic
@@ -119,3 +119,30 @@ Collection of main courses.
 8. Toss everything together in a bowl and move to a baking dish with cream or crème fraîche.
 9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top. 
 10. Bake at 175°C until golden brown, about 40 minutes.
+
+## Wasabi Mayo Beef Tacos 
+
+From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
+
+!!! abstract inline "Ingredients"
+    - 2 beef sirloin steaks
+    - 6-8 small tortillas, to serve
+    - 2 tablespoons light miso paste (aka soybean paste)
+    - 2 tablespoons mirin (aka aji-mirin) or rice wine
+    - 1/2 head of Chinese cabbage, finely shredded
+    - 1 or 1 1/2 tablespoons rice vinegar or lemon juice
+    - 1/2 teaspoon sesame oil
+    - 1 teaspoon dried chile flakes
+    - 1/2 teaspoon wasabi (depending on wasabi at hand), to taste
+    - 2 heaping tablespoons mayonnaise
+
+**Instructions:**
+
+1. Set the pan on high with some olive oil.
+2. Season the steaks with salt and pepper, lay away from you on to the pan, and sear while giving the occasional shake to avoid sticking, 2-3 minutes on each side for rare/medium-rare, or until cooked to your liking. Render the fat by tipping the steaks onto their sides and cooking until the fat is golden and crisp, keep basting the steaks as you cook.
+3. While searing, mix the miso paste, mirin or rice wine, sugar, and olive oil, stirring well to dissolve the sugar. Season with salt and pepper and add a tablespoon of water if the mixture needs loosening a little.
+4. Slice the fat off and slip the steaks into the marinade.
+5. Meanwhile, prepare the quick pickled cabbage. Put the Chinese cabbage in a bowl and season with salt and pepper. Add the rice vinegar, sesame oil, and chile flakes. Toss the mixture to coat, then leave to soften slightly for a couple of minutes.
+6. Meanwhile, mix together the wasabi and mayonnaise, taste, and add a little more wasabi if you like a stronger flavor.
+7. Heat the tortillas for 30-60 seconds over a naked gas flame until charred and lightly toasted. Roll them around a rolling pin while they're still hot, and hold until cooled to set in half-moon taco shapes.
+8. Drain the beef of any excess marinade, then slice and place in the tacos. Top with the cabbage and a little wasabi mayo.
