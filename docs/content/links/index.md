@@ -4,7 +4,7 @@ title: "Links"
 
 Links of all shapes and sizes, from interesting stuff I have found to other documentation.3
 
-# Daily reading
+## Daily reading
 
 [Hacker News](https://news.ycombinator.com/)
 
@@ -16,7 +16,7 @@ Links of all shapes and sizes, from interesting stuff I have found to other docu
 
 [The New Yorker](https://www.newyorker.com/)
 
-# Useful links
+## Useful links
 
 Date planning with no login: [Crab Fit](https://crab.fit/)
 
@@ -28,7 +28,7 @@ Separate writing from editing: [Ensō](https://enso.sonnet.io/)
 
 A better thesaurus: [Careful Words](https://carefulwords.com/) or [OneLook](https://onelook.com/thesaurus/)
 
-# AI tools
+## AI tools
 
 Text assistant: [ChatGPT](https://chat.openai.com/)
 
