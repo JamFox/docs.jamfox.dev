@@ -21,7 +21,7 @@ nav:
           - Hashicorp Packer: content/homelab/packer.md
           - Hashicorp Terraform: content/homelab/terraform.md
       - DNS: 
-          - content/homelab/dns.md
+          - General DNS: content/homelab/dns.md
           - Dnsmasq: content/homelab/dnsmasq.md
       - Container Orchestration:
           - Hashicorp Consul: content/homelab/consul.md
@@ -46,12 +46,16 @@ nav:
           - Vault with Kerberos: content/devops/vaultkrb.md
       - AI:
           - Prompt Engineering: content/devops/prompteng.md
-  - Food:
+  - Food & Drinks:
       - content/food/index.md
-      - Drinks: content/food/drinks.md
-      - Basics: content/food/basics.md
-      - Main Courses: content/food/maincourses.md
-      - Snacks: content/food/snacks.md
+      - JamFox's:
+          - Drinks: content/food/drinks.md
+          - Basics: content/food/basics.md
+          - Main Courses: content/food/maincourses.md
+          - Snacks: content/food/snacks.md
+      - Papa's:
+          - Papa's cookbook: content/food/papacookbook.md
+          
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
