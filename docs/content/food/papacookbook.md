@@ -90,11 +90,11 @@ Best served on ciabatta or equivalent bread.
     - Honey
 
 !!! abstract "Spice Mix Ingredients"
-    - Sibul
-    - Küüslauk
-    - Tšilli
-    - Kana puljong
-    - Laim
+    - Onion
+    - Garlic
+    - Chili
+    - Chicken broth
+    - Lime
     - Paprika
 
 Fry separately and combine.
@@ -156,7 +156,6 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
     - Cream
     - Butter
 
-
 1. Season the chicken with salt and pepper (also white pepper).
 2. Add bouquet garnish, white wine (whole bottle) and marinate overnight
 3. Add pancetta first to fry with mushrooms and butter.
@@ -214,7 +213,6 @@ Combine and marinate the meat to be grilled in it.
     - Rosemary
     - Olive oil
 
-
 1. Cover the fillet strips with white wine and mix everything else in.
 2. Marinate for 2 hours.
 3. Preheat the oven to 150 degrees.
@@ -263,14 +261,14 @@ Combine and marinate the meat to be grilled in it.
 1. Boil the cauliflower for 5 minutes and preheat the oven to 180 degrees.
 2. Mix the spices, olive oil, honey and lemon juice in a bowl.
 3. Cover the cauliflower with the mixture and bake at 180 degrees for 15-20 minutes.
-4. Grate Gruyere and Emmental cheese and add to the cauliflower with lemon zest. 5 minutes in the oven
+4. Grate Gruyere and Emmental cheese and add to the cauliflower with lemon peels. 5 minutes in the oven
 
 ### Couscous
 
 !!! abstract "Ingredients"
     - Boiled Couscous
     - Chopped onion
-    - Lemon zest and juice
+    - Lemon peels and juice
     - Parsley
     - Mint, coriander
     - Sumach or chili powder
