@@ -62,7 +62,7 @@ Best served on ciabatta or equivalent bread.
 
 ### Pickles
 
-!!! abstract inline "Ingredients (for a 3L jar)"
+!!! abstract "Ingredients (for a 3L jar)"
     - 1.5 tbsp of sugar
     - 2 tablespoons of salt
     - 3 tablespoons of vinegar
@@ -71,25 +71,25 @@ Best served on ciabatta or equivalent bread.
 
 ### Hoisin chicken
 
-!!! abstract inline "Ingredients"
-   - 2 packs of chicken thigh meat
-   - Salt, pepper, Tibetan chili powder marinade
-   - Mushrooms 1 pack
-   - 2 large onions
-   - Garlic 6 cloves
-   - Chilli 2 pcs
-   - Hoisin sauce
-   - Soy, water, starch
+!!! abstract "Ingredients"
+    - 2 packs of chicken thigh meat
+    - Salt, pepper, Tibetan chili powder marinade
+    - Mushrooms 1 pack
+    - 2 large onions
+    - Garlic 6 cloves
+    - Chilli 2 pcs
+    - Hoisin sauce
+    - Soy, water, starch
 
 ### Butter chicken
 
-!!! abstract inline "Pork Ingredients"
-   - Pork neck chop
-   - Fish sauce
-   - Soy sauce
-   - Honey
+!!! abstract "Pork Ingredients"
+    - Pork neck chop
+    - Fish sauce
+    - Soy sauce
+    - Honey
 
-!!! abstract inline "Spice Mix Ingredients"
+!!! abstract "Spice Mix Ingredients"
     - Sibul
     - Küüslauk
     - Tšilli
@@ -101,7 +101,7 @@ Fry separately and combine.
 
 ### Bresse chicken
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Whole chicken
     - Garlic
     - Bouquet garni (leek, sprig of thyme)
@@ -117,14 +117,14 @@ Fry separately and combine.
 
 ### Korean Crispy Chicken
 
-!!! abstract inline "Chiken Ingredients"
+!!! abstract "Chiken Ingredients"
     - Chicken thigh meat
     - Frying mixture (flour, starch, baking powder, salt, vodka, water)
 
 
 Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 
-!!! abstract inline "Dip Ingredients"
+!!! abstract "Dip Ingredients"
     - Korean chili sauce 1 tbsp
     - Rice vinegar 1 tsp
     - Honey 1 tbsp
@@ -133,7 +133,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 
 ### Coucou au cidre
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Chicken
     - Shallots
     - Calvados
@@ -169,7 +169,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 
 ### Shaksuka
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Onions
     - Peppers
     - Garlic
@@ -192,7 +192,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 
 ### Shaurma (Israeli charcoal-grilled meat)
 
-!!! abstract inline "Marinade Ingredients"
+!!! abstract "Marinade Ingredients"
     - Lemon juice
     - Oil
     - Cumin seeds
@@ -205,7 +205,7 @@ Combine and marinate the meat to be grilled in it.
 
 ### Lemon chicken
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Chicken
     - White wine
     - Lemon
@@ -224,19 +224,19 @@ Combine and marinate the meat to be grilled in it.
 
 ### Chicken pasta with sun-dried tomato pesto
 
-!!! abstract inline "Chicken Ingredients"
-   - 1 large onion
-   - 2 cloves of garlic
-   - 0.5 kg Chicken thigh meat
-   - 150g of tomato paste
-   - Pasta
+!!! abstract "Chicken Ingredients"
+    - 1 large onion
+    - 2 cloves of garlic
+    - 0.5 kg Chicken thigh meat
+    - 150g of tomato paste
+    - Pasta
 
-!!! abstract inline "Pesto Ingredients"
-   - Handful of almonds
-   - Small bell pepper
-   - 150g sun-dried tomato in oil
-   - Bunch of basil
-   - A thumb-sized piece of grated Parmesan
+!!! abstract "Pesto Ingredients"
+    - Handful of almonds
+    - Small bell pepper
+    - 150g sun-dried tomato in oil
+    - Bunch of basil
+    - A thumb-sized piece of grated Parmesan
 
 1. Boil pasta, keep them a bit firm.
 2. Fry the chicken ingredients in a pan and mix with the pasta.
@@ -247,18 +247,18 @@ Combine and marinate the meat to be grilled in it.
 
 ### Cauliflower with cheese
 
-!!! abstract inline "Ingredients"
-   - Cauliflower
-   - Gruyere and Emmental cheese
-   - Phenol seeds, crushed
-   - Paprika
-   - Cumin seeds
-   - Olive oil
-   - Salt
-   - Pepper
-   - Chile
-   - Honey
-   - Lemon juice
+!!! abstract "Ingredients"
+    - Cauliflower
+    - Gruyere and Emmental cheese
+    - Phenol seeds, crushed
+    - Paprika
+    - Cumin seeds
+    - Olive oil
+    - Salt
+    - Pepper
+    - Chile
+    - Honey
+    - Lemon juice
 
 1. Boil the cauliflower for 5 minutes and preheat the oven to 180 degrees.
 2. Mix the spices, olive oil, honey and lemon juice in a bowl.
@@ -267,7 +267,7 @@ Combine and marinate the meat to be grilled in it.
 
 ### Couscous
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Boiled Couscous
     - Chopped onion
     - Lemon zest and juice
@@ -275,11 +275,11 @@ Combine and marinate the meat to be grilled in it.
     - Mint, coriander
     - Sumach or chili powder
 
-## Sauces
+## Sauces & Spice Mixes
 
 ### Piri piri sauce
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Chopped onion
     - Garlic 4 pcs
     - Chilli 4 pcs
@@ -293,7 +293,7 @@ Combine and marinate the meat to be grilled in it.
 
 ### French dip
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Butter
     - Shallots
     - Champignons
@@ -311,11 +311,9 @@ Combine and marinate the meat to be grilled in it.
 3. Add beef broth, demi-glace and reduce by a third.
 4. Chop in the tarragon.
 
-## Spice mixes
-
 ### Jerk seasoning mix
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Hot chilies
     - Fresh onion
     - Ginger
@@ -334,15 +332,15 @@ Combine and marinate the meat to be grilled in it.
 
 ### Emme pontsikud
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - Curd - 2 packs
-    - Flour by feel so that it is harder, not runny
+    - Flour by feel so that it's a bit harder, not runny
     - Egg 4 pcs
     - Cooking soda
 
 ### Emme vahvlid
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 200g of butter
     - 2 dl wheat flour
     - 2 dl of starch
