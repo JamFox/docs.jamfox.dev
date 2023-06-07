@@ -123,6 +123,7 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Theatre
 
+- [Komöödia](https://eamt.ee/lavastused/komoodia/) by Mart Kangro
 - [ÜLT](https://www.eestinoorsooteater.ee/et/%C3%BClt) by Renate Keerd
 - `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
 
