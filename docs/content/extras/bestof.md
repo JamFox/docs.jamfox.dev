@@ -78,7 +78,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [Trainspotting](https://letterboxd.com/film/trainspotting/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
-- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/) 
+- `*` [Spider-Man: Across the Spider-Verse](https://letterboxd.com/film/spider-man-across-the-spider-verse/)
+- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/)
 
 ## Series
 
