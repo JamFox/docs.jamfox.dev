@@ -11,11 +11,11 @@ title: "Ansible"
 
 [Ansible](https://docs.ansible.com/ansible/latest/index.html) is a software tool that provides simple but powerful automation for cross-platform computer support. It is primarily intended for IT professionals, who use it for application deployment, updates on workstations and servers, cloud provisioning, configuration management, intra-service orchestration, and nearly anything a systems administrator does on a weekly or daily basis. Ansible doesn't depend on agent software and has no additional security infrastructure, so it's easy to deploy.
 
-For the best guide for deep diving into using Ansible check out [Jeff Geerling's Ansible Guide](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series).
+For the best guide for deep diving into using Ansible check out [Jeff Geerling's Ansible Guide](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) if you like video format or [Fast Ansible Guide](https://github.com/omerbsezer/Fast-Ansible) if you prefer text.
 
-Ansible was the obvious choice for me as I had quite a lot of experience with it. For configuration management it made sense to go with something simple to ease bootstrapping and favoring mutability for fastest development. Running a whole platform like Puppet did not make sense because of bootstrapping and resource overhead. Ansible is simple to write, understand and manage if written well from the get-go.
+For configuration management it made sense to go with something simple to ease bootstrapping and favoring mutability for fastest development. Running a whole platform like Puppet did not make sense because of bootstrapping and resource overhead. Ansible is simple to write, understand and manage if written well from the get-go. I also tried SaltStack, but in the end it had too many shortcomings, check out the conclusions of the [Ansible User's Guide to Saltstack](../../../content/devops/saltstack-for-ansible) page.
 
-Also knowing Ansible I knew how slow it can be. There's two ways of solving this: using push mode with a central management (with homebrew solutions or AWX/Ansible Tower) with parallel playbook execution for each host OR pull mode where each host essentially configures itself. Running AWX/Ansible Tower has the same problem of bootstrapping and resource overhead. Homebrew parallel push system spikes the central management resource usage when executed and requires you to be on two hosts (central management host and the host being configured) when developing. It is quite evident that pull mode is the more scalable, resource efficient and easier for swift changes so I went with that, although because of it's outside-in nature it is less secure.
+Also knowing Ansible I knew how slow it can be. There's two ways of solving this: using push mode with a central management (with homebrew solutions or AWX/Ansible Tower) with parallel playbook execution for each host OR pull mode where each host essentially configures itself. Running AWX/Ansible Tower has the same problem of bootstrapping and resource overhead. Homebrew parallel push system spikes the central management resource usage when executed and requires you to be on two hosts (central management host and the host being configured) when developing. It is quite evident that pull mode is the more scalable, resource efficient and easier for swift changes, although because of it's outside-in nature it is less secure. I've tried and used both, but went back to push mode using [ansible-parallel](https://github.com/JamFox/ansible-parallel).
 
 I settled on the following requirements:
 
@@ -24,7 +24,7 @@ I settled on the following requirements:
 - Simple to modify and manage (DRY monorepo for all hosts)
 - No single point of failure in the form of a centralized configuration bastion
 
-The solution was [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab bootstrap and pull-mode configuration management with Ansible and bash. Most of it is "inspired" by a similar system that we used at CERN.
+The solution was [jamlab-ansible](https://github.com/JamFox/jamlab-ansible): Homelab push-mode configuration management with Ansible.
 
 ## Ansible Best Practices
 
@@ -125,7 +125,7 @@ In this structure, each root playbook including the master playbook (`site.yml` 
 These are small nitpicks and for most use cases following the standard structure works well, but for maximum simplicity I grew very fond of a system for pull mode Ansible we used at CERN. An example structure for this system looks something like this:
 
 ```bash
-ansible.cfg
+ansible.cfg                 # ansible configuration file
 hosts                       # inventory file
 
 bin/                        # binaries
@@ -134,28 +134,27 @@ bin/                        # binaries
 
 playbooks/                  # "root" playbook directory
     group_base/             # ""
-        local.yml           # here we define roles for a particular group
+        main.yml            # here we define roles for a particular group
         group_vars/         # ""
             all.yml         # here we assign variables to a particular group
-    host_basenode/          # here we define roles for a particular host
-        local.yml           # define roles for a particular host
         host_vars/          # ""
-            basenode.yml    # here we assign variables to a particular host
+            <hostname>.yml  # here we assign variables to a particular host
+    host_<hostname>/        # here we define roles for a particular host
+        main.yml            # define roles for a particular host
+        host_vars/          # ""
+            <hostname>.yml  # here we assign variables to a particular host
     function_test/          # ""
-        local.yml           # ""
+        main.yml            # ""
 
 roles/                      # roles directory
-    pre/                    # role name 
+    <role>/                 # role name 
         defaults/           # ""
             main.yml        # <-- default lower priority variables for this role
         files/              # ""
             file.txt        # <-- files
+            template.txt.j2 # <-- files for use with the template resource
         tasks/              # ""
             main.yml        # <-- tasks to run for the role
-        templates/          # ""
-            template.txt.j2 # <-- files for use with the template resource
-        vars/               # ""
-            main.yml        # <-- variables associated with this role
 ```
 
 With this system root playbooks are separated into directories with their own variables and are not run from a single master playbook thus each play can run regardless of whether there are errors in other playbooks. Each playbook only defines which roles to run on the host group and nothing else, for example:
@@ -175,118 +174,4 @@ With this system root playbooks are separated into directories with their own va
 
 This and it's accompanying variables file make it simple to understand at a glance which roles are run and where the group variables are defined since they are all together in one directory.
 
-Since the playbooks are separated and this system is used in pull mode, a script is needed to figure out which playbook to run, this is why we have the `bin` directory that has the mentioned script inside.
-
-For maximum simplicity of maintaining this script and management of the playbooks and roles it should be enforced that each host is only part of ONE group. This will ensure that it will always be immediately obvious which playbooks are run for what host when looking at the inventory file.
-
-Thus the logic of the script should be to run a maximum of 2 playbooks for a host: one host playbook and one host group playbook if any of them exist.
-
-### Detailed usage
-
-Here's a few more chapters detailing more specific usage of this system and Ansible in general.
-
-#### Secrets
-
-To use secret variables and files with sensitive content [Ansible Vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html) can be used. This requires the manual step of setting up a password file and setting it in `ansible.cfg` since you wouldn't want to push the password to a repository:
-
-```bash
-[defaults]
-vault_password_file = <PATH TO YOUR VAULT PASS>
-```
-
-Then you can set secret variables by encrypting strings:
-
-```bash
-ansible-vault encrypt_string password123 
-```
-
-And pasting the output in place of a variable:
-
-```yaml
-my_password: !vault |
-    $ANSIBLE_VAULT;1.1;AES256
-    66386439653236336462626566653063336164663966303231363934653561363964363833
-    3136626431626536303530376336343832656537303632313433360a626438346336353331
-```
-
-You may also encrypt files with:
-
-```bash
-ansible-vault encrypt encrypt_me.txt
-```
-
-View encrypted files with:
-
-```bash
-ansible-vault view encrypt_me.txt
-```
-
-Edit encrypted files with:
-
-```bash
-ansible-vault edit encrypt_me.txt
-```
-
-Decrypt encrypted files with:
-
-```bash
-ansible-vault decrypt encrypt_me.txt
-```
-
-#### Global variables and special roles
-
-There can be two special roles at the beginning and at the end of the playbook. For example `pre` and `post`.
-
-They are used to replace the list of common roles to execute before and after specific ones. They can also be used to set "global" variables.
-
-#### Variable precedence
-
-Variable precedence is as follows (from the weakest to the strongest):
-
-1. role defaults (`rrr/defaults/main.yml`)
-2. group vars (`playbooks/ppp/group_vars/all.yml`)
-3. host vars (`playbooks/ppp/host_vars/hhh.yml`)
-4. ansible argument (`ansible-playbook --extra-vars "my_var=my_value" ...`)
-
-#### Combine group and host vars
-
-After the announcement of deprecating `hash_behaviour=merge` option in Ansible it is no longer possible to conveniently combine dictionaries with same names in role, group and host variables.
-
-When merging dictionaries the following convention should be followed:
-
-For role defaults use the regular variable name `exampledict` in `rrr/defaults/main.yml`:
-
-```yml
-exampledict:
-    - name: var1
-```
-
-For group defaults use the `group_` prefix with variable name `exampledict` in `playbooks/ppp/group_vars/all.yml`:
-
-```yml
-group_exampledict:
-    - name: var2
-```
-
-For host defaults use the `host_` prefix with variable name `exampledict` in `playbooks/ppp/host_vars/hhh.yml`:
-
-```yml
-host_exampledict:
-    - name: var3
-```
-
-Combine dictionaries in role tasks `rrr/tasks/main.yml`:
-
-```yml
-- name: Combine role and group vars
-  set_fact:
-    packages: "{{ packages + group_exampledict }}"
-  when: group_exampledict is defined
-```
-
-```yml
-- name: Combine host and group vars
-  set_fact:
-    packages: "{{ packages + host_exampledict }}"
-  when: host_exampledict is defined
-```
+For maximum simplicity for managing the playbooks and roles it should be enforced that each host is only part of ONE group. This will ensure that it will always be immediately obvious which playbooks are run for what host when looking at the inventory file.
