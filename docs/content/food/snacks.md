@@ -54,17 +54,3 @@ Cheese on a toast, but make it advanced.
 3. Spread another layer of bechamel on top of the sandwich and another layer of cheese.
 4. Place into a broiler or oven until thoroughly brown and bubbly.
 5. Et voilà!
-
-## Undercover Tuna Dip
-
-Sneak this next to the chips in a small bowl and watch as people unsuspectingly try and start loving it. Works best without telling people that it has tuna inside to avoid suspicions and hesitation, because the concept doesn't *seem* super appetizing, but will surely be devoured if anyone gets a taste.
-
-!!! abstract inline "Ingredients"
-    - 1 can of tuna fillet in oil
-    - 2-3 tsp Hellmann's (or other neutral) mayonnaise
-    - Juice of half of a lemon
-
-**Instructions:**
-
-1. Combine everything and season with salt to taste.
-2. Et voilà!

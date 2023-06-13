@@ -241,7 +241,7 @@ Combine and marinate the meat to be grilled in it.
 3. Combine the pesto ingredients in a blender.
 4. Serve pasta separately with pesto, to be added on top.
 
-## Sides 
+## Sides, Sauces & Spice Mixes
 
 ### Cauliflower with cheese
 
@@ -272,9 +272,6 @@ Combine and marinate the meat to be grilled in it.
     - Parsley
     - Mint, coriander
     - Sumach or chili powder
-
-## Sauces & Spice Mixes
-
 ### Piri piri sauce
 
 !!! abstract "Ingredients"
