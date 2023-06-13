@@ -74,6 +74,13 @@ title: "IT"
 - [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck)
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
 
+### Fonts
+
+- [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+- [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans/)
+- [Recursive Sans & Mono](https://www.recursive.design/)
+
 ### Uncategorized
 
 - [ASCII textfiles archive](http://textfiles.com/)
