@@ -70,6 +70,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Scott Pilgrim vs The World](https://letterboxd.com/film/scott-pilgrim-vs-the-world/)
 - [Seven Samurai](https://letterboxd.com/film/seven-samurai/)
 - [Sin City](https://letterboxd.com/film/sin-city/)
+- [Spider-Man: Across the Spider-Verse](https://letterboxd.com/film/spider-man-across-the-spider-verse/)
 - [Star Wars](https://letterboxd.com/film/star-wars/)
 - [Tampopo](https://letterboxd.com/film/tampopo/)
 - [The French Dispatch](https://letterboxd.com/film/the-french-dispatch/)
@@ -78,7 +79,6 @@ A collection of lists of what I believe to be the best of the best from each med
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [Trainspotting](https://letterboxd.com/film/trainspotting/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
-- `*` [Spider-Man: Across the Spider-Verse](https://letterboxd.com/film/spider-man-across-the-spider-verse/)
 - `*` [The Menu](https://letterboxd.com/film/the-menu-2022/)
 
 ## Series
