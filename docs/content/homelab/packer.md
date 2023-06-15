@@ -21,13 +21,25 @@ With the [Proxmox Builder (ISO)](https://www.packer.io/plugins/builders/proxmox/
 
 ### Commands
 
-After configuring everything, building images is as easy as running a single command:
+Install dependencies and modules:
+
+```bash
+packer init -upgrade .
+```
+
+After configuring everything, building images is as easy as running a single command. `PACKER_LOG=1` is used to print detailed messages while building for easier debugging:
 
 ```bash
 PACKER_LOG=1 packer build debian11.pkr.hcl
 ```
 
-Where `debian11.pkr.hcl` is the configuration file that defines how to build the image. `PACKER_LOG=1` is used to print detailed messages while building for easier debugging.
+With log output to a file:
+
+```bash
+PACKER_LOG_PATH="packerlog.txt" PACKER_LOG=1 packer build debian11.pkr.hcl
+```
+
+Where `debian11.pkr.hcl` is the configuration file that defines how to build the image. 
 
 ### Variables
 
