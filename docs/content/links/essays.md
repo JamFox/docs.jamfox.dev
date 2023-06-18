@@ -37,6 +37,7 @@ title: "Essays & Articles"
 - [Purpose, Moving Forward and Male Mental Health ft. Charisma On Command​](https://www.youtube.com/watch?v=9UKl9WOihBE)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) and [HN discussion](https://news.ycombinator.com/item?id=35355703)
+- [The Tools](https://www.thetoolsbook.com/)
 
 ### Economics
 
