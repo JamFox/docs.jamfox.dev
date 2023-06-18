@@ -62,6 +62,7 @@ title: "Essays & Articles"
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE)
 - [The Incredible Rise of North Korea’s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
+- [The Network State](https://thenetworkstate.com/)
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html)
 - [Tiktok's enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys)
 - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river)
