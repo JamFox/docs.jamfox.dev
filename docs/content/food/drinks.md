@@ -29,6 +29,7 @@ Collection of my favorite drinks.
 ## Liquer
 
 - Jack Daniel's Tennessee Honey
+- Koskenkorva Espresso
 
 ## Rum
 
