@@ -106,6 +106,7 @@ title: "IT"
 - [RTINGS](https://www.rtings.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
+- [The Jargon File](http://catb.org/jargon/html/index.html)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
@@ -118,6 +119,7 @@ title: "IT"
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 - [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
 - [Socratica](https://www.youtube.com/@Socratica)
+- [Four Years Remaining](https://fouryears.eu/)
 
 ## 10 commandments of IT
 

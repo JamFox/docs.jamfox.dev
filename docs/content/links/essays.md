@@ -46,15 +46,18 @@ title: "Essays & Articles"
 
 ### Stories
 
-- [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8)
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI)
+- [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/)
+- [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8)
 
 ### Uncategorized
 
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw))
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
+- [How to Prepare A Good Presentation](https://fouryears.eu/2019/02/11/how-to-prepare-a-good-presentation/)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
+- [Neural Adaptation and Perception of Music](https://blog.slavin.ee/posts/neural-adaptation-and-perception-of-music/)
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U)
 - [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history)
 - [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg)
@@ -85,6 +88,7 @@ title: "Essays & Articles"
 - [Patrick Boyle](https://www.youtube.com/@PBoyle)
 - [People Make Games](https://www.youtube.com/c/PeopleMakeGames)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube)
+- [Raptitude](https://www.raptitude.com/)
 - [Shaun](https://www.youtube.com/@Shaun_vids)
 - [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
