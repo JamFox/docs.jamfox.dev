@@ -60,6 +60,7 @@ title: "IT"
 ### Gamedev
 
 - [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y)
+- [The Book of Shaders](https://thebookofshaders.com/)
 
 ### Webdev
 
@@ -83,6 +84,8 @@ title: "IT"
 
 ### Uncategorized
 
+
+- [.the .product](http://theproduct.de/) and [video of .the .product [HD 60fps]](https://youtu.be/1dcrV_7JpXQ) and [elevated](https://www.pouet.net/prod.php?which=52938) and [video of elevated](https://youtu.be/jB0vBmiTr6o)
 - [ASCII textfiles archive](http://textfiles.com/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Ditherpunk](https://surma.dev/things/ditherpunk/)
@@ -110,7 +113,6 @@ title: "IT"
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
-
 ## Favourite authors
 
 - [Andreas Kling](https://www.youtube.com/@awesomekling)
