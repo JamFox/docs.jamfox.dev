@@ -27,7 +27,7 @@ title: "Essays & Articles"
 
 ### Psychology
 
-- [Brain Waves Synchronize when People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
+- [Brain Waves Synchronize when People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/) and [Synchronization of Metronomes](https://youtu.be/Aaxw4zbULMs)
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
 - [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people)
