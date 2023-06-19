@@ -241,6 +241,29 @@ Combine and marinate the meat to be grilled in it.
 3. Combine the pesto ingredients in a blender.
 4. Serve pasta separately with pesto, to be added on top.
 
+### Japanese Macaroni Gratin
+
+Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecookbook.com/macaroni-gratin/).
+
+!!! abstract "Ingredients"
+    - Chicken thigh meat
+    - Shrimp
+    - Leek
+    - Garlic
+    - Chili paste
+    - Macaroni
+    - Oat cream
+    - Salt
+    - White pepper
+    - Soy sauce
+    - Mirin
+    - Sake
+    - Cheddar cheese
+    - Parmesan
+    - Panko
+
+1. Bake in 230 degree oven
+
 ## Sides, Sauces & Spice Mixes
 
 ### Cauliflower with cheese
