@@ -146,3 +146,32 @@ From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 6. Meanwhile, mix together the wasabi and mayonnaise, taste, and add a little more wasabi if you like a stronger flavor.
 7. Heat the tortillas for 30-60 seconds over a naked gas flame until charred and lightly toasted. Roll them around a rolling pin while they're still hot, and hold until cooled to set in half-moon taco shapes.
 8. Drain the beef of any excess marinade, then slice and place in the tacos. Top with the cabbage and a little wasabi mayo.
+
+## French Tacos
+
+[The Unlikely Rise of the French Tacos](https://www.newyorker.com/magazine/2021/04/19/the-unlikely-rise-of-the-french-tacos), recipe from [You Suck At Cooking](https://youtu.be/vz7gGD0ws4c).
+
+!!! abstract inline "Ingredients"
+    1 onion
+    2 garlic cloves
+    450g ground beef
+    Some fries
+    Cream
+    Gruyere cheese
+    Other french cheese of choice
+    Pickled jalapenos
+    Tortilla wraps
+
+**Instructions:**
+
+1. Slice half of the onion and dice the other half.
+2. Put the 1/2 sliced onion in a pan with some oil on medium heat and cook until brown, set aside.
+3. Put the 1/2 diced onion with crushed and diced garlic in the pan with some oil on medium heat and cook until softened.
+4. Add the ground beef to pan, season with salt and pepper and cook until brown.
+5. Prepare the fries, either in oven or your choice of a fryer.
+6. In a skillet, add cream and warm until it starts to steam a little.
+7. Add the cheese and stir until melted.
+8. Add butter to taste and some flour if needed to thick the sauce.
+9. Combine everything in a tortilla wrap, add some more cheese and wrap it up.
+10. Warm the wrap on a pan on medium heat or on a sandwich grill until the cheese melts.
+11. Et voilà!
