@@ -117,6 +117,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
 - [Revolutionary Girl Utena](https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena)
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
+- [Skip to Loafer](https://myanimelist.net/anime/50416/Skip_to_Loafer)
 - [Sonny Boy](https://myanimelist.net/anime/48849/Sonny_Boy)
 - [Your Lie In April](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 - [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
