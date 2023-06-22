@@ -14,6 +14,7 @@ title: "Interesting"
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
+- [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about)
 - [Ranger Roll](https://youtu.be/KPrATJ-u5Rg)
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
