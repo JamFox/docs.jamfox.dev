@@ -16,7 +16,7 @@ JamLab is contained in a single rack, power to the rack is provided from the wal
 
 | Port | Connection |
 |------|------------|
-| 1    | -          |
+| 1    | NAS0       |
 | 2    | Extension  |
 | 3    | -          |
 | 4    | -          |

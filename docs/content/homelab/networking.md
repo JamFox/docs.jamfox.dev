@@ -49,5 +49,5 @@ Switches are managed using [Easy Smart Configuration Utility](https://www.tp-lin
 | 4PoE | 1         | -   | -          |
 | 5    | 1         | -   | Sol ILO    |
 | 6    | 1         | -   | Sol eno1   |
-| 7    | 1         | -   | -          |
+| 7    | 1         | -   | NAS0       |
 | 8    | 1         | -   | LabRouter  |
