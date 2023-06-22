@@ -21,6 +21,8 @@ In JamLab there are three Raspberry Pi's:
 
 On installation (like with RPi Imager), set the main user as `octoprint` or something you are not using for anything else, messing with the main user groups/permissions/etc can cause issues.
 
+Octoprint uses a git wrapper that blocks it from running as root user. To disable the git wrapper run `sudo rm /root/bin/git`
+
 ### Raspberry Pi OS
 
 [Raspberry Pi OS](https://www.raspberrypi.com/software/)
