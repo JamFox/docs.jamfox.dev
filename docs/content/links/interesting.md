@@ -12,6 +12,7 @@ title: "Interesting"
 - [Every Noise At Once](https://everynoise.com/)
 - [Fauux Neocity](https://fauux.neocities.org/)
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
+- [How Rich Am I?](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
