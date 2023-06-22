@@ -14,13 +14,21 @@ Latest full list of hardware used in the homelab is available on my personal sit
 
 ## Pictures
 
-### Rack
+### Rack - Outer
+
+![JamLab Rack - Outer](attachments/rack_outwide.jpg)
+
+![JamLab Rack - Outer Stickers](attachments/rack_outsticker.jpg)
+
+### Rack - Front
 
 ![JamLab Rack - Front](attachments/rack_front.jpg)
 
 ![JamLab Rack - RPi](attachments/rack_rpicam.jpg)
 
 ![JamLab Rack - Mega SE, screen](attachments/rack_megase_screen.jpg)
+
+### Rack - Back
 
 ![JamLab Rack - Back, lower](attachments/rack_back1.jpg)
 
