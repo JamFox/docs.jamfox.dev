@@ -12,7 +12,7 @@ Anything directly related to the homelab infrastructure is documented in this se
 
 ## Hardware
 
-Latest full list of hardware used in the JamLab homelab is available on my personal site's [Setup page]([content/homelab/hardware.md](https://jamfox.dev/setup)). Other sections in documentation may only reference bits and pieces of the setup.
+Latest full list of hardware used in the JamLab homelab is available on my personal site's [Setup page](https://jamfox.dev/setup). Other sections in documentation may only reference bits and pieces of the setup.
 
 ## Pictures
 
