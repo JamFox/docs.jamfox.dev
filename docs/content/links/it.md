@@ -113,6 +113,7 @@ title: "IT"
 - [The Jargon File](http://catb.org/jargon/html/index.html)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
+- [TOP500 - Supercomputer stats](https://top500.org/)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
 ## Favourite authors
 
