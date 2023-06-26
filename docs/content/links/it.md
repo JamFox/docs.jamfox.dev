@@ -8,6 +8,7 @@ title: "IT"
 ### Development
 
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [Comprehensive Rust](https://github.com/google/comprehensive-rust)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
