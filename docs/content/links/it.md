@@ -11,6 +11,7 @@ title: "IT"
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Reproducible Builds](https://reproducible-builds.org/) and [NixOS](https://nixos.org/)
 - [software that sucks less](https://suckless.org/philosophy/)
 - [The documentation system](https://documentation.divio.com/)
 
@@ -84,7 +85,6 @@ title: "IT"
 
 ### Uncategorized
 
-
 - [.the .product](http://theproduct.de/) and [video of .the .product [HD 60fps]](https://youtu.be/1dcrV_7JpXQ) and [elevated](https://www.pouet.net/prod.php?which=52938) and [video of elevated](https://youtu.be/jB0vBmiTr6o)
 - [ASCII textfiles archive](http://textfiles.com/)
 - [Choose an open source license](https://choosealicense.com/)
@@ -135,3 +135,4 @@ title: "IT"
 8. It's always DNS
 9. Are you certain it is plugged in?
 10. Reboot; if it still doesn't work, reboot again.
+
