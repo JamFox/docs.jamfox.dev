@@ -76,6 +76,7 @@ title: "Essays & Articles"
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g)
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A)
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws)
+- [Yak shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html)
 
 ## Favourite authors
 
