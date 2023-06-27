@@ -16,7 +16,7 @@ title: "Interesting"
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
-- [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about)
+- [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about) and [A one person oral history of Geocities](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 - [Ranger Roll](https://youtu.be/KPrATJ-u5Rg)
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
 - [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc)
