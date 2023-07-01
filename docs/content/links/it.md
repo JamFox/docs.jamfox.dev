@@ -10,6 +10,7 @@ title: "IT"
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [Comprehensive Rust](https://github.com/google/comprehensive-rust)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
+- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Reproducible Builds](https://reproducible-builds.org/) and [NixOS](https://nixos.org/)
@@ -82,6 +83,7 @@ title: "IT"
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans/)
+- [jdsalaro's Top Five Fonts for Programming](https://jdsalaro.com/blog/best-programming-fonts/)
 - [Recursive Sans & Mono](https://www.recursive.design/)
 
 ### Uncategorized
@@ -94,6 +96,7 @@ title: "IT"
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
+- [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 - [Fireship](https://www.youtube.com/c/Fireship)
 - [Fuck Off As A Service](https://foaas.herokuapp.com/)
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
