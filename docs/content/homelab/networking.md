@@ -44,7 +44,7 @@ Switches are managed using [Easy Smart Configuration Utility](https://www.tp-lin
 | Port | PVID      | LAG | Connection |
 |------|-----------|-----|------------|
 | 1PoE | 1         | -   | rpi0       |
-| 2PoE | 1         | -   | -          |
+| 2PoE | 1         | -   | rpi1       |
 | 3PoE | 1         | -   | -          |
 | 4PoE | 1         | -   | -          |
 | 5    | 1         | -   | Sol ILO    |
