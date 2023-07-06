@@ -36,9 +36,10 @@ title: "Essays & Articles"
 - [Normalization of deviance](https://danluu.com/wat/)
 - [Purpose, Moving Forward and Male Mental Health ft. Charisma On Command​](https://www.youtube.com/watch?v=9UKl9WOihBE)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
-- [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
-- [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 - [Stutz documentary](https://www.netflix.com/watch/81387962) and [The Tools](https://www.thetoolsbook.com/)
+- [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) and [HN discussion](https://news.ycombinator.com/item?id=35355703)
+- [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/)
+- [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 
 ### Economics
 

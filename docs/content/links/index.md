@@ -4,6 +4,12 @@ title: "Links"
 
 Links of all shapes and sizes, from interesting stuff I have found to other documentation.
 
+## Explore the web
+
+[Cloudhiker](https://cloudhiker.net/)
+
+[The Forest](https://theforest.link/)
+
 ## Daily reading
 
 [Hacker News](https://news.ycombinator.com/)
@@ -17,6 +23,8 @@ Links of all shapes and sizes, from interesting stuff I have found to other docu
 [The New Yorker](https://www.newyorker.com/)
 
 ## Useful links
+
+[envs - environments](https://envs.net/) - file hosting and url shortener, collaborative real time editing, microblogging, git service, collaborative real time markdown, decentralized communication, event manager, graphical pastebin, metasearch engine
 
 Archive webpage captures (including paywalled articles if lucky): [Webpage Archive](https://archive.today)
 

@@ -15,6 +15,10 @@ title: "Privacy"
 - [UBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - [Fanboy's Annoyances lists for UBlock](https://www.fanboy.co.nz/)
 
+## Block lists
+
+- [Let's Block It!](https://letsblock.it/)
+
 ## Passwords
 
 - [Spectre passwords](https://spectre.app/)

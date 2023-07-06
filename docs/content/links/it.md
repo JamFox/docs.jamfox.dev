@@ -67,6 +67,8 @@ title: "IT"
 
 ### Webdev
 
+- [CSS: The Good Parts](https://www.builder.io/blog/css-the-good-parts)
+- [humans.txt](https://humanstxt.org/)
 - [The 512KB Club](https://512kb.club/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
