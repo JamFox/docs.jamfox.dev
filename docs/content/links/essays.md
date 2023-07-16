@@ -13,6 +13,7 @@ title: "Essays & Articles"
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0)
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok)
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y)
+- [The Philosophy of Uncle Iroh: What does it mean to be a man?](https://www.youtube.com/watch?v=SezGJNNZmtI)
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ)
 
 ### Philosophy
@@ -56,9 +57,11 @@ title: "Essays & Articles"
 
 ### Uncategorized
 
+- [Always More History](https://www.hillelwayne.com/post/always-more-history/)
+- [Asynchronous conversations](https://manuelmoreale.com/asynchronous-conversations) and [The Quiet Web](https://briankoberlein.com/tech/quiet-web/)
 - [Breaching the Trust Thermocline](https://every.to/p/breaching-the-trust-thermocline-is-the-biggest-hidden-risk-in-business)
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw))
-- [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
+- [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html) and [VIA 24 Character Strengths](https://www.viacharacter.org/character-strengths)
 - [How to Prepare A Good Presentation](https://fouryears.eu/2019/02/11/how-to-prepare-a-good-presentation/)
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ)
