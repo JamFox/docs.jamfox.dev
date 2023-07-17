@@ -67,10 +67,15 @@ title: "IT"
 
 ### Webdev
 
+- [CSS Layout](https://csslayout.io/)
 - [CSS: The Good Parts](https://www.builder.io/blog/css-the-good-parts)
+- [evergreen resources](https://itsevergreen.rip/links/)
+- [Free Frontend](https://freefrontend.com)
 - [humans.txt](https://humanstxt.org/)
+- [newlambda resources](https://newlambda.neocities.org/explore/resources)
 - [The 512KB Club](https://512kb.club/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [freakphone resources](https://freakphone.net/links/resources.html)
 
 ### Hardware
 
