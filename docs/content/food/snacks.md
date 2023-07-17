@@ -54,3 +54,13 @@ Cheese on a toast, but make it advanced.
 3. Spread another layer of bechamel on top of the sandwich and another layer of cheese.
 4. Place into a broiler or oven until thoroughly brown and bubbly.
 5. Et voilà!
+
+## Porto melon
+
+!!! abstract inline "Ingredients"
+    - Porto wine
+    - Melon
+
+1. Cut the melon in half and remove the core from both sides.
+2. Fill the core with porto wine.
+3. Dig in with a spoon and enjoy!

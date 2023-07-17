@@ -35,6 +35,7 @@ title: "Essays & Articles"
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA)
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail)
 - [Normalization of deviance](https://danluu.com/wat/)
+- [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
 - [Purpose, Moving Forward and Male Mental Health ft. Charisma On Command​](https://www.youtube.com/watch?v=9UKl9WOihBE)
 - [Shoshikantetsu](https://asnewman.github.io/shoshikantetsu)
 - [Stutz documentary](https://www.netflix.com/watch/81387962) and [The Tools](https://www.thetoolsbook.com/)
