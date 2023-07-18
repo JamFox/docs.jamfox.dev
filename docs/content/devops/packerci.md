@@ -1,5 +1,5 @@
 ---
-title: "Automated OpenStack image builds with Packer and GiLab CI/CD"
+title: "Automated OpenStack image builds with Packer and GitLab CI/CD"
 date: "2022-05-19"
 ---
 

@@ -41,7 +41,7 @@ nav:
       - Configuration Management: 
           - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
       - GitLab:
-          - OpenStack Packer GiLab CI/CD: content/devops/packerci.md
+          - OpenStack Packer GitLab CI/CD: content/devops/packerci.md
           - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
       - Orchestration:
           - Orchestration Fundamentals Explained Simply: content/devops/orchestrationexplained.md
