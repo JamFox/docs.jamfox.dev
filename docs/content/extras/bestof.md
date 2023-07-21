@@ -33,6 +33,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Amelie](https://letterboxd.com/film/amelie/)
 - [American Beauty](https://letterboxd.com/film/american-beauty/)
 - [Apocalypse Now](https://letterboxd.com/film/apocalypse-now/)
+- [Barbie](https://letterboxd.com/anto1999/film/barbie/)
 - [Beau Is Afraid](https://letterboxd.com/film/beau-is-afraid/)
 - [Before Sunrise](https://letterboxd.com/film/before-sunrise/)
 - [Birdman](https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/)
