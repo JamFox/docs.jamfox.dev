@@ -19,12 +19,13 @@ title: "Essays & Articles"
 ### Philosophy
 
 - [Andrew Tate: How to be a Real Man](https://www.youtube.com/watch?v=y6_TOFy3k6k)
+- [Cogito Ergo Proxy: Radical Doubt in Japanese Anime](https://youtu.be/HLaVk4PRN6g)
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M)
+- [existing only to exist](https://www.youtube.com/watch?v=rCb4K_tc9OY)
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE)
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html)
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak)
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need)
-- [Cogito Ergo Proxy: Radical Doubt in Japanese Anime](https://youtu.be/HLaVk4PRN6g)
 
 ### Psychology
 
