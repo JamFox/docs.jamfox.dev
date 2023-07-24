@@ -4,6 +4,7 @@ title: "Sites"
 
 Discover new sites:
 
+- [the html review](https://thehtml.review/)
 - [Awwwards](https://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet.
 - [retronaut webring](https://webring.dinhe.net/)
 - [Funky webring](https://rocktype.neocities.org/funky-webring/)
