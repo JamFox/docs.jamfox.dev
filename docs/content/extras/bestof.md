@@ -4,30 +4,7 @@ title: Best Of
 
 A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order. Items marked with an asterisk `*` are considered 10/10. 
 
-!!! info "My subjective rating system"
-    **10: Perfect.** Almost nonexistent, even in my subjective view of perfection. The experience was so groundbreaking that I was able to disregard any negatives. Touched me so deep down that it changed me as a person in a noticeable way. Probably left me in the post-watch depression for as long as a month or so.
-
-    **9: Phenomenal.** Truly left an impact on me. It's an experience I can generally recall even with my bad memory and can enjoy re-watching multiple times. The flaws, if any, would take meticulous attention to actually find. Likely took a week or less in post-watch depression to process.
-
-    **8: Great.** Not so great as to touch the soul, so to speak, but wonderful enough that I was completely satisfied with the experience.
-
-    **7: Good.** A solid experience. The issues are definitely present although not glaring and easily overlooked because the overall experience was good.
-
-    **6: Above average.** Usually popcorn flicks fit this score well unless they go above and beyond. I got something out of it, however small that something may have been.
-
-    **5: Average.** Nothing gained and nothing lost.
-
-    **4: Below average.** Unsatisfying, but didn't completely rub me the wrong way.
-
-    **3: Bad.** Experiences that were not only unsatisfying, but also brought a hint of anger or resentment.
-
-    **2: Awful.** I deeply regret spending precious time and energy trying this experience. Induced an unstoppable rant about the awful mark it left on me.
-
-    **1: Abysmal.** Absolute joke, completely irredeemable in every way. Should not exist, and is absolutely offensive and wrong that it does exist.
-
 ## Movies
-
-[Letterboxd ratings](https://letterboxd.com/jamfox/films/by/member-rating/)
 
 - [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/) 
 - [Amelie](https://letterboxd.com/film/amelie/)
@@ -98,8 +75,6 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Anime
 
-[MyAnimeList Ratings](https://myanimelist.net/animelist/Jamfox?status=7&order=4&order2=0)
-
 - [Bakemonogatari](https://myanimelist.net/anime/5081/Bakemonogatari)
 - [Berserk](https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk)
 - [Cyberpunk Edgerunners](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
@@ -132,8 +107,6 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Books
 
-[GoodReads](https://www.goodreads.com/user/show/78068566-jamfox)
-
 - [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 - [Breakfast of Champions](https://www.goodreads.com/book/show/4980.Breakfast_of_Champions)
 - [Kafka on the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
@@ -148,8 +121,6 @@ A collection of lists of what I believe to be the best of the best from each med
 - `*` [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
 
 ## Games
-
-[Steam](https://steamcommunity.com/id/JamFox/)
 
 ### Singleplayer
 
@@ -210,3 +181,26 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Titanfall 2](https://www.imdb.com/title/tt3612274/)
 - [Titanfall](https://www.imdb.com/title/tt3304506/)
 - [VRChat](https://www.imdb.com/title/tt7833720/)
+
+## My rating system
+
+!!! info "My **subjective** rating system"
+    **10: Perfect.** Almost nonexistent, even in my subjective view of perfection. The experience was so groundbreaking that I was able to disregard any negatives. Touched me so deep down that it changed me as a person in a noticeable way. Probably left me in the post-watch depression for as long as a month or so.
+
+    **9: Phenomenal.** Truly left an impact on me. It's an experience I can generally recall even with my bad memory and can enjoy re-watching multiple times. The flaws, if any, would take meticulous attention to actually find. Likely took a week or less in post-watch depression to process.
+
+    **8: Great.** Not so great as to touch the soul, so to speak, but wonderful enough that I was completely satisfied with the experience.
+
+    **7: Good.** A solid experience. The issues are definitely present although not glaring and easily overlooked because the overall experience was good.
+
+    **6: Above average.** Usually popcorn flicks fit this score well unless they go above and beyond. I got something out of it, however small that something may have been.
+
+    **5: Average.** Nothing gained and nothing lost.
+
+    **4: Below average.** Unsatisfying, but didn't completely rub me the wrong way.
+
+    **3: Bad.** Experiences that were not only unsatisfying, but also brought a hint of anger or resentment.
+
+    **2: Awful.** I deeply regret spending precious time and energy trying this experience. Induced an unstoppable rant about the awful mark it left on me.
+
+    **1: Abysmal.** Absolute joke, completely irredeemable in every way. Should not exist, and is absolutely offensive and wrong that it does exist.

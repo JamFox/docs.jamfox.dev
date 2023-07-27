@@ -9,8 +9,6 @@ title: Extras
 
     Hosted on [GitHub Pages](https://pages.github.com/)
 
-    Domain from [NameCheap](https://namecheap.com)
-
 Not sure what else to put here, but for making it here, you shall be rewarded with a story I found on Reddit:
 
 > People: "We must consult the technopriests about how to do the thing!"
