@@ -121,7 +121,7 @@ title: "IT"
 - [RTINGS](https://www.rtings.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
-- [The Jargon File](http://catb.org/jargon/html/index.html)
+- [The Jargon File](http://catb.org/jargon/html/index.html) and [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
 - [TOP500 - Supercomputer stats](https://top500.org/)
