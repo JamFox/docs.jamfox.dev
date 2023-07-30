@@ -2,9 +2,9 @@
 title: "Interesting"
 ---
 
-- [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z)
-- [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom)
-- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/)
+- [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z) - Tuấn Mon
+- [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom) 
+- [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/) - Nathan Rooy
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [Bicycle](https://ciechanow.ski/bicycle/)
 - [Cameron's World](https://www.cameronsworld.net/)
@@ -13,17 +13,17 @@ title: "Interesting"
 - [Fauux Neocity](https://fauux.neocities.org/)
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 - [How Rich Am I?](https://howrichami.givingwhatwecan.org/how-rich-am-i)
-- [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
-- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people)
+- [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) - Terry Moore and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
+- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people) - Simon Berens
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about) and [A one person oral history of Geocities](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
-- [Ranger Roll](https://youtu.be/KPrATJ-u5Rg)
+- [Ranger Roll](https://youtu.be/KPrATJ-u5Rg) - Wil Willis
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
-- [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc)
+- [SON OF A DUNGEON: Making Of](https://youtu.be/2EXUEj30RKc) - Corridor Crew
 - [textfiles](http://web.textfiles.com/)
-- [The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/)
+- [The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/) - Roberto Casati
 - [The Cube Rule](https://cuberule.com/)
 - [The Library Of Babel](https://libraryofbabel.info/)
 - [The Pretty Good House](https://www.prettygoodhouse.org/)

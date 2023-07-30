@@ -7,12 +7,12 @@ title: "IT"
 
 ### Development
 
-- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) -  Justin Etheredge
 - [Comprehensive Rust](https://github.com/google/comprehensive-rust)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
-- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
-- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) - Amos Wenger
 - [Reproducible Builds](https://reproducible-builds.org/) and [NixOS](https://nixos.org/)
 - [software that sucks less](https://suckless.org/philosophy/)
 - [The documentation system](https://documentation.divio.com/)
@@ -21,22 +21,22 @@ title: "IT"
 
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
-- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
-- [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/)
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Greg GreyCat
+- [Easy Automated Snapshot-Style Backups with Linux and Rsync](http://www.mikerubel.org/computers/rsync_snapshots/) - Mike Rubel
 - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [Sad Servers](https://sadservers.com)
-- [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/)
+- [What time is it? A simple question with a complex answer.](https://andrea.corbellini.name/2023/01/23/what-time-is-it/) - Andrea Corbellini
 
 ### Networking
 
-- [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ)
+- [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ) - LiveOverflow
 - [dn42](https://dn42.eu/Home)
 - [How DNS Works](https://howdns.works/)
-- [Implement DNS in a weekend](https://implement-dns.wizardzines.com/index.html)
-- [Load Balancing](https://samwho.dev/load-balancing/)
-- [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/)
+- [Implement DNS in a weekend](https://implement-dns.wizardzines.com/index.html) - Julia Evans
+- [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
+- [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/) - Ed Harmoush
 - [Rule 53](https://github.com/pgl/rule53)
-- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo)
+- [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo) - Ben Eater
 
 ### Orchestration
 
@@ -53,23 +53,22 @@ title: "IT"
 
 ### Security
 
-- [Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
+- [Kerberos - Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 - [DevSec Hardening Framework](https://dev-sec.io/)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
-- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-- [What OAuth 2 is, how it works, what you need to know to use it](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
+- [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) - Robin Guldener and [What OAuth 2 is, how it works, what you need to know to use it](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
 
 ### Gamedev
 
-- [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y)
-- [The Book of Shaders](https://thebookofshaders.com/)
+- [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y) - 2kliksphilip
+- [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo and Jen Lowe
 
 ### Webdev
 
 - [Coolors](https://coolors.co/)
 - [CSS Layout](https://csslayout.io/)
-- [CSS: The Good Parts](https://www.builder.io/blog/css-the-good-parts)
+- [CSS: The Good Parts](https://www.builder.io/blog/css-the-good-parts) - Yoav Ganbar
 - [evergreen resources](https://itsevergreen.rip/links/)
 - [freakphone resources](https://freakphone.net/links/resources.html)
 - [Free Frontend](https://freefrontend.com)
@@ -82,9 +81,9 @@ title: "IT"
 
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
-- [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)
-- [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck)
-- [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/)
+- [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) - Jeremy Reimer
+- [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
+- [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 
 ### Fonts
 
@@ -99,33 +98,34 @@ title: "IT"
 - [.the .product](http://theproduct.de/) and [video of .the .product [HD 60fps]](https://youtu.be/1dcrV_7JpXQ) and [elevated](https://www.pouet.net/prod.php?which=52938) and [video of elevated](https://youtu.be/jB0vBmiTr6o)
 - [ASCII textfiles archive](http://textfiles.com/)
 - [Choose an open source license](https://choosealicense.com/)
-- [Ditherpunk](https://surma.dev/things/ditherpunk/)
+- [Ditherpunk](https://surma.dev/things/ditherpunk/) - Surma
 - [DIY Git in Python](https://www.leshenko.net/p/ugit)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
-- [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+- [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html) - Julio Merino
 - [Fireship](https://www.youtube.com/c/Fireship)
 - [Fuck Off As A Service](https://foaas.herokuapp.com/)
 - [Going to an Interview for Web Design Dressed as a Giant Spider](https://youtu.be/uDE4s4Ih1eY)
 - [Hacker News](https://news.ycombinator.com)
 - [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
-- [How to get rich as a solo software developer](https://youtu.be/A4_TFHzqAAg)
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
+- [How to get rich as a solo software developer](https://youtu.be/A4_TFHzqAAg) - Fireship
+- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) using video on Youtube
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
 - [Linux and FOSS News](https://lwn.net/)
-- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
+- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [RTINGS](https://www.rtings.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 - [The Jargon File](http://catb.org/jargon/html/index.html) and [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE)
+- [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE) - Josh Weinberg
 - [TOP500 - Supercomputer stats](https://top500.org/)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
+
 ## Favourite authors
 
 - [Andreas Kling](https://www.youtube.com/@awesomekling)
