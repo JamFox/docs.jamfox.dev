@@ -33,9 +33,23 @@ For most purposes, this is not a major difference. However, for consistency of P
 
 #### Fix SSH permissions
 
-```
+```bash
 find .ssh/ -type f -exec chmod 600 {} \;; find .ssh/ -type d -exec chmod 700 {} \;; find .ssh/ -type f -name "*.pub" -exec chmod 644 {} \;
 ```
+
+### Virtualization
+
+#### Check nested virtualization support
+
+Intel: 
+
+- `cat /sys/module/kvm_intel/parameters/nested`
+- `modinfo kvm_intel | grep -i nested`
+
+AMD: 
+
+- `cat /sys/module/kvm_amd/parameters/nested`
+- `modinfo kvm_amd | grep -i nested` 
 
 ### Disk
 
@@ -55,7 +69,7 @@ lsblk -d -o name,rota
 
 This is a single process doing random 4K writes. This is where the pain really, really lives; it's basically the worst possible thing you can ask a disk to do. Where this happens most frequently in real life: copying home directories and dotfiles, manipulating email stuff, some database operations, source code trees.
 
-```
+```bash
 fio --filename=sdX --name=random-write --ioengine=posixaio --rw=randwrite --bs=4k --size=4g --numjobs=1 --iodepth=1 --runtime=60 --time_based --end_fsync=1
 ```
 
@@ -66,7 +80,7 @@ This time, we're creating 16 separate 256MB files (still totaling 4GB, when all 
 
 This is also a pretty good, slightly pessimistic approximation of a busy, multi-user system like a NAS, which needs to handle multiple 1MB operations simultaneously for different users. If several people or processes are trying to read or write big files (photos, movies, whatever) at once, the OS tries to feed them all data simultaneously. This pretty quickly devolves down to a pattern of multiple random small block access. So in addition to "busy desktop with lots of apps," think "busy fileserver with several people actively using it."
 
-```
+```bash
 fio --filename=sdX --name=random-write --ioengine=posixaio --rw=randwrite --bs=64k --size=256m --numjobs=16 --iodepth=16 --runtime=60 --time_based --end_fsync=1
 ```
 
@@ -78,6 +92,6 @@ You'll see some kooky fluctuations on SSDs when doing this test. This is largely
 
 You can also see SSD performance fall off a cliff here if you exhaust an onboard write cache—TLC and QLC drives tend to have small write cache areas made of much faster MLC or SLC media. Once those get exhausted, the disk has to drop to writing directly to the much slower TLC/QLC media where the data eventually lands. This is the major difference between, for example, Samsung EVO and Pro SSDs—the EVOs have slow TLC media with a fast MLC cache, where the Pros use the higher-performance, higher-longevity MLC media throughout the entire SSD.
 
-```
+```bash
 fio --filename=sdX --name=random-write --ioengine=posixaio --rw=randwrite --bs=1m --size=16g --numjobs=1 --iodepth=1 --runtime=60 --time_based --end_fsync=1
 ```

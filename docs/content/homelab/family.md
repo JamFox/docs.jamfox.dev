@@ -1,5 +1,5 @@
 ---
-title: "JamLab Family Guides"
+title: "JamLab Family Guide"
 ---
 
 This page details information about the JamLab services and connection details.

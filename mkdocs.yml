@@ -3,8 +3,7 @@ nav:
   - Home: index.md
   - HomeLab:
       - content/homelab/index.md
-      - JamLab Family Guides: content/homelab/family.md
-      - JamLab Nomad: content/homelab/jamlabnomad.md
+      - JamLab Family Guide: content/homelab/family.md
       - Networking: content/homelab/networking.md
       - Power: content/homelab/power.md
       - Rack: content/homelab/rack.md
@@ -20,18 +19,10 @@ nav:
           - Proxmox VE: content/homelab/proxmox.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
-          - Ansible Vault: content/homelab/ansiblevault.md
-          - Mozilla SOPS: content/homelab/sops.md
-      - Provisioning:
-          - Hashicorp Packer: content/homelab/packer.md
-          - Hashicorp Terraform: content/homelab/terraform.md
       - DNS: 
-          - General DNS: content/homelab/dns.md
           - Dnsmasq: content/homelab/dnsmasq.md
-      - Container Orchestration:
-          - Hashicorp Consul: content/homelab/consul.md
-          - Hashicorp Nomad: content/homelab/nomad.md
-          - Kubernetes: content/homelab/kubernetes.md
+      - Archive:
+          - JamLab Nomad: content/homelab/jamlabnomad.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
@@ -41,14 +32,24 @@ nav:
           - Precommit: content/devops/precommit.md
       - Configuration Management: 
           - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
+          - Ansible Vault: content/devops/ansiblevault.md
+      - Provisioning:
+          - Hashicorp Packer: content/devops/packer.md
+          - Hashicorp Terraform: content/devops/terraform.md      
       - GitLab:
           - OpenStack Packer GitLab CI/CD: content/devops/packerci.md
           - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
       - Orchestration:
           - Orchestration Fundamentals Explained Simply: content/devops/orchestrationexplained.md
+          - Hashicorp Consul: content/devops/consul.md
+          - Hashicorp Nomad: content/devops/nomad.md
+          - Kubernetes: content/devops/kubernetes.md
       - Secrets Management:
           - Vault with AD: content/devops/vaultad.md
           - Vault with Kerberos: content/devops/vaultkrb.md
+          - Mozilla SOPS: content/devops/sops.md
+      - DNS:
+          - General DNS: content/devops/dns.md
       - AI:
           - Prompt Engineering: content/devops/prompteng.md
   - Food & Drinks:
