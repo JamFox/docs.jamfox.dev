@@ -5,7 +5,7 @@ hide:
 title: Homepage
 ---
 
-## Bird's-eye Overview
+# Bird's-eye Overview
 
 [**HomeLab**](content/homelab/index.md) - Anything directly related to the homelab infrastructure.
 

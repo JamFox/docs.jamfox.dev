@@ -1,7 +1,7 @@
-all: req test
+all: req serve
 
 req:
 	pip install -r docs/requirements.txt
 
-test: 
+serve: 
 	mkdocs serve
