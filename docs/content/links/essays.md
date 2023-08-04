@@ -8,6 +8,7 @@ title: "Essays & Articles"
 
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A) - Explanation Point
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
+- [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
 - [Psühholoogiline teater – eikusagil või kõikjal?](https://www.sirp.ee/s1-artiklid/teater/psuhholoogiline-teater-eikusagil-voi-koikjal/) - Eero Epner
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0) - Max Derrat
