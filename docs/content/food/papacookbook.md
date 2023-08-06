@@ -264,6 +264,26 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 
 1. Bake in 230 degree oven
 
+### Ginger-Garlic Ribs
+
+!!! abstract "Marinade Ingredients"
+    - A thumb of grated ginger
+    - 3 normal cloves of garlic 
+    - 3 pickled cloves of garlic
+    - Soy sauce
+    - Sweet soy sauce
+    - Vinegar (Chinese)
+    - Paprika powder
+    - Cayenne pepper
+    - Pepper
+
+1. Brush the ribs with marinade.
+2. Let it marinate overnight.
+3. Take out at least half of the marinade and put it aside.
+4. Cover in foil and leave in the oven at 180C for an hour.
+5. Take the foil off, add the saved marinade back on top, then leave in the oven with the grilling function at 220C.
+6. Take out when brown and slightly, just barely charred at the edges of the bones.
+
 ## Sides, Sauces & Spice Mixes
 
 ### Cauliflower with cheese
