@@ -7,6 +7,7 @@ title: "Essays & Articles"
 ### Media analysis
 
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A) - Explanation Point
+- [A Comprehensive Reading of Nier Automata [MASSIVE SPOILERS]](https://youtu.be/4EnbSokFpjQ) - Adam Millard - The Architect of Games
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
 - [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
