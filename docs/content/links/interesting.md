@@ -14,7 +14,7 @@ title: "Interesting"
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 - [How Rich Am I?](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) - Terry Moore and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
-- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://simonberens.me/blog/i-hired-5-people) - Simon Berens
+- [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me) - Simon Berens
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
