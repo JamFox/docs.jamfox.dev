@@ -70,6 +70,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Planet Earth](https://www.imdb.com/title/tt5491994/)
 - [Sense8](https://www.imdb.com/title/tt2431438/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
+- [The Bear](https://www.imdb.com/title/tt14452776/) (especially S02E07)
 - [Twin Peaks](https://www.imdb.com/title/tt0098936/)
 - `*` [Mad Men](https://www.imdb.com/title/tt0804503/) 
 
