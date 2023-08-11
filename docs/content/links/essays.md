@@ -75,6 +75,7 @@ title: "Essays & Articles"
 - [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg) - Louis Rossmann
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein) -  Jeremy Blaustein
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE) - Manley Reviews
+- [The Girl Internet and the Boy Internet](https://beccacore.substack.com/p/the-girl-internet-and-the-boy-internet) - Rebecca Jennings
 - [The Incredible Rise of North Korea’s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army) - Ed Caesar
 - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve) - Nathan J. Robinson
 - [The Network State](https://thenetworkstate.com/) - Balaji Srinivasan
