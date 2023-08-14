@@ -17,6 +17,7 @@ title: "Essays & Articles"
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y) - Max Derrat
 - [The Philosophy of Uncle Iroh: What does it mean to be a man?](https://www.youtube.com/watch?v=SezGJNNZmtI) - Hello Future Me
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ) - Jacob Geller
+- [The Unparalleled Brilliance of Pathologic 2's Mythology](https://www.youtube.com/watch?v=Uk3Dm3OTNY4) - Max Derrat
 
 ### Philosophy
 
