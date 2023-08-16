@@ -33,6 +33,15 @@ my_password: !vault |
     3136626431626536303530376336343832656537303632313433360a626438346336353331
 ```
 
+View encrypted variable with:
+
+```bash
+ansible localhost \
+       -m debug \
+       -a "var=<VAR NAME>" \
+       -e "@<PATH TO VAR FILE>"
+```
+
 Encrypt files with:
 
 ```bash
