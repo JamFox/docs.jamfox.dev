@@ -15,6 +15,8 @@ title: "Interesting"
 - [How Rich Am I?](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) - Terry Moore and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me) - Simon Berens
+- [Ig Nobel Prize Winner Higashiyama Atsuki and the "Between-Legs Effect"](https://www.nippon.com/en/japan-topics/c12403/)
+- [Let's Chat](https://www.youtube.com/@LetsChat) street epistemology
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
@@ -35,7 +37,6 @@ title: "Interesting"
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
-- [Let's Chat](https://www.youtube.com/@LetsChat) street epistemology
 
 ## Favourite authors
 
