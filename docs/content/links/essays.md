@@ -10,14 +10,15 @@ title: "Essays & Articles"
 - [A Comprehensive Reading of Nier Automata [MASSIVE SPOILERS]](https://youtu.be/4EnbSokFpjQ) - Adam Millard - The Architect of Games
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
 - [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
+- [Everything Is Content Now](https://www.youtube.com/watch?v=hAtbFwzZp6Y) - Patrick H. Willems
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
 - [Psühholoogiline teater – eikusagil või kõikjal?](https://www.sirp.ee/s1-artiklid/teater/psuhholoogiline-teater-eikusagil-voi-koikjal/) - Eero Epner
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0) - Max Derrat
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok) - Now You See It
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y) - Max Derrat
 - [The Philosophy of Uncle Iroh: What does it mean to be a man?](https://www.youtube.com/watch?v=SezGJNNZmtI) - Hello Future Me
-- [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ) - Jacob Geller
 - [The Unparalleled Brilliance of Pathologic 2's Mythology](https://www.youtube.com/watch?v=Uk3Dm3OTNY4) - Max Derrat
+- [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ) - Jacob Geller
 
 ### Philosophy
 
