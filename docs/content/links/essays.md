@@ -14,6 +14,7 @@ title: "Essays & Articles"
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
 - [Psühholoogiline teater – eikusagil või kõikjal?](https://www.sirp.ee/s1-artiklid/teater/psuhholoogiline-teater-eikusagil-voi-koikjal/) - Eero Epner
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0) - Max Derrat
+- [Taylor Swift Is Directing Movies Now. Here's Why You Should Care.](https://www.youtube.com/watch?v=bbUHATtb6GU) - Patrick H. Willems
 - [The Matrix: A Different Perspective](https://youtu.be/ORHB9c8e7ok) - Now You See It
 - [The Most Profound Moment in Gaming History](https://youtube.com/watch?v=jIYBod0ge3Y) - Max Derrat
 - [The Philosophy of Uncle Iroh: What does it mean to be a man?](https://www.youtube.com/watch?v=SezGJNNZmtI) - Hello Future Me
@@ -27,6 +28,7 @@ title: "Essays & Articles"
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M) - Sisyphus 55
 - [existing only to exist](https://www.youtube.com/watch?v=rCb4K_tc9OY) - Professor Viral
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE) -  oliSUNvia
+- [In Praise of Heroic Masculinity](https://archive.li/https://www.theatlantic.com/ideas/archive/2023/08/heroic-toxic-masculinity-boys/675172/) - Caitlin Flanagan
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html) - Daniel Little
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak) - Enn Kasak
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
