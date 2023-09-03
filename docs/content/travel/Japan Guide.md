@@ -6,6 +6,10 @@ FamilyMart - Similar to 7/11
 
 Lawson - Worse than others
 
+## Hikes
+
+Mount Fuji, different routes, front is shielded from winds, back is not, so it's colder. But front is more crowded.
+
 ## Cities
 
 ### Tokyo
