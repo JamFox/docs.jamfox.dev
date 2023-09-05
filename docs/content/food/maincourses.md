@@ -175,3 +175,49 @@ From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 9. Combine everything in a tortilla wrap, add some more cheese and wrap it up.
 10. Warm the wrap on a pan on medium heat or on a sandwich grill until the cheese melts.
 11. Et voilà!
+
+## Arayes
+
+From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr4gXyM) by Internet Shaquille.
+
+!!! abstract inline "Ingredients"
+    1 medium onion
+    1 bunch of parsley
+    2 garlic cloves
+    450g ground beef (lower fat content is better)
+    Kofta/kaftah spice mix
+    pita (tortillas work less well)
+
+!!! abstract inline "Alternative to Kofta/kaftah Spice Mix Ingredients"
+    1/2 tsp cumin
+    1/2 tsp coriander
+    1 tsp paprika
+    1 tsp black pepper
+    1 tbsp seven spice / baharat mix
+
+!!! abstract inline "Alternative to Seven Spice / Baharat Mix Ingredients"
+    2 tbsp allspice
+    1 1/2 tbsp cumin
+    1 tbsp coriander
+    2 tsp cloves
+    2 tsp nutmeg
+    1 1/2 tsp cinnamon
+    1 tsp black pepper
+
+**Notes:**
+
+- It's essentially kofta, but in between a carb, like a pita or a tortilla, giving the change to mix it up a bit.
+- The spice mix is the base of this dish, so it's important to get it right.
+- Moisture is a problem for this dish, but it wants to be crispy, grilled rather than juicy or, god forbid, soggy. How much you squeeze out of the onion-parsley, how much fat is in the beef and what kind of cooking method you use are all important.
+- I think there is a fresh component missing. Experiment and see what you like. Classic tortilla recipes provide good inspiration with cheese, tomato, lettuce, etc, but they feel a little at odds with the nature of indian spices.
+
+**Instructions:** 
+
+1. Cut onion into quarters and put into food processor with garlic.
+2. Remove stems from parsley and add to food processor.
+3. Process until homogenous and then take out and squeeze out excess moisture.
+4. Add ground beef and spice mix to food processor and process until homogenous (Add salt if your spice mix doesn't already have enough!).
+5. Even after squeezing out the moisture and using lower fat beef, the mixture will still be quite wet, but that's what you want. 
+6. Cut pita in half and stuff the mixture in between the halves.
+7. Brush the outside of the pita with olive oil.
+8. Slap them in a charcoal grill, or on a cast iron pan on the stove on medium heat (coals white with grill), or 200C oven until crispy and browned.
