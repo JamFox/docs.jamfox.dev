@@ -98,7 +98,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Sonny Boy](https://myanimelist.net/anime/48849/Sonny_Boy)
 - [Your Lie In April](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 - [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
-- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) 
+- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
+- `*` [Whisper of the Heart](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba)
 
 ## Theatre
 
