@@ -54,8 +54,9 @@ title: "IT"
 
 ### Security
 
-- [Kerberos - Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 - [DevSec Hardening Framework](https://dev-sec.io/)
+- [How Not To Secure Your Company (Target Data Breach)](https://www.youtube.com/watch?v=tGXV-ZRwcUM) - Kevin Fang
+- [Kerberos - Designing an Authentication System: a Dialogue in Four Scenes](https://web.mit.edu/kerberos/dialogue.html)
 - [Meltdown and Spectre](https://meltdownattack.com/)
 - [WebAuthn](https://webauthn.guide/#about-webauthn)
 - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard) - Robin Guldener and [What OAuth 2 is, how it works, what you need to know to use it](https://metacpan.org/dist/LWP-Authen-OAuth2/view/lib/LWP/Authen/OAuth2/Overview.pod)
