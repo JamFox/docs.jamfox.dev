@@ -71,6 +71,7 @@ title: "Essays & Articles"
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw)) - Martti J. Kari
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html) - Tim Urban and [VIA 24 Character Strengths](https://www.viacharacter.org/character-strengths) -  VIA Institute on Character
 - [How to Prepare A Good Presentation](https://fouryears.eu/2019/02/11/how-to-prepare-a-good-presentation/) - Konstantin Tretyakov
+- [Life exists because the law of increasing entropy](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/) - Natalie Wolchover
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g) - Folding Ideas 
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ) - People Make Games
 - [Neural Adaptation and Perception of Music](https://blog.slavin.ee/posts/neural-adaptation-and-perception-of-music/) - Anton Slavin
