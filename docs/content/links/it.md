@@ -2,7 +2,6 @@
 title: "IT"
 ---
 
-
 ## Links
 
 ### Development
@@ -10,8 +9,6 @@ title: "IT"
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) -  Justin Etheredge
 - [Comprehensive Rust](https://github.com/google/comprehensive-rust)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
-- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) - Amos Wenger
 - [Reproducible Builds](https://reproducible-builds.org/) and [NixOS](https://nixos.org/)
 - [software that sucks less](https://suckless.org/philosophy/)
@@ -29,9 +26,7 @@ title: "IT"
 
 ### Networking
 
-- [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ) - LiveOverflow
 - [dn42](https://dn42.eu/Home)
-- [How DNS Works](https://howdns.works/)
 - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/index.html) - Julia Evans
 - [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
 - [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/) - Ed Harmoush
@@ -47,7 +42,6 @@ title: "IT"
 ### Machine Learning
 
 - [colah's blog about ML, DL, NN](http://colah.github.io/)
-- [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
 - [Semaphore: Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
@@ -84,7 +78,6 @@ title: "IT"
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) - Jeremy Reimer
-- [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 
 ### Fonts
@@ -94,6 +87,18 @@ title: "IT"
 - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans/)
 - [jdsalaro's Top Five Fonts for Programming](https://jdsalaro.com/blog/best-programming-fonts/)
 - [Recursive Sans & Mono](https://www.recursive.design/)
+
+### Learning
+
+- [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ) - LiveOverflow
+- [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [How DNS Works](https://howdns.works/)
+- [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
+- [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
+- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### Uncategorized
 
@@ -117,13 +122,10 @@ title: "IT"
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
 - [Linux and FOSS News](https://lwn.net/)
-- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [RTINGS](https://www.rtings.com/)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 - [The Jargon File](http://catb.org/jargon/html/index.html) and [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE) - Josh Weinberg
 - [TOP500 - Supercomputer stats](https://top500.org/)
 - [What can I do for Arch Linux?](https://whatcanidofor.archlinux.org/)
