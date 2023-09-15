@@ -8,6 +8,7 @@ title: "Essays & Articles"
 
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A) - Explanation Point
 - [A Comprehensive Reading of Nier Automata [MASSIVE SPOILERS]](https://youtu.be/4EnbSokFpjQ) - Adam Millard - The Architect of Games
+- [Cyberpunk 2077 and loving a world that hates you](https://www.youtube.com/watch?v=ND0Qo9bX8JU) - Thane Bishop
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
 - [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [Everything Is Content Now](https://www.youtube.com/watch?v=hAtbFwzZp6Y) - Patrick H. Willems
