@@ -23,14 +23,14 @@ Sneak this next to the chips in a small bowl and watch as people unsuspectingly 
 From [Babish - Nachos](https://www.bingingwithbabish.com/recipes/nachos)
 
 !!! abstract inline "Ingredients"
-    3 small ripe avocados
-    1 clove fresh garlic
-    1/2 small red onion, minced
-    1 lime
-    1 tsp toasted and freshly ground cumin
-    Freshly ground pepper
-    1/2 jalapeño, finely choped
-    2 Tbsp cilantro, finely chopped
+    - 3 small ripe avocados
+    - 1 clove fresh garlic
+    - 1/2 small red onion, minced
+    - 1 lime
+    - 1 tsp toasted and freshly ground cumin
+    - Freshly ground pepper
+    - 1/2 jalapeño, finely choped
+    - 2 Tbsp cilantro, finely chopped
 
 **Notes:**
 

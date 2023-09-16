@@ -152,15 +152,15 @@ From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 [The Unlikely Rise of the French Tacos](https://www.newyorker.com/magazine/2021/04/19/the-unlikely-rise-of-the-french-tacos), recipe from [You Suck At Cooking](https://youtu.be/vz7gGD0ws4c).
 
 !!! abstract inline "Ingredients"
-    1 onion
-    2 garlic cloves
-    450g ground beef
-    Some fries
-    Cream
-    Gruyere cheese
-    Other french cheese of choice
-    Pickled jalapenos
-    Tortilla wraps
+    - 1 onion
+    - 2 garlic cloves
+    - 450g ground beef
+    - Some fries
+    - Cream
+    - Gruyere cheese
+    - Other french cheese of choice
+    - Pickled jalapenos
+    - Tortilla wraps
 
 **Instructions:**
 
@@ -181,28 +181,28 @@ From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr4gXyM) by Internet Shaquille.
 
 !!! abstract inline "Ingredients"
-    1 medium onion
-    1 bunch of parsley
-    2 garlic cloves
-    450g ground beef (lower fat content is better)
-    Kofta/kaftah spice mix
-    pita (tortillas work less well)
+    - 1 medium onion
+    - 1 bunch of parsley
+    - 2 garlic cloves
+    - 450g ground beef (lower fat content is better)
+    - Kofta/kaftah spice mix
+    - pita (tortillas work less well)
 
 !!! abstract inline "Alternative to Kofta/kaftah Spice Mix Ingredients"
-    1/2 tsp cumin
-    1/2 tsp coriander
-    1 tsp paprika
-    1 tsp black pepper
-    1 tbsp seven spice / baharat mix
+    - 1/2 tsp cumin
+    - 1/2 tsp coriander
+    - 1 tsp paprika
+    - 1 tsp black pepper
+    - 1 tbsp seven spice / baharat mix
 
 !!! abstract inline "Alternative to Seven Spice / Baharat Mix Ingredients"
-    2 tbsp allspice
-    1 1/2 tbsp cumin
-    1 tbsp coriander
-    2 tsp cloves
-    2 tsp nutmeg
-    1 1/2 tsp cinnamon
-    1 tsp black pepper
+    - 2 tbsp allspice
+    - 1 1/2 tbsp cumin
+    - 1 tbsp coriander
+    - 2 tsp cloves
+    - 2 tsp nutmeg
+    - 1 1/2 tsp cinnamon
+    - 1 tsp black pepper
 
 **Notes:**
 
