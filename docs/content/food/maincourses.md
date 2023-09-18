@@ -17,14 +17,15 @@ Collection of main courses.
 1. Pinch the butter, flour and salt into crumbling mass. 
 2. Add water and combine evenly.
 3. Push the dough onto the sides and bottom of the baking tray.
-4. Keep cold until the filling is ready.
-5. When the filling is ready, put the crust into the oven at 200°C for 10 minutes.
+4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
+5. Keep cold until the filling is ready.
+6. When the filling is ready, put the crust into the oven at 200°C for 10 minutes.
 
 !!! abstract inline "Filling Ingredients"
     - 600g marinated broiler fillet 
     - 2 yellow onions
     - 2 red paprika peppers
-    - 2 drained pineapple pieces
+    - 200g drained pineapple pieces
     - 200g Royal Blue blue cheese (or other not too neutral)
     - 400g whipping cream
     - 2 eggs
