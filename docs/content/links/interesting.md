@@ -11,6 +11,7 @@ title: "Interesting"
 - [Electricity Maps](https://app.electricitymaps.com/map)
 - [Every Noise At Once](https://everynoise.com/)
 - [Fauux Neocity](https://fauux.neocities.org/)
+- [Growing Living Rat Neurons To Play... DOOM?](https://www.youtube.com/watch?v=bEXefdbQDjw) - The Thought Emporium
 - [Has The LHC Destroyed The World Yet?](http://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 - [How Rich Am I?](https://howrichami.givingwhatwecan.org/how-rich-am-i)
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) - Terry Moore and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
