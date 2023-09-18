@@ -97,6 +97,7 @@ title: "IT"
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
+- [Putting the "You" in CPU](https://cpu.land/) and [repo](https://github.com/hackclub/putting-the-you-in-cpu) - Lexi Mattick
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -118,6 +119,7 @@ title: "IT"
 - [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
 - [How to get rich as a solo software developer](https://youtu.be/A4_TFHzqAAg) - Fireship
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) using video on Youtube
+- [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/)
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)

@@ -10,6 +10,7 @@ title: "Essays & Articles"
 - [A Comprehensive Reading of Nier Automata [MASSIVE SPOILERS]](https://youtu.be/4EnbSokFpjQ) - Adam Millard - The Architect of Games
 - [Cyberpunk 2077 and loving a world that hates you](https://www.youtube.com/watch?v=ND0Qo9bX8JU) - Thane Bishop
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
+- [Dishonored, and the Morality of Uncheckable Power](https://www.youtube.com/watch?v=FZ5s4vg-NfQ) by Thane Bishop
 - [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [Everything Is Content Now](https://www.youtube.com/watch?v=hAtbFwzZp6Y) - Patrick H. Willems
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
@@ -80,6 +81,7 @@ title: "Essays & Articles"
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U) - BobbyBroccoli
 - [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history) -  Sam Greszes 
 - [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg) - Louis Rossmann
+- [The "Do Something About It" Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/) - Ratika Deshpande
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein) -  Jeremy Blaustein
 - [The Game That Outsold The Halo Franchise.. And Killed A Man](https://youtu.be/9Oln-5mMZwE) - Manley Reviews
 - [The Girl Internet and the Boy Internet](https://beccacore.substack.com/p/the-girl-internet-and-the-boy-internet) - Rebecca Jennings
