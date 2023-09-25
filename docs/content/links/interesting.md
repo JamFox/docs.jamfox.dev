@@ -21,6 +21,7 @@ title: "Interesting"
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
+- [MMD - V.I.P.](https://youtu.be/OTLGWNruuOE) (aka how actual gunfights look like) - Zen
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about) and [A one person oral history of Geocities](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 - [Ranger Roll](https://youtu.be/KPrATJ-u5Rg) - Wil Willis
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
