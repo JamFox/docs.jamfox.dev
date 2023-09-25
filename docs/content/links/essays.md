@@ -33,6 +33,7 @@ title: "Essays & Articles"
 - [In Praise of Heroic Masculinity](https://archive.li/https://www.theatlantic.com/ideas/archive/2023/08/heroic-toxic-masculinity-boys/675172/) - Caitlin Flanagan
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html) - Daniel Little
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak) - Enn Kasak
+- [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) - WaitButWhy
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
 
 ### Psychology
