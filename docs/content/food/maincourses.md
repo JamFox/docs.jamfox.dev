@@ -181,7 +181,7 @@ From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 
 From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr4gXyM) by Internet Shaquille.
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 1 medium onion
     - 1 bunch of parsley
     - 2 garlic cloves
@@ -189,14 +189,14 @@ From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr
     - Kofta/kaftah spice mix
     - pita (tortillas work less well)
 
-!!! abstract inline "Alternative to Kofta/kaftah Spice Mix Ingredients"
+!!! abstract "Alternative to Kofta/kaftah Spice Mix Ingredients"
     - 1/2 tsp cumin
     - 1/2 tsp coriander
     - 1 tsp paprika
     - 1 tsp black pepper
     - 1 tbsp seven spice / baharat mix
 
-!!! abstract inline "Alternative to Seven Spice / Baharat Mix Ingredients"
+!!! abstract "Alternative to Seven Spice / Baharat Mix Ingredients"
     - 2 tbsp allspice
     - 1 1/2 tbsp cumin
     - 1 tbsp coriander
