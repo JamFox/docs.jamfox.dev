@@ -55,10 +55,11 @@ title: "Essays & Articles"
 
 ### Economics
 
-- [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
-- [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke 
-- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/) - Morgan Housel
+- [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
+- [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
+- [This is Financial Advice](https://www.youtube.com/watch?v=5pYeoZaoWrA) - Folding Ideas
+- [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke 
 
 ### Stories
 
