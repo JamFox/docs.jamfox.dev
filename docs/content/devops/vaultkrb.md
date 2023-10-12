@@ -18,7 +18,19 @@ Examples of Vault use cases:
 - [Kubernetes Secrets](https://www.vaultproject.io/use-cases/kubernetes)
 - [Secrets Management](https://www.vaultproject.io/use-cases/secrets-management)
 
-### How do I access Vault?
+## Why Vault is especially significant in tandem with Kerberos
+
+CERN is a bit different in one crucial way: there is extra trust between the inventory (inventory management system, network DB, DNS) and the Kerberos authentication.
+
+If provisioning takes care of both building a machine and adding it to inventory, then provided that the provisioning process and inventory can be trusted you can add a link between inventory and Kerberos auth.
+
+Machines can (and already do!) ask for authentication with Kerberos automatically (on first boot for example), then Kerberos itself verifies machine credentials with inventory to authenticate it.
+
+This needs pretty tight ACLs and very good trust in security and administration of inventory and Kerberos, but done correctly solves the zero secret problem - no more need to manually insert secrets.
+
+On successful authentication the machine can request internally trusted self-signed certificates from the CA. If we already trust this process then asking for stored (Hashicorp Vault) or encrypted (SOPS, Ansible Vault) configuration secrets is a possibility as well. This opens a whole can of security worms, *but* a whole world of possibilites too!
+
+## How do I access Vault?
 
 Use the CLI tool, by [installing it](https://www.vaultproject.io/docs/install) and setting your environment variable `VAULT_ADDR='https://vault.cern.ch:8200'`
 
