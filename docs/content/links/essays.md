@@ -72,6 +72,7 @@ title: "Essays & Articles"
 - [Always More History](https://www.hillelwayne.com/post/always-more-history/) - Hillel Wayne
 - [Asynchronous conversations](https://manuelmoreale.com/asynchronous-conversations) - Manuel Moreale and [The Quiet Web](https://briankoberlein.com/tech/quiet-web/) - Brian Koberlein
 - [Breaching the Trust Thermocline](https://every.to/p/breaching-the-trust-thermocline-is-the-biggest-hidden-risk-in-business) - Gareth Edwards 
+- [Do: Sol LeWitt’s Electrifying Letter of Advice on Self-Doubt, Overcoming Creative Block, and Being an Artist](https://www.themarginalian.org/2016/09/09/do-sol-lewitt-eva-hesse-letter/) and the audio version (even better actually): [Benedict Cumberbatch reads Sol LeWitt's letter to Eva Hesse](https://youtu.be/VnSMIgsPj5M)
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw)) - Martti J. Kari
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html) - Tim Urban and [VIA 24 Character Strengths](https://www.viacharacter.org/character-strengths) -  VIA Institute on Character
 - [How to Prepare A Good Presentation](https://fouryears.eu/2019/02/11/how-to-prepare-a-good-presentation/) - Konstantin Tretyakov

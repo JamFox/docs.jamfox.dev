@@ -64,3 +64,17 @@ Cheese on a toast, but make it advanced.
 1. Cut the melon in half and remove the core from both sides.
 2. Fill the core with porto wine.
 3. Dig in with a spoon and enjoy!
+
+## Feta-avacado toast
+
+!!! abstract inline "Ingredients"
+    - Feta cheese
+    - Avacado
+    - Tomato
+    - Baguette/ciabatta or equivalent bread
+
+1. Toast the bread.
+2. Load equal parts feta and mashed avacado.
+3. Slice tomatoes on top (try different thicknesses to find your balance).
+4. Add salt and freshly ground pepper
+5. Et voilà!

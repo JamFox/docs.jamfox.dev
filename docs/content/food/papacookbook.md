@@ -264,6 +264,27 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 
 1. Bake in 230 degree oven
 
+### Not-Japanese Macaroni Gratin
+
+Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecookbook.com/macaroni-gratin/).
+
+!!! abstract "Ingredients"
+    - Chicken thigh meat
+    - Leek
+    - Garlic
+    - Chili paste
+    - Gnocchi
+    - Oat cream
+    - Salt
+    - White pepper
+    - Soy sauce
+    - Cheddar cheese
+    - Parmesan
+    - Panko
+    - Nuts
+
+1. Bake in 230 degree oven
+
 ### Ginger-Garlic Ribs
 
 !!! abstract "Marinade Ingredients"
