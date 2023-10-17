@@ -65,7 +65,7 @@ Details:
 - Custom resolver pointing to homelab DNS.
 - Using custom domain
 
-## Add new client
+### Add new client
 
 Run `pivpn add` to generate new client config.
 

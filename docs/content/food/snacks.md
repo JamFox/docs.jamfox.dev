@@ -76,5 +76,5 @@ Cheese on a toast, but make it advanced.
 1. Toast the bread.
 2. Load equal parts feta and mashed avacado.
 3. Slice tomatoes on top (try different thicknesses to find your balance).
-4. Add salt and freshly ground pepper
+4. Add salt and freshly ground pepper.
 5. Et voilà!

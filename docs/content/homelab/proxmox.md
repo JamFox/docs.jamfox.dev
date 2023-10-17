@@ -197,9 +197,9 @@ Note: cloud-init drive can not be moved similarly, for that the backup restore m
 
 #### VM backup restore migration (with downtime)
 
-A backup must exist, if it does not follow: `<VM> -> Backup -> Backup Now`
+A backup must exist, if it does not, then follow: `<VM> -> Backup -> Backup Now`
 
-To restore follow: `<VM> -> Backup -> Restore` 
+To restore, follow: `<VM> -> Backup -> Restore` 
 
 Then select storage to restore to, check `Unique` if you wish to destroy the current one (if it exists), check `Start after restore` if you wish to immediately start it.
 
