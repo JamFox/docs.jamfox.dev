@@ -60,6 +60,8 @@ nav:
           - Sides, Sauces & Spice Mixes: content/food/sides.md
       - Papa's:
           - Papa's cookbook: content/food/papacookbook.md
+      - Other:
+          - What Happens When You Stop Consuming Alcohol: content/food/body-when-you-stop-drinking-alcohol.md
           
   - Links:
       - content/links/index.md
@@ -75,6 +77,10 @@ nav:
       - content/extras/index.md
       - Best Of: content/extras/bestof.md
       - Recommendations: content/extras/recs.md
+      - Travel:
+          - Japan Guide: content/travel/japan-guide.md
+      - Design:
+          - Design Rules You Can Always Follow: content/design/visual-design-rules-you-can-safely-follow.md
 
 site_name: JamFox's Documentation
 site_author: JamFox
