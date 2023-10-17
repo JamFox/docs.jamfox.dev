@@ -49,3 +49,24 @@ To simplify cabling, Waveshare PoE HAT (B) are used to power the Raspberry Pis u
 Waveshare's documentation for setting up the HAT: [Waveshare PoE HAT (B)](https://www.waveshare.com/wiki/PoE_HAT_(B)). CharlesGodwin's script simplifies this further (provided you are using RPi OS): https://gist.github.com/CharlesGodwin/adda3532c070f6f6c735927a5d6e8555
 
 My own repo for the script: [rpi-waveshare-poe-hat-b-script](https://github.com/JamFox/rpi-waveshare-poe-hat-b-script)
+
+## PiVPN
+
+!!! info
+    [PiVPN](https://pivpn.io/) |
+    [PiVPN docs](https://docs.pivpn.io/) 
+
+Install with script provided by PiVPN.
+
+Details:
+
+- Wireguard
+- Default port 51820
+- Custom resolver pointing to homelab DNS.
+- Using custom domain
+
+## Add new client
+
+Run `pivpn add` to generate new client config.
+
+Run `pivpn -qr` to regenerate QR code.

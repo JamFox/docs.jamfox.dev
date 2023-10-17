@@ -7,9 +7,6 @@ nav:
       - Networking: content/homelab/networking.md
       - Power: content/homelab/power.md
       - Rack: content/homelab/rack.md
-      - Raspberry Pi: 
-          - Installation: content/homelab/rpi.md
-          - PiVPN: content/homelab/pivpn.md
       - Synology DS220+:
           - Installation: content/homelab/ds220.md
       - HP DL380 G9:
@@ -17,6 +14,7 @@ nav:
           - Operating System: content/homelab/os.md
       - Operating systems: 
           - Proxmox VE: content/homelab/proxmox.md
+          - Raspberry Pi: content/homelab/rpi.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
       - DNS: 
