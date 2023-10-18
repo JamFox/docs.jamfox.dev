@@ -64,6 +64,8 @@ title: "Essays & Articles"
 ### Stories
 
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI) - exurb1a
+- [Gone But Not Forgotten. Mr Chi-City Kicks it with a Friend](https://www.youtube.com/watch?v=wK7GSARUs_Q) by MrChiCity3
+- [Sassy the Sasquatch](https://youtu.be/Dw_tGRblTXk) - The Big Lez Show and [The Big Lez Show is a Masterpiece](https://www.youtube.com/watch?v=JlBEaB_cFEU) - harryfromends
 - [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/) - Kent Nerburn
 - [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8) ([Alternative link](https://odysee.com/@KillTeamHungary:9/the-last-church-fan-animatied-40k-short:5?r=Fou8ecWf8R2MUXvGrvDKTewNtZCfeg5k)) - Kill Team Hungary YTC
 
