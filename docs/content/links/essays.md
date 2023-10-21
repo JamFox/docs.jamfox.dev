@@ -59,7 +59,12 @@ title: "Essays & Articles"
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 - [This is Financial Advice](https://www.youtube.com/watch?v=5pYeoZaoWrA) - Folding Ideas
-- [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke 
+- [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke
+
+### Physics
+
+- [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions) - Charles H. Lineweaver, Vihan M. Patel
+- [Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe](https://arxiv.org/abs/astro-ph/0310808) - Tamara M. Davis, Charles H. Lineweaver
 
 ### Stories
 
