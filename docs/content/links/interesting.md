@@ -39,6 +39,7 @@ title: "Interesting"
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
+- [Nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism)
 
 ## Favourite authors
 
