@@ -43,6 +43,7 @@ title: "Essays & Articles"
 - [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has) - Daniel Lavery
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) - Henrik Karlsson
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA) - Solar Sands
+- [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus) - Colin Galen
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail) - Max Countryman
 - [Normalization of deviance](https://danluu.com/wat/) - Dan Luu
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) - Nabeel S. Qureshi
