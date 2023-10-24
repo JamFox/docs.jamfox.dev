@@ -103,7 +103,12 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Theatre
 
+- [Iraani konverents](https://www.theatrum.ee/lavastused/iraani-konverents/) - Lembit Peterson (autor: Ivan Võrõpajev)
+- [Kaitseala](https://paideteater.ee/kaitseala) - Jan Teevet
 - [Komöödia](https://eamt.ee/lavastused/komoodia/) by Mart Kangro
+- [Labürint](https://paideteater.ee/laburint) - Jan Teevet
+- [Liblikapüüdja](https://www.kellerteater.ee/lavastused/liblikapyydja) - Kersti Heinloo (autor: John Fowles)
+- [Metazoa](https://linnateater.ee/lavastused/metazoa/) - Markus H. Ilves 
 - [ÜLT](https://www.eestinoorsooteater.ee/et/%C3%BClt) by Renate Keerd
 - `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
 
