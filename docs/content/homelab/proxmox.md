@@ -9,7 +9,9 @@ title: "Proxmox VE"
 
 Proxmox VE is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform. With the integrated web-based user interface you can manage VMs and containers, high availability for clusters, or the integrated disaster recovery tools with ease.
 
-## Proxmox VE No-Subscription Repository
+## Setup
+
+### Proxmox VE No-Subscription Repository
 
 Without an enterprise PVE license, the default apt repo will error. Remove the enterprise apt list `/etc/apt/sources.list.d/pve-enterprise.list` and add the `pve-no-subscription` repo instead. This is done in [Ansible management proxmox role](https://gitlab.hpc.taltech.ee/hpc/ansible/ansible-mono/-/tree/master/roles/proxmox). Adding `pve-no-subscription` repo is done using `soft_apt` group variables.
 
@@ -28,9 +30,9 @@ deb http://download.proxmox.com/debian/pve bookworm pve-no-subscription
 deb http://security.debian.org/debian-security bookworm-security main contrib
 ```
 
-## Networking
+### Networking
 
-### Using Linux networking
+#### Using Linux networking
 
 To set up VLANs and required networks from the table above follow the steps from [Proxmox Networking docs](https://pve.proxmox.com/wiki/Network_Configuration):
 
@@ -44,7 +46,7 @@ To set up VLANs and required networks from the table above follow the steps from
 
 NOTE: **NEVER reboot networking services manually**, use the tools/methods mentioned in [Proxmox Networking docs](https://pve.proxmox.com/wiki/Network_Configuration)! Manual restarts WILL break VM networking!
 
-### Using netplan
+#### Using netplan
 
 Using netplan is possible, but not recommended as every tap interface attached to a VM has to be added here in order to be persistent. They will not be added dynamically.
 
@@ -82,7 +84,7 @@ network:
         stp: false
 ```
 
-## User creation
+### User creation
 
 For management purposes, users should be created.
 
@@ -106,7 +108,7 @@ API token can be generated in the UI from `Datacenter` tab from `Permissions > A
 
 [User Management](https://pve.proxmox.com/wiki/User_Management)
 
-## Disk pools
+### Disk pools
 
 Root storage is created on installation using with ZFS and RAID by default.
 
@@ -137,6 +139,10 @@ Mirrored ZFS pool for VMs was created with new 4TB SSDs from the UI `Datacenter 
 - ashift: 12 ([Ashift tells ZFS what the underlying physical block size your disks use is.](https://jrs-s.net/2018/08/17/zfs-tuning-cheat-sheet/) It's in bits, so ashift=9 means 512B sectors (used by all ancient drives), ashift=12 means 4K sectors (used by most modern hard drives), and ashift=13 means 8K sectors (used by some modern SSDs). CT4000MX500 has sector size as follows - logical/physical: 512 bytes / 4096 bytes.)
 - Devices: `/dev/sdi /dev/sdj /dev/sdk /dev/sdl`
 
+### Clustering
+
+Proxmox supports clustering. For that to be useful, the modes have to have mostly mirroring setups. This applies especially for networking and storage. Migration between nodes is not possible if the network hardware is set to bridges that do not exist on the other machine.
+
 ## VM creation
 
 Main method for creating VMs in Proxmox is via cloning existing VM templates that were built using Packer.
@@ -152,7 +158,7 @@ To create a clone of a VM template manually from the CLI:
 
 - Read Proxmox [Cloud-Init Support docs](https://pve.proxmox.com/wiki/Cloud-Init_Support) and [Cloud-Init FAQ](https://pve.proxmox.com/wiki/Cloud-Init_FAQ)
 
-## ISO Upload
+### ISO Upload
 
 ISO images can be uploaded to Proxmox in two ways:
 
@@ -206,3 +212,11 @@ Then select storage to restore to, check `Unique` if you wish to destroy the cur
 Note: the restore process creates a new cloud-init drive that is also on the same storage as the restore storage that was selected.
 
 Downtime for the test VM with a fairly empty and small disk was less than 30 seconds, results may vary depending on the disk size.
+
+### VM Migration To Another Node
+
+Both servers have to be exact same versions. This includes packages and kernel.
+
+Upgrade, reboot if necessary, check versions on all nodes with: `pveversion -v`
+
+Note: if interfaces differ on nodes, you must temporarily replace them with something that exists on both nodes.
