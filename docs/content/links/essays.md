@@ -51,6 +51,7 @@ title: "Essays & Articles"
 - [Stutz documentary](https://www.netflix.com/watch/81387962) and [The Tools](https://www.thetoolsbook.com/)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) - Alex Murrell and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 - [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/) - Lawrence Yeo
+- [This Simple Fix Could Help Anxious Kids](https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html) - Camilo Ortiz and Lenore Skenazy
 - [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
 
 ### Economics
