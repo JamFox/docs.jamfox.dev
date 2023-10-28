@@ -305,6 +305,25 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 5. Take the foil off, add the saved marinade back on top, then leave in the oven with the grilling function at 220C.
 6. Take out when brown and slightly, just barely charred at the edges of the bones.
 
+### Pomegranate soya chicken
+
+!!! abstract "Chicken Ingredients"
+    - 1.5kg chicken
+    - 2 onions
+    - 4 gloves of garlic
+    - 2cm piece of ginger
+    - 2 stalks of celery
+    - pepper
+
+!!! abstract "Sauce Ingredients"
+    - Soya
+    - Sweet soya
+    - Rice vinegar
+    - Pomegranate syrup
+    - Harissa paste
+    - Starch
+    - Water
+
 ## Sides, Sauces & Spice Mixes
 
 ### Caponata
