@@ -109,8 +109,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Labürint](https://paideteater.ee/laburint) - Jan Teevet
 - [Liblikapüüdja](https://www.kellerteater.ee/lavastused/liblikapyydja) - Kersti Heinloo (autor: John Fowles)
 - [Metazoa](https://linnateater.ee/lavastused/metazoa/) - Markus H. Ilves 
-- [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend
 - [ÜLT](https://www.eestinoorsooteater.ee/et/%C3%BClt) by Renate Keerd
+- `*` [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend
 - `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
 
 ## Books
