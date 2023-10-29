@@ -125,6 +125,7 @@ title: "IT"
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
 - [Linux and FOSS News](https://lwn.net/)
+- [Making Chat (ro)Bots](https://www.youtube.com/watch?v=djzOBZUFzTw) - Boston Dynamics
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [RTINGS](https://www.rtings.com/)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
