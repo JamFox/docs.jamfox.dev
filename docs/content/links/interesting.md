@@ -22,6 +22,8 @@ title: "Interesting"
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 - [MMD - V.I.P.](https://youtu.be/OTLGWNruuOE) (aka how actual gunfights look like) - Zen
+- [neal.fun](https://neal.fun/)
+- [Nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism)
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/about) and [A one person oral history of Geocities](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 - [Ranger Roll](https://youtu.be/KPrATJ-u5Rg) - Wil Willis
 - [Should it be a meeting?](https://shoulditbeameeting.com/)
@@ -39,7 +41,6 @@ title: "Interesting"
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
-- [Nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism)
 
 ## Favourite authors
 

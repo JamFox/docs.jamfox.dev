@@ -121,6 +121,7 @@ title: "IT"
 - [How to get rich as a solo software developer](https://youtu.be/A4_TFHzqAAg) - Fireship
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) using video on Youtube
 - [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/) - neal
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [internet quote collection](http://bash.org/)
 - [libcimbar: Color Icon Matrix Barcodes](https://github.com/sz3/libcimbar)
