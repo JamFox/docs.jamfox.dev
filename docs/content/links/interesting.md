@@ -17,6 +17,7 @@ title: "Interesting"
 - [How to tie your shoes](https://youtu.be/zAFcV7zuUDA) - Terry Moore and [Granny Knot](https://www.fieggen.com/shoelace/grannyknot.htm)
 - [I Hired 5 People to Sit Behind Me and Make Me Productive for a Month](https://www.simonberens.com/p/i-hired-5-people-to-sit-behind-me) - Simon Berens
 - [Ig Nobel Prize Winner Higashiyama Atsuki and the "Between-Legs Effect"](https://www.nippon.com/en/japan-topics/c12403/)
+- [Internet friends building a network of modern villages](https://cabin.city/) and [The Network State Podcast](https://www.youtube.com/@thenetworkstate)
 - [Let's Chat](https://www.youtube.com/@LetsChat) street epistemology
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
