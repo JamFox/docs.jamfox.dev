@@ -35,6 +35,7 @@ title: "Essays & Articles"
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak) - Enn Kasak
 - [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) - WaitButWhy
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
+- [THE POWER OF NOW - Eckhart Tolle](https://www.youtube.com/watch?v=0ILHWvSZV4E) - Sisyphus 55
 
 ### Psychology
 
