@@ -39,6 +39,7 @@ title: "Essays & Articles"
 
 ### Psychology
 
+- [Are AI Girlfriends Ruining A Generation Of Men?](https://www.youtube.com/watch?v=Th4PejGz1Ic) - HealthyGamerGG
 - [Brain Waves Synchronize when People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/) and [Synchronization of Metronomes](https://youtu.be/Aaxw4zbULMs)
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions) - Erika Hall
 - [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has) - Daniel Lavery
