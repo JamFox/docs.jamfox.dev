@@ -67,6 +67,21 @@ Best served on ciabatta or equivalent bread.
     - 2 tablespoons of salt
     - 3 tablespoons of vinegar
 
+### Truffle-bacon sandwich
+
+!!! abstract "Ingredients"
+    - Bread
+    - Cream cheese
+    - Truffle sauce
+    - Bacon / serrano ham
+    - Egg
+
+1. Toast the bread.
+2. Coat in cream cheese and spread some truffle sauce.
+3. Add crispy bacon or serrano ham.
+4. Add thin slices of egg on top.
+5. Add salt and freshly ground pepper.
+
 ## Main courses
 
 ### Hoisin chicken
