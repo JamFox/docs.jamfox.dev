@@ -21,6 +21,7 @@ title: "Procrastination"
 
 - [2kliksphilip](https://www.youtube.com/c/2kliksphilip)
 - [Abroad in Japan](https://www.youtube.com/c/AbroadinJapan)
+- [BroScienceLife](https://www.youtube.com/@BroScienceLife)
 - [Casually Explained](https://www.youtube.com/@CasuallyExplained)
 - [Colin Furze](https://www.youtube.com/c/colinfurze)
 - [Corridor Crew](https://www.youtube.com/c/corridorcrew)
