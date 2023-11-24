@@ -5,7 +5,7 @@ date: "2021-12-07"
 
 ## Vault
 
-Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, or certificates. Vault provides encryption services that are gated by authentication and authorization methods. Using Vault’s UI, CLI, or HTTP API, access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
+Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, or certificates. Vault provides encryption services that are gated by authentication and authorization methods. Using Vault's UI, CLI, or HTTP API, access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
 
 [Hashicorp Vault documentation](https://www.vaultproject.io/docs/what-is-vault)
 
@@ -281,7 +281,7 @@ vault write ssh-client-signer/roles/my-role -<<"EOH"
 EOH
 ```
 
-It is beenficial for SSH key signing roles use templating to avoid manual policy creations. At the time of writing `hpc-default.hcl` used `ssh-client-signer/sign/{{identity.entity.aliases.<USERPASS-ACCESSOR-ID-HERE>.name}}` for templating. Which means SSH key signing roles must match `userpass` auth method names (which also have to be created manually).
+It is beneficial for SSH key signing roles use templating to avoid manual policy creations. At the time of writing `hpc-default.hcl` used `ssh-client-signer/sign/{{identity.entity.aliases.<USERPASS-ACCESSOR-ID-HERE>.name}}` for templating. Which means SSH key signing roles must match `userpass` auth method names (which also have to be created manually).
 
 #### Client side setup
 
@@ -447,9 +447,9 @@ Vault provides more secret engines and use cases that may be of use but were not
 
 #### Using Key/Value engine as a way to track and renew SSL certs
 
-Certificates get issued after Let’s Encrypt validates that users control the domain names in those certificates using the ACME API and “challenges”. The most popular ones are the HTTP-01 and the DNS-01. The first requires users to get a particular file and serve it via HTTP or HTTPS, so that the Let’s Encrypt servers are able to retrieve it. The latter uses DNS records respectively, so that Let’s Encrypt can validate the domain ownership via queries. There are already many clients which ease both of those processes with EFF’s Certbot being the most prominent one.
+Certificates get issued after Let's Encrypt validates that users control the domain names in those certificates using the ACME API and "challenges". The most popular ones are the HTTP-01 and the DNS-01. The first requires users to get a particular file and serve it via HTTP or HTTPS, so that the Let's Encrypt servers are able to retrieve it. The latter uses DNS records respectively, so that Let's Encrypt can validate the domain ownership via queries. There are already many clients which ease both of those processes with EFF's Certbot being the most prominent one.
 
-Certbot supports certificate creation and renewal using both challenge types. For dealing with multiple domain names from one server, HTTP-01 challenges seem to be cumbersome: Certbot must serve some traffic on ports 80 and 443 for the Let’s Encrypt servers to validate the domains. DNS-01 challenges are better on this perspective, but still this is not to be considered cloud-ready for two reasons:
+Certbot supports certificate creation and renewal using both challenge types. For dealing with multiple domain names from one server, HTTP-01 challenges seem to be cumbersome: Certbot must serve some traffic on ports 80 and 443 for the Let's Encrypt servers to validate the domains. DNS-01 challenges are better on this perspective, but still this is not to be considered cloud-ready for two reasons:
 
 - The certificate state is stored locally on the server
 - The renewal process depends on a running cronjob of the same server

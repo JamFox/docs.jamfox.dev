@@ -5,7 +5,7 @@ date: "2022-05-15"
 
 ## What is Vault?
 
-Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, or certificates. Vault provides encryption services that are gated by authentication and authorization methods. Using Vault’s UI, CLI, or HTTP API, access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
+Vault is an identity-based secrets and encryption management system. A secret is anything that you want to tightly control access to, such as API encryption keys, passwords, or certificates. Vault provides encryption services that are gated by authentication and authorization methods. Using Vault's UI, CLI, or HTTP API, access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
 
 Examples of Vault use cases:
 
@@ -521,7 +521,7 @@ Say that you wanted to share a new password for a generic service user `accsvc` 
 
 Assuming admin linked the policy to the `acc-adm-support` e-group then I would have access to create, update, read and delete secrets under the `kv/acc-adm` path upon login to Vault.
 
-So you would use the following CLI commad:
+So you would use the following CLI command:
 
 ```bash
 vault kv put kv/acc-adm/services/accsvc password=N3wSecur3p4ssw0rD!
