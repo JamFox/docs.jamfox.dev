@@ -1,3 +1,8 @@
+
+## General
+
+[How to Spend 14 Days in JAPAN](https://www.youtube.com/watch?v=DBVAAnq1dHo) - Abroad in Japan
+
 ## Grocery stores
 
 7/11 - Best
