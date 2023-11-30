@@ -24,4 +24,5 @@ Anything related to food, cooking and recipes is documented in this section.
 - [Internet Shaquille](https://www.youtube.com/@internetshaquille)
 - [Just One Cookbook](https://www.justonecookbook.com/)
 - [Pro Home Cooks](https://www.youtube.com/@ProHomeCooks)
+- [serious eats](https://www.seriouseats.com/)
 - [You Suck At Cooking](https://www.youtube.com/@yousuckatcooking)
