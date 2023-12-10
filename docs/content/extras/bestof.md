@@ -110,6 +110,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Liblikapüüdja](https://www.kellerteater.ee/lavastused/liblikapyydja) - Kersti Heinloo (autor: John Fowles)
 - [Metazoa](https://linnateater.ee/lavastused/metazoa/) - Markus H. Ilves 
 - [ÜLT](https://www.eestinoorsooteater.ee/et/%C3%BClt) by Renate Keerd
+- `*` [Eidos](https://www.ekspeditsioon.com/lavastused/eidos) by Jarmo Reha
 - `*` [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend
 - `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
 
