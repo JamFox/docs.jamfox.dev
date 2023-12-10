@@ -32,6 +32,7 @@ title: "Interesting"
 - [textfiles](http://web.textfiles.com/)
 - [The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries](https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/) - Roberto Casati
 - [The Cube Rule](https://cuberule.com/)
+- [The insane VFX of Live Sports](https://www.youtube.com/watch?v=qkWWcjeL_zM) - Corridor Crew
 - [The Library Of Babel](https://libraryofbabel.info/)
 - [The Pretty Good House](https://www.prettygoodhouse.org/)
 - [Tildes](https://tildes.net/)
