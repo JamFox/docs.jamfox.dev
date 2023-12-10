@@ -42,6 +42,7 @@ title: "IT"
 ### Machine Learning
 
 - [colah's blog about ML, DL, NN](http://colah.github.io/)
+- [LLM Visualization](https://bbycroft.net/llm)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
 - [Semaphore: Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
