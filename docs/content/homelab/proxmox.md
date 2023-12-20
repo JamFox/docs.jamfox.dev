@@ -220,3 +220,20 @@ Both servers have to be exact same versions. This includes packages and kernel.
 Upgrade, reboot if necessary, check versions on all nodes with: `pveversion -v`
 
 Note: if interfaces differ on nodes, you must temporarily replace them with something that exists on both nodes.
+
+### Foreign QEMU/KVM migration to Proxmox
+
+To migrate a foreign VM disk to Proxmox: 
+
+1. Copy the foreign VM disk image somewhere on the Proxmox host you wish to migrate to
+2. Use the following example to migrate:
+
+```bash
+VM_ID=666 #CHANGE ME!
+VM_IMAGE=/root/migr-disks/myimage.qcow2 #CHANGE ME!
+
+qm create ${VM_ID}
+qm disk import ${VM_ID} ${VM_IMAGE} local-zfs
+qm set ${VM_ID} --scsi0 local-zfs:vm-${VM_ID}-disk-0
+qm set ${VM_ID} --boot order=scsi0
+```
