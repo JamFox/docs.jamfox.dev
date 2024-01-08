@@ -59,6 +59,7 @@ title: "IT"
 ### Gamedev
 
 - [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y) - 2kliksphilip
+- [Mapping The Internet](https://www.youtube.com/watch?v=qkOem3HyR_w) - 8AAFFF
 - [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo and Jen Lowe
 - [Via: Solving the 100 GB Problem](https://www.youtube.com/watch?v=e5wAn-4e5hQ) - Ryan Flaherty
 
