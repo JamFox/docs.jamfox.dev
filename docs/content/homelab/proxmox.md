@@ -143,6 +143,12 @@ Mirrored ZFS pool for VMs was created with new 4TB SSDs from the UI `Datacenter 
 
 Proxmox supports clustering. For that to be useful, the modes have to have mostly mirroring setups. This applies especially for networking and storage. Migration between nodes is not possible if the network hardware is set to bridges that do not exist on the other machine.
 
+## Administration
+
+### "Host key verification failed. Failed to run vncproxy."
+
+Make sure `/etc/ssh/ssh_known_hosts` is up to date. Clean the file and add up to date values for both IPs and hostnames of each PVE node on all PVE nodes manually.
+
 ## VM creation
 
 Main method for creating VMs in Proxmox is via cloning existing VM templates that were built using Packer.
