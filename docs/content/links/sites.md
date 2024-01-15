@@ -4,12 +4,13 @@ title: "Sites"
 
 Discover new sites:
 
-- [the html review](https://thehtml.review/)
 - [Awwwards](https://www.awwwards.com/) - The awards for design, creativity and innovation on the Internet.
-- [retronaut webring](https://webring.dinhe.net/)
 - [Funky webring](https://rocktype.neocities.org/funky-webring/)
-- [Neocreatives webring](https://neocreatives.neocities.org/)
 - [indieblog.page](https://indieblog.page/)
+- [Neocreatives webring](https://neocreatives.neocities.org/)
+- [retronaut webring](https://webring.dinhe.net/)
+- [the html review](https://thehtml.review/)
+- [Where have all the websites gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
 - [wiby.me](https://wiby.me/surprise/) - Random WEB1.0 sites
 
 ## Favorite web designs
