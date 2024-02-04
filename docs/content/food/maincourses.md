@@ -15,7 +15,7 @@ Collection of main courses.
 **Crust Instructions:**
 
 1. Pinch the butter, flour and salt into crumbling mass. 
-2. Add water and combine evenly.
+2. Add water and combine evenly. It shouldn't bee crumbling but also not too wet.
 3. Push the dough onto the sides and bottom of the baking tray.
 4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
 5. Keep cold until the filling is ready.
