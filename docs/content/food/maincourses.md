@@ -7,10 +7,10 @@ Collection of main courses.
 ## Blue Cheese Chicken Pie
 
 !!! abstract inline "Crust Ingredients"
-    - 300g unsalted butter
-    - 700g flour
+    - 400g unsalted butter
+    - 650g flour
     - 1 tsp salt 
-    - 4 tbsp water
+    - a little less than 1 cup of water
 
 **Crust Instructions:**
 
