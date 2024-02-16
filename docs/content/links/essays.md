@@ -13,6 +13,7 @@ title: "Essays & Articles"
 - [Dishonored, and the Morality of Uncheckable Power](https://www.youtube.com/watch?v=FZ5s4vg-NfQ) by Thane Bishop
 - [Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)
 - [Everything Is Content Now](https://www.youtube.com/watch?v=hAtbFwzZp6Y) - Patrick H. Willems
+- [I Want to Tell You About My Favorite Fight Scene](https://www.youtube.com/watch?v=x5Ulxe-t6e8) - Jacob Geller
 - [Is Art Meaningless?](https://youtu.be/T6EOVCYx7mY) - Philosophy Tube
 - [Psühholoogiline teater – eikusagil või kõikjal?](https://www.sirp.ee/s1-artiklid/teater/psuhholoogiline-teater-eikusagil-voi-koikjal/) - Eero Epner
 - [Psycho-Pass - The "Brave New World" of Anime](https://www.youtube.com/watch?v=IWqbt8ioJK0) - Max Derrat
