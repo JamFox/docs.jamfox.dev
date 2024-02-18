@@ -73,6 +73,7 @@ title: "Essays & Articles"
 
 ### Stories
 
+- [The Egg](https://youtu.be/h6fcK_fRYaI) - Andy Weir
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI) - exurb1a
 - [Gone But Not Forgotten. Mr Chi-City Kicks it with a Friend](https://www.youtube.com/watch?v=wK7GSARUs_Q) by MrChiCity3
 - [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/) - Katie Zakrzewski 
