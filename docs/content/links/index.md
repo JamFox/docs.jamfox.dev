@@ -40,6 +40,8 @@ A better thesaurus: [Careful Words](https://carefulwords.com/) or [OneLook](http
 
 ## AI tools
 
+There Is An AI For That: [theresanaiforthat.com](https://theresanaiforthat.com/)
+
 YouTube video summarizer: [summarize.tech](https://www.summarize.tech/)
 
 Text assistant: [ChatGPT](https://chat.openai.com/)
