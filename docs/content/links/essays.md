@@ -44,7 +44,6 @@ title: "Essays & Articles"
 - [Brain Waves Synchronize when People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/) and [Synchronization of Metronomes](https://youtu.be/Aaxw4zbULMs)
 - [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions) - Erika Hall
 - [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has) - Daniel Lavery
-- [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) - Henrik Karlsson
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA) - Solar Sands
 - [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus) - Colin Galen
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail) - Max Countryman
@@ -55,8 +54,13 @@ title: "Essays & Articles"
 - [Stutz documentary](https://www.netflix.com/watch/81387962) and [The Tools](https://www.thetoolsbook.com/)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) - Alex Murrell and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 - [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/) - Lawrence Yeo
-- [This Simple Fix Could Help Anxious Kids](https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html) - Camilo Ortiz and Lenore Skenazy
 - [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
+
+### Parenting
+
+- [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) - Henrik Karlsson
+- [This Simple Fix Could Help Anxious Kids](https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html) - Camilo Ortiz and Lenore Skenazy
+- [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement) - Mariana Brussoni
 
 ### Economics
 
