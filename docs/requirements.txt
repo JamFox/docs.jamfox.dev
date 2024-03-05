@@ -3,4 +3,4 @@ markdown==3.5.2
 mkdocs-glightbox==0.3.7
 mkdocs-minify-plugin==0.8.0
 mkdocs-print-site-plugin==2.3.6
-mkdocs-exporter
+mkdocs-exporter==5.3.0
