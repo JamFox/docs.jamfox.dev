@@ -12,12 +12,12 @@ nav:
       - HP DL380 G9:
           - Installation: content/homelab/dl380g9.md
           - Operating System: content/homelab/os.md
-      - Operating systems: 
+      - Operating systems:
           - Proxmox VE: content/homelab/proxmox.md
           - Raspberry Pi: content/homelab/rpi.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
-      - DNS: 
+      - DNS:
           - Dnsmasq: content/homelab/dnsmasq.md
       - Archive:
           - JamLab Nomad: content/homelab/jamlabnomad.md
@@ -28,12 +28,12 @@ nav:
           - Git For Beginners: content/devops/gitbasics.md
           - Git DOs & DON'Ts: content/devops/gitdos.md
           - Precommit: content/devops/precommit.md
-      - Configuration Management: 
+      - Configuration Management:
           - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
           - Ansible Vault: content/devops/ansiblevault.md
       - Provisioning:
           - Hashicorp Packer: content/devops/packer.md
-          - Hashicorp Terraform: content/devops/terraform.md      
+          - Hashicorp Terraform: content/devops/terraform.md
       - GitLab:
           - OpenStack Packer GitLab CI/CD: content/devops/packerci.md
           - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
@@ -62,7 +62,7 @@ nav:
           - Papa's cookbook: content/food/papacookbook.md
       - Other:
           - What Happens When You Stop Consuming Alcohol: content/food/body-when-you-stop-drinking-alcohol.md
-          
+
   - Links:
       - content/links/index.md
       - Essays & Articles: content/links/essays.md
@@ -92,8 +92,8 @@ repo_url: https://github.com/JamFox/
 
 theme:
   name: material
+  #custom_dir: docs/overrides
   language: en
-  # custom_dir: overrides
   favicon: assets/icon.png
   logo: assets/icon.png
   icon:
@@ -112,7 +112,7 @@ theme:
     - content.code.copy
     - content.action.view
     - navigation.indexes
-    - navigation.prune 
+    - navigation.prune
     #- toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -136,7 +136,16 @@ theme:
 plugins:
   - search
   - glightbox
-  # - pdf-export
+  - exporter
+  - exporter-pdf
+  - exporter-extras:
+      buttons:
+        - title: Download as PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.plugins.pdf.button.enabled
+          attributes:
+            href: !!python/name:mkdocs_exporter.plugins.pdf.button.href
+            download: !!python/name:mkdocs_exporter.plugins.pdf.button.download
   - minify:
       minify_html: true
       minify_js: true
@@ -199,6 +208,8 @@ extra:
       link: https://www.linkedin.com/in/katurv/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/karlturvas/
+    - icon: fontawesome/solid/brain
+      link: https://brain.jamfox.dev/
 #    - icon: fontawesome/brands/steam
 #      link: https://steamcommunity.com/id/JamFox/
 #    - icon: fontawesome/brands/spotify
