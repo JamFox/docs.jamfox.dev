@@ -17,5 +17,5 @@ jobs:
           node-version: 18
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
-      - run: pip install mkdocs-material mkdocs-minify-plugin mkdocs-glightbox
+      - run: pip install mkdocs-material mkdocs-minify-plugin mkdocs-glightbox mkdocs-exporter
       - run: mkdocs gh-deploy --force
