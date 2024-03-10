@@ -24,6 +24,8 @@ Links of all shapes and sizes, from interesting stuff I have found to other docu
 
 ## Useful links
 
+[Online text to diagram tools](https://xosh.org/text-to-diagram/)
+
 [envs - environments](https://envs.net/) - file hosting and url shortener, collaborative real time editing, microblogging, git service, collaborative real time markdown, decentralized communication, event manager, graphical pastebin, metasearch engine
 
 Archive webpage captures (including paywalled articles if lucky): [Webpage Archive](https://archive.today)
