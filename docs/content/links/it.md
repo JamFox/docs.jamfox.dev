@@ -7,6 +7,7 @@ title: "IT"
 ### Development
 
 - [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) -  Justin Etheredge
+- [40 years of programming](https://liw.fi/40/) - Lars Wirzenius
 - [Comprehensive Rust](https://github.com/google/comprehensive-rust)
 - [Few lesser known tricks, quirks and features of C](https://blog.joren.ga/less-known-c)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) - Amos Wenger
@@ -95,7 +96,7 @@ title: "IT"
 
 - [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ) - LiveOverflow
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Git From the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley
 - [How DNS Works](https://howdns.works/)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
