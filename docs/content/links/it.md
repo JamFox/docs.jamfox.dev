@@ -46,6 +46,7 @@ title: "IT"
 - [LLM Visualization](https://bbycroft.net/llm)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
 - [Semaphore: Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
+- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/) - Learn how AI works from a real LLM implemented entirely in Excel
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ### Security
