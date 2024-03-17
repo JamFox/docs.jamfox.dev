@@ -75,6 +75,10 @@ title: "Essays & Articles"
 - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions) - Charles H. Lineweaver, Vihan M. Patel
 - [Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe](https://arxiv.org/abs/astro-ph/0310808) - Tamara M. Davis, Charles H. Lineweaver
 
+### Photography
+
+- [How DSLR Cameras Work](https://exclusivearchitecture.com/03-technical-articles-DSLR-00-table-of-contents.html) - Markus Kohlpaintner
+
 ### Stories
 
 - [The Egg](https://youtu.be/h6fcK_fRYaI) - Andy Weir

@@ -21,6 +21,7 @@ title: "Privacy"
 
 ## Passwords
 
+- [KeePassXC](https://keepassxc.org/) - No-nonsense, ad-free, tracker-free, and cloud-free Cross-platform Password Manager.
 - [Spectre passwords](https://spectre.app/)
 
 ## Communcation
@@ -29,5 +30,6 @@ title: "Privacy"
 
 ## Guides, Articles & Other
 
+- [JustDeleteMe](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 - [PRISM Break](https://prism-break.org/en/)
 - [Privacy Guides](https://www.privacyguides.org/)

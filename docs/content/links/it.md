@@ -45,6 +45,7 @@ title: "IT"
 - [colah's blog about ML, DL, NN](http://colah.github.io/)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/)
+- [Practical Deep Learning](https://course.fast.ai/)
 - [Semaphore: Full-Body Keyboard](https://github.com/everythingishacked/Semaphore)
 - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/) - Learn how AI works from a real LLM implemented entirely in Excel
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
@@ -81,8 +82,10 @@ title: "IT"
 ### Hardware
 
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
+- [From Nand to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/) - Shimon Schocken and Noam Nisan
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) - Jeremy Reimer
+- [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html) - Markus Kohlpaintner
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 
 ### Fonts
