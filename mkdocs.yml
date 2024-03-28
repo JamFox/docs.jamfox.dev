@@ -50,6 +50,7 @@ nav:
           - General DNS: content/devops/dns.md
       - AI:
           - Prompt Engineering: content/devops/prompteng.md
+          - Stable Diffusion: content/devops/stablediffusion.md
   - Food & Drinks:
       - content/food/index.md
       - JamFox's:
