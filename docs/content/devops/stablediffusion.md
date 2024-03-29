@@ -15,6 +15,20 @@ Basic settings to get started:
 - Sampling Method: k_lms
 - Random seed
 
+## Modes
+
+### img2img
+
+CFG: Low = image based, High = prompt/desc based
+
+Denoising (Try 0.50 and adjust from there):  Low = orig img based, High = more creative
+
+Steps 30 and again then adjust from there.
+
+I prefer using the DDIM method in many cases too. Seems to let me make more adjustments while keeping more of my original.
+
+Test prompt in txt2img first and if it consistently gives something similar to the image I'm going to use in img2img that helps too.
+
 ## Options
 
 ### Classifier Free Guidance (CFG)
@@ -49,6 +63,10 @@ The AI model starts from random noise and then iteratively denoises the image un
 Steps: 
 
 - Many problems that can be solved with a higher step count can also be solved with better prompting. If your subject's eyes are coming out terribly, try adding stuff to your prompt talking about their "symmetric highly detailed eyes, fantastic eyes, intricate eyes", etc. This isn't a silver bullet, though. Eyes, faces, and hands are difficult, non-trivial things to prompt to. Don't be discouraged. Keep experimenting, and don't be afraid to remove things from a prompt as well.
+
+### Denoising
+
+De-Noising is how close to the image you want it. Less is closer. Think of de-noising as de-constructing your image to be something else. The higher, the more it removes your image as a reference. Probably, not how it technically works, but it makes sense when explaining and trying for yourself.
 
 ### Seed
 
