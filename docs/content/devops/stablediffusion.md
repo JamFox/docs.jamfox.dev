@@ -15,6 +15,16 @@ Basic settings to get started:
 - Sampling Method: k_lms
 - Random seed
 
+## Checkpoints
+
+### SD 1.5
+
+Deliberate
+
+### SD XL
+
+sdxl-helloworld
+
 ## Modes
 
 ### img2img
@@ -29,6 +39,21 @@ I prefer using the DDIM method in many cases too. Seems to let me make more adju
 
 Test prompt in txt2img first and if it consistently gives something similar to the image I'm going to use in img2img that helps too.
 
+img2img Style transfer ideas:
+
+- run it through a different model with high CFG (12+) and low denoise (0.1-0.2)
+- img2img, change the prompt a little bit, set the CFG to 10/15, use the same seed. Use the denoise from 0.05 to 0.3 max, try multiple times step by step (0.05/1/1.5/2/2.5/3)
+
+## ControlNet
+
+[Control net models](https://huggingface.co/lllyasviel/sd_control_collection)
+
+Reddit suggestion: ip-adapter
+
+Canny: diffusers_xl_canny_full
+
+Copy pose from image: thibaud_xl_openpose
+
 ## Options
 
 ### Classifier Free Guidance (CFG)
@@ -39,6 +64,10 @@ Test prompt in txt2img first and if it consistently gives something similar to t
 - CFG 16 - 20: DO WHAT I SAY OR ELSE, AI.
 
 ### Samplers
+
+#### DPM++ 2M SDE Karras
+
+Slow, but good results. Steps 30, CFG 7-9
 
 #### LMS: The Old Reliable
 
