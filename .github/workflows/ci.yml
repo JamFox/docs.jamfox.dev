@@ -14,8 +14,8 @@ jobs:
           python-version: 3.x
       - uses: actions/setup-node@v4
         with:
-          node-version: 19
+          node-version: 20
       - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
+        run: npx playwright@1.41.2 install --with-deps
       - run: pip install mkdocs-material mkdocs-minify-plugin mkdocs-glightbox mkdocs-exporter
       - run: mkdocs gh-deploy --force
