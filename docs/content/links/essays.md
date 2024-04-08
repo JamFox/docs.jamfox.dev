@@ -64,6 +64,7 @@ title: "Essays & Articles"
 
 ### Economics
 
+- [Econ Life 101](https://www.asomo.co/s/econ-life-101) - Brett Scott (Altered States of Monetary Consciousness)
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/) - Morgan Housel
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
