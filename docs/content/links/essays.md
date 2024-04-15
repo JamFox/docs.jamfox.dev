@@ -55,19 +55,22 @@ title: "Essays & Articles"
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) - Alex Murrell and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 - [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/) - Lawrence Yeo
 - [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
+- [The War on Informality](https://www.asomo.co/p/the-war-on-informality) - Brett Scott
 
 ### Parenting
 
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) - Henrik Karlsson
 - [This Simple Fix Could Help Anxious Kids](https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html) - Camilo Ortiz and Lenore Skenazy
 - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement) - Mariana Brussoni
+- [Yes, Social Media Really Is a Cause of the Epidemic of Teenage Mental Illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic) - Jon Haidt
 
 ### Economics
 
-- [Econ Life 101](https://www.asomo.co/s/econ-life-101) - Brett Scott (Altered States of Monetary Consciousness)
+- [Econ Life 101](https://www.asomo.co/s/econ-life-101) - Brett Scott
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/) - Morgan Housel
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
+- [The Casino-Chip Society](https://www.asomo.co/p/casino-chip-cashless-society) and [The Deposit Myth](https://www.asomo.co/p/the-deposit-myth) - Brett Scott
 - [This is Financial Advice](https://www.youtube.com/watch?v=5pYeoZaoWrA) - Folding Ideas
 - [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke
 
@@ -126,6 +129,7 @@ title: "Essays & Articles"
 ## Favourite authors
 
 - [BDobbinsFTW](https://www.youtube.com/user/BDobbinsFTW)
+- [Brett Scott](https://substack.com/@brettscott)
 - [ContraPoints](https://www.youtube.com/c/ContraPoints)
 - [Errant Signal](https://www.youtube.com/@ErrantSignal/)
 - [Explanation Point](https://www.youtube.com/c/ExplanationPointAnime)

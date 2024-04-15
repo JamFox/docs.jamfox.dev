@@ -1,3 +1,7 @@
+---
+title: "Visual Design Rules You Can Safely Follow"
+---
+
 [Original article](https://anthonyhobday.com/sideprojects/saferules/)
 
 ## Use near-black and near-white instead of pure black and white
