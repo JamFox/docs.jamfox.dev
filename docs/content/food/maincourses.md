@@ -212,7 +212,7 @@ From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr
 - Moisture is a problem for this dish, but it wants to be crispy, grilled rather than juicy or, god forbid, soggy. How much you squeeze out of the onion-parsley, how much fat is in the beef and what kind of cooking method you use are all important.
 - I think there is a fresh component missing. Experiment and see what you like. Classic tortilla recipes provide good inspiration with cheese, tomato, lettuce, etc, but they feel a little at odds with the nature of indian spices.
 
-**Instructions:** 
+**Instructions:**
 
 1. Cut onion into quarters and put into food processor with garlic.
 2. Remove stems from parsley and add to food processor.
@@ -222,3 +222,43 @@ From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr
 6. Cut pita in half and stuff the mixture in between the halves.
 7. Brush the outside of the pita with olive oil.
 8. Slap them in a charcoal grill, or on a cast iron pan on the stove on medium heat (coals white with grill), or 200C oven until crispy and browned.
+
+## Creamy Chiken Soup
+
+From: https://www.melskitchencafe.com/creamy-chicken-soup/
+
+!!! abstract "Ingredients"
+    - 1 teaspoon olive oil
+    - about 3-4 medium carrots
+    - about 3 stalks celery
+    - 1 small/medium onion
+    - 1L chicken broth (either low sodium, or add less salt)
+    - 2 cubes chicken bouillon or 1 tablespoon chicken bouillon paste
+    - 3 bay leaves
+    - 1 tablespoon dried parsley
+    - 1 ½ teaspoons herbs de provence
+    - 1 teaspoon turmeric
+    - ½ teaspoon garlic powder or 2-3 cloves garlic, finely minced
+    - ½ teaspoon coarsely ground black pepper
+    - 0.75L milk or half-and-half or a combo
+    - about 400g chopped chiken
+    - Shredded parmesan, asiago or gruyere cheese, for topping (optional)
+
+!!! abstract "Roux"
+    - 6 tablespoons all-purpose flour
+    - 6 tablespoons butter
+
+**Instructions:**
+
+1. For the soup, in a 4-quart or larger saucepan, heat the olive oil over medium heat. Add the carrots, celery and onion. Pour in the broth and add the chicken bouillon, bay leaves, parsley, herbs de provence, turmeric, garlic powder, and pepper. Stir to combine.
+2. Bring the mixture to a simmer and cook, uncovered or partially covered, for 12-15 minutes until the vegetables are tender.
+3. For the roux, while the soup simmers, in a small saucepan, add the olive oil and butter and cook on medium heat until the butter is melted. Add the flour and whisk to combine until a smooth paste forms. Remove from the heat.
+4. Add the milk (and/or half-and-half) to the soup and heat through. Add the roux to the soup and cook, stirring or whisking constantly, over medium heat until the soup thickens and gently simmers, 5-7 minutes.
+5. Stir in the chicken, season to taste with salt and pepper (this is important for flavor!) and heat through.
+6. Remove the bay leaves and serve with a sprinkle of Parmesan, asiago or gruyere on top.
+
+**Notes:**
+
+- Half-and-half: the more half-and-half you use, the creamier this soup will be but milk works great, too. I suggest using at least 1% or 2% (not skim).
+- Bouillon: the chicken bouillon (cube, paste or granules) intensifies the overall flavor of the soup. If you leave it out, season well to taste.
+- Potatoes: potatoes make a great addition to this soup. I add peeled, diced potatoes (usually Yukon gold, but any variety would work) with the broth.

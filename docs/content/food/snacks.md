@@ -78,3 +78,27 @@ Cheese on a toast, but make it advanced.
 3. Slice tomatoes on top (try different thicknesses to find your balance).
 4. Add salt and freshly ground pepper.
 5. Et voilà!
+
+## Nõo soolapeekon / saltbacon
+
+Stolen from Veiko :D
+
+!!! abstract inline "Ingredients"
+    - Nõo saltbacon (the more stripes the better)
+
+1. Slice into comfortable slices
+2. Slap on a pan or grill (better).
+3. Et voilà!
+
+## Pesto rolls / Pestorullid
+
+!!! abstract inline "Ingredients"
+    - pâte feuilletée / lehttainas / dough
+    - cream cheese
+    - pesto
+    - grated cheese
+
+1. Roll dough.
+2. Add cream cheese, pesto and grated cheese.
+3. Roll dough with stuffing inside and cut into roughly 1cm slices.
+4. Et voilà!
