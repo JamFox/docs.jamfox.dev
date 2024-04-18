@@ -262,3 +262,47 @@ From: https://www.melskitchencafe.com/creamy-chicken-soup/
 - Half-and-half: the more half-and-half you use, the creamier this soup will be but milk works great, too. I suggest using at least 1% or 2% (not skim).
 - Bouillon: the chicken bouillon (cube, paste or granules) intensifies the overall flavor of the soup. If you leave it out, season well to taste.
 - Potatoes: potatoes make a great addition to this soup. I add peeled, diced potatoes (usually Yukon gold, but any variety would work) with the broth.
+
+## Caesar Salad
+
+!!! abstract "Salad Ingredients"
+    - Some chicken
+    - Roman salad
+
+**Chicken Instructions:**
+
+1. Cook some chicken to taste (keep more neutral, there will be enough taste in dressing), set aside.
+
+!!! abstract "Caesar dressing ingredients"
+    - 150ml mayonnaise
+    - 1 medium garlic clove, minced
+    - 2 teaspoons lemon juice, to taste
+    - 1 teaspoon Dijon mustard
+    - ½ teaspoon Worcestershire sauce*, to taste
+    - ⅛ teaspoon fine salt
+    - Some Parmesan cheese
+    - 1 tablespoon water
+    - Freshly ground black pepper, to taste
+
+**Dressing Instructions:**
+
+1. Combine everything and mix well
+
+!!! abstract "Croutons ingredients"
+    - Stale baguette, sourdough, ciabatta or equivalent
+    - Butter
+    - Neutral cheddar cheese
+
+**Crouton Instructions:**
+
+1. Cut bread into cubes
+2. Melt butter on pan
+3. Mix butter and bread, season to taste
+4. Keep adding butter if the pan is dry until bread is nice and brown
+5. In the end add cheese and keep mixing until the cheese is no longer dripping
+
+**Salad Instructions:**
+
+1. In a bowl mix roman salad, chicken, and some dressing
+2. Add croutons and grated cheese and mix some more
+3. Et voilà!
