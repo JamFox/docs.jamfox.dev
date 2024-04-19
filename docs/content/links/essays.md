@@ -46,6 +46,7 @@ title: "Essays & Articles"
 - [Bronze Age Has Never Looked Stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has) - Daniel Lavery
 - [Everything Is Television](https://youtu.be/-BLAUhBl0nA) - Solar Sands
 - [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://www.youtube.com/watch?v=Dm68uFy6gus) - Colin Galen
+- [Laziness Does Not Exist](https://drdevonprice.substack.com/p/laziness-does-not-exist) - Devon Price
 - [Let It Fail](https://www.maxcountryman.com/articles/let-it-fail) - Max Countryman
 - [Normalization of deviance](https://danluu.com/wat/) - Dan Luu
 - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles) - Nabeel S. Qureshi
@@ -54,8 +55,8 @@ title: "Essays & Articles"
 - [Stutz documentary](https://www.netflix.com/watch/81387962) and [The Tools](https://www.thetoolsbook.com/)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) - Alex Murrell and [HN discussion](https://news.ycombinator.com/item?id=35355703)
 - [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/) - Lawrence Yeo
-- [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
 - [The War on Informality](https://www.asomo.co/p/the-war-on-informality) - Brett Scott
+- [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
 
 ### Parenting
 
