@@ -9,12 +9,12 @@ Collection of main courses.
 !!! abstract inline "Crust Ingredients"
     - 400g unsalted butter
     - 650g flour
-    - 1 tsp salt 
+    - 1 tsp salt
     - a little less than 1 cup of water
 
 **Crust Instructions:**
 
-1. Pinch the butter, flour and salt into crumbling mass. 
+1. Pinch the butter, flour and salt into crumbling mass.
 2. Add water and combine evenly. It shouldn't bee crumbling but also not too wet.
 3. Push the dough onto the sides and bottom of the baking tray.
 4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
@@ -22,7 +22,7 @@ Collection of main courses.
 6. When the filling is ready, put the crust into the oven at 200°C for 10 minutes.
 
 !!! abstract inline "Filling Ingredients"
-    - 600g marinated broiler fillet 
+    - 600g marinated broiler fillet
     - 2 yellow onions
     - 2 red paprika peppers
     - 200g drained pineapple pieces
@@ -65,8 +65,8 @@ Collection of main courses.
 5. Steam while covered on low heat for 15 minutes.
 6. Add tomato paste and season
 7. Cover for another 20 minutes.
-8. Cook some spaghetti. 
-9. Add some bolognese to spaghetti. 
+8. Cook some spaghetti.
+9. Add some bolognese to spaghetti.
 10. (optional) Grate some parmesan on top.
 
 ## Kert Burger
@@ -83,34 +83,34 @@ Collection of main courses.
     - 100g minced beef
     - handful of Cheddar
     - 2 brioche buns
-    - 1 slice of tomato or pickles 
+    - 1 slice of tomato or pickles
 
 **Instructions:**
 
 1. Dice onion and kale into small pieces, mix with tabasco and mayo.
 2. Mix BBQ sauce, mayo and ketchup.
-3. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides. 
+3. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides.
 4. Heat a pan, add butter and brown the buns from both sides, set aside.
 5. Next season the bacon with salt, pepper and smoked paprika and cook until fat is rendered, then remove onto paper towels to absorb the fat and keep the bacon crispy.
 6. Add the patty with salt and pepper and cook 4-5 minutes from both sides, add some butter when flipping sides.
 7. On a smaller non stick pan, add cheddar.
-8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side. 
+8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side.
 9. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
 
-## Tartiflette 
+## Tartiflette
 
 !!! abstract inline "Ingredients"
     - 1kg potatoes
-    - 3 fresh thyme sprigs 
-    - 115g thick-cut bacon, cut into 5mm lardons 
+    - 3 fresh thyme sprigs
+    - 115g thick-cut bacon, cut into 5mm lardons
     - 2 yellow onions
-    - 120ml dry white wine 
-    - 120ml heavy cream or crème fraîche 
+    - 120ml dry white wine
+    - 120ml heavy cream or crème fraîche
     - 450g Reblochon
 
 **Instructions:**
 
-1. Peel and boil the potatoes with salt and thyme spigs (discard after boiled). 
+1. Peel and boil the potatoes with salt and thyme spigs (discard after boiled).
 2. Preheat oven to 175°C.
 3. Heat bacon over medium-high heat until fat begins to render.
 4. Lower heat to medium and stir occasionally, until fat is mostly rendered and bacon is cooked but not crisp, about 5 minutes.
@@ -118,10 +118,10 @@ Collection of main courses.
 6. Add diced onions, season with salt and pepper, and cook until onions have softened but not browned, about 8 minutes.
 7. Add white wine and cook, stirring, until wine has almost fully cooked off, 1 to 2 minutes.
 8. Toss everything together in a bowl and move to a baking dish with cream or crème fraîche.
-9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top. 
+9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top.
 10. Bake at 175°C until golden brown, about 40 minutes.
 
-## Wasabi Mayo Beef Tacos 
+## Wasabi Mayo Beef Tacos
 
 From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
 
@@ -218,7 +218,7 @@ From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr
 2. Remove stems from parsley and add to food processor.
 3. Process until homogenous and then take out and squeeze out excess moisture.
 4. Add ground beef and spice mix to food processor and process until homogenous (Add salt if your spice mix doesn't already have enough!).
-5. Even after squeezing out the moisture and using lower fat beef, the mixture will still be quite wet, but that's what you want. 
+5. Even after squeezing out the moisture and using lower fat beef, the mixture will still be quite wet, but that's what you want.
 6. Cut pita in half and stuff the mixture in between the halves.
 7. Brush the outside of the pita with olive oil.
 8. Slap them in a charcoal grill, or on a cast iron pan on the stove on medium heat (coals white with grill), or 200C oven until crispy and browned.

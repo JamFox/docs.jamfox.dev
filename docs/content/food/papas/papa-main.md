@@ -333,3 +333,41 @@ From [Joshua Weissman](https://www.joshuaweissman.com/post/okonomiyaki).
 **Pork Neck Chop Instructions:**
 
 1. Cut into 3cm steaks, season with salt and pepper, fry covered on both sides for 5 minutes or until desired doneness is achieved. Let rest on the cutting board for about 5 minutes, slice into strips, and serve with almond cream and fennel jam.
+
+## Lentil-vegetable casserole with some zest
+
+!!! abstract "Ingredients"
+    - 500g cleaned pumpkin
+    - 1 paprika
+    - 4 kale leafs
+    - 2 dl lentils
+    - 1 onion
+    - 3 gloves garlic
+    - 400g crushed tomatoes
+    - 5 dl vegetable bullion
+    - 1 small cinnamon peel
+    - 1 tbsp ground cumin
+    - 2 tsp ground chipotle
+    - 1 tsp dried oregano
+    - 2 tbsp olive oil
+    - some parsley or coriander leafs0
+
+!!! abstract inline "Sauce Ingredients"
+    - 2 dl fat yogurt
+    - 1 glove garlic
+    - 2 tsp ground chipotle
+    - a little lime or lemon juice if desired
+
+1. Chop the pumpkin, place on a baking tray with baking paper, season with salt, chipotle, cumin and oil.
+2. Mix and then bake at 200C for 20-25 minutes.
+3. Chop the onion, garlic, pepper.
+4. Tear kale from the thick roots and dice
+5. Cook the paprika and onion in a deeper pan about 7 minutes until soft
+6. Add garlic and seasoning, mix
+7. Add lentils, tomato and bullion
+8. Cover and let simmer for 20 minutes until lentils soften. Stir and add water if needed.
+9. Add kale and let soften for 3 minutes
+10. Mix in the pumpkin and season to taste
+11. Mix in the sauce
+12. Serve with some parsley or coriander
+13. Et voila!

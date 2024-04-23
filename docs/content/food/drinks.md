@@ -53,7 +53,7 @@ Collection of my favorite drinks.
 
 **[Hey Mambo](https://youtu.be/DbTVEOzs3VE)**:
 
-- 1 oz (30ml) Aperol 
+- 1 oz (30ml) Aperol
 - ½ oz (15ml) Mezcal
 - ½ oz (15ml) Blanco Tequila
 - 1½ oz (45ml) Pineapple Juice
@@ -64,7 +64,7 @@ Collection of my favorite drinks.
 
 - ¾ oz (20ml) bourbon
 - ¾ oz (20ml) Aperol
-- ¾ oz (20ml) Amaro Nonino 
+- ¾ oz (20ml) Amaro Nonino
 - ¾ oz (20ml) lemon juice
 
 ### "Sit in front of a fireplace with a book" cocktails

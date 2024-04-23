@@ -89,7 +89,7 @@ title: "Essays & Articles"
 - [The Egg](https://youtu.be/h6fcK_fRYaI) - Andy Weir
 - [Don't Hex the Water](https://youtu.be/Fzhkwyoe5vI) - exurb1a
 - [Gone But Not Forgotten. Mr Chi-City Kicks it with a Friend](https://www.youtube.com/watch?v=wK7GSARUs_Q) by MrChiCity3
-- [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/) - Katie Zakrzewski 
+- [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/) - Katie Zakrzewski
 - [Sassy the Sasquatch](https://youtu.be/Dw_tGRblTXk) - The Big Lez Show and [The Big Lez Show is a Masterpiece](https://www.youtube.com/watch?v=JlBEaB_cFEU) - harryfromends
 - [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/) - Kent Nerburn
 - [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8) ([Alternative link](https://odysee.com/@KillTeamHungary:9/the-last-church-fan-animatied-40k-short:5?r=Fou8ecWf8R2MUXvGrvDKTewNtZCfeg5k)) - Kill Team Hungary YTC
@@ -98,19 +98,19 @@ title: "Essays & Articles"
 
 - [Always More History](https://www.hillelwayne.com/post/always-more-history/) - Hillel Wayne
 - [Asynchronous conversations](https://manuelmoreale.com/asynchronous-conversations) - Manuel Moreale and [The Quiet Web](https://briankoberlein.com/tech/quiet-web/) - Brian Koberlein
-- [Breaching the Trust Thermocline](https://every.to/p/breaching-the-trust-thermocline-is-the-biggest-hidden-risk-in-business) - Gareth Edwards 
+- [Breaching the Trust Thermocline](https://every.to/p/breaching-the-trust-thermocline-is-the-biggest-hidden-risk-in-business) - Gareth Edwards
 - [Do: Sol LeWitt’s Electrifying Letter of Advice on Self-Doubt, Overcoming Creative Block, and Being an Artist](https://www.themarginalian.org/2016/09/09/do-sol-lewitt-eva-hesse-letter/) and the audio version (even better actually): [Benedict Cumberbatch reads Sol LeWitt's letter to Eva Hesse](https://youtu.be/VnSMIgsPj5M)
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw)) - Martti J. Kari
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html) - Tim Urban and [VIA 24 Character Strengths](https://www.viacharacter.org/character-strengths) -  VIA Institute on Character
 - [How to Prepare A Good Presentation](https://fouryears.eu/2019/02/11/how-to-prepare-a-good-presentation/) - Konstantin Tretyakov
 - [Life exists because the law of increasing entropy](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/) - Natalie Wolchover
-- [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g) - Folding Ideas 
+- [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g) - Folding Ideas
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ) - People Make Games
 - [Neural Adaptation and Perception of Music](https://blog.slavin.ee/posts/neural-adaptation-and-perception-of-music/) - Anton Slavin
 - [On keeping sketchbooks](https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html) - Matt Kirkland and [Pretty Sketchy](https://v4.jasonsantamaria.com/articles/pretty-sketchy/) - Jason Santa Maria
 - [Ristirahvas lohvi otsas](https://www.err.ee/1609194133/mihkel-mutt-ristirahvas-lohvi-otsas) - Mihkel Mutt
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U) - BobbyBroccoli
-- [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history) -  Sam Greszes 
+- [Shitposting is an art](https://www.polygon.com/2018/12/17/18142124/shitposting-memes-dada-art-history) -  Sam Greszes
 - [Social anxiety](https://www.youtube.com/watch?v=W9AHCymAbyg) - Louis Rossmann
 - [The "Do Something About It" Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/) - Ratika Deshpande
 - [The bizarre, true story of Metal Gear Solid’s English translation](https://www.polygon.com/2019/7/18/20696081/metal-gear-solid-translation-japanese-english-jeremy-blaustein) -  Jeremy Blaustein

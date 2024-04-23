@@ -102,3 +102,19 @@ Stolen from Veiko :D
 2. Add cream cheese, pesto and grated cheese.
 3. Roll dough with stuffing inside and cut into roughly 1cm slices.
 4. Et voilà!
+
+## Cruncy Simian
+
+From Afghanistan and India originally. Thank you Ahmed and Meeran!
+
+!!! abstract inline "Ingredients"
+    - 1 cup of chickpea flour
+    - 1 tsp ground Ajwana seed
+    - 1/2 tsp salt
+    - 1 tbsp vegetable oil
+    - yellow/red/green food coloring or spices
+
+1. Mix with water, make dough that's pretty much the same texture as making bread
+2. Use a press to turn balls of dough into strips, drop them directly into heated oil
+3. Fry for a minute or so, remove to a bowl and then press more in, repeat
+4. E4ta!
