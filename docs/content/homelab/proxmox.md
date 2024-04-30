@@ -11,6 +11,43 @@ Proxmox VE is a complete, open-source server management platform for enterprise 
 
 ## Setup
 
+### GPU fixes
+
+Machines with GPUs may need tweaking to get working properly.
+
+#### Installer stuck black screen with GPU
+
+1. When the ISO loads the menu option 'Install Proxmox VE' should be selected press 'e' to start editing the boot option.
+2. On the 4th line (starts with linux) add `nomodeset` instead of `quiet`
+3. Press Ctrl + x
+4. After (attempting to) get DHCP the system will state `Starting a root shell on tty3`
+5. Wait for the system to detect the installation failure and drop to shell in TTY1 (Do not switch to TTY3)
+6. Run `chmod 1777 /tmp to unlock /tmp`
+7. Run `apt update` (to verify that /tmp is unlocked)
+8. Run `Xorg -configure` To generate a new configuration file
+9. Run `mv /xorg.conf.new /etc/X11/xorg.conf` to move the file to the config directory
+10. Edit `/etc/X11/xorg.conf`, search for `nouveau` (there should be only one occurrence) and replace it with `fbdev`
+11. Run `startx`
+12. Enjoy a working GUI installer
+13. Use Ctrl + D to restart the system after the installer exits.
+
+PS: After reboot the screen may keep flickering but remote access should now work and it can probably be fixed by installing the proper drivers.
+
+#### Networking will fail to initialize with GPU
+
+GPUs are loaded before network, however GPUs may fail to load using nouveau driver. If this is the case then after install the host needs to be tweaked manually over IPMI:
+
+1. `vi /etc/modprobe.d/blacklist.conf`
+
+```text
+blacklist nouveau
+blacklist nvidiafb
+```
+
+2. `apt-get remove --purge nvidia*`
+3. `update-initramfs -u`
+4. `reboot`
+
 ### Proxmox VE No-Subscription Repository
 
 Without an enterprise PVE license, the default apt repo will error. Remove the enterprise apt list `/etc/apt/sources.list.d/pve-enterprise.list` and add the `pve-no-subscription` repo instead. This is done in [Ansible management proxmox role](https://gitlab.hpc.taltech.ee/hpc/ansible/ansible-mono/-/tree/master/roles/proxmox). Adding `pve-no-subscription` repo is done using `soft_apt` group variables.
