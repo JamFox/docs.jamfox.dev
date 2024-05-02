@@ -2,6 +2,10 @@
 node = "20"
 python = "3.10.12"
 
+[tasks.default]
+description = 'Install deps and test'
+depends = ['install','build','test']
+
 [tasks.install]
 description = 'Install MkDocs deps'
 depends = ['install-pip', 'install-npm']
