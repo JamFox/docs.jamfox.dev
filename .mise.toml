@@ -10,7 +10,7 @@ alias = 'i'
 [tasks.install-npm]
 run = [
     'npm install',
-    'playwright install chromium',
+    'npx playwright install chromium',
 ]
 hide = true
 
