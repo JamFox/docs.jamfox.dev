@@ -1,0 +1,27 @@
+{
+  "name": "docs.jamfox.dev",
+  "version": "1.0.0",
+  "description": "JamFox's Documentation on MkDocs Material",
+  "main": "mkdocs.yml",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mkdocs serve",
+    "deps": "pip install -r requirements.txt",
+    "clean": "rm -rf site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamFox/docs.jamfox.dev.git"
+  },
+  "author": "JamFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamFox/docs.jamfox.dev/issues"
+  },
+  "homepage": "https://github.com/JamFox/docs.jamfox.dev",
+  "dependencies": {
+    "playwright": "1.43"
+  }
+}

@@ -4,3 +4,4 @@ site/
 public
 *.Identifier
 *.bak
+node_modules/
