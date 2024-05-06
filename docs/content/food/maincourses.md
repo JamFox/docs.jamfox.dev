@@ -367,7 +367,7 @@ For toppings, feel free to leave or add things as you like.
 4. Next add ¼ cup of heavy cream and the juice of ⅓ a lime and cook for about 5 minutes or until thickened. Salt and pepper to taste.
 5. Remove from skillet and place in a bowl. Set aside.
 
-!!! abstract inline "Chiken ingredients"
+!!! abstract inline "Chicken ingredients"
     - 2 chicken breasts
     - 2 cloves garlic, roughly chopped
     - 2 limes, juiced
@@ -375,11 +375,6 @@ For toppings, feel free to leave or add things as you like.
     - Olive oil
     - Salt and pepper
     - Sugar
-
-!!! abstract inline "Garnish ingredients"
-    - Some white onion, diced
-    - Cilantro or parsley to taste
-    - Feta
 
 **Chicken instructions:**
 
@@ -389,4 +384,9 @@ For toppings, feel free to leave or add things as you like.
 4. Remove chicken from marinade and place on a ripping hot skillet. Cook until each side has browning and internal temperature reaches 165°F. Once fully cooked, cover with foil and set aside to rest.
 5. Slice into bite sized slices.
 
-**Taco instructions:** Assemble with tortilla, rajas con crema and some cotija or feta cheese, optionally some diced white onion. 
+!!! abstract inline "Garnish ingredients"
+    - Some white onion, diced
+    - Cilantro or parsley to taste
+    - Feta
+
+**Taco instructions:** Assemble with tortilla, rajas con crema and some cotija or feta cheese, optionally some diced white onion.
