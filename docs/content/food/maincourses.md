@@ -306,3 +306,87 @@ From: https://www.melskitchencafe.com/creamy-chicken-soup/
 1. In a bowl mix roman salad, chicken, and some dressing
 2. Add croutons and grated cheese and mix some more
 3. Et voilà!
+
+## Low-Effort Miso Ramen
+
+Partly inspired by [7 Ingredient Restaurant Style Ramen](https://www.youtube.com/watch?v=9gNIqtmYg5o) by Pro Home Cooks.
+
+IMPORTANT! With ramen it is important to prepare noodles, broth and toppings separately, not letting the tastes blend together makes it more exciting and defined, less of soup in the end AND this way the toppings don't get soggy.
+
+!!! abstract inline "Broth ingredients"
+    - Miso paste
+    - Bullion (according to meat, chicken in this case)
+    - 1cm cube of ginger
+    - 1-2 cloves garlic
+
+**Broth instructions:**
+
+1. Super finely dice or grate garlic and ginger into a pot at medium heat, let soften with some olive oil.
+2. Add 2 tbsp of miso paste and caramelize for 2 minutes.
+3. Add a handful of bullion at a time into the pot while sirring to emulsify the mixture.
+
+!!! abstract inline "Noodles ingredients"
+    - Ramen or egg noodles
+
+**Noodle instructions:** Cook according to packaging, but leave a little stiffer than you normally would (according to taste, if you like your noodles in ramen to be stronger) as they will absorb some broth too anyway.
+
+!!! abstract inline "Toppings ingredients"
+    - Mushrooms (shiitake or other according to taste)
+    - Bean sprouts
+    - Bok Choy
+    - Green onion
+    - Meat according to taste, chicken in this case
+    - Meat seasoning (salt, pepper, garlic powder, ground ginger, and chili powder)
+    - Half boiled eggs
+
+For toppings, feel free to leave or add things as you like.
+
+**Topping instructions:**
+
+- For mushrooms: add to pan with some garlic and ginger, cook at medium heat for about 5 minutes.
+- For chicken: mix chiken with salt, pepper, garlic powder, ground ginger, and chili powder, cook on medium heat 5-6 minutes, until they begin to brown, then flip and cook for another 5 minutes.
+- For bok choy: add to boiling water for 1 minute (don't let it get soggy), best to do this right after boiling noodles.
+- For green onion: slice into small rings.
+- For eggs: boil for 6 minutes and plop into cold water.
+
+## Tacos with Rajas Con Crema
+
+!!! abstract inline "Rajas Con Crema ingredients"
+    - 3 poblano peppers
+    - ¼ white onion, sliced
+    - Dried oregano
+    - ¼ cup heavy cream
+    - ½ lime, juiced
+    - Salt and pepper
+
+**Rajas Con Crema instructions:**
+
+1. Remove the tops and seeds from 3 poblano peppers and cut in half. Place peppers on an open flame until they turn black on the outside. Once they’re black put them in foil 10 minutes to let them rest and soften up.
+2. Remove from foil and remove all the charred outside skin and slice them into strips or into bite sized pieces.
+3. In a skillet add ½ white onion sliced with some olive oil and saute for about 1-2 minutes before adding your poblano peppers and some dried oregano. Let cook for a few minutes.
+4. Next add ¼ cup of heavy cream and the juice of ⅓ a lime and cook for about 5 minutes or until thickened. Salt and pepper to taste.
+5. Remove from skillet and place in a bowl. Set aside.
+
+!!! abstract inline "Chiken ingredients"
+    - 2 chicken breasts
+    - 2 cloves garlic, roughly chopped
+    - 2 limes, juiced
+    - Shakes of: white pepper, cumin, smoked paprika, oregano, cayenne pepper
+    - Olive oil
+    - Salt and pepper
+    - Sugar
+
+!!! abstract inline "Garnish ingredients"
+    - Some white onion, diced
+    - Cilantro or parsley to taste
+    - Feta
+
+**Chicken instructions:**
+
+1. Start by butterflying the chicken and placing it in a plastic bag.
+2. In a bowl combine 2 cloves of roughly chopped garlic, the juice of 2 limes, a good shake each of white pepper, cumin, smoked paprika, oregano, cayenne pepper, a few glugs of olive oil and some salt and pepper. Also you want to add a little bit of sugar because that will help with the browning later on. Whisk everything together and then put it in the bag with the chicken.
+3. Remove air from the bag and massage to combine everything. Place in bowl, and put the bowl in the fridge for 1-4 hours.
+4. Remove chicken from marinade and place on a ripping hot skillet. Cook until each side has browning and internal temperature reaches 165°F. Once fully cooked, cover with foil and set aside to rest.
+5. Slice into bite sized slices.
+
+**Taco instructions:** Assemble with tortilla, rajas con crema and some cotija or feta cheese, optionally some diced white onion. 
