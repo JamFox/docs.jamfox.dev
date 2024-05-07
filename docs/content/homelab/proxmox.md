@@ -283,6 +283,12 @@ qm set ${VM_ID} --boot order=scsi0
 
 ### VM with Nvidia GPU passthrough
 
+Some resources on this:
+
+- [The Ultimate Beginner's Guide to GPU Passthrough (Proxmox, Windows 10)](https://www.reddit.com/r/homelab/comments/b5xpua/the_ultimate_beginners_guide_to_gpu_passthrough/) and its shorter version [Proxmox PCI(e) Passthrough in 2 minutes](https://www.reddit.com/r/Proxmox/comments/lcnn5w/proxmox_pcie_passthrough_in_2_minutes/)
+- [PCI Passthrough](https://pve.proxmox.com/wiki/PCI_Passthrough)
+- [How to Install Nvidia Drivers on Rocky Linux 9 or 8](https://www.linuxcapable.com/how-to-install-nvidia-drivers-on-rocky-linux/)
+
 #### Creating the VM
 
 Create a new VM with following settings.
