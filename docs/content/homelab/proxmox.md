@@ -280,3 +280,42 @@ qm disk import ${VM_ID} ${VM_IMAGE} local-zfs
 qm set ${VM_ID} --scsi0 local-zfs:vm-${VM_ID}-disk-0
 qm set ${VM_ID} --boot order=scsi0
 ```
+
+### VM with Nvidia GPU passthrough
+
+#### Creating the VM
+
+Create a new VM with following settings.
+
+SCSI Controller: `VirtIO SCSI Single`
+
+BIOS: `OMVF` (UEFI, for PCIE support)
+
+Machine: `q35` (for PCIE support)
+
+Processor type: `host` or according to your architecture if that does not work
+
+#### Configuring the VM
+
+After VM is created change some settings.
+
+Under `Hardware` press `Add` and add a new PCI device, from the `Raw device` option select your GPU to pass through.
+
+Set `Display` to `VirtIO-GPU`
+
+Set `PCI Device` as `Primary GPU`
+
+Then boot the VM and from UEFI settings disable secure boot options and boot.
+
+Inside the VM set up the drivers as follows:
+
+1. Activate the CodeReady Builder (CRB): `sudo dnf config-manager --set-enabled crb`
+2. Install EPEL: `sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm https://dl.fedoraproject.org/pub/epel/epel-next-release-latest-9.noarch.rpm`
+3. Add Nvidia Repository: `sudo dnf config-manager --add-repo http://developer.download.nvidia.com/compute/cuda/repos/rhel9/$(uname -i)/cuda-rhel9.repo`
+4. Add dependencies: `sudo dnf install kernel-headers-$(uname -r) kernel-devel-$(uname -r) tar bzip2 make automake gcc gcc-c++ pciutils elfutils-libelf-devel libglvnd-opengl libglvnd-glx libglvnd-devel acpid pkgconfig dkms`
+5. Install Nvidia driver module and cuda:
+
+```bash
+dnf module install nvidia-driver:535-dkms
+dnf install cuda-12-2
+```
