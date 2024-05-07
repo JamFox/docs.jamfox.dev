@@ -295,6 +295,8 @@ Machine: `q35` (for PCIE support)
 
 Processor type: `host` or according to your architecture if that does not work
 
+Make sure VM has at least 20GB of space in boot disk.
+
 #### Configuring the VM
 
 After VM is created change some settings.
