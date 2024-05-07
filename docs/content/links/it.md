@@ -101,6 +101,7 @@ title: "IT"
 
 - [Computer Networking (Deepdive)](https://youtube.com/watch?v=6G14NrjekLQ) - LiveOverflow
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Diátaxis](https://diataxis.fr/) - A systematic approach to technical documentation authoring.
 - [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Git From the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley
 - [How DNS Works](https://howdns.works/)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)

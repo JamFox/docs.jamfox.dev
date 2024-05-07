@@ -2,7 +2,7 @@
 title: "Essays & Articles"
 ---
 
-## Links 
+## Links
 
 ### Media analysis
 
