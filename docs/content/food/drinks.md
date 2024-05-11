@@ -87,6 +87,14 @@ Collection of my favorite drinks.
 - 1.5oz (45 ml) Irish Whiskey
 - Dry shake some heavy cream to top
 
+**[Dead Rabbit Irish Coffee | How to Drink's version](https://www.youtube.com/watch?v=bEHBKSHCTu4)**:
+
+- 1 oz. or 30 ml. Bushmill's Irish Whiskey
+- ~.5 oz. or 15 ml. Simple Syrup
+- 3.5 oz. or 105 ml. Hot Coffee
+- Top with fresh whipped cream
+- garnish with grated nutmeg
+
 ### Caffeinated sweet flow
 
 **[Espresso Martini](https://www.youtube.com/watch?v=chC-4DxroMo)**:
