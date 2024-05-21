@@ -88,6 +88,7 @@ title: "IT"
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html) - Markus Kohlpaintner
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 - [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic) and [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work) - lcamtuf
+- [Build an 8-bit computer from scratch](https://eater.net/8bit) by Ben Eater and [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/) by Steve Chamberlin
 
 ### Fonts
 

@@ -6,6 +6,10 @@ Collection of my favorite drinks.
 
 ## Wine
 
+### Cider
+
+Galipette Brut
+
 ### Red wine
 
 - [Paul Mas - Château Paul Mas Coteaux du Languedoc Clos des Mures](https://www.vivino.com/paul-mas-chateau-paul-mas-coteaux-du-languedoc-clos-des-mures/w/1216807)

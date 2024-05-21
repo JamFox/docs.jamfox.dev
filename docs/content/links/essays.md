@@ -62,6 +62,7 @@ title: "Essays & Articles"
 
 - [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people) - Henrik Karlsson
 - [This Simple Fix Could Help Anxious Kids](https://www.nytimes.com/2023/09/04/opinion/anxiety-depression-teens.html) - Camilo Ortiz and Lenore Skenazy
+- [What "Follow Your Dreams" Misses | Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w) by Grant Sanderson
 - [Why Children Need Risk, Fear, and Excitement in Play](https://www.afterbabel.com/p/why-children-need-risk-fear-and-excitement) - Mariana Brussoni
 - [Yes, Social Media Really Is a Cause of the Epidemic of Teenage Mental Illness](https://www.afterbabel.com/p/phone-based-childhood-cause-epidemic) - Jon Haidt
 
