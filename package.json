@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/JamFox/docs.jamfox.dev",
   "dependencies": {
-    "playwright": "1.43"
+    "playwright": "1.44"
   }
 }
