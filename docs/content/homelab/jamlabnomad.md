@@ -6,6 +6,8 @@ title: "JamLab Nomad"
 
 JamLab was the first, now mostly deprecated experiment to fool around with IaC concepts and Hashicorp Nomad. This page describes the JamLab Nomad architecture.
 
+You can also find a [mediocre written report of the Nomad laboratory](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/homelab/attachments/jamlab-report.pdf) and a [better report on monitoring the Nomad system](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/homelab/attachments/jamlab-monitoring-report.pdf).
+
 ### Abstract overview
 
 JamLab is a hardware installed at JamFox's home, the lab is behind switch that is connected to the NAT gateway router with a dynamic IP and is managed by one or more [Proxmox Virtual Environment](https://www.proxmox.com/en/proxmox-ve) bare metal hypervisor hosts with a heap memory and CPU resources for running virtual machines. Internal DNS is provided by another low-power always-on bare metal host, in this case a Raspberry Pi. All bare metal hosts are configured using [Red Hat Ansible](https://www.ansible.com/). Secrets are handled by [Ansible Vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html). Hypervisor host runs virtual machines. Configured virtual machine templates are built with [Hashicorp Packer](https://www.packer.io/) and provisioned using [Hashicorp Terraform](https://www.terraform.io/) and configured by Ansible post-provision. Virtual machines fall into two groups: base infrastructure nodes (called `vb` nodes) and service infrastructure nodes (called `vs` nodes). Base infrastructure nodes run [Hashicorp Consul service discovery](https://www.consul.io/), [Hashicorp Nomad orchestration servers](https://www.hashicorp.com/products/nomad). Service infrastructure nodes use Nomad clients to run containerized services.
@@ -31,8 +33,6 @@ JamLab repositories:
 ### Overview diagram
 
 ![jamlab-overview diagram](attachments/jamlab-overview.png)
-
-![Mediocre written report of the Nomad laboratory](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/homelab/attachments/jamlab-report.pdf)
 
 ## Accessing services
 
