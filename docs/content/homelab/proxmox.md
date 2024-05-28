@@ -317,6 +317,10 @@ Then boot the VM and from UEFI settings disable secure boot options and boot.
 
 Inside the VM set up the drivers as follows:
 
+For Ubuntu: `sudo apt install nvidia-driver-535 nvidia-dkms-535`
+
+For RedHat:
+
 1. Activate the CodeReady Builder (CRB): `sudo dnf config-manager --set-enabled crb`
 2. Install EPEL: `sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm https://dl.fedoraproject.org/pub/epel/epel-next-release-latest-9.noarch.rpm`
 3. Add Nvidia Repository: `sudo dnf config-manager --add-repo http://developer.download.nvidia.com/compute/cuda/repos/rhel9/$(uname -i)/cuda-rhel9.repo`

@@ -118,3 +118,16 @@ From Afghanistan and India originally. Thank you Ahmed and Meeran!
 2. Use a press to turn balls of dough into strips, drop them directly into heated oil
 3. Fry for a minute or so, remove to a bowl and then press more in, repeat
 4. E4ta!
+
+## Garlic cottage cheese sickosnack
+
+Best when sick :P
+
+!!! abstract inline "Ingredients"
+    - Cottage cheese (with shrimp chunks)
+    - Garlic
+    - Thin snack bread (sourdough rye thins)
+
+1. Scoop cottage cheese on the bread.
+2. Slice garlic into thin stick, stab them into the cheese.
+3. Et voilà!
