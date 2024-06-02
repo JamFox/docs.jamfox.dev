@@ -6,7 +6,7 @@ A collection of lists of what I believe to be the best of the best from each med
 
 ## Movies
 
-- [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/) 
+- [A Star Is Born](https://letterboxd.com/film/a-star-is-born-2018/)
 - [Amelie](https://letterboxd.com/film/amelie/)
 - [American Beauty](https://letterboxd.com/film/american-beauty/)
 - [Apocalypse Now](https://letterboxd.com/film/apocalypse-now/)
@@ -17,6 +17,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Black Mirror: Bandersnatch](https://letterboxd.com/film/black-mirror-bandersnatch/)
 - [Bladerunner 2049](https://letterboxd.com/film/blade-runner-2049/)
 - [Borat](https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/)
+- [Challengers](https://letterboxd.com/film/challengers/)
 - [Django Unchained](https://letterboxd.com/film/django-unchained/)
 - [Dune](https://letterboxd.com/film/dune-2021/)
 - [Eternal Sunshine of the Spotless Mind](https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/)
@@ -71,8 +72,9 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Sense8](https://www.imdb.com/title/tt2431438/)
 - [SpongeBob SquarePants](https://www.imdb.com/title/tt0206512/)
 - [The Bear](https://www.imdb.com/title/tt14452776/) (especially S02E07)
+- [The Office](https://www.imdb.com/title/tt0386676/)
 - [Twin Peaks](https://www.imdb.com/title/tt0098936/)
-- `*` [Mad Men](https://www.imdb.com/title/tt0804503/) 
+- `*` [Mad Men](https://www.imdb.com/title/tt0804503/)
 
 ## Anime
 

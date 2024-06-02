@@ -150,6 +150,7 @@ title: "Essays & Articles"
 - [Sisyphus 55](https://www.youtube.com/@Sisyphus55)
 - [Solar Sands](https://www.youtube.com/c/SolarSands)
 - [Steven Wittens](https://acko.net/)
+- [Thane Bishop](https://www.youtube.com/@ThaneBishop)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Whitelight](https://www.youtube.com/c/Whitelight)
 - Enn Kasak
