@@ -7,7 +7,8 @@ title: "Prompt Engineering"
     [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) |
     [Microsoft - Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering) |
     [Jailbreak Chat](https://www.jailbreakchat.com/) |
-    [LLM list with stats](https://docs.google.com/spreadsheets/d/1kT4or6b0Fedd-W_jMwYpb63e1ZR3aePczz3zlbJW-Y4/edit#gid=0)
+    [LLM list with stats](https://docs.google.com/spreadsheets/d/1kT4or6b0Fedd-W_jMwYpb63e1ZR3aePczz3zlbJW-Y4/edit#gid=0) |
+    [What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
 
 From [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
