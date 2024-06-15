@@ -136,6 +136,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
 - `*` [God Emperor of Dune](https://www.goodreads.com/book/show/44439415-god-emperor-of-dune)
 - `*` [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
+- Terry Pratchett's Discworld
 
 ## Games
 

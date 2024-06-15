@@ -8,7 +8,7 @@ Collection of my favorite drinks.
 
 ### Cider
 
-Galipette Brut
+- Galipette Brut
 
 ### Red wine
 
@@ -38,6 +38,10 @@ Galipette Brut
 ## Rum
 
 - Bumbu The Original
+
+## Gin
+
+- [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano
 
 ## Cocktails
 
