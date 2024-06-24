@@ -33,3 +33,8 @@ title: "Privacy"
 - [JustDeleteMe](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 - [PRISM Break](https://prism-break.org/en/)
 - [Privacy Guides](https://www.privacyguides.org/)
+
+## Windows tools
+
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/tree/master)
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
