@@ -30,6 +30,7 @@ title: "IT"
 - [dn42](https://dn42.eu/Home)
 - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/index.html) - Julia Evans
 - [Load Balancing](https://samwho.dev/load-balancing/) - Sam Rose
+- [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https) - Devon Peroutky
 - [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/) - Ed Harmoush
 - [Rule 53](https://github.com/pgl/rule53)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo) - Ben Eater
@@ -108,6 +109,7 @@ title: "IT"
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 - [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
+- [Online Cryptography Course from Stanford](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/), also in [Coursera](https://www.coursera.org/learn/crypto) - Dan Boneh
 - [Putting the "You" in CPU](https://cpu.land/) and [repo](https://github.com/hackclub/putting-the-you-in-cpu) - Lexi Mattick
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
