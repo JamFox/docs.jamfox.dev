@@ -23,6 +23,7 @@ title: "Interesting"
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
+- [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world) - Tomas Pueyo
 - [MMD - V.I.P.](https://youtu.be/OTLGWNruuOE) (aka how actual gunfights look like) - Zen
 - [neal.fun](https://neal.fun/)
 - [Nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism)
