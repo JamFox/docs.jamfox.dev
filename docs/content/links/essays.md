@@ -7,6 +7,7 @@ title: "Essays & Articles"
 ### Media analysis
 
 - ["Turn Ur Brain Off" - The Purpose and Value of Media Analysis](https://www.youtube.com/watch?v=MEX-f_c9w0A) - Explanation Point
+- [A Campfire At The End Of The Universe](https://www.youtube.com/watch?v=H9-UX6RmBjg) - Thane Bishop: Essay about one of the greatest single player experiences one can have and short touching backstory to the author.
 - [A Comprehensive Reading of Nier Automata [MASSIVE SPOILERS]](https://youtu.be/4EnbSokFpjQ) - Adam Millard - The Architect of Games
 - [Cyberpunk 2077 and loving a world that hates you](https://www.youtube.com/watch?v=ND0Qo9bX8JU) - Thane Bishop
 - [Death Stranding: A Commentary, Critique And Understanding](https://youtu.be/zg2Y5rxlg-M) - Whitelight
