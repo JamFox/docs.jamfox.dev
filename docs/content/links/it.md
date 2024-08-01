@@ -83,13 +83,14 @@ title: "IT"
 ### Hardware
 
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
+- [Branch prediction](https://danluu.com/branch-prediction/) by Dan Luu: pseudo-transcript for a talk on branch prediction going over different algorithms.
+- [Build an 8-bit computer from scratch](https://eater.net/8bit) by Ben Eater and [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/) by Steve Chamberlin
 - [From Nand to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/) - Shimon Schocken and Noam Nisan
 - [Hands Down Keyboard Layout](https://sites.google.com/alanreiser.com/handsdown)
 - [History of ARM](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/) - Jeremy Reimer
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html) - Markus Kohlpaintner
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 - [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic) and [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work) - lcamtuf
-- [Build an 8-bit computer from scratch](https://eater.net/8bit) by Ben Eater and [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/) by Steve Chamberlin
 
 ### Fonts
 
