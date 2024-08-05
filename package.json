@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/JamFox/docs.jamfox.dev/issues"
   },
-  "homepage": "https://github.com/JamFox/docs.jamfox.dev",
-  "dependencies": {
-    "playwright": "1.45"
-  }
+  "homepage": "https://github.com/JamFox/docs.jamfox.dev"
 }
