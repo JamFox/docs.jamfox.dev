@@ -3,7 +3,7 @@ title: "Interesting"
 ---
 
 - [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z) - Tuấn Mon
-- [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom) 
+- [2b2t wiki](https://2b2t.miraheze.org/wiki/Nocom): Insane stories from the oldest anarchy server in Minecraft.
 - [A visual book recommender](https://nathanrooy.github.io/posts/2023-04-12/visual-book-recommender/) - Nathan Rooy
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [Bicycle](https://ciechanow.ski/bicycle/)
@@ -36,6 +36,7 @@ title: "Interesting"
 - [The Cube Rule](https://cuberule.com/)
 - [The insane VFX of Live Sports](https://www.youtube.com/watch?v=qkWWcjeL_zM) - Corridor Crew
 - [The Library Of Babel](https://libraryofbabel.info/)
+- [The Phrontistery](https://phrontistery.info/) and [Etymonline](https://www.etymonline.com/): Discover half-remembered rare or obscure words and phrases.
 - [The Pretty Good House](https://www.prettygoodhouse.org/)
 - [Tildes](https://tildes.net/)
 - [uses this](https://usesthis.com/) and [Hacker Stations](https://hackerstations.com/)

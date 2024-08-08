@@ -40,6 +40,8 @@ Separate writing from editing: [Ensō](https://enso.sonnet.io/)
 
 A better thesaurus: [Careful Words](https://carefulwords.com/) or [OneLook](https://onelook.com/thesaurus/)
 
+Budgeting with flow charts: [BudgetFlow](https://www.budgetflow.cc/)
+
 ## AI tools
 
 There Is An AI For That: [theresanaiforthat.com](https://theresanaiforthat.com/)

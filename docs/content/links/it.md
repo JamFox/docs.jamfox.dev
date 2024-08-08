@@ -113,6 +113,7 @@ title: "IT"
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science
 - [Online Cryptography Course from Stanford](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/), also in [Coursera](https://www.coursera.org/learn/crypto) - Dan Boneh
 - [Putting the "You" in CPU](https://cpu.land/) and [repo](https://github.com/hackclub/putting-the-you-in-cpu) - Lexi Mattick
+- [SpaceTraders API Game](https://spacetraders.io/): API-based game, learn a new programming language by building an interface.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 

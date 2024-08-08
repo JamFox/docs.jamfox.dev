@@ -59,6 +59,7 @@ title: "Essays & Articles"
 - [The Problem of What Others Think](https://moretothat.com/the-problem-of-what-others-think/) - Lawrence Yeo
 - [The War on Informality](https://www.asomo.co/p/the-war-on-informality) - Brett Scott
 - [Travel Is No Cure For The Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/) - Lawrence Yeo
+- [Typology Central Wiki](https://www.typologycentral.com/wiki/index.php/Typology_Central_Wiki_Main_Page#The_Enneagram_Types_-_Profile_Descriptions): One of the few *useful* dives into enneagrams, redefines the popular "personality types" into "root problem types".
 
 ### Parenting
 
