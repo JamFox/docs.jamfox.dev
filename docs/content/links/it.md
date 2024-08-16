@@ -62,6 +62,7 @@ title: "IT"
 
 ### Gamedev
 
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/) - Fletcher Dunn & Ian Parbery
 - [Future of real-time upscaling](https://youtu.be/f8piCZz0p-Y) - 2kliksphilip
 - [Mapping The Internet](https://www.youtube.com/watch?v=qkOem3HyR_w) - 8AAFFF
 - [The Book of Shaders](https://thebookofshaders.com/) - Patricio Gonzalez Vivo and Jen Lowe
