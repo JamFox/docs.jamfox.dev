@@ -3,6 +3,8 @@
 
 [How to Spend 14 Days in JAPAN](https://www.youtube.com/watch?v=DBVAAnq1dHo) - Abroad in Japan
 
+Watch a godzilla movie in theaters
+
 ## Grocery stores
 
 7/11 - Best
