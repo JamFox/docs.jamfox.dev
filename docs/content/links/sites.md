@@ -44,6 +44,7 @@ Discover new sites:
 - [renaudrohlinger.com](http://renaudrohlinger.com/)
 - [rknight.me](https://rknight.me/)
 - [surma.dev](https://surma.dev/)
+- [taylor.town](https://taylor.town/)
 - [theabsoluterealm.com](https://theabsoluterealm.com/main/)
 - [twelvemen.neocities.org](https://twelvemen.neocities.org/)
 - [v4.jasonsantamaria](https://v4.jasonsantamaria.com/)
