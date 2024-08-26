@@ -19,6 +19,8 @@ nav:
           - Ansible: content/homelab/ansible.md
       - DNS:
           - Dnsmasq: content/homelab/dnsmasq.md
+      - Games: 
+          - Minecraft Servers: content/homelab/minecraft.md
       - Archive:
           - JamLab Nomad: content/homelab/jamlabnomad.md
   - DevOps:
