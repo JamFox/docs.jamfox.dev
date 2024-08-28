@@ -2,6 +2,10 @@
 title: "Minecraft Servers"
 ---
 
+!!! info
+    [itzg Minecraft Server docker docs](https://docker-minecraft-server.readthedocs.io/en/latest/) |
+    [itzg Minecraft Server source](https://github.com/itzg/docker-minecraft-server/)
+
 ## Recommended mods
 
 ### Gameplay
@@ -22,9 +26,15 @@ Sethome
 
 ## Server admin tweaks and tips
 
-### Set how many people need to be sleeping
+### Useful gamerules
 
-In chat: `/gamerule playersSleepingPercentage 30`
+#### Sleeping percentage
+
+Set how many players have to be sleeping to skip a night: `/gamerule playersSleepingPercentage 30`
+
+#### Keep inventory after death
+
+To keep inventory after dying: `/gamerule keepInventory true`
 
 ## Change level type on existing world
 
