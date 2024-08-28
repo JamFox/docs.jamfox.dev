@@ -10,29 +10,21 @@ title: "Minecraft Servers"
 
 ### Gameplay
 
-Distant Horizons
-
-Shaders
-
-Create
+- Distant Horizons: infinite render distance.
+- Shaders
+- Create: vanilla like tech mod with nice visuals and free-form  progression that fits right in.
 
 ### Server Admin
 
-Chunky
-
-WorldEdit
-
-Sethome
+- Chunky: pregenerate chunks.
+- WorldEdit: copy, paste, use schematics, reset chunks, etc.
+- Sethome or waystones: teleport for players.
 
 ## Server admin tweaks and tips
 
 ### Useful gamerules
 
-#### Sleeping percentage
-
 Set how many players have to be sleeping to skip a night: `/gamerule playersSleepingPercentage 30`
-
-#### Keep inventory after death
 
 To keep inventory after dying: `/gamerule keepInventory true`
 
