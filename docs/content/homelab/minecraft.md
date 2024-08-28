@@ -38,7 +38,7 @@ To keep inventory after dying: `/gamerule keepInventory true`
 
 ## Change level type on existing world
 
-1. Get NBT Studio (or other NBT editor): https://github.com/tryashtar/nbt-studio
+1. Get [NBT Studio](https://github.com/tryashtar/nbt-studio) (or other NBT editor)
 2. Generate world with desired world gen algorithm
 3. Stop server
 4. Open your world and new worlds level.dat in NBT editor
@@ -47,6 +47,7 @@ To keep inventory after dying: `/gamerule keepInventory true`
 
 ## Reset chunks
 
-1. Get MCA Selector: https://github.com/Querz/mcaselector
-2. Select (manually or with filters) chunks
+1. Get [MCA Selector](https://github.com/Querz/mcaselector)
+2. Select chunks (manually or with filters)
 3. Delete selected chunks
+4. Save world and play
