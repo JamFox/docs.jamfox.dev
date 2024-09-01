@@ -36,9 +36,9 @@ title: "Essays & Articles"
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html) - Daniel Little
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak) - Enn Kasak
 - [Religion for the Nonreligious](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) - WaitButWhy
+- [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/) - Venkatesh Rao: It's always optimal to leave some energy aside rather than use it to increase performance in areas where you want higher performance, since your environment is more unpredictable than you think, no matter how unpredictable you already think it is.
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
 - [THE POWER OF NOW - Eckhart Tolle](https://www.youtube.com/watch?v=0ILHWvSZV4E) - Sisyphus 55
-- [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/) - Venkatesh Rao: It's always optimal to leave some energy aside rather than use it to increase performance in areas where you want higher performance, since your environment is more unpredictable than you think, no matter how unpredictable you already think it is.
 
 ### Psychology
 
@@ -75,6 +75,7 @@ title: "Essays & Articles"
 
 - [Econ Life 101](https://www.asomo.co/s/econ-life-101) - Brett Scott
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/) - Morgan Housel
+- [I, Pencil](https://en.wikisource.org/wiki/I,_Pencil) - Leonard E. Read: Following the journey of a seemingly simple pencil becomes an allegory of how everything is connected.
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 - [The Casino-Chip Society](https://www.asomo.co/p/casino-chip-cashless-society) and [The Deposit Myth](https://www.asomo.co/p/the-deposit-myth) - Brett Scott
