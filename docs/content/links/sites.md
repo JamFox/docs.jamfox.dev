@@ -43,6 +43,7 @@ Discover new sites:
 - [reimertz.co](https://www.reimertz.co/)
 - [renaudrohlinger.com](http://renaudrohlinger.com/)
 - [rknight.me](https://rknight.me/)
+- [stonegray.ca](https://web.archive.org/web/20240117170337/https://stonegray.ca/index.html)
 - [surma.dev](https://surma.dev/)
 - [taylor.town](https://taylor.town/)
 - [theabsoluterealm.com](https://theabsoluterealm.com/main/)
