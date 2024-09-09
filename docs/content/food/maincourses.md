@@ -390,3 +390,29 @@ For toppings, feel free to leave or add things as you like.
     - Feta
 
 **Taco instructions:** Assemble with tortilla, rajas con crema and some cotija or feta cheese, optionally some diced white onion.
+
+## Summer chickpea salad
+
+From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/vegetables/summer-chickpea-salad/).
+
+!!! abstract inline "Ingredients"
+    - 1 small red onion, peeled
+    - 1–2 fresh red chillies, deseeded
+    - 2 handfuls of ripe red or yellow tomatoes
+    - 1 lemon
+    - extra virgin olive oil
+    - sea salt and freshly ground black pepper
+    - 1 x 410g jar or tin of chickpeas, drained, or around 4 large handfuls of soaked and cooked chickpeas
+    - a handful of fresh mint, chopped
+    - a handful of fresh green or purple basil, finely ripped
+    - 100g feta cheese
+
+**Instructions:**
+
+1. Finely slice your red onion.
+2. Finely slice your chillies then roughly chop your tomatoes, mixing them in with the onion and chillies.
+3. Scrape all of this, and the juice, into a bowl and dress with the juice of half a lemon and 3 tablespoons of good extra virgin olive oil. Season to taste.
+4. Heat the chickpeas in a pan, then add 90 per cent of them to the bowl.
+5. Mush up the remaining chickpeas and add these as well – they will give a nice creamy consistency. Allow to marinate for a little while and serve at room temperature.
+6. Just as you're ready to serve, give the salad a final dress with the fresh mint and basil. Taste one last time for seasoning – you may want to add the juice from your remaining lemon half at this point.
+7. Place on a nice serving dish and crumble over the feta cheese.

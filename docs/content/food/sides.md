@@ -41,3 +41,14 @@ From [Babish - Nachos](https://www.bingingwithbabish.com/recipes/nachos)
 1. In a medium bowl, combine 3 small ripe avocados, 1 clove of crushed garlic, 1/2 of a small minced red onion, the juice from 1 lime, 1 teaspoon of toasted and freshly ground cumin, a pinch of kosher salt, a few twists of freshly ground pepper, 1/2 of a finely chopped jalapeño, and 2 finely chopped tablespoons of cilantro.  
 2. Using a fork, mash the combination together until it is relatively smooth. Scrape down the sides of the bowl and cover with plastic wrap, making sure to press it down directly onto the surface to prevent browning. Place in the refrigerator for later.
 3. Et voilà!
+
+## Pico de gallo
+
+!!! abstract inline "Ingredients"
+    - 453.59 g tomatoes, (3-4 medium), diced
+    - 1/2 medium onion, (1 cup chopped)
+    - 1 jalapeno pepper, seeded and finely minced (optional)
+    - 8 g cilantro, chopped
+    - 2 Tbsp lime juice, from 1 lime
+
+Mix everything and season to taste.
