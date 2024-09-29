@@ -144,6 +144,7 @@ A collection of lists of what I believe to be the best of the best from each med
 
 - [Beat Saber](https://www.imdb.com/title/tt9327842/)
 - [Borderlands 2](https://www.imdb.com/title/tt2385021/)
+- [Cruelty Squad](https://www.imdb.com/title/tt14395212/)
 - [Cyberpunk 2077](https://www.imdb.com/title/tt3810192/)
 - [DayZ](https://www.imdb.com/title/tt3141682/)
 - [Dead Space](https://www.imdb.com/title/tt1267296/)
@@ -193,6 +194,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Deep Rock Galactic](https://www.imdb.com/title/tt14906734/)
 - [Garry's Mod](https://www.imdb.com/title/tt3449790/)
 - [Grand Theft Auto V](https://www.imdb.com/title/tt2103188/)
+- [It Takes Two](https://www.imdb.com/title/tt18183072/)
 - [Killing Floor](https://www.imdb.com/title/tt1927070/)
 - [Need for Speed: Hot Pursuit](https://www.imdb.com/title/tt1776254/)
 - [Rainbow Six: Siege](https://www.imdb.com/title/tt4779020/)
