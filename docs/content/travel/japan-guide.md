@@ -23,6 +23,18 @@ General places:
 - arcades
 - shirnes
 
+## Manners, Dos, Donts
+
+- eating and drinking while walking
+- being late is a major faux pas
+- significance of handling business cards
+- taxi doors
+- answering phone calls in public places forbidden
+- wearing sunglasses and shorts
+- using escalators
+- pointing
+- someone has reserved the table using their possessions
+
 ## Cities
 
 ### Tokyo
