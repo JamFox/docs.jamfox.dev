@@ -26,6 +26,7 @@ General places:
 ## Manners, Dos, Donts
 
 - eating and drinking while walking
+- always say food was the best youve ever eaten when waiter asks
 - being late is a major faux pas
 - significance of handling business cards
 - taxi doors
