@@ -416,3 +416,24 @@ From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/
 5. Mush up the remaining chickpeas and add these as well – they will give a nice creamy consistency. Allow to marinate for a little while and serve at room temperature.
 6. Just as you're ready to serve, give the salad a final dress with the fresh mint and basil. Taste one last time for seasoning – you may want to add the juice from your remaining lemon half at this point.
 7. Place on a nice serving dish and crumble over the feta cheese.
+
+## Potato Dough Stuffed Patties
+
+!!! abstract inline "Ingredients"
+    - 6 large potatoes, cubed
+    - 1 onion, diced
+    - 1 garlic clove, crushed
+    - 500g ground beef
+    - 50g unsalted butter
+    - 1 egg
+    - 160g wheat flour
+    - Some cheese
+    - Oil for frying
+
+**Instructions:**
+
+1. Boil the cubed potatoes with 1 teaspoon of salt in 1L of water for 20 minutes.
+2. While the potatoes are boiling, saute the diced onion and crushed garlic in a pan. Add the ground beef, 1 teaspoon of salt, and black pepper to taste. Cook until the beef is browned.
+3. Drain the potatoes and transfer them to a bowl. Add the unsalted butter, egg, and wheat flour. Mix until well combined.
+4. Flour your working area and take a portion of the dough to form a fat pancake. Place some of the meat mixture and cheese in the center, then fold the dough over to form a flattened ball.
+5. Heat oil in a pan and fry each ball until golden brown on all sides.
