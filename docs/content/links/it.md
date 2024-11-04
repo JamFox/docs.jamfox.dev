@@ -84,7 +84,7 @@ title: "IT"
 ### Hardware
 
 - [A Summary of Electronics](https://electroagenda.com/en/a-summary-of-electronics/)
-- [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) and [Watch electricity hit a fork in the road at half a billion frames per second](https://www.youtube.com/watch?v=2AXv49dDQJw) by [AlphaPhoenix](https://www.youtube.com/@AlphaPhoenixChannel)
+- [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) and [Watch electricity hit a fork in the road at half a billion frames per second](https://www.youtube.com/watch?v=2AXv49dDQJw) and [Why does WATER change the speed of electricity?](https://www.youtube.com/watch?v=rQIg5XeIgQ0) by [AlphaPhoenix](https://www.youtube.com/@AlphaPhoenixChannel)
 - [Branch prediction](https://danluu.com/branch-prediction/) by Dan Luu: pseudo-transcript for a talk on branch prediction going over different algorithms.
 - [Build an 8-bit computer from scratch](https://eater.net/8bit) by Ben Eater and [68 Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/) by Steve Chamberlin
 - [From Nand to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/) - Shimon Schocken and Noam Nisan
