@@ -100,7 +100,7 @@ repo_url: https://github.com/JamFox/
 
 theme:
   name: material
-  #custom_dir: docs/overrides
+  custom_dir: docs/overrides
   language: en
   favicon: assets/icon.png
   logo: assets/icon.png
