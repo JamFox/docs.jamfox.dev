@@ -130,6 +130,7 @@ title: "Essays & Articles"
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html) - Tim Urban
 - [Tiktok's enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) - Cory Doctorow
 - [Treat your to-read pile like a river, not a bucket](https://www.oliverburkeman.com/river) - Oliver Burkeman
+- [Underrated Ways to Change the World](https://www.experimental-history.com/p/underrated-ways-to-change-the-world) - Adam Mastroianni: Change often feels possible only at a macro level, leaving us feeling powerless. However, it's the subtle, micro-level actions that truly weave the tapestry of change.
 - [Unexpected Poetry of PhD Acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements) - Tabitha Carvan
 - [Valve's Gambling Problem](https://youtu.be/eMmNy11Mn7g) - People Make Games
 - [Why Everyone Is Quitting Their Job To Play Call of Duty](https://youtu.be/tubXWOJfU5A) - BDobbinsFTW
