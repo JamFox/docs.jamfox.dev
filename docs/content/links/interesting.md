@@ -8,6 +8,7 @@ title: "Interesting"
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [Bicycle](https://ciechanow.ski/bicycle/)
 - [Cameron's World](https://www.cameronsworld.net/)
+- [CONTINUE AND PERSIST](https://continueandpersist.org/): Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing, send someone you appreciate
 - [Electricity Maps](https://app.electricitymaps.com/map)
 - [Every Noise At Once](https://everynoise.com/)
 - [Fauux Neocity](https://fauux.neocities.org/)
@@ -46,6 +47,7 @@ title: "Interesting"
 - [WTF Happened In 1971?!](https://wtfhappenedin1971.com/)
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
+an official ‘Continue and Persist’ Letter.
 
 ## Favourite authors
 

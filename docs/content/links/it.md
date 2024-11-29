@@ -76,8 +76,10 @@ title: "IT"
 - [evergreen resources](https://itsevergreen.rip/links/)
 - [freakphone resources](https://freakphone.net/links/resources.html)
 - [Free Frontend](https://freefrontend.com)
+- [Frosted Glass from Games to the Web](https://www.tyleo.com/html-glass.html): Frosted acrylic design elements inspired by Forza games brought to the web.
 - [humans.txt](https://humanstxt.org/)
 - [newlambda resources](https://newlambda.neocities.org/explore/resources)
+- [Pokemon Cards CSS](https://poke-holo.simey.me/): A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [The 512KB Club](https://512kb.club/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
