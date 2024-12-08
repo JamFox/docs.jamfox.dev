@@ -7,14 +7,15 @@ Collection of main courses.
 ## Blue Cheese Chicken Pie
 
 !!! abstract inline "Crust Ingredients"
-    - 400g unsalted butter
+    - 360g unsalted butter
     - 650g flour
+    - 200g grated neutral young cheddar
     - 1 tsp salt
     - a little less than 1 cup of water
 
 **Crust Instructions:**
 
-1. Pinch the butter, flour and salt into crumbling mass.
+1. Pinch the butter, flour and salt into soft but slightly crumbling mass.
 2. Add water and combine evenly. It shouldn't bee crumbling but also not too wet.
 3. Push the dough onto the sides and bottom of the baking tray.
 4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
@@ -25,18 +26,18 @@ Collection of main courses.
     - 600g marinated broiler fillet
     - 2 yellow onions
     - 2 red paprika peppers
-    - 200g drained pineapple pieces
+    - 200-300g drained pineapple pieces
     - 200g Royal Blue blue cheese (or other not too neutral)
     - 400g whipping cream
     - 2 eggs
-    - 400g grated very neutral cheddar
+    - 400g grated neutral young cheddar
 
 **Filling Instructions:**
 
 1. Cut broiler fillet into small pieces and sautee until half of the moisture has evaporated.
 2. Add finely diced onions and red peppers and continue sauteeing for 5 minutes.
 3. Move everything from the pan to a big bowl and mix with diced pineapple and blue cheese.
-4. Mix whipping cream with eggs and mix into the bowl.
+4. Mix whipping cream with eggs and add everything into the bowl.
 5. Once the crust has been cooked for 10 minutes, add the filling into the crust and cook for another 20 minutes or until golden brown at 200°C.
 
 ## Bolognese
