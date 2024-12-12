@@ -129,6 +129,7 @@ title: "IT"
 - [Ditherpunk](https://surma.dev/things/ditherpunk/) - Surma
 - [DIY Git in Python](https://www.leshenko.net/p/ugit)
 - [Do What The Fuck You Want To Public License](http://www.wtfpl.net/about/)
+- [Egoless Engineering](https://egoless.engineering/) - Dan McKinley: "Computer scientists like me start their career by realizing that they accidentally joined a math major that isn’t a science, and isn’t about computers. It’s about how abstract work gets done and stuff. [...] Things might be better if we tried to think about work as much as we think about the computers."
 - [Eternal September](https://en.m.wikipedia.org/wiki/Eternal_September)
 - [Explained from First Principles](https://explained-from-first-principles.com/)
 - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html) - Julio Merino

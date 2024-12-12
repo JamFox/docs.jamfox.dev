@@ -29,6 +29,7 @@ Discover new sites:
 - [icyphox.sh](https://icyphox.sh/)
 - [ilithya.rocks](https://www.ilithya.rocks/)
 - [jvns.ca](https://jvns.ca/)
+- [katsuricata.com](https://katsuricata.com/)
 - [kyomakus.online](https://kyomakus.online/)
 - [larsmagnus.co](https://larsmagnus.co/)
 - [matt-rickard.com](https://matt-rickard.com/)

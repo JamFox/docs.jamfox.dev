@@ -20,6 +20,7 @@ title: "Interesting"
 - [Ig Nobel Prize Winner Higashiyama Atsuki and the "Between-Legs Effect"](https://www.nippon.com/en/japan-topics/c12403/)
 - [Internet friends building a network of modern villages](https://cabin.city/) and [The Network State Podcast](https://www.youtube.com/@thenetworkstate)
 - [Journal of the Data Visualization Society](https://nightingaledvs.com/) - statistics representation and data visualization analysis and advice.
+- [Just World Cultural License](https://licenseforajust.world/)
 - [Let's Chat](https://www.youtube.com/@LetsChat) street epistemology
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)

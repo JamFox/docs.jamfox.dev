@@ -79,6 +79,7 @@ title: "Essays & Articles"
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 - [The Casino-Chip Society](https://www.asomo.co/p/casino-chip-cashless-society) and [The Deposit Myth](https://www.asomo.co/p/the-deposit-myth) - Brett Scott
+- [The Pitchforks Are Coming… For Us Plutocrats](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/) - Nick Hanauer: "To: My Fellow Zillionaires [...] You show me a highly unequal society, and I will show you a police state. Or an uprising."
 - [This is Financial Advice](https://www.youtube.com/watch?v=5pYeoZaoWrA) - Folding Ideas
 - [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke
 
