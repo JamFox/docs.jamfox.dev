@@ -17,6 +17,7 @@ Discover new sites:
 
 - [acko.net](https://acko.net/)
 - [bikobatanari.art](https://www.bikobatanari.art/)
+- [charm.sh](https://charm.sh/)
 - [cinni.net](https://cinni.net/)
 - [cyuucat.moe](https://cyuucat.moe/)
 - [dustinbrett.com](https://dustinbrett.com/)
