@@ -116,6 +116,7 @@ Places:
 - Osaka aquarium
 - umeda sky building
 - Uranamba, a very japanesey looking street with some nice bars and restaurants. Also runs parallel to douguyasuji which is the kitchen street that supplies restaurants, some interesting shops to get some souvenirs and a shop that makes fake food for window displays where you can buy some quirky stuff
+- Misono Building - (from: small brained american) renovated hotel where each room is a different bar, but might be demolished at the end of 2024???
 
 Food:
 
