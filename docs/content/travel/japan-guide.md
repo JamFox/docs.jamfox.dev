@@ -22,6 +22,7 @@ General places:
 - traditional onsen
 - arcades
 - shirnes
+- stay at a machiya
 
 ## Manners, Dos, Donts
 
