@@ -43,6 +43,7 @@ General places:
 
 Places:
 
+- Harmonica alley (less known bar district)
 - Takao mountain and surrounding area with parks, lakes, nature: (Kristen soovitas!)
 - Omoide Yokocho - Maze of narrow alleyways with bars and restaurants
 - Golden Gai - Similar to Omoide, but more cyberpunkish, more verticality. Kind of a tourist trap, expensive.
