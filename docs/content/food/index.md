@@ -8,6 +8,10 @@ Anything related to food, cooking and recipes is documented in this section.
 
 - [Edible balloon recipe](https://www.instructables.com/Incredible-Edible-HE-Balloon/)
 
+## Cooking Bibles
+
+- [Salt, Fat, Acid, Heat](https://app.thestorygraph.com/books/50c26112-477d-44d6-a771-10e4f98f0d1e) - Samin Nosrat
+
 ## Related links
 
 - [Hacks, Tips, and "Takes" on Food & Cooking](https://www.youtube.com/watch?v=S3UnqJFdZFE)
