@@ -75,6 +75,7 @@ title: "Essays & Articles"
 
 - [Econ Life 101](https://www.asomo.co/s/econ-life-101) - Brett Scott
 - [Getting Wealthy vs. Staying Wealthy](https://collabfund.com/blog/getting-wealthy-vs-staying-wealthy/) - Morgan Housel
+- [How much growth is required to achieve good lives for all? Insights from needs-based analysis](https://www.sciencedirect.com/science/article/pii/S2452292924000493) - Jason Hickel, Dylan Sullivan
 - [I, Pencil](https://en.wikisource.org/wiki/I,_Pencil) - Leonard E. Read: Following the journey of a seemingly simple pencil becomes an allegory of how everything is connected.
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
@@ -108,6 +109,7 @@ title: "Essays & Articles"
 - [Always More History](https://www.hillelwayne.com/post/always-more-history/) - Hillel Wayne
 - [Asynchronous conversations](https://manuelmoreale.com/asynchronous-conversations) - Manuel Moreale and [The Quiet Web](https://briankoberlein.com/tech/quiet-web/) - Brian Koberlein
 - [Breaching the Trust Thermocline](https://every.to/p/breaching-the-trust-thermocline-is-the-biggest-hidden-risk-in-business) - Gareth Edwards
+- [Chaos Communication Congress recordings](https://media.ccc.de/b/congress) - Chaos Computer Club: Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society.
 - [Do: Sol LeWitt’s Electrifying Letter of Advice on Self-Doubt, Overcoming Creative Block, and Being an Artist](https://www.themarginalian.org/2016/09/09/do-sol-lewitt-eva-hesse-letter/) and the audio version (even better actually): [Benedict Cumberbatch reads Sol LeWitt's letter to Eva Hesse](https://youtu.be/VnSMIgsPj5M)
 - [Evaluation of Russia by Finnish Intelligence Colonel](https://the-culture-shocks.blogspot.com/2022/03/evaluation-of-russia-by-finish.html) ([Original video lecture](https://www.youtube.com/watch?v=kF9KretXqJw)) - Martti J. Kari
 - [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html) - Tim Urban and [VIA 24 Character Strengths](https://www.viacharacter.org/character-strengths) -  VIA Institute on Character
