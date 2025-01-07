@@ -438,3 +438,22 @@ From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/
 3. Drain the potatoes and transfer them to a bowl. Add the unsalted butter, egg, and wheat flour. Mix until well combined.
 4. Flour your working area and take a portion of the dough to form a fat pancake. Place some of the meat mixture and cheese in the center, then fold the dough over to form a flattened ball.
 5. Heat oil in a pan and fry each ball until golden brown on all sides.
+
+## Hoisin chicken lettuce cups
+
+!!! abstract inline "Ingredients"
+    - Mango puree
+    - Hoisin sauce
+    - Soy sauce
+    - 2 chicken breasts
+    - 1 romaine lettuce
+    - 1 punnet of cress
+
+1. Flatten chicken, season with olive oil, salt, pepper, and cayenne. Leave to marinate.
+2. In bowl combine mango, hoisin and just a little soy into a sauce. Ratios to taste, I prefer something like 1:2 mango:hoisin, then a dash or two of soy.
+3. Grill chicken and cut into strips.
+4. Add everything to a leaf of romaine, and be generous with the sauce (otherwise the lettuce might be a little overpowering)!
+
+**Notes:**
+
+- Alternatively, instead of putting the sauce in the cup: serve sauce in something where the cups can be dipped into!
