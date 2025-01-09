@@ -149,6 +149,7 @@ title: "IT"
 - [Making Chat (ro)Bots](https://www.youtube.com/watch?v=djzOBZUFzTw) - Boston Dynamics
 - [Most favorited Hacker News posts of all time](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 - [RTINGS](https://www.rtings.com/)
+- [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/) - Facundo Olano: Systems design comes from mental models which are hard to grasp even with good documentation, some theories say that it is impossible to hand over a system to new people without the creator(s)/previous maintainers explaining and answering questions to build the models in the brains of the next.
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 - [The Jargon File](http://catb.org/jargon/html/index.html) and [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 - [The Website is Down #1: Sales Guy vs. Web Dude](https://youtu.be/uRGljemfwUE) - Josh Weinberg
