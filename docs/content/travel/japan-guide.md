@@ -69,6 +69,7 @@ Places:
 - [Team Labs](https://planets.teamlab.art/tokyo/) in Toyosu. It's like an interactive art exhibit that you walk through.
 - Shibuya Sky when you're in Shibuya: https://www.shibuya-scramble-square.com/sky/
 - [super-tiny-bar hop tour](https://www.byfood.com/experiences/local-bar-hopping-in-harmonica-yokocho-kichijoji-7) enough.
+- TeamLab Planets
 
 Food:
 
@@ -106,6 +107,7 @@ Food:
 
 Places:
 
+- Osaks World Expo (13 april to 13 oct)
 - Mount Koya (Koyasan), south of Osaka
 - Dotonbori
 - osaka castle
@@ -127,6 +129,14 @@ Food:
 - takoyaki
 - okonomiyaki, Osaka specialty
 - Sumiyoshi Taisha
+
+## Okinawa
+
+Places:
+
+- Junglia
+- The aquarium
+- Yakuza okinawa destinations
 
 ## Grocery stores
 
