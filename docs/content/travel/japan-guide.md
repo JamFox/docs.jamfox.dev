@@ -137,6 +137,7 @@ Places:
 - Junglia
 - The aquarium
 - Yakuza okinawa destinations
+- hello kitty exhibition touring in Okinawa
 
 ## Grocery stores
 
