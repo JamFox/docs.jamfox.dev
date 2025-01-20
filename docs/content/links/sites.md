@@ -40,6 +40,7 @@ Discover new sites:
 - [nonkiru.art](https://nonkiru.art/)
 - [peelopaalu.neocities.org](https://peelopaalu.neocities.org/)
 - [peppe.rs](https://peppe.rs/)
+- [philcifone.com](https://philcifone.com)
 - [pizzza.neocities.org](https://pizzza.neocities.org/)
 - [portal.thenifty.com](https://portal.thenifty.com/)
 - [reimertz.co](https://www.reimertz.co/)
