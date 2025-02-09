@@ -2,7 +2,7 @@
 title: Best Of
 ---
 
-A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order. Items marked with an asterisk `*` are considered 10/10. 
+A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order. Items marked with an asterisk `*` are considered 10/10.
 
 ## Movies
 
@@ -30,8 +30,9 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Gravity](https://letterboxd.com/film/gravity-2013/)
 - [Harakiri](https://letterboxd.com/film/harakiri/)
 - [Her](https://letterboxd.com/film/her/)
+- [Hoodwinked](https://letterboxd.com/film/hoodwinked/)
 - [Inglourious Basterds](https://letterboxd.com/film/inglourious-basterds/)
-- [Interstellar](https://letterboxd.com/film/interstellar/)
+- [Interstellar](https://letterboxd.com/film/interstellar/) `*`
 - [Isle Of Dogs](https://letterboxd.com/film/isle-of-dogs-2018/)
 - [Jojo Rabbit](https://letterboxd.com/film/jojo-rabbit/)
 - [Kill Bill](https://letterboxd.com/film/kill-bill-vol-1/)
@@ -45,6 +46,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Nightcrawler](https://letterboxd.com/film/nightcrawler/)
 - [No Country For Old Men](https://letterboxd.com/film/no-country-for-old-men/)
 - [Parasite](https://letterboxd.com/film/parasite-2019/)
+- [Perfect Days](https://letterboxd.com/film/perfect-days-2023/)
 - [Ratatouille](https://letterboxd.com/film/ratatouille/)
 - [Scott Pilgrim vs The World](https://letterboxd.com/film/scott-pilgrim-vs-the-world/)
 - [Seven Samurai](https://letterboxd.com/film/seven-samurai/)
@@ -53,12 +55,12 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Star Wars](https://letterboxd.com/film/star-wars/)
 - [Tampopo](https://letterboxd.com/film/tampopo/)
 - [The French Dispatch](https://letterboxd.com/film/the-french-dispatch/)
+- [The Menu](https://letterboxd.com/film/the-menu-2022/) `*`
 - [The Prestige](https://letterboxd.com/film/the-prestige/)
 - [The Revenant](https://letterboxd.com/film/the-revenant-2015/)
 - [The Shawshank Redemption](https://letterboxd.com/film/the-shawshank-redemption/)
 - [Trainspotting](https://letterboxd.com/film/trainspotting/)
 - [Whiplash](https://letterboxd.com/film/whiplash-2014/)
-- `*` [The Menu](https://letterboxd.com/film/the-menu-2022/)
 
 ## Series
 
@@ -100,8 +102,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Sonny Boy](https://myanimelist.net/anime/48849/Sonny_Boy)
 - [Your Lie In April](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
 - [Your Name](https://myanimelist.net/anime/32281/Kimi_no_Na_wa)
-- `*` [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
-- `*` [Whisper of the Heart](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba)
+- [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion) `*`
+- [Whisper of the Heart](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba) `*`
 
 ## Theatre
 
@@ -113,9 +115,9 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Metazoa](https://linnateater.ee/lavastused/metazoa/) - Markus H. Ilves
 - [Tangent](https://tartu2024.ee/shiro-takatani-dumb-type-tangent/) by Shiro Takatani/Dumb Type
 - [ÜLT](https://www.eestinoorsooteater.ee/et/%C3%BClt) by Renate Keerd
-- `*` [Eidos](https://www.ekspeditsioon.com/lavastused/eidos) by Jarmo Reha
-- `*` [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend
-- `*` [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks
+- [Eidos](https://www.ekspeditsioon.com/lavastused/eidos) by Jarmo Reha `*`
+- [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend `*`
+- [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks `*`
 - Jussikese 7 sõpra by Kristina Preimann, Kristel Zimmer, Edgar Vunš, Markus Auling, Herman PihlakKarl Birnbaum
 
 ## Exhibitions
@@ -135,8 +137,8 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 - [The Passion](https://www.goodreads.com/book/show/15047.The_Passion)
 - [What I Talk About When I Talk About Running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running)
-- `*` [God Emperor of Dune](https://www.goodreads.com/book/show/44439415-god-emperor-of-dune)
-- `*` [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)
+- [God Emperor of Dune](https://www.goodreads.com/book/show/44439415-god-emperor-of-dune) `*`
+- [The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now) `*`
 - Terry Pratchett's Discworld
 
 ## Games
