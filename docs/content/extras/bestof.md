@@ -48,6 +48,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Parasite](https://letterboxd.com/film/parasite-2019/)
 - [Perfect Days](https://letterboxd.com/film/perfect-days-2023/)
 - [Ratatouille](https://letterboxd.com/film/ratatouille/)
+- [Rolling Papers](https://letterboxd.com/film/rolling-papers-2024/)
 - [Scott Pilgrim vs The World](https://letterboxd.com/film/scott-pilgrim-vs-the-world/)
 - [Seven Samurai](https://letterboxd.com/film/seven-samurai/)
 - [Sin City](https://letterboxd.com/film/sin-city/)
