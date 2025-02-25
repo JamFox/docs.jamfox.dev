@@ -10,7 +10,11 @@ Anything related to food, cooking and recipes is documented in this section.
 
 ## Cooking Bibles
 
+Reading these two is all one needs to become a better than average cook:
+
 - [Salt, Fat, Acid, Heat](https://app.thestorygraph.com/books/50c26112-477d-44d6-a771-10e4f98f0d1e) - Samin Nosrat
+- [No-Recipe Recipes](https://app.thestorygraph.com/books/7a8f34b2-57a0-41d0-b651-f28ac97c7a66) - Sam Sifton
+
 
 ## Related links
 
