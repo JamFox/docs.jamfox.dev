@@ -78,6 +78,7 @@ title: "Essays & Articles"
 - [How much growth is required to achieve good lives for all? Insights from needs-based analysis](https://www.sciencedirect.com/science/article/pii/S2452292924000493) - Jason Hickel, Dylan Sullivan
 - [I, Pencil](https://en.wikisource.org/wiki/I,_Pencil) - Leonard E. Read: Following the journey of a seemingly simple pencil becomes an allegory of how everything is connected.
 - [Money creation in the modern economy](https://github.com/JamFox/docs.jamfox.dev/raw/master/docs/content/links/attachments/money-creation-in-the-modern-economy.pdf)
+- [Society's Technical Debt and Software's Gutenberg Moment](https://skventures.substack.com/p/societys-technical-debt-and-softwares) - SK Ventures: Background, reasons, and implications of AI taking developer jobs in the future, and how to interpret it generally.
 - [The Art and Science of Spending Money](https://collabfund.com/blog/the-art-and-science-of-spending-money/) - Morgan Housel
 - [The Casino-Chip Society](https://www.asomo.co/p/casino-chip-cashless-society) and [The Deposit Myth](https://www.asomo.co/p/the-deposit-myth) - Brett Scott
 - [The Pitchforks Are Coming… For Us Plutocrats](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/) - Nick Hanauer: "To: My Fellow Zillionaires [...] You show me a highly unequal society, and I will show you a police state. Or an uprising."
@@ -92,6 +93,7 @@ title: "Essays & Articles"
 ### Photography
 
 - [How DSLR Cameras Work](https://exclusivearchitecture.com/03-technical-articles-DSLR-00-table-of-contents.html) - Markus Kohlpaintner
+- [The Photographer Who Takes No Pictures](https://simone.org/intent/) - Kodo Simone: Why and what we capture, filter, and keep snapshots from our lives.
 
 ### Stories
 
