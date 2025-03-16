@@ -187,6 +187,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Shadowrun: Hong Kong](https://www.imdb.com/title/tt4462068/)
 - [Terraria](https://www.imdb.com/title/tt3728808/)
 - [The Binding of Isaac: Rebirth](https://www.imdb.com/title/tt4276210/)
+- [The Red Strings Club](https://www.imdb.com/title/tt12301024/)
 - [Undertale](https://www.imdb.com/title/tt5238848/)
 - [Yakuza 0](https://www.imdb.com/title/tt3983144/)
 

@@ -25,6 +25,7 @@ General places:
 - arcades
 - shirnes
 - stay at a machiya
+- Uniqlo and thrift stores
 
 ## Manners, Dos, Donts
 
