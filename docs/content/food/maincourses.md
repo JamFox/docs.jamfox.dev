@@ -457,3 +457,140 @@ From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/
 **Notes:**
 
 - Alternatively, instead of putting the sauce in the cup: serve sauce in something where the cups can be dipped into!
+
+## Beef Quesadillas with Salsa
+
+From: Gordon Ramsay's [Mexican Beef and Jalapeño Quesadillas](https://www.gordonramsayrestaurants.com/recipes/mexican-beef-and-jalapeno-quesadillas/)
+
+!!! abstract inline "Ingredients"
+    - 2 tbsp olive oil, plus extra for brushing
+    - 1 onion, peeled and diced
+    - 2 garlic cloves, peeled and crushed
+    - 500g minced beef
+    - 2 tsp paprika
+    - 2 tsp ground cumin
+    - 1 x 400g tin of chopped tomatoes
+    - 1 x 400g tin of kidney beans, drained and rinsed
+    - 200g mixture of grated mozzarella and Cheddar cheese
+    - 4 spring onions, trimmed and sliced
+    - 80g pickled jalapeño chillies
+    - 4 x 25cm tortillas
+    - Sea salt and freshly ground black pepper
+    - Sour cream, to serve
+
+!!! abstract inline "Salsa Ingredients"
+    - 4 tomatoes, diced
+    - 1 red onion, peeled and finely diced
+    - Large handful of coriander, roughly chopped
+    - Juice of 1 lime
+
+**Instructions:**
+
+1. Preheat the oven to 220°C/200°C and line two large baking trays with baking paper.
+2. Heat a large non-stick frying pan over high heat, add olive oil and onion, and cook for 2–3 minutes until softened. Add garlic and cook for 2 minutes.
+3. Crumble in the minced beef and cook over high heat for 4–5 minutes until lightly browned.
+4. Stir in paprika and cumin, cooking for 1–2 minutes. Add tinned tomatoes and cook for 2 minutes. Remove from heat, stir in kidney beans, and season to taste.
+5. Lightly brush one side of a tortilla with oil and place it oiled side down on a prepared tray. Sprinkle cheese over one half, spread a quarter of the beef mixture on top, and scatter spring onions, jalapeños, and more cheese. Fold over the tortilla. Repeat for the remaining tortillas.
+6. Brush the tops of the folded tortillas with oil. Press them down firmly and bake on the two highest shelves of the oven for 10–15 minutes, or until golden brown.
+7. While the quesadillas are baking, mix all salsa ingredients in a bowl and season to taste.
+8. Remove quesadillas from the oven, cut into wedges, and serve with sour cream and salsa on the side.
+
+## Japanese Chicken Curry
+
+From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-chicken-curry/#wprm-recipe-container-59001)
+
+!!! abstract inline "Ingredients"
+    - 4 large onions (1,340 g)
+    - 4 carrots (380 g)
+    - 6 Yukon gold potatoes (864 g)
+    - 2 tsp grated ginger
+    - 4 garlic cloves, minced
+    - 1 apple (340 g), grated
+    - 1,360 g boneless, skinless chicken thighs
+    - Freshly ground black pepper
+
+!!! abstract inline "Curry Sauce Ingredients"
+    - 3 Tbsp neutral oil
+    - 1,920 ml chicken stock or water
+    - 2 Tbsp honey
+    - 2 Tbsp soy sauce
+    - 2 Tbsp ketchup
+    - 2 packages Japanese curry roux (400–460 g)
+
+!!! abstract inline "For Serving"
+    - Cooked Japanese short-grain rice
+
+**Instructions:**
+
+1. **Prepare Ingredients:**
+   - Cut onions into thick wedges.
+   - Peel and cut carrots into rolling wedges.
+   - Peel and quarter potatoes, soaking them in water for 15 minutes.
+   - Grate ginger and apple, and mince garlic.
+   - Trim excess fat from chicken thighs, cut into bite-sized pieces, and season with black pepper.
+
+2. **Cook Curry:**
+   - Heat oil in a large pot over medium heat. Sauté onions for 5 minutes until translucent.
+   - Add garlic and ginger, mixing well.
+   - Add chicken and cook until no longer pink on the outside.
+   - Pour in chicken stock, then add grated apple, honey, soy sauce, and ketchup.
+   - Add carrots and potatoes. Simmer, covered, on medium-low heat for 15 minutes, stirring occasionally.
+
+3. **Add Curry Roux:**
+   - Turn off heat. Dissolve curry roux cubes in a ladleful of cooking liquid, then stir into the pot. Repeat until all roux is incorporated.
+   - Simmer uncovered on medium-low heat for 5–10 minutes, stirring frequently, until thickened.
+
+4. **Serve:**
+   - Serve curry with steamed Japanese short-grain rice. Optionally garnish with Japanese pickled vegetables.
+
+**Notes:**
+- Substitute chicken with beef, pork, shrimp, tofu, or vegetables as desired.
+- Adjust salt to taste if using unsalted curry roux.
+- For russet potatoes, add them in the last 15–20 minutes of cooking to prevent disintegration.
+
+## Curry Doria
+
+From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-doria-rice-gratin/#wprm-recipe-container-57804)
+
+!!! abstract inline "Ingredients"
+    - 1 onion, minced
+    - 2 ribs celery, minced
+    - 2 carrots, minced
+    - 4 cloves garlic, crushed or minced
+    - 2 Tbsp extra virgin olive oil
+    - 2 bay leaves
+    - 340g ground beef
+    - 340g ground pork
+    - Diamond Crystal kosher salt
+    - Freshly ground black pepper
+    - 2 Tbsp Japanese curry powder
+    - 720ml chicken or vegetable stock
+    - 4 Tbsp tonkatsu sauce (or homemade equivalent)
+    - 4 Tbsp ketchup
+    - 4 Tbsp unsalted butter (divided)
+    - 114g Mozzarella cheese (or Gruyere/Parmesan)
+    - 114g Romano cheese (or Gruyere/Parmesan)
+    - 4 Tbsp panko (Japanese breadcrumbs)
+    - Parsley, chopped (for garnish)
+    - Cooked Japanese short-grain rice (about 1.5 cups)
+
+**Instructions:**
+
+1. **Prepare Ingredients:**
+   - Mince onion, celery, and carrots into small pieces.
+   - Heat olive oil over medium heat. Add crushed garlic and bay leaves.
+   - Sauté onion and celery until almost translucent, then add carrots and cook until tender.
+
+2. **Cook Meat Mixture:**
+   - Add ground beef and pork, breaking it up and cooking until no longer pink.
+   - Season with salt and pepper, then add curry powder and stock. Ensure the liquid covers the ingredients; add more if needed.
+   - Bring to a boil, skim off foam and fat, then reduce heat to medium-low and cook for 5 minutes.
+   - Add tonkatsu sauce, ketchup, and 2 Tbsp butter. Cook until the sauce reduces and the bottom of the pan is visible, about 10 minutes.
+
+3. **Assemble Doria:**
+   - Grease a baking dish with the remaining butter. Place steamed rice in the dish.
+   - Add the meat mixture on top, followed by Mozzarella and Romano cheese. Sprinkle panko on top for a crispy texture.
+
+4. **Broil:**
+   - Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
+   - Garnish with chopped parsley and serve immediately.
