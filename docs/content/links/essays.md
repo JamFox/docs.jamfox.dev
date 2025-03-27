@@ -101,6 +101,7 @@ title: "Essays & Articles"
 - [Gone But Not Forgotten. Mr Chi-City Kicks it with a Friend](https://www.youtube.com/watch?v=wK7GSARUs_Q) by MrChiCity3: Guy going to a friends grave and having a heart(warming/breaking) conversation.
 - [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/) - Katie Zakrzewski: Lessons from taking care of people in their last days in a hospice.
 - [Sassy the Sasquatch](https://youtu.be/Dw_tGRblTXk) - The Big Lez Show and [The Big Lez Show is a Masterpiece](https://www.youtube.com/watch?v=JlBEaB_cFEU) - harryfromends
+- [Stoop Coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): How simple things bring people together and how to foster that for your immediate community.
 - [The Cab Ride I'll Never Forget](https://kentnerburn.com/the-cab-ride-ill-never-forget/) - Kent Nerburn: Very short story about 'little' moments that are more important than anything.
 - [The Egg](https://youtu.be/h6fcK_fRYaI) - Andy Weir: We are all the same, interconnected fragmented being.
 - [The Last Church - Fan Animated pre Horus Heresy Short Story](https://youtu.be/jSEVCs8o0H8) ([Alternative link](https://odysee.com/@KillTeamHungary:9/the-last-church-fan-animatied-40k-short:5?r=Fou8ecWf8R2MUXvGrvDKTewNtZCfeg5k)) - Kill Team Hungary YTC: Warhammer story about the last priest in the last church having a conversation about faith.
