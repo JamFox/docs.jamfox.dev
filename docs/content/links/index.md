@@ -44,6 +44,8 @@ A better thesaurus: [Careful Words](https://carefulwords.com/) or [OneLook](http
 
 Budgeting with flow charts: [BudgetFlow](https://www.budgetflow.cc/)
 
+See X threads without an account (just replace x.com with xcancel.com): [XCancel](https://xcancel.com/)
+
 ## AI tools
 
 There Is An AI For That: [theresanaiforthat.com](https://theresanaiforthat.com/)
@@ -51,6 +53,12 @@ There Is An AI For That: [theresanaiforthat.com](https://theresanaiforthat.com/)
 YouTube video summarizer: [summarize.tech](https://www.summarize.tech/)
 
 Text assistant: [ChatGPT](https://chat.openai.com/)
+
+Coding assistant reasoning model: [Google AI Studio](https://aistudio.google.com/)
+
+Learning assistant, provide course resources and links as context: [NotebookLM](https://notebooklm.google.com/)
+
+Image generation: [Midjourney](https://www.midjourney.com/)
 
 PDF summarizer and QA tool: [Ask Your PDF](https://askyourpdf.com/) and [ChatDOC](https://chatdoc.com/)
 
