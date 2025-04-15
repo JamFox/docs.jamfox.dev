@@ -4,11 +4,16 @@ title: "Drinks"
 
 Collection of my favorite drinks.
 
+## Coffee
+
+**Espresso tonic**:
+
+- Espresso
+- Tonic Water
+- Blueberry Simple Syrup
+- Ice
+
 ## Wine
-
-### Cider
-
-- Galipette Brut
 
 ### Red wine
 
@@ -19,6 +24,7 @@ Collection of my favorite drinks.
 - [Zonin - Primitivo di Manduria](https://www.vivino.com/it-zonin-primitivo-di-manduria-primitivo-di-manduria-red-wine-v/w/11088417)
 - [Piccini Chianti](https://www.vivino.com/piccini-chianti/w/1598405)
 - [Meerlust - Rubicon](https://www.vivino.com/meerlust-estate-rubicon/w/19304)
+- [Coto de Imaz Rioja Reserva](https://www.vivino.com/el-coto-coto-de-imaz-rioja-gran-reserva/w/8623)
 
 ### White wine
 
@@ -30,6 +36,10 @@ Collection of my favorite drinks.
 - [Pinot Grigio - Terre Collina](https://www.vivino.com/terre-collina-pinot-grigio/w/10694948)
 - [Pinot Grigio - Masi Masianco](https://www.vivino.com/it-masi-masianco/w/21950)
 - Pinot Grigio - Jacob's Creek 2021
+
+## Cider
+
+- Galipette Brut
 
 ## Whisky
 
