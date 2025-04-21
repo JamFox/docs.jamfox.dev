@@ -44,7 +44,11 @@ Mastering advanced driving techniques can give you an edge in races/challenges a
 
 Achieving a perfect start provides slightly better rewards and will give you a massive early advantage in races.
 
-A perfect start is not a power-up and is unaffected by other nitrous Skill Mods. 
+A perfect start is not a power-up and is unaffected by other nitrous Skill Mods.
+
+### Breakturning
+
+Unlike in other racing games, in a lot of scenarios it makes sense to turn while breaking in order to make the turn radius tighter.
 
 ### Wall Bounce/Wall Tap
 
