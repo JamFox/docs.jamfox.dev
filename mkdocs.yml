@@ -81,10 +81,12 @@ nav:
       - Privacy: content/links/privacy.md
       - Piracy: content/links/piracy.md
       - IT: content/links/it.md
-  - Extras:
+  - Other:
       - content/extras/index.md
       - Best Of: content/extras/bestof.md
       - Recommendations: content/extras/recs.md
+      - Games:
+          - Need For Speed World Nightriderz: content/games/nfs-world-nrz.md
       - Travel:
           - Japan Guide: content/travel/japan-guide.md
       - Design:
