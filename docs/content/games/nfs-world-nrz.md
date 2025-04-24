@@ -164,7 +164,8 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Mazda Furai            |            |                        |            |       |  
 | Porsche Taycan         |            |                        |            |       |  
 | Dodge Viper SRT10      |            |                        |            |       |  
-| Ford Dark Horse        |            |                        |            |       |  
+| Ford Dark Horse        |            |                        |            |       |
+| Dodge Viper SRT-10 ACR | Mixed      | Blue/HRZ               | Easy-medium|       |
 
 ### Class S2
 
@@ -178,7 +179,8 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Bugatti Chiron         |            |                        |            |       |  
 | Audi R8 V10            |            |                        |            |       |  
 | Lancia LC2             | Tech       | Blue/HRZ               | Medium-hard | Grip god, but has exponential turning / input delay. |  
-| McLaren F1             |            |                        |            |       |  
+| McLaren F1             |            |                        |            |       |
+| Dodge Viper SRT-10 ACR | Mixed      | Blue/HRZ               | Easy-medium|       |
 
 ### Class X
 
