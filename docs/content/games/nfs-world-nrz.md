@@ -22,7 +22,9 @@ To illustrate Lemans efficiency here are the stats after Prestige 1 when my leve
 
 - Levelskipped from Level 1 to Level 28: Using the FXX-K for 28 minutes during a 2x weekend (without the +50% boost), 23,212 REP and 149,411 cash.  
 - Levelskipped from Level 28 to Level 65: Using the Bolide for 28 minutes during a 2x weekend (with the +50% boost), 326,571 REP and 774,225 cash.  
-- Levelskipped from Level 65 to Level 68: Using La Voiture Noire for 28 minutes during a 2x weekend (with the +50% boost), 726,382 REP and 1,528,078 cash.  
+- Levelskipped from Level 65 to Level 68: Using La Voiture Noire for 28 minutes during a 2x weekend (with the +50% boost), 726,382 REP and 1,528,078 cash.
+
+So with three Lemans races over 1.5h it is possible to go from Level 1 to Level 68. Compare that to normal gameplay where one can reach around Level 42-49 after 100-300 events (6-10h of gameplay) over a much longer timeframe (examples from a couple friends).
 
 City Perimeter is the highest-paying events after Lemans efficieny drops off after Level 60. Its high efficiency is due to the track's design, which allows for maintaining high average speeds. Example City Perimeter payouts at level 95 with S2 Class car:
 
@@ -74,59 +76,59 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Car                | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |--------------------|------------|------------------------|------------|-------|  
 | Ford Cortina       |            |                        |            |       |  
-| Bugatti Type 57    |            |                        |            |       |  
-| Fiat Punto         |            |                        |            |       |  
-| Pontiac Firebird   |            |                        |            |       |  
-| Mercury Cougar     |            |                        |            |       |  
-| DeLorean DMC-12    |            |                        |            |       |  
+| Bugatti Type 57    | Tech       | Blue                   | Medium-hard| Grip god, but has exponential turning / input delay. | 
+| Fiat Punto         | Mixed      | Green/Blue             | Easy       |       |  
+| Pontiac Firebird   | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars |  
+| Mercury Cougar     | Speed/mixed| Red/Green/Blue         | Hard       | Literally handles like a boat, has massive inertia, but is very competitive if you can handle it |  
+| DeLorean DMC-12    | Speed      | Blue/Green             | Medium     |       |  
 | Pontiac GTO '65    |            |                        |            |       |  
-| Toyota AE86        |            |                        |            |       |  
+| Toyota AE86        | Tech/Mixed | Blue                   | Easy-medium| Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |  
 
 ### Class D
 
 | Car                         | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |-----------------------------|------------|------------------------|------------|-------|  
-| Bugatti Type 57             |            |                        |            |       |  
-| Toyota AE86                 |            |                        |            |       |  
+| Bugatti Type 57             | Tech       | Blue                   | Medium-hard | Grip god, but has exponential turning / input delay. |  
+| Toyota AE86                 | Tech/Mixed | Blue                   | Easy-medium| Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive | 
 | Nissan 240SX                |            |                        |            |       |  
 | Fiat Punto                  |            |                        |            |       |  
 | Lexus IS300                 |            |                        |            |       |  
 | Pontiac GTO '65             |            |                        |            |       |  
-| Pontiac Firebird            |            |                        |            |       |  
+| Pontiac Firebird            | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars | 
 | Mazda Mazda3                |            |                        |            |       |  
 | Ford Cortina                |            |                        |            |       |  
-| Mitsubishi Eclipse Elite    |            |                        |            |       |  
+| Mitsubishi Eclipse Elite    | Mixed      | Blue                   | Super easy | Cheat code on wheels, easiest car in game |  
 | Chevrolet Corvette Stingray |            |                        |            |       |  
 | Volkswagen Golf R32         |            |                        |            |       |  
-| Mazda MX-5 ND               |            |                        |            |       |  
+| Mazda MX-5 ND               | Tech       | Blue/Green             | Super easy | Like Eclipse Elite but worse speed/acceleration and better grip |  
 
 ### Class C
 
 | Car                     | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |-------------------------|------------|------------------------|------------|-------|  
-| Mitsubishi Eclipse Elite|            |                        |            |       |  
-| Bugatti Type 57         |            |                        |            |       |  
-| Pontiac Firebird        |            |                        |            |       |  
+| Mitsubishi Eclipse Elite| Mixed      | Blue                   | Super easy | Cheat code on wheels, easiest car in game |  
+| Bugatti Type 57         | Tech       | Blue                   | Medium-hard | Grip god, but has exponential turning / input delay. | 
+| Pontiac Firebird        | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars |  
 | Ford Cortina            |            |                        |            |       |  
 | BMW i8                  |            |                        |            |       |  
-| Toyota AE86             |            |                        |            |       |  
+| Toyota AE86             | Tech/Mixed | Blue                   | Easy-medium| Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |  
 
 ### Class B
 
 | Car                     | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |-------------------------|------------|------------------------|------------|-------|  
-| Mitsubishi Eclipse Elite|            |                        |            |       |  
+| Mitsubishi Eclipse Elite| Mixed      | Blue                   | Super easy | Cheat code on wheels, easiest car in game |  
 | Porsche 914-6           |            |                        |            |       |  
 | BMW 135i                |            |                        |            |       |  
 | Porsche Cayman          |            |                        |            |       |  
 | Chevrolet Camaro SS     |            |                        |            |       |  
 | Jaguar E-Type           |            |                        |            |       |  
-| Lotus Exige Cup         |            |                        |            |       |  
+| Lotus Exige Cup         | Tech/Mixed | Blue/Green             | Super easy |       |  
 | Lotus Europa S          |            |                        |            |       |  
-| Pontiac Firebird        |            |                        |            |       |  
+| Pontiac Firebird        | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars | 
 | Renault Clio            |            |                        |            |       |  
 | Audi TTRS               |            |                        |            |       |  
-| Lamborghini Miura SV    |            |                        |            |       |  
+| Lamborghini Miura SV    | Speed/Mixed| Blue/Red               | Medium     |       |  
 | Maserati Gran Turismo   |            |                        |            |       |  
 | Toyota Supra            |            |                        |            |       |  
 
@@ -138,7 +140,7 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Porsche 914-6           |            |                        |            |       |  
 | Lotus Emira             |            |                        |            |       |  
 | Lexus ISF               |            |                        |            |       |  
-| Nissan Silvia R3        |            |                        |            |       |  
+| Nissan Silvia R3        | Tech       | HRZ                    | Easy-medium | A grip god, but lose traction, and you're toast. Watch out for jumps and bumps! Downshift bug happens on perfect start, slight ADAD spam and removing lowering kit can alleviate that |  
 | Ford Capri              |            |                        |            |       |  
 | Audi TTRS               |            |                        |            |       |  
 | BMW 1 Series M          |            |                        |            |       |  
@@ -157,7 +159,7 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Jaguar XJ220           |            |                        |            |       |  
 | Lotus 3 Eleven         |            |                        |            |       |  
 | Nissan Skyline GTR LM  |            |                        |            |       |  
-| Nissan Silvia R3       |            |                        |            |       |  
+| Nissan Silvia R3       | Tech       | HRZ                    | Easy-medium | A grip god, but lose traction, and you're toast. Watch out for jumps and bumps! Downshift bug happens on perfect start, slight ADAD spam and removing lowering kit can alleviate that | 
 | Lexus LFA              |            |                        |            |       |  
 | Mazda Furai            |            |                        |            |       |  
 | Porsche Taycan         |            |                        |            |       |  
@@ -168,24 +170,24 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 
 | Car                     | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |-------------------------|------------|------------------------|------------|-------|  
-| Hennessey Venom GT      |            |                        |            |       |  
-| Mazda 787B             |            |                        |            |       |  
-| Nissan Silvia R3       |            |                        |            |       |  
+| Hennessey Venom GT      | Mixed      | Blue/Red               | Hard       | Speed demon, but keeping it on the gripped is a challenge - controller recommended! |  
+| Mazda 787B              | Tech       | Blue/HRZ               | Medium-hard | Grip god, but has exponential turning / input delay. |  
+| Nissan Silvia R3       | Tech       | HRZ                    | Easy-medium | A grip god, but lose traction, and you're toast: watch out for jumps and bumps! Downshift bug happens on perfect start, slight ADAD spam and removing lowering kit can alleviate that |  
 | Mercedes-Benz CLK LM   |            |                        |            |       |  
 | Lamborghini Veneno     |            |                        |            |       |  
 | Bugatti Chiron         |            |                        |            |       |  
 | Audi R8 V10            |            |                        |            |       |  
-| Lancia LC2             |            |                        |            |       |  
+| Lancia LC2             | Tech       | Blue/HRZ               | Medium-hard | Grip god, but has exponential turning / input delay. |  
 | McLaren F1             |            |                        |            |       |  
 
 ### Class X
 
 | Car                          | Speciality | Recommended Perf Parts | Difficulty | Notes |  
 |------------------------------|------------|------------------------|------------|-------|  
-| Koenigsegg One:1             |            |                        |            |       |  
-| Ferrari FXX-K                |            |                        |            |       |  
-| Hennessey F5                 |            |                        |            |       |  
-| Lamborghini La Voiture Noire |            |                        |            | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
+| Koenigsegg One:1             | Speed      | Red                    | Easy speed/Medium other | Best for ez City Perimeter |  
+| Ferrari FXX-K                | Mixed      | Blue/Red/HRZ           | Easy       | The jack-of-all-trades - good at everything, master of none. |  
+| Hennessey F5                 | Mixed      | Stock only            | Hard       | A wild slidy ride - speed management is everything. Best with a controller. |  
+| Lamborghini La Voiture Noire | Speed/Mixed | Blue/Red               | Easy-medium     | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
 | Koenigsegg Jesko             | Speed      | Stock only             |            |       |  
-| Bugatti Bolide               |            | Stock only             |            |       |  
-| Chevrolet Camaro ZL1         | Drag       | Stock only             |            | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.      |  
+| Bugatti Bolide               | Mixed      | Stock only             | Easy-medium      |       |  
+| Chevrolet Camaro ZL1         | Drag       | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.      |  
