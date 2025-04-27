@@ -23,6 +23,7 @@ title: "Interesting"
 - [Just World Cultural License](https://licenseforajust.world/)
 - [Let's Chat](https://www.youtube.com/@LetsChat) street epistemology
 - [List of chess variants](https://en.wikipedia.org/wiki/List_of_chess_variants)
+- [Making Software](https://www.makingsoftware.com/) - Dan Hollick: manual that explains how the things you use everyday actually work.
 - [Male Reality Calculator](https://realitycalc.com/) and [Female Delusion Calculator](https://igotstandardsbro.com/)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world) - Tomas Pueyo

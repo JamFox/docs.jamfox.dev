@@ -1,5 +1,15 @@
 # Need for Speed World NRZ Guide
 
+Need for Speed World NRZ (NightRiderz) is a fan-made revival of the classic Need for Speed World, offering players an enhanced experience with new features, events, and customization options. This guide is designed to help both new and experienced players navigate the game, maximize their rewards, and master advanced techniques also gives me a place to put notes and interesting information.
+
+## Starter redeem codes
+
+Redeem in [nightriderz.world](https://nightriderz.world/) from `Profile Icon > 'Redeem Code'`
+
+- `YTBR-MRJC-KYT1-3DG9`: Toyota Supra + $500k
+- `YTBE-LPR1-PP3R-24GG`: Viper SRT 10 - Elite Edition
+- `MZA5-J6ZE-LPRI-PPER`: 4500 SpeedBoost (Must be under level 10)
+
 ## Leveling Up
 
 Leveling up in NRZ has a some general rules as to how payouts are made in events:
@@ -10,6 +20,9 @@ Leveling up in NRZ has a some general rules as to how payouts are made in events
 - Multiplayer races provide more rewards than singleplayer. However, for grinding purposes, the waiting time for multiplayer races may reduce overall efficiency even with higher payouts.
 - Achieving a perfect start provides slightly better rewards.
 - Ramming/destroying more cops in Team Escapes or Pursuits will net higher rewards.
+
+
+### Most efficient event for under level 60
 
 Lemans is a highly efficient event for leveling up, especially for players below Level 40. However, its efficiency decreases significantly after Level 60.
 
@@ -26,15 +39,21 @@ To illustrate Lemans efficiency here are the stats after Prestige 1 when my leve
 
 So with three Lemans races over 1.5h it is possible to go from Level 1 to Level 68. Compare that to normal gameplay where one can reach around Level 42-49 after 100-300 events (6-10h of gameplay) over a much longer timeframe (examples from a couple friends).
 
+### Most efficient event for over level 60
+
 City Perimeter is the highest-paying events after Lemans efficieny drops off after Level 60. Its high efficiency is due to the track's design, which allows for maintaining high average speeds. Example City Perimeter payouts at level 95 with S2 Class car:
 
 - Average REP: ~53,500 per minute
 - Average Cash: ~109,000 per minute
 
-Another good choice is High Stakes, but because it's a pursuit, the rewards vary depending on how many police cars you ram or destroy during the event. Example High Stakes payouts at level 95 with S2 Class car:
+### The most fun event for leveling
+
+Another good choice is High Stakes, but because it's a Team Escape, the rewards vary depending on how many police cars you ram or destroy during the event. Example High Stakes payouts at level 95 with S2 Class car:
 
 - Average REP: ~41,600–70,240 per minute
 - Average Cash: ~41,600–70,240 per minute
+
+Team Escapes in general are quite good and offer better variety and fun for grinding. Underground is another good Team Escape for leveling. Coast Chase is also a good candidate, since it offers more cops to destroy per distance travelled, but is quite a bit longer and harder.
 
 ## Driving Techniques
 

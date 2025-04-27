@@ -20,7 +20,7 @@ Collection of main courses.
 3. Push the dough onto the sides and bottom of the baking tray.
 4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
 5. Keep cold until the filling is ready.
-6. When the filling is ready, put the crust into the oven at 200°C for 10 minutes.
+6. When the filling is ready, put the crust into the oven at 185°C (Tammetõru 200°C) for 10 minutes.
 
 !!! abstract inline "Filling Ingredients"
     - 600g marinated broiler fillet
@@ -38,7 +38,7 @@ Collection of main courses.
 2. Add finely diced onions and red peppers and continue sauteeing for 5 minutes.
 3. Move everything from the pan to a big bowl and mix with diced pineapple and blue cheese.
 4. Mix whipping cream with eggs and add everything into the bowl.
-5. Once the crust has been cooked for 10 minutes, add the filling into the crust and cook for another 20 minutes or until golden brown at 200°C.
+5. Once the crust has been cooked for 10 minutes, add the filling into the crust and cook for another 20 minutes or until golden brown at 185°C (Tammetõru 200°C).
 
 ## Bolognese
 
@@ -112,7 +112,7 @@ Collection of main courses.
 **Instructions:**
 
 1. Peel and boil the potatoes with salt and thyme spigs (discard after boiled).
-2. Preheat oven to 175°C.
+2. Preheat oven to 165°C (Tammetõru 185°C).
 3. Heat bacon over medium-high heat until fat begins to render.
 4. Lower heat to medium and stir occasionally, until fat is mostly rendered and bacon is cooked but not crisp, about 5 minutes.
 5. (optional) If there is not enough fat from the bacon, add about 20g of butter
@@ -120,7 +120,7 @@ Collection of main courses.
 7. Add white wine and cook, stirring, until wine has almost fully cooked off, 1 to 2 minutes.
 8. Toss everything together in a bowl and move to a baking dish with cream or crème fraîche.
 9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top.
-10. Bake at 175°C until golden brown, about 40 minutes.
+10. Bake at 165°C (Tammetõru 185°C) until golden brown, about 40 minutes.
 
 ## Wasabi Mayo Beef Tacos
 

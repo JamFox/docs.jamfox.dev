@@ -27,6 +27,12 @@ General places:
 - stay at a machiya
 - Uniqlo and thrift stores
 
+## First steps when arriving
+
+1. To left of where people wait for arriving travellers is 7-eleven ATM for cash.
+2. Get Suica card.
+3. Most people use Keikyu train to get to Tokyo. Cash or Suica only! Most people going to Tokyo will want to get on Shinagawa line. Shinagawa is a hub which connects multiple other lines. TICKETS ARE NEEDED TO ENTER **AND EXIT**!
+
 ## Manners, Dos, Donts
 
 - eating and drinking while walking
