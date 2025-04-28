@@ -121,7 +121,7 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Pontiac GTO '65             |            |                        |            |       |  
 | Pontiac Firebird            | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars | 
 | Mazda Mazda3                |            |                        |            |       |  
-| Ford Cortina                |            |                        |            |       |  
+| Ford Cortina                |            |                        |            |       |
 | Mitsubishi Eclipse Elite    | Mixed      | Blue                   | Super easy | Cheat code on wheels, easiest car in game |  
 | Chevrolet Corvette Stingray |            |                        |            |       |  
 | Volkswagen Golf R32         |            |                        |            |       |  
@@ -134,7 +134,8 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Mitsubishi Eclipse Elite| Mixed      | Blue                   | Super easy | Cheat code on wheels, easiest car in game |  
 | Bugatti Type 57         | Tech       | Blue                   | Medium-hard | Grip god, but has exponential turning / input delay. | 
 | Pontiac Firebird        | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars |  
-| Ford Cortina            |            |                        |            |       |  
+| Ford Cortina            |            |                        |            |       |
+| Ford Escort MK1 RS1600 FIA Group 2| Tech/Mixed | Green/Blue   | Easy-medium|Grip god|
 | BMW i8                  |            |                        |            |       |  
 | Toyota AE86             | Tech/Mixed | Blue                   | Easy-medium| Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |  
 
@@ -152,7 +153,8 @@ Also check out Nightriderz official [performance part and cars guide](https://ni
 | Lotus Europa S          |            |                        |            |       |  
 | Pontiac Firebird        | Mixed      | Blue/Green             | Easy       | Wants to be handled with care, can slide if too agressive, but if managed properly is one of the best cars | 
 | Renault Clio            |            |                        |            |       |  
-| Audi TTRS               |            |                        |            |       |  
+| Audi TTRS               |            |                        |            |       |
+| Ford Escort MK1 RS1600 FIA Group 2| Tech/Mixed | Green/Blue   | Easy-medium|Grip god|
 | Lamborghini Miura SV    | Speed/Mixed| Blue/Red               | Medium     |       |  
 | Maserati Gran Turismo   |            |                        |            |       |  
 | Toyota Supra            |            |                        |            |       |  
