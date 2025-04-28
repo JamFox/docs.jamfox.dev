@@ -67,6 +67,12 @@ Achieving a perfect start provides slightly better rewards and will give you a m
 
 A perfect start is not a power-up and is unaffected by other nitrous Skill Mods.
 
+### Removing props
+
+There are numerous props scattered throughout the game world, such as road signs, bushes, posts, flower pots, and bus stations, which add detail to the environment. However, colliding with almost any of these props will slow you down, even if the effect is subtle.
+
+To minimize the impact of props, configuring your graphics settings correctly is, funnily enough, not straightforward. Avoid using the preset option presets "Minimum," "High," or "Ultra." Instead, opt for "Low" or "Medium" settings, as these remove the largest number of props from the game. While it might seem logical to assume that the "World Details" setting alone controls the number of props, this is not entirely accurate. Using a custom settings preset can inadvertently reintroduce props into the game: for the best results, stick to the recommended "Low" or "Medium" presets.
+
 ### Breakturning
 
 Unlike in other racing games, in a lot of scenarios it makes sense to turn while breaking in order to make the turn radius tighter.
