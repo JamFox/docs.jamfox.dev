@@ -594,3 +594,61 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 4. **Broil:**
    - Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
    - Garnish with chopped parsley and serve immediately.
+
+## One-Pan Chicken and Shimeji Plate
+
+Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603418_%E3%83%81%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%86%E3%83%BC%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
+
+!!! abstract inline "Ingredients"
+    - 150g chicken thighs (for deep frying)
+    - 1/2 pack (75g) shimeji mushrooms (large)
+    - 1 egg
+    - 1/8 head lettuce (about 50g)
+    - 2 slices baguette (1cm thick)
+    - Your favorite dressing, as needed
+    - Grain mustard, as needed
+    - Oil
+    - Salt
+    - Coarsely ground black pepper
+
+**Instructions:**
+
+1. Add 1 tsp oil to a 20cm frying pan. Place chicken skin-side down, sprinkle with 2 pinches of salt, and set over medium heat from cold.
+2. Cut off the roots of the shimeji mushrooms. Crack the egg into a small bowl.
+3. When the chicken is browned, flip it and move to the side. Add shimeji mushrooms (breaking them up) to the pan. Pour the egg into the gap, cover, and steam over low-medium heat for 2–3 minutes.
+4. Sprinkle a pinch of salt over the mushrooms and egg. Turn the mushrooms over, turn off the heat, and sprinkle black pepper over everything.
+5. Insert torn lettuce and baguette slices into the pan. Add dressing to the lettuce if desired, and grain mustard to the chicken.
+
+**Tips:**
+
+- Start heating the pan from cold for even cooking and to avoid rushing.
+- A 20cm frying pan is ideal for a single serving and even cooking.
+- Use a pan with a thick base and a heat-resistant glass lid for best results.
+
+## One-Pan Plate of Pork and Ginger
+
+Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603419_%E8%B1%9A%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E7%84%BC%E3%81%8D%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
+
+!!! abstract inline "Ingredients"
+    - 100g pork belly (thinly sliced)
+    - 1 egg
+    - 1/4 onion (50g)
+    - 1/8 bunch mizuna (25g)
+    - 2 tsp soy sauce
+    - 1 tsp sugar
+    - 1 tsp grated ginger
+    - Mayonnaise, as needed
+    - Sesame oil
+
+**Instructions:**
+
+1. Cut the onion into 5mm wedges. Cut mizuna into 5cm lengths. Cut pork into 6–7cm pieces. Beat the egg. In a small bowl, mix soy sauce, sugar, and grated ginger.
+2. Heat 1 tsp sesame oil in a 20cm frying pan over medium heat. Add pork and cook until the color starts to change. Add onion and continue frying until softened.
+3. Add the soy sauce mixture, stir to combine, and push everything to one side of the pan.
+4. Pour the beaten egg into the empty space, stir roughly, and cook to your preferred doneness.
+5. Turn off the heat, add mizuna, and garnish with mayonnaise.
+
+**Tips:**
+
+- Stir eggs vigorously with chopsticks for fluffy scrambled eggs.
+- A 20cm frying pan with a thick base and glass lid is ideal for single servings and even cooking.

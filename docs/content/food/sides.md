@@ -52,3 +52,19 @@ From [Babish - Nachos](https://www.bingingwithbabish.com/recipes/nachos)
     - 2 Tbsp lime juice, from 1 lime
 
 Mix everything and season to taste.
+
+## Miso soup
+
+!!! abstract inline "Ingredients"
+    - 1 tsp dashi granules
+    - 1 tsp miso (white, red, or mixed)
+    - Optional: a splash of mirin for sweetness
+    - Optional: a drop of vinegar for acidity
+    - Optional: dried seaweed, fish flakes, or a pinch of spice mix
+
+**Instructions:**
+
+1. In a shiruwan (small Japanese soup bowl), add 1 teaspoon of dashi and 1 teaspoon of miso.
+2. Pour in hot water and stir until dissolved.
+3. Adjust flavor with mirin for sweetness or a drop of vinegar for acidity, if desired.
+4. Add dried seaweed, fish flakes, or a little spice mix to taste.
