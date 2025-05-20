@@ -113,6 +113,7 @@ title: "IT"
 - [Git for Beginners: Zero to Hero](https://jdsalaro.com/blog/git-tutorial/) - Jayson Salazar Rodriguez and [Getting out of trouble by understanding Git by Steve Smith](https://youtu.be/sevc6668cQ0) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Git From the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley
 - [How DNS Works](https://howdns.works/)
 - [How Python virtual environments work](https://snarky.ca/how-virtual-environments-work/)
+- [How to Build an Agent or: The Emperor Has No Clothes](https://ampcode.com/how-to-build-an-agent) - Thorsten Ball: Practical examples on how to arrive at a useful CLI agent.
 - [How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More](https://youtu.be/SSp1wn0Abck) - Zack Freedman
 - [Introduction to a Self Managed Life](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software) - FUTO software
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA) - Domain of Science

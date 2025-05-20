@@ -46,6 +46,8 @@ Budgeting with flow charts: [BudgetFlow](https://www.budgetflow.cc/)
 
 See X threads without an account (just replace x.com with xcancel.com): [XCancel](https://xcancel.com/)
 
+What to use to glue two materials together: [This to that](https://www.thistothat.com/)
+
 ## AI tools
 
 There Is An AI For That: [theresanaiforthat.com](https://theresanaiforthat.com/)
