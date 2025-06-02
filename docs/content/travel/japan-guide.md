@@ -1,6 +1,8 @@
 
 ## General
 
+Snacks EU e-store: https://www.nikankitchen.com/
+
 Before going check the official [visit Japan web](https://services.digital.go.jp/en/visit-japan-web).
 
 [How to Spend 14 Days in JAPAN](https://www.youtube.com/watch?v=DBVAAnq1dHo) - Abroad in Japan
