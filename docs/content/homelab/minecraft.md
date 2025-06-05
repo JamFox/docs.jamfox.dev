@@ -10,9 +10,24 @@ title: "Minecraft Servers"
 
 ### Gameplay
 
-- Distant Horizons: infinite render distance.
+- Distant Horizons: "infinite" render distance.
 - Shaders
-- Create: vanilla like tech mod with nice visuals and free-form  progression that fits right in.
+- Create: vanilla like tech mod with nice visuals and free-form  progression that fits right in
+- Animation mods: add more/better animations
+- Physics mod: add interactivity and make physics objects out of a lot of blocks and entities
+
+### Engagement
+
+- DynMap: Live map webserver
+- Minecraft to Discord bot: chat with players in the server from Discord
+
+### Surprises
+
+- Backrooms dimension: suffocation can teleport to backroom dimension
+- From the Fog: Adds Herobrine 
+- Jesus Roulette: chance to save player from death
+- Pickpocket: stealing from other players
+- Bartering/Trading stations: trade between players
 
 ### Server Admin
 
@@ -27,6 +42,15 @@ title: "Minecraft Servers"
 Set how many players have to be sleeping to skip a night: `/gamerule playersSleepingPercentage 30`
 
 To keep inventory after dying: `/gamerule keepInventory true`
+
+To keep XP after death: `/gamerule keepXPAfterDeath true`
+
+Add a stat to scoreboard (seen on TAB press), for example number of deaths:
+
+```
+/scoreboard objectives add Death_Counter deathCount
+/scoreboard objectives setdisplay list Death_Counter
+```
 
 ## Change level type on existing world
 
