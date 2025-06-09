@@ -28,6 +28,8 @@ title: "Minecraft Servers"
 - Jesus Roulette: chance to save player from death
 - Pickpocket: stealing from other players
 - Bartering/Trading stations: trade between players
+- Mystical Oak Tree
+- Little Joys
 
 ### Server Admin
 
