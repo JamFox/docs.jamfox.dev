@@ -15,6 +15,13 @@ title: "Minecraft Servers"
 - Create: vanilla like tech mod with nice visuals and free-form  progression that fits right in
 - Animation mods: add more/better animations
 - Physics mod: add interactivity and make physics objects out of a lot of blocks and entities
+- Mouse Tweaks: dragging mechanics and inventory moving
+- Any inventory sorting mod
+- Stack to Nearby Chests
+- Stack Refill: Automatically refills the player's hand when using the final item if a replacement exists
+- InvMove: move with inventory open
+- FallingTree or other to cut down full trees instead of block by block
+- Any mini- and/or worldmap mod
 
 ### Engagement
 
