@@ -50,6 +50,7 @@ Discover new sites:
 - [surma.dev](https://surma.dev/)
 - [taylor.town](https://taylor.town/)
 - [theabsoluterealm.com](https://theabsoluterealm.com/main/)
+- [Theodore's Thick Coins](https://thick-coins.net/) - Theodore Nichols
 - [twelvemen.neocities.org](https://twelvemen.neocities.org/)
 - [v4.jasonsantamaria](https://v4.jasonsantamaria.com/)
 - [xeiaso.net](https://xeiaso.net/)

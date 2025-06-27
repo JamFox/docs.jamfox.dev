@@ -41,6 +41,7 @@ title: "Interesting"
 - [The Library Of Babel](https://libraryofbabel.info/)
 - [The Phrontistery](https://phrontistery.info/) and [Etymonline](https://www.etymonline.com/): Discover half-remembered rare or obscure words and phrases.
 - [The Pretty Good House](https://www.prettygoodhouse.org/)
+- [Theodore's Thick Coins](https://thick-coins.net/) - Theodore Nichols
 - [Tildes](https://tildes.net/)
 - [uses this](https://usesthis.com/) and [Hacker Stations](https://hackerstations.com/)
 - [Vlaspatta Karamazov music playlists](https://www.youtube.com/@vlaspattakaramazov/videos)
