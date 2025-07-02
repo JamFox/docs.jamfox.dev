@@ -14,8 +14,9 @@ Redeem in [nightriderz.world](https://nightriderz.world/) from `Profile Icon > '
 
 Leveling up in NRZ has a some general rules as to how payouts are made in events:
 
+- The lower the class the higher the reward bonus.
 - Circuit events tend to offer higher payouts compared to other event types.  
-- Maintaining a higher average speed during events results in better rewards.  
+- Maintaining a higher average speed during events results in better rewards. This is why the low class reward bonus exists: to balance this rule. 
 - Finishing in higher placements, such as 1st place, increases payouts.  
 - Multiplayer races provide more rewards than singleplayer. However, for grinding purposes, the waiting time for multiplayer races may reduce overall efficiency even with higher payouts.
 - Achieving a perfect start provides slightly better rewards.
@@ -46,7 +47,11 @@ City Perimeter is the highest-paying events after Lemans efficieny drops off aft
 - Average REP: ~53,500 per minute
 - Average Cash: ~109,000 per minute
 
-### The most fun event for leveling
+### Most efficient event for all levels
+
+Doing the longest E class restricted race on the current rotation (check [here](https://nightriderz.world/rotations) for all rotations) is the best due to the low class restricted reward bonus.
+
+### Most fun event for leveling
 
 Another good choice is High Stakes, but because it's a Team Escape, the rewards vary depending on how many police cars you ram or destroy during the event. Example High Stakes payouts at level 95 with S2 Class car:
 
