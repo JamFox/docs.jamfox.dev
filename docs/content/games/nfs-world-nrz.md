@@ -16,7 +16,7 @@ Leveling up in NRZ has a some general rules as to how payouts are made in events
 
 - The lower the class the higher the reward bonus.
 - Circuit events tend to offer higher payouts compared to other event types.  
-- Maintaining a higher average speed during events results in better rewards. This is why the low class reward bonus exists: to balance this rule. 
+- Longer races have better rewards. This is why the low class reward bonus exists: to balance this rule. 
 - Finishing in higher placements, such as 1st place, increases payouts.  
 - Multiplayer races provide more rewards than singleplayer. However, for grinding purposes, the waiting time for multiplayer races may reduce overall efficiency even with higher payouts.
 - Achieving a perfect start provides slightly better rewards.
@@ -173,7 +173,7 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | X       | Koenigsegg One:1             | Speed        | Red                    | Easy speed/Medium other | Best for ez City Perimeter                                                                |  
 | X       | Ferrari FXX-K                | Mixed        | Blue/Red/HRZ           | Easy               | The jack-of-all-trades - good at everything, master of none.                              |  
 | X       | Hennessey F5                 | Mixed        | Stock only             | Hard               | A wild slidy ride - speed management is everything. Best with a controller.              |  
-| X       | Lamborghini La Voiture Noire | Speed/Mixed  | Blue/Red               | Easy-medium        | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
+| X       | Bugatti La Voiture Noire     | Speed/Mixed  | Blue/Red               | Easy-medium        | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
 | X       | Koenigsegg Jesko             | Speed        | Stock only             |                    |                                                                                           |  
 | X       | Bugatti Bolide               | Mixed        | Stock only             | Easy-medium        |                                                                                           |  
 | X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.           |  
@@ -192,4 +192,4 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | A, S1, S2   | Dodge Viper SRT10 ACR              | Speed/Balanced    | More focused on speed but still has good weight for pursuits                              |  
 | S2, X       | Koenigsegg One:1                   |                   |                                                                                           |
 | X           | Hennessey Venom F5                 |                   |                                                                                           |
-| X           | Bolide                             | Speed only        | Best for speedrunning 60-second escapes, but is stopped easily on collisions              |
+| X           | Bugatti Bolide                     | Speed only        | Best for speedrunning 60-second escapes, but is stopped easily on collisions              |
