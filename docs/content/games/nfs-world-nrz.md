@@ -110,17 +110,17 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | E, D, C | Bugatti Type 57              | Tech         | Blue                   | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | E, D, C | Pontiac Firebird             | Mixed        | Blue/Green             | Easy               | Wants to be handled with care, can slide if too aggressive, but if managed properly is one of the best cars |  
 | E, D, C | Toyota AE86                  | Tech/Mixed   | Blue                   | Easy-medium        | Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |  
-| D       | Nissan 240SX                 |              |                        |                    |                                                                                           |  
+| D       | Nissan 240SX                 | Mixed        | Blue                   | Easy               | As simple as they come, very forgiving and stable                                         |  
 | D       | Lexus IS300                  |              |                        |                    |                                                                                           |  
 | D       | Mazda Mazda3                 |              |                        |                    |                                                                                           |  
 | D       | Chevrolet Corvette Stingray  |              |                        |                    |                                                                                           |  
-| D       | Volkswagen Golf R32          |              |                        |                    |                                                                                           |  
+| D       | Volkswagen Golf R32          | Speed/Mixed  | Blue/Green             | Easy               |                                                                                           |  
 | D       | Mazda MX-5 ND                | Tech         | Blue/Green             | Super easy         | Like Eclipse Elite but worse speed/acceleration and better grip                           |  
 | D, C    | Ford Cortina                 |              |                        |                    |                                                                                           |  
-| D, C    | Mitsubishi Eclipse Elite     | Mixed        | Blue                   | Super easy         | Cheat code on wheels, easiest car in game                                                |  
+| D, C    | Mitsubishi Eclipse Elite     | Mixed        | Blue                   | Super easy         | Cheat code on wheels, easiest car in game                                                 |  
 | C       | Ford Escort MK1 RS1600 FIA Group 2 | Tech/Mixed | Green/Blue         | Easy-medium        | Grip god                                                                                  |  
 | C       | BMW i8                       |              |                        |                    |                                                                                           |  
-| B       | Porsche 914-6                |              |                        |                    |                                                                                           |  
+| B       | Porsche 914-6                | Tech         | Blue/Yellow            | Easy               | Go cart basically                                                                         |  
 | B       | BMW 135i                     |              |                        |                    |                                                                                           |  
 | B       | Porsche Cayman               |              |                        |                    |                                                                                           |  
 | B       | Chevrolet Camaro SS          |              |                        |                    |                                                                                           |  
@@ -141,7 +141,6 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | A       | Porsche 911 Carrera S        |              |                        |                    |                                                                                           |  
 | A       | Audi A1 Clubsport            |              |                        |                    |                                                                                           |  
 | A       | Jeep Wrangler                |              |                        |                    |                                                                                           |  
-| A       | Pagani Zonda F               |              |                        |                    |                                                                                           |  
 | A       | Porsche 997 GT2              |              |                        |                    |                                                                                           |  
 | A       | Nissan Nismo                 |              |                        |                    |                                                                                           |  
 | A, S1   | Nissan Silvia R3             | Tech         | HRZ                    | Easy-medium        | A grip god, but lose traction, and you're toast. Watch out for jumps and bumps! Downshift bug happens on perfect start, slight ADAD spam and removing lowering kit can alleviate that |  
@@ -150,12 +149,14 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | S1      | Lotus 3 Eleven               |              |                        |                    |                                                                                           |  
 | S1      | Nissan Skyline GTR LM        |              |                        |                    |                                                                                           |  
 | S1      | Lexus LFA                    |              |                        |                    |                                                                                           |  
-| S1      | Mazda Furai                  |              |                        |                    |                                                                                           |  
+| S1      | Mazda Furai                  | Tech         | Blue                   | Easy               | Nimble and fun                                                                            |  
 | S1      | Mitsubishi Lancer Evo IX     | Mixed        | HRZ                    | Easy-medium        | Fast but can slip if you steer too aggressively                                           |
+| S1      | Pagani Zonda F               |              |                        |                    |                                                                                           |  
 | S1      | Porsche Taycan               |              |                        |                    |                                                                                           |  
 | S1      | Dodge Viper SRT10            |              |                        |                    |                                                                                           |  
 | S1      | Ford Dark Horse              |              |                        |                    |                                                                                           |  
 | S1, S2  | Dodge Viper SRT-10 ACR       | Mixed        | Blue/HRZ               | Easy-medium        |                                                                                           |  
+| S1, S2  | Pagani Zonda Cinque          |              |                        |                    |                                                                                           |  
 | S2      | Hennessey Venom GT           | Mixed        | Blue/Red               | Hard               | Speed demon, but keeping it on the gripped is a challenge - controller recommended!       |  
 | S2      | Mazda 787B                   | Tech         | Blue/HRZ               | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | S2      | Mercedes-Benz CLK LM         |              |                        |                    |                                                                                           |  
@@ -179,11 +180,11 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | E, D, C, B  | NFS World Speed Rabbit             | Tank              | A tank-like car, great for absorbing damage                                               |  
 | E, D, C, B  | NFS World BFH SUV                  | Tank              | Another tank option, excellent for ramming and durability                                 |  
 | E, D, C, B  | Ford Raptor                        | Tank              | Heavyweight vehicle, great for taking on cops and SUVs                                    |  
-| B, A, S1    | Polestar 1                         | Balanced          | Best balance, has surprising amount of weight, can push cops around and handle SUVs head-on |  
+| B, A, S1    | Polestar 1                         | Balanced          | Best balance, has surprising amount of weight, can push cops around and handle SUVs head-on|  
 | B, A, S1, S2| Lamborghini Urus                   | Balanced          | Decent option, but has less weight than expected                                          |  
-| A, S1 | Nissan Nismo R34 GT-R Z-tune | Balanced | Very nimble and has good weight
+| A, S1       | Nissan Nismo R34 GT-R Z-tune       | Balanced          | Very nimble and has good weight                                                           |
 | A, S1, S2   | Audi R8 V10 Performance Coupe      | Balanced          | Slightly worse than Polestar, but still a solid choice                                    |  
-| A, S1, S2   | Dodge Viper SRT10 ACR              | Speed/Balanced      | More focused on speed but still has good weight for pursuits                              |  
-| S2, X       | Koenigsegg One:1                 |    | 
-| X           | Hennessey Venom F5                 |    | 
-| X           | Bolide                             | Speed only   | Best for speedrunning 60-second escapes, but stops easily     
+| A, S1, S2   | Dodge Viper SRT10 ACR              | Speed/Balanced    | More focused on speed but still has good weight for pursuits                              |  
+| S2, X       | Koenigsegg One:1                   |                   |                                                                                           |
+| X           | Hennessey Venom F5                 |                   |                                                                                           |
+| X           | Bolide                             | Speed only        | Best for speedrunning 60-second escapes, but is stopped easily on collisions              |
