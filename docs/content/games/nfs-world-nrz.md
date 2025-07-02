@@ -150,6 +150,7 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | S1      | Nissan Skyline GTR LM        |              |                        |                    |                                                                                           |  
 | S1      | Lexus LFA                    |              |                        |                    |                                                                                           |  
 | S1      | Mazda Furai                  |              |                        |                    |                                                                                           |  
+| S1      | Mitsubishi Lancer Evo IX     | Mixed        | HRZ                    | Easy-medium        | Fast but can slip if you steer too aggressively                                           |
 | S1      | Porsche Taycan               |              |                        |                    |                                                                                           |  
 | S1      | Dodge Viper SRT10            |              |                        |                    |                                                                                           |  
 | S1      | Ford Dark Horse              |              |                        |                    |                                                                                           |  
@@ -169,7 +170,6 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | X       | Koenigsegg Jesko             | Speed        | Stock only             |                    |                                                                                           |  
 | X       | Bugatti Bolide               | Mixed        | Stock only             | Easy-medium        |                                                                                           |  
 | X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.           |  
-
 
 ### Pursuits and Team Escapes
 
