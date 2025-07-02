@@ -137,6 +137,7 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | A       | Ford Capri                   |              |                        |                    |                                                                                           |  
 | A       | BMW 1 Series M               |              |                        |                    |                                                                                           |  
 | B, A    | Audi TTRS                    |              |                        |                    |                                                                                           |  
+| B, A    | Toyota MR2                   | Mixed        | Blue/Yellow            | Medium-hard        | Fast and nimble, but bumps/slides easily                                                  |
 | A       | Porsche 911 Carrera S        |              |                        |                    |                                                                                           |  
 | A       | Audi A1 Clubsport            |              |                        |                    |                                                                                           |  
 | A       | Jeep Wrangler                |              |                        |                    |                                                                                           |  
