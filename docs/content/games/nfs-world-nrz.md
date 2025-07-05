@@ -94,6 +94,12 @@ Wallriding is generally not worth using as a primary tactic. However, in certain
 
 In drag races, hitting a perfect upshift gives you a small nitrous boost. On higher gears, you can exploit this by upshifting for the boost, then immediately downshifting and upshifting again to trigger another boost on the same gear. How many times you can repeat this "multi-boost" depends on the car and its gear ratios. For example, you might upshift into 5th for a boost, downshift to 4th, then upshift to 5th again for another boost, then upshift to 6th for a third boost, downshift to 5th, and upshift to 6th again for yet another boost—creating a ladder effect. With certain cars and drag skills, it's even possible to get three boosts on a single gear if the gear setup allows. Experiment with your car’s gearing and timing to maximize the number of boosts per drag run.
 
+## Special Events
+
+On weekends there are special events alternating with 2x XP/Cash on one week and increased HRZ performance part drop rate (8% drop rate) on the next week.
+
+A random event on rotation is boosted every 30 minutes, boosted are also 2x and they do stack with the weekend event.
+
 ## Vinyls
 
 For managing vinyls, you can use the Vinyl Manager in order to save your designs to `.svs` files and import other `.svs` files. `.svs` files are the best method of archiving designs or transferring designes between servers. Access Vinyl Manager through the following link:  
