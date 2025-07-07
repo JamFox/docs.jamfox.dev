@@ -66,6 +66,8 @@ Object locations must be computed. The client requires only the object ID and th
 
 When you add or remove a Ceph OSD Daemon to a Ceph Storage Cluster, the cluster map gets updated with the new OSD. Consequently, it changes object placement, because it changes an input for the calculations. Thus rebalancing is done (unless a flag was enabled to not rebalance).
 
+Ceph stores data in pools and there are two types of the pools: replicated or erasure-coded. By default: replicated. Ceph uses the replicated pools by default, meaning the Ceph copies every object from a primary OSD node to one or more secondary OSDs.
+
 An erasure coded pool stores each object as `K+M` chunks. It is divided into `K` data chunks and `M` coding chunks. The pool is configured to have a size of `K+M` so that each chunk is stored in an OSD in the acting set. The rank of the chunk is stored as an attribute of the object.
 
 For instance an erasure coded pool can be created to use five OSDs (`K+M = 5`) and sustain the loss of two of them (`M = 2`). Data may be unavailable until (`K+1`) shards are restored.
