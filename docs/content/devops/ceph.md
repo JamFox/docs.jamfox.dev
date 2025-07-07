@@ -70,6 +70,8 @@ An erasure coded pool stores each object as `K+M` chunks. It is divided into `K`
 
 For instance an erasure coded pool can be created to use five OSDs (`K+M = 5`) and sustain the loss of two of them (`M = 2`). Data may be unavailable until (`K+1`) shards are restored.
 
+The default erasure code profile (which is created when the Ceph cluster is initialized) will split the data into 2 equal-sized chunks, and have 2 parity chunks of the same size. It will take as much space in the cluster as a 2-replica pool but can sustain the data loss of 2 chunks out of 4. It is described as a profile with k=2 and m=2, meaning the information is spread over four OSD (k+m == 4) and two of them can be lost.
+
 ## Planning a cluster
 
 Make sure you wrap your head around the RAM and CPU to OSD ratios. Generally, more RAM is better. Monitor / Manager nodes for a modest cluster might do fine with 64GB; for a larger cluster with hundreds of OSDs 128GB is advised. There is an `osd_memory_target` setting for BlueStore OSDs that defaults to 4GB. Factor in a prudent margin for the operating system and administrative tasks (like monitoring and metrics) as well as increased consumption during recovery: provisioning ~8GB per BlueStore OSD is thus advised.
