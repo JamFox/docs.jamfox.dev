@@ -166,8 +166,8 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | S1      | Porsche Taycan               |              |                        |                    |                                                                                           |  
 | S1      | Dodge Viper SRT10            |              |                        |                    |                                                                                           |  
 | S1      | Ford Dark Horse              |              |                        |                    |                                                                                           |  
-| S1, S2  | Dodge Viper SRT-10 ACR       | Mixed        | Blue/HRZ               | Easy-medium        |                                                                                           |  
-| S1, S2  | Pagani Zonda Cinque          |              |                        |                    |                                                                                           |  
+| S1, S2  | Dodge Viper SRT-10 ACR       | Mixed        | Blue/HRZ               | Easy-medium        | A bit unstable, but super fast                                                            |  
+| S1, S2  | Pagani Zonda Cinque          | Mixed/Speed  | Any                    | Medium             | Understeery as all hell, but OP if handled well                                           |  
 | S2      | Hennessey Venom GT           | Mixed        | Blue/Red               | Hard               | Speed demon, but keeping it on the gripped is a challenge - controller recommended!       |  
 | S2      | Mazda 787B                   | Tech         | Blue/HRZ               | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | S2      | Mercedes-Benz CLK LM         |              |                        |                    |                                                                                           |  
@@ -176,13 +176,13 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | S2      | Audi R8 V10                  |              |                        |                    |                                                                                           |  
 | S2      | Lancia LC2                   | Tech         | Blue/HRZ               | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | S2      | McLaren F1                   |              |                        |                    |                                                                                           |  
-| X       | Koenigsegg One:1             | Speed        | Red                    | Easy speed/Medium other | Best for ez City Perimeter                                                                |  
+| X       | Koenigsegg One:1             | Speed        | Red                    | Easy speed/Medium other | Best for ez City Perimeter                                                           |  
 | X       | Ferrari FXX-K                | Mixed        | Blue/Red/HRZ           | Easy               | The jack-of-all-trades - good at everything, master of none.                              |  
-| X       | Hennessey F5                 | Mixed        | Stock only             | Hard               | A wild slidy ride - speed management is everything. Best with a controller.              |  
+| X       | Hennessey F5                 | Mixed        | Stock only             | Hard               | A wild slidy ride - speed management is everything. Best with a controller.               |  
 | X       | Bugatti La Voiture Noire     | Speed/Mixed  | Blue/Red               | Easy-medium        | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
 | X       | Koenigsegg Jesko             | Speed        | Stock only             |                    |                                                                                           |  
 | X       | Bugatti Bolide               | Mixed        | Stock only             | Easy-medium        |                                                                                           |  
-| X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.           |  
+| X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.   |  
 
 ### Pursuits and Team Escapes
 
