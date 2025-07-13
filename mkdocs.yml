@@ -50,10 +50,14 @@ nav:
           - Mozilla SOPS: content/devops/sops.md
       - DNS:
           - General DNS: content/devops/dns.md
+      - Storage:
+          - Ceph: content/devops/ceph.md
       - AI:
           - Prompt Engineering: content/devops/prompteng.md
           - Stable Diffusion: content/devops/stablediffusion.md
           - Playstation Filter Using Stable Diffusion: content/devops/stablediffusion-ps1.md
+      - Red Teaming & Penetration Testing:
+          - Red Teaming: content/devops/redteaming.md
   - Food & Drinks:
       - content/food/index.md
       - JamFox's:
