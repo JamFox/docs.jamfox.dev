@@ -44,6 +44,158 @@ title: "Minecraft Servers"
 - WorldEdit: copy, paste, use schematics, reset chunks, etc.
 - Sethome or waystones: teleport for players.
 
+## Better Adventures Modpack
+
+Stripped down version of flowstatevideo's [Better Adventures+]([Better Adventures+](https://www.curseforge.com/minecraft/modpacks/better-adventures-plus/)) since it was a little overblown and included some mods that are unreasonably heavy on CPU (particle mods) or caused specific lag problems.
+
+### QoL0
+
+- Stack refill
+- You're in grave danger (graves)
+- Horseman
+- Easy Anvils
+- Easy Magic
+- Easy Shulker Boxes
+- Jump Over Fences
+- Blur+
+- InvMove
+- Nemo's Inventory Sorting
+- Indypets
+- Lootr
+- Briding mod
+- Mouse Tweaks
+- Mouse Wheelie
+- Formidable Farmland
+- RightClickHarvest
+- Tree Harvester
+- Polymorph
+- (extra) Amendments
+- VanillaTweaks
+- Friendly Phantoms
+- Memory Settings
+- Better Third Person
+- Aileron
+- Cubes Without Borders
+- Better F3 Plus
+- Dynamic Crosshair
+- Better Combat
+
+### Deco/building
+
+- Clutter
+- Supplementaries
+
+### Visual/atmosphere
+
+- Distant Horizons
+- Photon Shaders
+- Ambient sounds
+- Spawn animations
+- Terrain slabs
+- (extra) Nature's Spirit
+- Not Enough Animations
+- (extra) Lithostitched
+- (extra) Cool Rain (rain sounds on different materials)
+- Camera Overhaul
+- Presence Footsteps
+- Cull Less Leaves
+- SuperBetterGrass
+- (very heavy on low end) Particle Rain
+- Sound Physics Remastered
+- More Mob Variants
+- Adaptive Tooltips
+- Chirpy's Wildlife
+- Mooshroom Spawn
+
+### Social
+
+- Mighty Mail
+- What are they up to
+- Chat Image
+- Shoppy
+- Mc2Discord
+
+### Gameplay
+
+- Tide (fishing)
+- LevelZ (level up) or Pufferfish skills
+- Exposure
+- Applied Energistics 2 (for better storage)
+- Traveler's backpack
+- Farmer's Delight
+- Little Joys
+- Waystones
+- Nyf's Spiders
+- Xaero's map and minimap
+- Create
+- Majrusz's Enchantments + Universal Enchants
+- Majrusz's Accessories
+- Extra Alchemy
+- Trinkets
+- Randomium Ore
+- Craftable Experience Bottle + Uhm..Did i just get experience ? + Exp Ore + Experienced Crops + Tax Free Levels
+- Artifacts (rare loot)
+- The Aether
+- Better Archeology
+- Dis-Enchanting Table
+- Critters and Companions
+- Only Hammers and Excavators
+- Effortless Structure
+- Naturalist
+
+### World Generation
+
+- Regions Unexplored
+- Biomes O' Plenty
+- Tectonic (especially with dh)
+- Dungeon now loading
+- Bosses of Mass Destruction
+- YUNG's better collection
+- William Wythers' Expanded Ecosphere + William Wythers' Overhauled Overworld
+- ChoiceTheorem's Overhauled Village
+- Incendium (nether biomes overhaul)
+- BetterNether
+- BetterEnd
+- Aquamirae
+
+### Resource Packs
+
+- Fresh Animations
+- Fresh Moves
+- (Bee's) Fancy Crops
+- Enchant Icons
+- Fresh Compats
+- More Mob Variants x Fresh Animations
+- Overlay’s
+- F.M.R.P
+
+### Optimizations
+
+- Fast Item Frames
+- ModernFix
+- BadOptimizations
+- Entity Culling
+- More Culling
+- Clumps
+- C2me
+- noisium
+- Memory Leak Fix
+- Sodium + Indium + Enhanced Block Entities
+- Enhanced Block Entities
+- ImmediatelyFast
+
+### Server
+
+- Server Performance - Smooth Chunk Save
+- Chunky + Chunky Border
+- Worldedit
+- Ready player fun (pause without alert spam)
+- Enchanting Commands
+- ServerCore
+- BetterDays
+- Krypton
+- Starlight
+
 ## Server admin tweaks and tips
 
 ### Useful gamerules
