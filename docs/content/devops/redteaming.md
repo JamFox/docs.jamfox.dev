@@ -204,6 +204,20 @@ Query SPN service accounts:
 
 - **Log In with Cracked Service Account**. Pass‑the‑Hash, Pass‑the‑Ticket, or plain credentials.
 
+- **Check permissions**: `(Get-ADObject -Identity (Get-ADDomain).DistinguishedName -Properties nTSecurityDescriptor).nTSecurityDescriptor.Access | Where-Object {$_.IdentityReference -like '*<SVC ACCOUNT>*'} | Select IdentityReference,ActiveDirectoryRights,ObjectType`
+
+    > Output:
+    > IdentityReference        ActiveDirectoryRights ObjectType
+    > -----------------        --------------------- ----------
+    > CYBER\iis_svc     ReadProperty, GenericExecute 00000000-0000-0000-0000-000000000000
+    > CYBER\iis_svc                    ExtendedRight 1131f6aa-9c07-11d1-f79f-00c04fc2dcd2
+    > CYBER\iis_svc                    ExtendedRight 1131f6ad-9c07-11d1-f79f-00c04fc2dcd2
+
+  - Which may match dsync vulnerability GUIDs (One [link](https://blog.blacklanternsecurity.com/p/detecting-dcsync), other [link](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/dump-password-hashes-from-domain-controller-with-dcsync))
+
+    > 1131f6aa‑9c07‑11d1‑f79f‑00c04fc2dcd2	Replicating Directory Changes	Enumerate objects in AD
+    > 1131f6ad‑9c07‑11d1‑f79f‑00c04fc2dcd2	Replicating Directory Changes All	Enumerate attribute data (password & key material)
+
 - **User Enumeration** Metasploit:
 
     ```bash
