@@ -46,9 +46,9 @@ title: "Minecraft Servers"
 
 ## Better Adventures Modpack
 
-Stripped down version of flowstatevideo's [Better Adventures+]([Better Adventures+](https://www.curseforge.com/minecraft/modpacks/better-adventures-plus/)) since it was a little overblown and included some mods that are unreasonably heavy on CPU (particle mods) or caused specific lag problems.
+Stripped down version of flowstatevideo's [Better Adventures+](https://www.curseforge.com/minecraft/modpacks/better-adventures-plus/) since it was a little overblown and included some mods that are unreasonably heavy on CPU (particle mods) or caused specific lag problems.
 
-### QoL0
+### QoL
 
 - Stack refill
 - You're in grave danger (graves)

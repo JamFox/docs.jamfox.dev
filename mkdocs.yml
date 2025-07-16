@@ -91,6 +91,7 @@ nav:
       - Recommendations: content/extras/recs.md
       - Games:
           - Need For Speed World Nightriderz: content/games/nfs-world-nrz.md
+          - PC Optimizations: content/games/pc-optimizations.md
       - Travel:
           - Japan Guide: content/travel/japan-guide.md
       - Design:
