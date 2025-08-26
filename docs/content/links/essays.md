@@ -32,6 +32,7 @@ title: "Essays & Articles"
 - [do you want to be loved or do you want to be yourself?](https://youtu.be/3Y81L_CUV3M) - Sisyphus 55
 - [existing only to exist](https://www.youtube.com/watch?v=rCb4K_tc9OY) - Professor Viral
 - [finding purpose in our insignificant existence](https://youtu.be/qjvARuTSjqE) -  oliSUNvia
+- [How Well Can You Really Know a Game?](https://www.youtube.com/watch?v=cSrP1ipkes0) - Jacob Geller
 - [In Praise of Heroic Masculinity](https://archive.li/https://www.theatlantic.com/ideas/archive/2023/08/heroic-toxic-masculinity-boys/675172/) - Caitlin Flanagan
 - [Liquid modernity?](https://understandingsociety.blogspot.com/2014/05/liquid-modernity.html) - Daniel Little
 - [Ööülikool - Enn Kasaku loengud](http://www.ylikool.ee/et/13/enn_kasak) - Enn Kasak
