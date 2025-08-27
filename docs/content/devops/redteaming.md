@@ -5,7 +5,8 @@ title: "Red Teaming"
 !!! info
     [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) |
     [CyberChef](https://cyberchef.org/) |
-    [SecLists](https://github.com/danielmiessler/SecLists)
+    [SecLists](https://github.com/danielmiessler/SecLists) |
+    [IPPSEC knowledgebase](https://ippsec.rocks/)
 
 ## Learning Resources
 
