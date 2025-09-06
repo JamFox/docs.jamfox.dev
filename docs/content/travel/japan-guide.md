@@ -7,6 +7,8 @@ Before going check the official [visit Japan web](https://services.digital.go.jp
 
 [How to Spend 14 Days in JAPAN](https://www.youtube.com/watch?v=DBVAAnq1dHo) - Abroad in Japan
 
+[Ultimate Tokyo Guide](https://www.youtube.com/watch?v=ZjQj5GRwLSY) - Abroad in Japan
+
 In Tokyo the train stations are coded like JY01 JY02 etc because the Japanese names are so long. when you use google maps keep an eye out for that. There’s a learning curve but once you get it you’ll always take the train. One thing about this though, if you ask a random stranger on the street how to get to a train station by its code there's a high chance they won't know what you mean.
 
 There are express trains when you go to and from the airport. Some of them you need to get extra tickets (besides the Suica card)
