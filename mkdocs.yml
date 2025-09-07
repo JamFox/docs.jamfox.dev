@@ -48,8 +48,9 @@ nav:
           - Vault with AD: content/devops/vaultad.md
           - Vault with Kerberos: content/devops/vaultkrb.md
           - Mozilla SOPS: content/devops/sops.md
-      - DNS:
+      - Networking:
           - General DNS: content/devops/dns.md
+          - Firewalld: content/devops/firewalld.md
       - Storage:
           - Ceph: content/devops/ceph.md
       - AI:
