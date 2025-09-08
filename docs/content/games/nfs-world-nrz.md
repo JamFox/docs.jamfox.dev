@@ -94,6 +94,16 @@ Wallriding is generally not worth using as a primary tactic. However, in certain
 
 In drag races, hitting a perfect upshift gives you a small nitrous boost. On higher gears, you can exploit this by upshifting for the boost, then immediately downshifting and upshifting again to trigger another boost on the same gear. How many times you can repeat this "multi-boost" depends on the car and its gear ratios. For example, you might upshift into 5th for a boost, downshift to 4th, then upshift to 5th again for another boost, then upshift to 6th for a third boost, downshift to 5th, and upshift to 6th again for yet another boost—creating a ladder effect. With certain cars and drag skills, it's even possible to get three boosts on a single gear if the gear setup allows. Experiment with your car’s gearing and timing to maximize the number of boosts per drag run.
 
+### Timebug
+
+The "timebug" is a phenomenon in Need for Speed World where, due to a bug in the game's engine, the game client begins to run slightly faster over long play sessions. This effect accumulates gradually, and after about two hours of having the game open the change is imperceptible, but can result in improved race times - typically by 0.1 to 0.2 seconds - if you are consistent.
+
+Some servers attempt to mitigate the impact of the timebug by enforcing a forced game restart after a set period (like NRZ which does it after 4 hours). This resets the game's internal timing and prevents the bug from giving players an unintended advantage.
+
+### Hood cam
+
+Using the hood camera, if you can stomach it, will make you more precise due to better visibility.
+
 ## Special Events
 
 On weekends there are special events alternating with 2x XP/Cash on one week and increased HRZ performance part drop rate (8% drop rate) on the next week.
