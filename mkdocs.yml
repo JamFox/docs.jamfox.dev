@@ -7,11 +7,8 @@ nav:
       - Networking: content/homelab/networking.md
       - Power: content/homelab/power.md
       - Rack: content/homelab/rack.md
-      - Synology DS220+:
-          - Installation: content/homelab/ds220.md
-      - HP DL380 G9:
-          - Installation: content/homelab/dl380g9.md
-          - Operating System: content/homelab/os.md
+      - Servers:
+          - Synology DS220+: content/homelab/ds220.md
       - Operating systems:
           - Proxmox VE: content/homelab/proxmox.md
           - Raspberry Pi: content/homelab/rpi.md
@@ -23,6 +20,7 @@ nav:
           - Minecraft Servers: content/homelab/minecraft.md
       - Archive:
           - JamLab Nomad: content/homelab/jamlabnomad.md
+          - HP DL380 G9: content/homelab/dl380g9.md
   - DevOps:
       - content/devops/index.md
       - Version Control:
@@ -30,6 +28,8 @@ nav:
           - Git For Beginners: content/devops/gitbasics.md
           - Git DOs & DON'Ts: content/devops/gitdos.md
           - Precommit: content/devops/precommit.md
+      - Performance Testing & Benchmarking:
+          - Performance Testing & Benchmarking: content/devops/performance-testing-benchmarking.md
       - Configuration Management:
           - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
           - Ansible Vault: content/devops/ansiblevault.md
