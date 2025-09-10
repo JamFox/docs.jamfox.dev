@@ -31,13 +31,7 @@ Selected tests:
     ```bash
     sh phoronix-test-suite install compress-7zip dav1d mysqlslap openssl redis build-linux-kernel x265
 
-    sh phoronix-test-suite benchmark compress-7zip
-    sh phoronix-test-suite benchmark dav1d
-    sh phoronix-test-suite benchmark mysqlslap
-    sh phoronix-test-suite benchmark openssl
-    sh phoronix-test-suite benchmark redis
-    sh phoronix-test-suite benchmark build-linux-kernel
-    sh phoronix-test-suite benchmark x265
+    sh phoronix-test-suite benchmark compress-7zip mysqlslap openssl redis build-linux-kernel x265 dav1d
     ```
 
 - For disk:
