@@ -119,6 +119,16 @@ For managing vinyls, you can use the Vinyl Manager in order to save your designs
 
 The following is a breakdown of the best cars in each class **in my biased opinion**. Note that I tend to prefer technical cars and races and I am not an incredible driver (I tend to complete any challenge that [NFSWFR](https://www.youtube.com/@NFSWFRvideos) rates equal or lower than 9). Each car's specialty, recommended performance parts, difficulty, and additional notes are listed where available.
 
+### For Fun
+
+| Class   | Car                          | Fun |
+|---------|------------------------------|-----|
+| A, S1     | Ford Mustang RTR-X           | Gains grip as fast as it loses it, flips often. Very fun with full HRZ or blue setups. |
+| A, S1, S2 | BMW M1 Procar (1979)         | Very good handling paired with slight oversteery madness on full blue setup. |
+| A, S1, S2 | Ariel Atom 500 V8              | Lightest car in the game so full red setup is infinite grip. |
+| E         | Rovax Edge LW                | Gocart fun! Try wallriding ;) |
+| A         | Rovax Edge DF                | Gocart fun but way faster! | 
+
 ### Races
 
 | Class   | Car                          | Speciality   | Recommended Perf Parts | Difficulty         | Notes                                                                                     |  
@@ -130,7 +140,9 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | E, D    | Pontiac GTO '65              |              |                        |                    |                                                                                           |  
 | E, D, C | Bugatti Type 57              | Tech         | Blue                   | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | E, D, C | Pontiac Firebird             | Mixed        | Blue/Green             | Easy               | Wants to be handled with care, can slide if too aggressive, but if managed properly is one of the best cars |  
-| E, D, C | Toyota AE86                  | Tech/Mixed   | Blue                   | Easy-medium        | Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |  
+| E, D, C | Toyota AE86                  | Tech/Mixed   | Blue                   | Easy-medium        | Takes a bit to get going, but is wonderful to handle and if you manage to keep the speed up is very competitive |
+| E, D, C, B  | Peugeot 106 GTi              |    Mixed          | Blue                       |                    |                                                                                           |  
+| E, D, C, B  | Hyundai Tiburon GT           |  Mixed            |    Blue                    |                    |                                                                                           | 
 | D       | Nissan 240SX                 | Mixed        | Blue                   | Easy               | As simple as they come, very forgiving and stable                                         |  
 | D       | Lexus IS300                  |              |                        |                    |                                                                                           |  
 | D       | Mazda Mazda3                 |              |                        |                    |                                                                                           |  
@@ -138,7 +150,8 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | D       | Volkswagen Golf R32          | Speed/Mixed  | Blue/Green             | Easy               |                                                                                           |  
 | D       | Mazda MX-5 ND                | Tech         | Blue/Green             | Super easy         | Like Eclipse Elite but worse speed/acceleration and better grip                           |  
 | D, C    | Ford Cortina                 |              |                        |                    |                                                                                           |  
-| D, C    | Mitsubishi Eclipse Elite     | Mixed        | Blue                   | Super easy         | Cheat code on wheels, easiest car in game                                                 |  
+| D, C    | Mitsubishi Eclipse Elite     | Mixed        | Blue                   | Super easy         | Cheat code on wheels, easiest car in game                                                 |
+| D, C, B, A        | Lancia Delta                 |  Mixed         |   Blue                     |                    |                                                                                           |
 | C       | Ford Escort MK1 RS1600 FIA Group 2 | Tech/Mixed | Green/Blue         | Easy-medium        | Grip god                                                                                  |  
 | C       | BMW i8                       |              |                        |                    |                                                                                           |  
 | B       | Porsche 914-6                | Tech         | Blue/Yellow            | Easy               | Go cart basically                                                                         |  
@@ -157,6 +170,7 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | A       | Lexus ISF                    |              |                        |                    |                                                                                           |  
 | A       | Ford Capri                   |              |                        |                    |                                                                                           |  
 | A       | BMW 1 Series M               |              |                        |                    |                                                                                           |  
+| A           | Mazda RX-8                   |              |                        |                    |                                                                                           |
 | B, A    | Audi TTRS                    |              |                        |                    |                                                                                           |  
 | B, A    | Toyota MR2                   | Mixed        | Blue/Yellow            | Medium-hard        | Fast and nimble, but bumps/slides easily                                                  |
 | A       | Porsche 911 Carrera S        |              |                        |                    |                                                                                           |  
@@ -192,7 +206,7 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | X       | Bugatti La Voiture Noire     | Speed/Mixed  | Blue/Red               | Easy-medium        | Essentially a better Bolide, due to being able to add performance parts according to your needs. |  
 | X       | Koenigsegg Jesko             | Speed        | Stock only             |                    |                                                                                           |  
 | X       | Bugatti Bolide               | Mixed        | Stock only             | Easy-medium        |                                                                                           |  
-| X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.   |  
+| X       | Chevrolet Camaro ZL1         | Drag         | Stock only             | Easy Drag/Ultra hard other | **Will** flip, funniest shit you'll see. Best drag car in game, no competition.   |
 
 ### Pursuits and Team Escapes
 
