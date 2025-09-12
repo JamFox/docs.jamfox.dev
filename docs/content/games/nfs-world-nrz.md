@@ -219,7 +219,8 @@ The following is a breakdown of the best cars in each class **in my biased opini
 | B, A, S1, S2| Lamborghini Urus                   | Balanced          | Decent option, but has less weight than expected                                          |  
 | A, S1       | Nissan Nismo R34 GT-R Z-tune       | Balanced          | Very nimble and has good weight                                                           |
 | A, S1, S2   | Audi R8 V10 Performance Coupe      | Balanced          | Slightly worse than Polestar, but still a solid choice                                    |  
-| A, S1, S2   | Dodge Viper SRT10 ACR              | Speed/Balanced    | More focused on speed but still has good weight for pursuits                              |  
-| S2, X       | Koenigsegg One:1                   |                   |                                                                                           |
-| X           | Hennessey Venom F5                 |                   |                                                                                           |
+| A, S1, S2   | Dodge Viper SRT10 ACR              | Speed/Balanced    | More focused on speed but still has good weight for pursuits                              |
+| S2, X       | Koenigsegg Gemera                  | Speed/Tank        | Super fast, bad handling, but lots of weight                                              |
+| S2, X       | Koenigsegg One:1                   | Speed             |                                                                                           |
+| X           | Hennessey Venom F5                 | Speed             |                                                                                           |
 | X           | Bugatti Bolide                     | Speed only        | Best for speedrunning 60-second escapes, but is stopped easily on collisions              |
