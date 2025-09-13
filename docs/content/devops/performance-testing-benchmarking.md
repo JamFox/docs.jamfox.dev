@@ -34,6 +34,12 @@ Selected tests:
     sh phoronix-test-suite benchmark compress-7zip mysqlslap openssl redis build-linux-kernel x265 dav1d
     ```
 
+- For memory:
+
+    ```bash
+    sh phoronix-test-suite benchmark memory
+    ```
+
 - For disk:
 
     ```bash
