@@ -4,6 +4,7 @@ nav:
   - HomeLab:
       - content/homelab/index.md
       - JamLab Family Guide: content/homelab/family.md
+      - Podman: content/homelab/podman.md
       - Networking: content/homelab/networking.md
       - Power: content/homelab/power.md
       - Rack: content/homelab/rack.md
