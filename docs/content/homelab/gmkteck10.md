@@ -142,7 +142,7 @@ Since Sol has two CPU sockets and dual CPUs, it was interesting to run benchmark
 
 Run task only on first CPU: `numactl --cpubind=0 --membind=0 <COMMAND>`
 
-Results on openbenchmarking.org:
+Results on openbenchmarking.org: [https://openbenchmarking.org/result/2509146-NE-CPUSOLSIN78](https://openbenchmarking.org/result/2509146-NE-CPUSOLSIN78)
 
 | Test                               | Dual CPU                | Single CPU socket    | Difference            |
 | ---------------------------------- | ----------------------- | -------------------- | --------------------- |
