@@ -10,6 +10,7 @@ nav:
       - Rack: content/homelab/rack.md
       - Servers:
           - Synology DS220+: content/homelab/ds220.md
+          - GMKtec K10: content/homelab/gmkteck10.md
       - Operating systems:
           - Proxmox VE: content/homelab/proxmox.md
           - Raspberry Pi: content/homelab/rpi.md
