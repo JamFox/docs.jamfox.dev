@@ -144,9 +144,40 @@ Run task only on first CPU: `numactl --cpubind=0 --membind=0 <COMMAND>`
 
 Results on openbenchmarking.org:
 
-| Test                          | Both CPUs   | Only first CPU | Difference    |
-| ----------------------------- | ----------- | -------------- | --------------|
+| Test                               | Dual CPU                | Single CPU socket    | Difference            |
+| ---------------------------------- | ----------------------- | -------------------- | --------------------- |
+| **x265 4K (Bosphorus)**            | 5.55 fps                | 6.16 fps             | ~0.90x (slower dual) |
+| **x265 1080p (Bosphorus)**         | 15.57 fps               | 15.84 fps            | ~0.98x (similar)     |
+| **7-Zip Compression**              | 48654 MIPS              | 25680 MIPS           | ~1.90x faster        |
+| **7-Zip Decompression**            | 42452 MIPS              | 21362 MIPS           | ~1.99x faster        |
+| **Linux Kernel Build (defconfig)** | 227.11 s (lower=better) | 441.74 s             | ~1.94x faster        |
+| **OpenSSL SHA256**                 | 2.30e9 B/s              | 1.15e9 B/s           | ~2.00x faster        |
+| **OpenSSL SHA512**                 | 2.43e9 B/s              | 1.22e9 B/s           | ~1.99x faster        |
+| **OpenSSL RSA4096 sign**           | 1299.7 ops/s            | 651.8 ops/s          | ~1.99x faster        |
+| **OpenSSL RSA4096 verify**         | 87888 ops/s             | 43995 ops/s          | ~2.00x faster        |
+| **OpenSSL ChaCha20**               | 2.70e10 B/s             | 1.35e10 B/s          | ~2.00x faster        |
+| **OpenSSL AES-128-GCM**            | 2.84e10 B/s             | 1.42e10 B/s          | ~2.00x faster        |
+| **OpenSSL AES-256-GCM**            | 2.19e10 B/s             | 1.10e10 B/s          | ~2.00x faster        |
+| **OpenSSL ChaCha20-Poly1305**      | 1.69e10 B/s             | 8.48e9 B/s           | ~2.00x faster        |
+| **Redis GET (50 conn)**            | 2,145,363 req/s         | 1,496,068 req/s      | ~1.43x faster        |
+| **Redis SET (50 conn)**            | 1,688,719 req/s         | 993,505 req/s        | ~1.70x faster        |
+| **Redis LPOP (50 conn)**           | 2,417,681 req/s         | 1,492,706 req/s      | ~1.62x faster        |
+| **Redis SADD (50 conn)**           | 1,926,472 req/s         | 1,170,568 req/s      | ~1.65x faster        |
+| **Redis LPUSH (50 conn)**          | 1,116,586 req/s         | 898,764 req/s        | ~1.24x faster        |
+| **Redis GET (500 conn)**           | 1,963,410 req/s         | 1,466,446 req/s      | ~1.34x faster        |
+| **Redis SET (500 conn)**           | 1,659,920 req/s         | 1,081,548 req/s      | ~1.54x faster        |
+| **Redis LPOP (500 conn)**          | 2,459,230 req/s         | 1,660,237 req/s      | ~1.48x faster        |
+| **Redis SADD (500 conn)**          | 1,849,049 req/s         | 1,323,014 req/s      | ~1.40x faster        |
+| **Redis LPUSH (500 conn)**         | 1,538,552 req/s         | 964,594 req/s        | ~1.60x faster        |
+| **Redis GET (1000 conn)**          | 2,184,990 req/s         | 1,437,471 req/s      | ~1.52x faster        |
+| **Redis SET (1000 conn)**          | 1,688,344 req/s         | 1,087,756 req/s      | ~1.55x faster        |
+| **Redis LPOP (1000 conn)**         | 1,552,459 req/s         | 1,493,120 req/s      | ~1.04x faster        |
+| **Redis SADD (1000 conn)**         | 1,972,121 req/s         | 1,279,570 req/s      | ~1.54x faster        |
+| **Redis LPUSH (1000 conn)**        | 1,491,898 req/s         | 951,028 req/s        | ~1.57x faster        |
 
+Compute-heavy workloads (7-Zip, OpenSSL, kernel build) scale almost perfectly (~2x) with both sockets.
+
+x265 scaling is poor - single-socket actually edges out dual in 4K and is nearly identical in 1080p.
 
 #### CPU Bench Summary
 
