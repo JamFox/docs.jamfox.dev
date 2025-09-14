@@ -53,8 +53,8 @@ Green has: Intel Core i9-13900HK @ 5.20GHz (14 Cores / 20 Threads)
 
 Results on openbenchmarking.org:
 
-- https://openbenchmarking.org/result/2509137-NE-SOLCPU35817
-- https://openbenchmarking.org/result/2509117-NE-GREENCPU761
+- [https://openbenchmarking.org/result/2509137-NE-SOLCPU35817](https://openbenchmarking.org/result/2509137-NE-SOLCPU35817)
+- [https://openbenchmarking.org/result/2509117-NE-GREENCPU761](https://openbenchmarking.org/result/2509137-NE-SOLCPU35817)
 
 | Test | Green | Sol | Difference |
 |------|-----------|---------|------------|
@@ -102,7 +102,7 @@ Check for E-cores: `cat /sys/devices/cpu_atom/cpus`
 
 Run task on specific cores (0-11 are P-cores in this case): `taskset -c 0-11 <COMMAND>`
 
-Results on openbenchmarking.org: https://openbenchmarking.org/result/2509142-NE-CPUGREENN25
+Results on openbenchmarking.org: [https://openbenchmarking.org/result/2509142-NE-CPUGREENN25](https://openbenchmarking.org/result/2509142-NE-CPUGREENN25)
 
 | Test                          | All cores   | Only P-cores | Difference    |
 | ----------------------------- | ----------- | ------------ | --------------|
@@ -176,8 +176,8 @@ Green has: NVMe 1000GB CT1000E100SSD8 on xfs
 
 Results on openbenchmarking.org:
 
-- https://openbenchmarking.org/result/2509115-NE-DISKGREEN01
-- https://openbenchmarking.org/result/2509145-NE-DISKSOL7014
+- [https://openbenchmarking.org/result/2509115-NE-DISKGREEN01](https://openbenchmarking.org/result/2509115-NE-DISKGREEN01)
+- [https://openbenchmarking.org/result/2509145-NE-DISKSOL7014](https://openbenchmarking.org/result/2509145-NE-DISKSOL7014)
 
 | Test | Green | Sol | Difference |
 |------|------------|----------|------------|
