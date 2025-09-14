@@ -21,6 +21,10 @@ Green:
 - Kernel: 6.12.0-55.22.1.el10_0.x86_64 (x86_64)
 - Compiler: GCC 14.2.1 20250110
 - File-System: xfs
+- Physical dimensions: 9.8 x 10.3 x 4.2 cm
+- Weight: 2.2kg
+- Power draw (idle): 18W
+- Power draw (max): 120W
 
 
 Sol:
@@ -36,12 +40,21 @@ Sol:
 - Kernel: 6.8.12-9-pve (x86_64)
 - Compiler: GCC 12.2.0
 - File-System: ext4
+- Physical dimensions: 8.73 x 44.55 x 67.94 cm
+- Weight: 23.6 kg
+- Power draw (idle): 112W
+- Power draw (max): 500W
 
 ### CPU Benchmarks
 
 Sol has: 2 x Intel Xeon E5-2637 v3 @ 3.70GHz (8 Cores / 16 Threads)
 
 Green has: Intel Core i9-13900HK @ 5.20GHz (14 Cores / 20 Threads)
+
+Results on openbenchmarking.org:
+
+- https://openbenchmarking.org/result/2509137-NE-SOLCPU35817
+- https://openbenchmarking.org/result/2509117-NE-GREENCPU761
 
 | Test | Green | Sol | Difference |
 |------|-----------|---------|------------|
@@ -85,6 +98,12 @@ Green has: Intel Core i9-13900HK @ 5.20GHz (14 Cores / 20 Threads)
 
 Since i9-13900HK features [two kinds of cores](https://lwn.net/Articles/909611/), performance aka P-cores and efficiency aka E-cores (also known as Atom cores), it provided an interesting opportunity to test performance with E-cores off.
 
+Check for E-cores: `cat /sys/devices/cpu_atom/cpus`
+
+Run task on specific cores (0-11 are P-cores in this case): `taskset -c 0-11 <COMMAND>`
+
+Results on openbenchmarking.org: https://openbenchmarking.org/result/2509142-NE-CPUGREENN25
+
 | Test                          | All cores   | Only P-cores | Difference    |
 | ----------------------------- | ----------- | ------------ | --------------|
 | **x265 4K**                   | 5.91 fps    | 4.24 fps     | ~1.39x faster |
@@ -117,6 +136,18 @@ Redis throughput improves dramatically with E-cores enabled, especially at lower
 
 For mixed workloads (databases, Redis, compression, video encoding), enabling all cores is needed for maximum performance. Disabling E-cores mainly limits total throughput for parallel tasks.
 
+#### CPU Benchmarks with only one CPU on dual socket
+
+Since Sol has two CPU sockets and dual CPUs, it was interesting to run benchmarks only on one of them to see a difference in terms of more equal comparison between the systems and to see how much [NUMA](https://www.kernel.org/doc/html/v6.13-rc5/mm/numa.html) [affects](https://frankdenneman.nl/category/numa/) the results.
+
+Run task only on first CPU: `numactl --cpubind=0 --membind=0 <COMMAND>`
+
+Results on openbenchmarking.org:
+
+| Test                          | Both CPUs   | Only first CPU | Difference    |
+| ----------------------------- | ----------- | -------------- | --------------|
+
+
 #### CPU Bench Summary
 
 | Test | Winner | Difference |
@@ -142,6 +173,11 @@ MariaDB results in a massive difference in performance not just due to CPU but a
 Sol has: 2400GB LOGICAL VOLUME (8x600GB 10K SAS RAID10 Storage Controller HP Smart Array P440ar) on ext4
 
 Green has: NVMe 1000GB CT1000E100SSD8 on xfs
+
+Results on openbenchmarking.org:
+
+- https://openbenchmarking.org/result/2509115-NE-DISKGREEN01
+- https://openbenchmarking.org/result/2509145-NE-DISKSOL7014
 
 | Test | Green | Sol | Difference |
 |------|------------|----------|------------|
@@ -201,6 +237,11 @@ Green benefits from modern DDR5 and low-latency caches for small-block memory an
 Sol has: 16 x 16 GB DDR4-2133MT/s 752369-081
 
 Green has: 2 x 32 GB DDR5-5200MT/s
+
+Results on openbenchmarking.org:
+
+- https://openbenchmarking.org/result/2509141-NE-RAMSOL48015
+- https://openbenchmarking.org/result/2509145-NE-RAMGREEN277
 
 | Test                                  | Green          | Sol            | Difference    |
 | ------------------------------------- | -------------- | -------------- | ------------- |
