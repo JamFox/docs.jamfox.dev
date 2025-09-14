@@ -138,7 +138,7 @@ For mixed workloads (databases, Redis, compression, video encoding), enabling al
 
 #### CPU Benchmarks with only one CPU on dual socket
 
-Since Sol has two CPU sockets and dual CPUs, it was interesting to run benchmarks only on one of them to see a difference in terms of more equal comparison between the systems and to see how much [NUMA](https://www.kernel.org/doc/html/v6.13-rc5/mm/numa.html) [affects](https://frankdenneman.nl/category/numa/) the results.
+Since Sol has two CPU sockets and dual CPUs, it was interesting to run benchmarks only on one of them to see a difference in terms of more equal comparison in terms of core/thread counts between the systems and, perhaps, to see how much [NUMA](https://www.kernel.org/doc/html/v6.13-rc5/mm/numa.html) [affects](https://frankdenneman.nl/category/numa/) the results.
 
 Run task only on first CPU: `numactl --cpubind=0 --membind=0 <COMMAND>`
 
