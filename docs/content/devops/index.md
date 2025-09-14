@@ -58,3 +58,20 @@ AMD:
 ```
 lsblk -d -o name,rota
 ```
+
+### CPU sockets and cores
+
+Only use first CPU socket for a task:
+
+```bash
+numactl --cpubind=0 --membind=0 <COMMAND>
+```
+
+Check which cores are E-cores (efficiency cores) and run task only on P-cores (performance cores):
+
+```bash
+cat /sys/devices/cpu_atom/cpus
+12-19
+
+taskset -c 0-11 <COMMAND>
+```
