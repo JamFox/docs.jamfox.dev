@@ -25,6 +25,7 @@ Reading these two is all one needs to become a better than average cook:
 - [Real Fast Food](https://www.nigelslater.com/real-fast-food_bk_25) - Nigel Slater
 - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook) - Rachel A. Rosen and Zilla Novikov
 - [What Cooking is Like for Someone Who Doesn't Cook](https://www.youtube.com/watch?v=Y9mDLhJ_Dao)
+- [What Does "Medium Heat" Even Mean??](https://www.youtube.com/watch?v=HYRE6DER_zo) - Internet Shaquille
 
 ## Favourite authors
 
