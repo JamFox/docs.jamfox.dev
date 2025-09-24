@@ -23,6 +23,7 @@ Discover new sites:
 - [dustinbrett.com](https://dustinbrett.com/)
 - [egypt.urnash.com](https://egypt.urnash.com/)
 - [eli.wtf](http://eli.wtf/)
+- [ellesho.me](https://ellesho.me/)
 - [freakphone.net](https://freakphone.net/)
 - [fretnoize.neocities.org](https://fretnoize.neocities.org/)
 - [hamishw.com](https://hamishw.com/)

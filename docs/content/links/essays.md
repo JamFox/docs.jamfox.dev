@@ -122,6 +122,7 @@ title: "Essays & Articles"
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g) - Folding Ideas
 - [Making Sense of VRChat](https://youtu.be/4PHT-zBxKQQ) - People Make Games
 - [Neural Adaptation and Perception of Music](https://blog.slavin.ee/posts/neural-adaptation-and-perception-of-music/) - Anton Slavin
+- [Nine Things I Learned in Ninety Years](https://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf) - Edward Packard
 - [On keeping sketchbooks](https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html) - Matt Kirkland and [Pretty Sketchy](https://v4.jasonsantamaria.com/articles/pretty-sketchy/) - Jason Santa Maria
 - [Ristirahvas lohvi otsas](https://www.err.ee/1609194133/mihkel-mutt-ristirahvas-lohvi-otsas) - Mihkel Mutt
 - [Ronald Reagan & the Biggest Failure in Physics](https://youtu.be/ivVzGpznw1U) - BobbyBroccoli
