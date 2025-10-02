@@ -8,6 +8,15 @@ General technical system administration and devops documentation.
 
 General Linux tidbits.
 
+### APT upgrades without automatic restarts
+
+On modern apt based systems if you wish to control the restarts better then you can [export these vars before upgrade](https://manpages.debian.org/bullseye/needrestart/needrestart.1.en.html):
+
+```
+export DEBIAN_FRONTEND=noninteractive
+export NEEDRESTART_MODE=l # l - list only, a - auto restart, i - interactive restart
+```
+
 ### Sudo and root
 
 You may see `sudo su -` used instead of `sudo -i` but there are some subtle differences between them.
