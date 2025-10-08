@@ -86,6 +86,8 @@ title: "Essays & Articles"
 - [The Pitchforks Are Coming… For Us Plutocrats](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/) - Nick Hanauer: "To: My Fellow Zillionaires [...] You show me a highly unequal society, and I will show you a police state. Or an uprising."
 - [This is Financial Advice](https://www.youtube.com/watch?v=5pYeoZaoWrA) - Folding Ideas
 - [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke
+- [The Colonial Origins of Comparative Development:
+An Empirical Investigation](https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf) - paper by DARON ACEMOGLU, SIMON JOHNSON, AND JAMES A. ROBINSON or [2024 prize lecture in economic sciences](https://www.youtube.com/watch?v=YcuxbYUW8R8)
 
 ### Physics
 
