@@ -4,12 +4,11 @@ title: "Privacy"
 
 ## Browser extensions
 
+[Firefox extension recommendations](https://github.com/arkenfox/user.js/wiki/4.1-Extensions)
+
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
-- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 - [Firefox Local Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
-- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/)
 - [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/)
 - [UBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)

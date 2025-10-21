@@ -88,6 +88,7 @@ title: "Essays & Articles"
 - [What is Money](https://www.onedb.online/blog/what_is_money) - Gary Clarke
 - [The Colonial Origins of Comparative Development:
 An Empirical Investigation](https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf) - paper by DARON ACEMOGLU, SIMON JOHNSON, AND JAMES A. ROBINSON or [2024 prize lecture in economic sciences](https://www.youtube.com/watch?v=YcuxbYUW8R8)
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/) - Scott Cunningham: encompasses the tools and methods necessary to arrive at meaningful answers to the questions of causation.
 
 ### Physics
 
