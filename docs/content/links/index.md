@@ -22,6 +22,8 @@ Links of all shapes and sizes, from interesting stuff I have found to other docu
 
 [The New Yorker](https://www.newyorker.com/)
 
+[Harper's](https://harpers.org/)
+
 ## Useful links
 
 [Online text to diagram tools](https://xosh.org/text-to-diagram/)

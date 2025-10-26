@@ -51,6 +51,7 @@ title: "Interesting"
 - [xkcd](https://xkcd.com/)
 - [You just won a 656 Million Dollar Lottery!](https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf)
 an official ‘Continue and Persist’ Letter.
+- [The Goon Squad: Loneliness, porn’s next frontier, and the dream of endless masturbation](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/) - Daniel Kolitz
 
 ## Favourite authors
 

@@ -149,6 +149,7 @@ An Empirical Investigation](https://economics.mit.edu/sites/default/files/public
 - [Why Games like Call of Duty Are Bad For You, But Games Like RuneScape Are GOOD For you!](https://youtu.be/1ebhepOmWws) - BDobbinsFTW
 - [Yak shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html) - Jeremy H. Brown
 - [The Tiny Teams Playbook](https://www.latent.space/p/tiny) - Shawn swyx Wang: team creation advice from 7 teams with 100 people and 200m ARR.
+- [Epistemological Bias in the Physical and Social Sciences](https://iiit.org/wp-content/uploads/Epistemological-Bias-Combined.pdf) - Abdelwahab M. Elmessiri: Thoughts on cultural divides and Islamic bias and thought process. 
 
 ## Favourite authors
 
