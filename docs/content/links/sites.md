@@ -56,3 +56,4 @@ Discover new sites:
 - [v4.jasonsantamaria](https://v4.jasonsantamaria.com/)
 - [xeiaso.net](https://xeiaso.net/)
 - [neverhack.com](https://neverhack.com/en)
+- [shashanktomar.com](https://www.shashanktomar.com/)
