@@ -25,6 +25,7 @@ Collection of my favorite drinks.
 - [Piccini Chianti](https://www.vivino.com/piccini-chianti/w/1598405)
 - [Meerlust - Rubicon](https://www.vivino.com/meerlust-estate-rubicon/w/19304)
 - [Coto de Imaz Rioja Reserva](https://www.vivino.com/el-coto-coto-de-imaz-rioja-gran-reserva/w/8623)
+- [Carmenere "Arao" - Clos de Luz (2019)](https://www.vivino.com/en/clos-de-luz-arao-carmenere-cachapoal/w/6415759)
 
 ### White wine
 
@@ -35,7 +36,7 @@ Collection of my favorite drinks.
 - Chablis
 - [Pinot Grigio - Terre Collina](https://www.vivino.com/terre-collina-pinot-grigio/w/10694948)
 - [Pinot Grigio - Masi Masianco](https://www.vivino.com/it-masi-masianco/w/21950)
-- Pinot Grigio - Jacob's Creek 2021
+- Pinot Grigio - Jacob's Creek (2021)
 
 ## Cider
 
