@@ -56,6 +56,16 @@ export TERM=xterm-256color
 reset
 ```
 
+or without Python:
+
+```bash
+cd /dev/shm
+script -q /dev/null
+bash
+# Ctrl + Z
+stty raw -echo;fg
+```
+
 ### Send SSH proxy back home
 
 If direct SSH is not possible but SSH is available inside the reverse shell, you can tunnel it back to your Kali machine using two reverse shells:
