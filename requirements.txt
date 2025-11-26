@@ -3,3 +3,6 @@ markdown==3.10
 mkdocs-glightbox==0.5.2
 mkdocs-minify-plugin==0.8.0
 mkdocs-print-site-plugin==2.8
+pillow==11.3.0 # From "mkdocs-material[imaging]", for optimize plugin
+cairosvg==2.8.2 # From "mkdocs-material[imaging]", for optimize plugin
+pngquant==3.0.3 # For optimize plugin

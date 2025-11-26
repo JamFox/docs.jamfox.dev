@@ -18,4 +18,5 @@ jobs:
       - run: npm install
       #- run: npx playwright install chromium
       - run: pip install -r requirements.txt
+      - run: apt install pngquant
       - run: mkdocs gh-deploy --force

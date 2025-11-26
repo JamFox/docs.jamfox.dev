@@ -169,6 +169,7 @@ plugins:
       minify_css: true
       htmlmin_opts:
         remove_comments: true
+  - optimize # Requires pngquant executable on path
 
 markdown_extensions:
   - def_list
