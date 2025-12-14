@@ -37,6 +37,7 @@ Collection of my favorite drinks.
 - [Pinot Grigio - Terre Collina](https://www.vivino.com/terre-collina-pinot-grigio/w/10694948)
 - [Pinot Grigio - Masi Masianco](https://www.vivino.com/it-masi-masianco/w/21950)
 - Pinot Grigio - Jacob's Creek (2021)
+- Chassagne-Montrachet Blanc - Louis Jadot (2022)
 
 ## Cider
 
