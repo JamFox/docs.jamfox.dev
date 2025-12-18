@@ -110,3 +110,8 @@ Places of interest:
 - Cooking classes
 - Downhill volcano biking or Volcano climbing
 - Puente Bolognesi or Puente Fierro
+
+Activities:
+
+- sandboarding
+- dune buggy drive
