@@ -26,6 +26,8 @@ Collection of my favorite drinks.
 - [Meerlust - Rubicon](https://www.vivino.com/meerlust-estate-rubicon/w/19304)
 - [Coto de Imaz Rioja Reserva](https://www.vivino.com/el-coto-coto-de-imaz-rioja-gran-reserva/w/8623)
 - [Carmenere "Arao" - Clos de Luz (2019)](https://www.vivino.com/en/clos-de-luz-arao-carmenere-cachapoal/w/6415759)
+- Bodega Murga - Agathodemon
+- Oxalis Huatata
 
 ### White wine
 
@@ -38,10 +40,27 @@ Collection of my favorite drinks.
 - [Pinot Grigio - Masi Masianco](https://www.vivino.com/it-masi-masianco/w/21950)
 - Pinot Grigio - Jacob's Creek (2021)
 - Chassagne-Montrachet Blanc - Louis Jadot (2022)
+- Tinajas de Moquegua Blanco Blend
+- 42/25 Chardonnay/Viognier/Sauvignon Blanc - Midalidare
+- Prima Pietra Soave - Cantina di Monteforte (w/ pizza or other tomato based)
+
+## Yellow wine
+
+- Vin Jaune Arbois - Château Béthanie (w/ fondue etc)
 
 ## Cider
 
 - Galipette Brut
+- Karksi Apple Cider
+- Nuustaku Brewery Härgm� Aroonia
+
+## Beer
+
+- Lindemans Pecheresse
+- Belzebuth Violette
+- Orion Shokunin Southern Wheat
+- Sierra Andina Mama Killa
+- Pühaste Confusion Matrix (w/ tacos, other mexican food)
 
 ## Whisky
 
@@ -51,6 +70,8 @@ Collection of my favorite drinks.
 
 - Jack Daniel's Tennessee Honey
 - Koskenkorva Espresso
+- Vana Tallinn
+- Umeshu
 
 ## Rum
 
@@ -59,6 +80,19 @@ Collection of my favorite drinks.
 ## Gin
 
 - [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano
+- Juniperium Sloe Gin
+
+## Sodas
+
+- Sprite
+- Calpis Soda Peach
+- Julmust
+- Bundaberg Ginger Beer
+
+## Energy Drinks
+
+- Monster White
+- Boss Rainbow Mountain Blend
 
 ## Cocktails
 
