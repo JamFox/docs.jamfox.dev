@@ -46,13 +46,13 @@ Collection of my favorite drinks.
 
 ## Yellow wine
 
-- Vin Jaune Arbois - Château Béthanie (w/ fondue etc)
+- Vin Jaune Arbois - Chateau Bethanie (w/ fondue etc)
 
 ## Cider
 
 - Galipette Brut
 - Karksi Apple Cider
-- Nuustaku Brewery Härgm� Aroonia
+- Nuustaku Brewery Hargmae Aroonia
 
 ## Beer
 
@@ -60,7 +60,7 @@ Collection of my favorite drinks.
 - Belzebuth Violette
 - Orion Shokunin Southern Wheat
 - Sierra Andina Mama Killa
-- Pühaste Confusion Matrix (w/ tacos, other mexican food)
+- Puhaste Confusion Matrix (w/ tacos, other mexican food)
 
 ## Whisky
 
