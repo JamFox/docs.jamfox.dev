@@ -34,6 +34,7 @@ title: "IT"
 - [Practical Networking - Virtual Local Area Networks (VLANs)](https://www.practicalnetworking.net/stand-alone/vlans/) - Ed Harmoush
 - [Rule 53](https://github.com/pgl/rule53)
 - [Why was Facebook down for five hours?](https://youtu.be/-wMU8vmfaYo) - Ben Eater
+- [Traceroute isn't real, or: Whoops! Everyone Was Wrong Forever](https://gekk.info/articles/traceroute.htm) ([video](https://www.youtube.com/watch?v=L0RUI5kHzEQ) and [presentation](https://www.slideshare.net/RichardSteenbergen/a-practical-guide-to-correctly-troubleshooting-with-traceroute)) - Richard Steenbergen
 
 ### Orchestration
 

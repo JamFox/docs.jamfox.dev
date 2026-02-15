@@ -14,6 +14,25 @@ title: "Red Teaming"
 - [Hack The Box](https://www.hackthebox.com/)
 - [IppSec YouTube Channel](https://www.youtube.com/@ippsec/videos) - HtB walkthroughs and explanations
 - [Tuoni GitHub Repository](https://github.com/shell-dot/tuoni) and [Tuoni Documentation](https://docs.shelldot.com/)
+- [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+- [ired.team notes](https://www.ired.team/)
+
+## Infra / Setup / Prep
+
+Re-directors or traffic forwarders are essentially proxies between the red teaming server (say the one for sending phishing emails or a C2) and the victim - `victim <> re-director <> team server`
+
+Below shows how to turn a Linux box into an HTTP re-director. In this case, all the HTTP traffic to 10.0.0.5:80 (redirector) will be forwarded to 10.0.0.2:80 (team server) :
+
+```bash
+iptables -I INPUT -p tcp -m tcp --dport 80 -j ACCEPT
+iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination 10.0.0.2:80
+iptables -t nat -A POSTROUTING -j MASQUERADE
+iptables -I FORWARD -j ACCEPT
+iptables -P FORWARD ACCEPT
+sysctl net.ipv4.ip_forward=1
+```
+
+SOCAT example: `socat TCP4-LISTEN:80,fork TCP4:10.0.0.2:80`
 
 ## Recon/Scan
 
@@ -80,6 +99,16 @@ If direct SSH is not possible but SSH is available inside the reverse shell, you
     ```
 - Then on Kali use 9999 as proxy (for example with `proxychains`)
 
+### Proxies and Mesh Networks for traversal
+
+Proxychains
+
+Wireguard
+
+ligolo-ng - TUN iface, no need for proxychains etc.
+
+Knockd
+
 ## SQL
 
 - `sqlmap`: Automated tool for SQL injection and database takeover.
@@ -97,6 +126,7 @@ Quick SQL command cheat sheet
 - bloodhound https://github.com/SpecterOps/BloodHound GUI to map explore and see interesting relations
 - Mimikatz for Kerberos
 - Remmina for RDP sessions
+- rundll for persistence (hides from Task Manager etc)
 
 - **LM (LanManager):** Old, deprecated, no encryption.
 - **NTLM (New Technology LanManager):** Insecure, deprecated. ISO/EITS standards recommend not using it ([EITS documentation](https://eits.ria.ee/et/versioon/2023/eits-poohidokumendid/etalonturbe-kataloog/app-rakendused/app2-kataloogiteenused/app22-active-directory-domain-services/4-lisateave/4-lisateave/42-ruehmapoliitika-turvasaetete-naeidis/)). Vulnerable to Pass-the-Hash attacks.

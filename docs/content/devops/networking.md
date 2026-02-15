@@ -169,6 +169,8 @@ Each device connected to the internet has a unique IP address which other machin
 
 Anyone that wants people to find and remember their website on the internet will need to set up DNS record(s).
 
+Generally DNS servers are meant to be used like chains: you have your authoritative DNS server which tells you the answer if it knows, if not it will ask the next one and that one will ask the next one etc. Having two DNS servers configured can lead to a situation where you might be asking about internal network from outside DNS servers.
+
 !!! info
     [How DNS Works](https://howdns.works/)
 
