@@ -6,7 +6,10 @@ title: "Red Teaming"
     [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) |
     [CyberChef](https://cyberchef.org/) |
     [SecLists](https://github.com/danielmiessler/SecLists) |
-    [IPPSEC knowledgebase](https://ippsec.rocks/)
+    [IPPSEC knowledgebase](https://ippsec.rocks/) |
+    [LOLBAS](https://lolbas-project.github.io/) |
+    [GTFOBins](https://gtfobins.org/) |
+    [loldrivers](https://www.loldrivers.io/)
 
 ## Learning Resources
 
