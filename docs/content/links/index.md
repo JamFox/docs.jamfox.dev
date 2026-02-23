@@ -4,25 +4,11 @@ title: "Links"
 
 Links of all shapes and sizes, from interesting stuff I have found to other documentation.
 
-## Explore the web
+## Product Research
 
-[Cloudhiker](https://cloudhiker.net/)
+[rtings](https://www.rtings.com/)
 
-[The Forest](https://theforest.link/)
-
-## Daily reading
-
-[Hacker News](https://news.ycombinator.com/)
-
-[Tildes](https://tildes.net/)
-
-[Sirp](https://sirp.ee/)
-
-[The Atlantic](https://www.theatlantic.com/)
-
-[The New Yorker](https://www.newyorker.com/)
-
-[Harper's](https://harpers.org/)
+[Project Farm](https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng)
 
 ## Useful links
 
@@ -49,6 +35,26 @@ Budgeting with flow charts: [BudgetFlow](https://www.budgetflow.cc/)
 See X threads without an account (just replace x.com with xcancel.com): [XCancel](https://xcancel.com/)
 
 What to use to glue two materials together: [This to that](https://www.thistothat.com/)
+
+## Explore the web
+
+[Cloudhiker](https://cloudhiker.net/)
+
+[The Forest](https://theforest.link/)
+
+## Daily reading
+
+[Hacker News](https://news.ycombinator.com/)
+
+[Tildes](https://tildes.net/)
+
+[Sirp](https://sirp.ee/)
+
+[The Atlantic](https://www.theatlantic.com/)
+
+[The New Yorker](https://www.newyorker.com/)
+
+[Harper's](https://harpers.org/)
 
 ## AI tools
 

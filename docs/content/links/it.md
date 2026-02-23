@@ -96,6 +96,7 @@ title: "IT"
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html) - Markus Kohlpaintner
 - [LoRa Mesh Network With Off-the-Shelf Hardware](https://hackaday.com/2020/02/26/lora-mesh-network-with-off-the-shelf-hardware/) - Tom Nardi
 - [Primer: core concepts in electronic circuits](https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic) and [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work) - lcamtuf
+- [Timeframe](https://hawksley.org/2026/02/17/timeframe.html) - Joel Hawksley
 
 ### Fonts
 
