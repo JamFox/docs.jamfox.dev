@@ -9,7 +9,8 @@ title: "Red Teaming"
     [IPPSEC knowledgebase](https://ippsec.rocks/) |
     [LOLBAS](https://lolbas-project.github.io/) |
     [GTFOBins](https://gtfobins.org/) |
-    [loldrivers](https://www.loldrivers.io/)
+    [loldrivers](https://www.loldrivers.io/) |
+    [DebuggerMan Red Team posts](https://0xdbgman.github.io/)
 
 ## Learning Resources
 
