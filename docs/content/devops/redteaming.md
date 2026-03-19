@@ -15,7 +15,7 @@ title: "Red Teaming"
 ## Tools
 
 !!! info
-    [Internal domain pentest](https://github.com/ThePirateWhoSmellsOfSunflowers)
+    [Internal domain overview](https://github.com/ThePirateWhoSmellsOfSunflowers/KingCastle)
 
 ## Learning Resources
 
