@@ -12,6 +12,11 @@ title: "Red Teaming"
     [loldrivers](https://www.loldrivers.io/) |
     [DebuggerMan Red Team posts](https://0xdbgman.github.io/)
 
+## Tools
+
+!!! info
+    [Internal domain pentest](https://github.com/ThePirateWhoSmellsOfSunflowers)
+
 ## Learning Resources
 
 - [ITI0216](http://ois2.taltech.ee/uusois/aine/ITI0216) or [ITI0103](http://ois2.taltech.ee/uusois/aine/ITI0103) courses at TalTech which use many RangeForce labs to go over all essential RedTeaming techniques.
