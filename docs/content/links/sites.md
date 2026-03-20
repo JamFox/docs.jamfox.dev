@@ -58,3 +58,4 @@ Discover new sites:
 - [neverhack.com](https://neverhack.com/en)
 - [shashanktomar.com](https://www.shashanktomar.com/)
 - [drkhsh.at](https://drkhsh.at/)
+- [hedonspa.com](https://www.hedonspa.com/)
