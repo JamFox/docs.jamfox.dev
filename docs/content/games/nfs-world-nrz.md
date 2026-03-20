@@ -12,22 +12,26 @@ Redeem in [nightriderz.world](https://nightriderz.world/) from `Profile Icon > '
 
 ## Leveling Up
 
-Leveling up in NRZ has a some general rules as to how payouts are made in events:
+Leveling up in NRZ has a some general rules as to how pay-outs are made in events:
 
 - The lower the class the higher the reward bonus.
-- Circuit events tend to offer higher payouts compared to other event types.  
+- Every 30 minutes, a random track is boosted with +50% rewards. Check chat or live map to see which event is boosted.
+- On weekends there are special events alternating with 2x XP/Cash on one week and increased HRZ performance part drop rate (8% drop rate) on the other week.
+- Circuit events tend to offer higher pay-outs compared to other event types.  
 - Longer races have better rewards. This is why the low class reward bonus exists: to balance this rule. 
-- Finishing in higher placements, such as 1st place, increases payouts.  
-- Multiplayer races provide more rewards than singleplayer. However, for grinding purposes, the waiting time for multiplayer races may reduce overall efficiency even with higher payouts.
+- Finishing in higher placements, such as 1st place, increases pay-outs.  
+- Multiplayer races provide more rewards than singleplayer. However, for grinding purposes, the waiting time for multiplayer races may reduce overall efficiency even with higher pay-outs.
 - Achieving a perfect start provides slightly better rewards.
 - Ramming/destroying more cops in Team Escapes or Pursuits will net higher rewards.
 
-
 ### Most efficient event for under level 60
+
+!!! warning
+    Levelskipping no longer works as of 2025 and has been confirmed to have been a bug which has now been fixed! This section is now considered out of date, but kept here in case someone wants to explore level skips. Using E class car on Lemans will offer better rewards than higher classes, however skipping multiple levels no longer happens as dramatically as described here.
 
 Lemans is a highly efficient event for leveling up, especially for players below Level 40. However, its efficiency decreases significantly after Level 60.
 
-Example Lemans payouts at level 95 with S2 Class car:
+Example Lemans pay-outs at level 95 with S2 Class car:
 
 - Average REP: ~34,482 per minute
 - Average Cash: ~56,724 per minute
@@ -40,20 +44,20 @@ To illustrate Lemans efficiency here are the stats after Prestige 1 when my leve
 
 So with three Lemans races over 1.5h it is possible to go from Level 1 to Level 68. Compare that to normal gameplay where one can reach around Level 42-49 after 100-300 events (6-10h of gameplay) over a much longer timeframe (examples from a couple friends).
 
-### Most efficient event for over level 60
-
-City Perimeter is the highest-paying events after Lemans efficieny drops off after Level 60. Its high efficiency is due to the track's design, which allows for maintaining high average speeds. Example City Perimeter payouts at level 95 with S2 Class car:
+City Perimeter is the highest-paying events after Lemans efficiency drops off after Level 60. Its high efficiency is due to the track's design, which allows for maintaining high average speeds and is quite long at the same time. Example City Perimeter pay-outs at level 95 with S2 Class car:
 
 - Average REP: ~53,500 per minute
 - Average Cash: ~109,000 per minute
 
 ### Most efficient event for all levels
 
-Doing the longest E class restricted race on the current rotation (check [here](https://nightriderz.world/rotations) for all rotations) is the best due to the low class restricted reward bonus.
+Every 30 minutes, a random track is boosted with +50% rewards, doing the boosted races is very efficient and provides variety at the same time.
+
+Doing the longest Open class race with an E class car or E class restricted race on the current rotation (check [here](https://nightriderz.world/rotations) for all rotations) is the best due to the low class restricted reward bonus.
 
 ### Most fun event for leveling
 
-Another good choice is High Stakes, but because it's a Team Escape, the rewards vary depending on how many police cars you ram or destroy during the event. Example High Stakes payouts at level 95 with S2 Class car:
+Another good choice is High Stakes, but because it's a Team Escape, the rewards vary depending on how many police cars you ram or destroy during the event. Example High Stakes pay-outs at level 95 with S2 Class car:
 
 - Average REP: ~41,600–70,240 per minute
 - Average Cash: ~41,600–70,240 per minute
@@ -80,7 +84,7 @@ To minimize the impact of props, configuring your graphics settings correctly is
 
 ### Breakturning
 
-Unlike in other racing games, in a lot of scenarios it makes sense to turn while breaking in order to make the turn radius tighter.
+Unlike in other racing games, in some scenarios it makes sense to turn while breaking in order to make the turn radius tighter.
 
 ### Wall Bounce/Wall Tap
 
@@ -90,11 +94,16 @@ This technique involves lightly hitting a wall before a corner to strategically 
 
 Wallriding is generally not worth using as a primary tactic. However, in certain scenarios, it may the best viable strategy. In some other scenarious it can help with consistency, as there is nothing more consistent than just letting the wall do all the work :P
 
+Make sure to also steer away from the wall during the wall ride to reduce the friction.
+
 ### Drag multiboosting
 
 In drag races, hitting a perfect upshift gives you a small nitrous boost. On higher gears, you can exploit this by upshifting for the boost, then immediately downshifting and upshifting again to trigger another boost on the same gear. How many times you can repeat this "multi-boost" depends on the car and its gear ratios. For example, you might upshift into 5th for a boost, downshift to 4th, then upshift to 5th again for another boost, then upshift to 6th for a third boost, downshift to 5th, and upshift to 6th again for yet another boost—creating a ladder effect. With certain cars and drag skills, it's even possible to get three boosts on a single gear if the gear setup allows. Experiment with your car’s gearing and timing to maximize the number of boosts per drag run.
 
 ### Timebug
+
+!!! warning
+    Timebug has been fixed as of 2026! This section is only kept for archival reasons.
 
 The "timebug" is a phenomenon in Need for Speed World where, due to a bug in the game's engine, the game client begins to run slightly faster over long play sessions. This effect accumulates gradually, and after about two hours of having the game open the change is imperceptible, but can result in improved race times - typically by 0.1 to 0.2 seconds - if you are consistent.
 
@@ -102,13 +111,7 @@ Some servers attempt to mitigate the impact of the timebug by enforcing a forced
 
 ### Hood cam
 
-Using the hood camera, if you can stomach it, will make you more precise due to better visibility.
-
-## Special Events
-
-On weekends there are special events alternating with 2x XP/Cash on one week and increased HRZ performance part drop rate (8% drop rate) on the next week.
-
-A random event on rotation is boosted every 30 minutes, boosted are also 2x and they do stack with the weekend event.
+Using the hood camera, will make you more precise due to much better visibility.
 
 ## Vinyls
 
@@ -118,6 +121,8 @@ For managing vinyls, you can use the Vinyl Manager in order to save your designs
 ## Best Cars
 
 The following is a breakdown of the best cars in each class **in my biased opinion**. Note that I tend to prefer technical cars and races and I am not an incredible driver (I tend to complete any challenge that [NFSWFR](https://www.youtube.com/@NFSWFRvideos) rates equal or lower than 9). Each car's specialty, recommended performance parts, difficulty, and additional notes are listed where available.
+
+I am not super committed to always keeping it up to date, so as new updates add new cars, this list might not have everything I drive. 
 
 ### For Fun
 
