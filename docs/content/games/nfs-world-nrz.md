@@ -2,14 +2,6 @@
 
 Need for Speed World NRZ (NightRiderz) is a fan-made revival of the classic Need for Speed World, offering players an enhanced experience with new features, events, and customization options. This guide is designed to help both new and experienced players navigate the game, maximize their rewards, and master advanced techniques also gives me a place to put notes and interesting information.
 
-## Starter redeem codes
-
-Redeem in [nightriderz.world](https://nightriderz.world/) from `Profile Icon > 'Redeem Code'`
-
-- `YTBR-MRJC-KYT1-3DG9`: Toyota Supra + $500k
-- `YTBE-LPR1-PP3R-24GG`: Viper SRT 10 - Elite Edition
-- `MZA5-J6ZE-LPRI-PPER`: 4500 SpeedBoost (Must be under level 10)
-
 ## Leveling Up
 
 Leveling up in NRZ has a some general rules as to how pay-outs are made in events:
