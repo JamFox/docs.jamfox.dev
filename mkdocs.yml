@@ -3,11 +3,6 @@ nav:
   - Home: index.md
   - HomeLab:
       - content/homelab/index.md
-      - JamLab Family Guide: content/homelab/family.md
-      - Podman: content/homelab/podman.md
-      - Networking: content/homelab/networking.md
-      - Power: content/homelab/power.md
-      - Rack: content/homelab/rack.md
       - Servers:
           - Synology DS220+: content/homelab/ds220.md
           - GMKtec K10: content/homelab/gmkteck10.md
@@ -16,8 +11,9 @@ nav:
           - Raspberry Pi: content/homelab/rpi.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
-      - DNS:
+      - Hosting:
           - Dnsmasq: content/homelab/dnsmasq.md
+          - Podman: content/homelab/podman.md
       - Games: 
           - Minecraft Servers: content/homelab/minecraft.md
       - Archive:

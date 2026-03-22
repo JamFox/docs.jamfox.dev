@@ -7,7 +7,7 @@
 
 !!! info
     [WikiTravel Lima](https://wikitravel.org/en/Lima) |
-    [WikiTravel Lima/Miraflores]([https://wikitravel.org/en/Cuzco](https://wikitravel.org/en/Lima/Miraflores)) |
+    [WikiTravel Lima/Miraflores](https://wikitravel.org/en/Lima/Miraflores) |
     [WikiVoyage Lima](https://en.wikivoyage.org/wiki/Lima) |
     [WikiVoyage Lima/Miraflores](https://en.wikivoyage.org/wiki/Lima/Miraflores)
 
