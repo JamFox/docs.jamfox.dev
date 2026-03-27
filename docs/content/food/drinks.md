@@ -51,6 +51,10 @@ Collection of my favorite drinks.
 - Vin Jaune Arbois - Chateau Bethanie (w/ fondue etc)
 - La Source, Racines Rebelles, Moselle, Luxembourg 2022 (w/ fat heavy)
 
+### Dessert wine
+
+- Muri - Koji Rice Series 1 (non-alcoholic, w/ dessert)
+
 ### Champagne
 
 - Michel Gonet Blanc de Blancs, Grand Cru Coeur de Mesnil, Champagne, France 2010 (just regular perfect champagne)
@@ -79,6 +83,7 @@ Collection of my favorite drinks.
 - Koskenkorva Espresso
 - Vana Tallinn
 - Umeshu
+- Cheongju
 
 ## Rum
 
