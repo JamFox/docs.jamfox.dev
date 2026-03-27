@@ -43,10 +43,17 @@ Collection of my favorite drinks.
 - Tinajas de Moquegua Blanco Blend
 - 42/25 Chardonnay/Viognier/Sauvignon Blanc - Midalidare
 - Prima Pietra Soave - Cantina di Monteforte (w/ pizza or other tomato based)
+- Vigneti Massa 'Montecitorio Derthona' Piedmonte, Italy 2022 (w/ red meat)
+- Vézelay Cuvée Galerne, La Soeur Cadette, Bourgogne, France 2023 (w/ lighter foods)
 
-## Yellow wine
+### Yellow wine
 
 - Vin Jaune Arbois - Chateau Bethanie (w/ fondue etc)
+- La Source, Racines Rebelles, Moselle, Luxembourg 2022 (w/ fat heavy)
+
+### Champagne
+
+- Michel Gonet Blanc de Blancs, Grand Cru Coeur de Mesnil, Champagne, France 2010 (just regular perfect champagne)
 
 ## Cider
 
