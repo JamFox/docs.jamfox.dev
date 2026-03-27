@@ -131,3 +131,52 @@ Best when sick :P
 1. Scoop cottage cheese on the bread.
 2. Slice garlic into thin stick, stab them into the cheese.
 3. Et voilà!
+
+## Soolalõhe / Salt-cured salmon
+
+!!! abstract inline "Ingredients"
+    - Salmon
+    - A thick layer of salt
+    - Black pepper
+    - Dill
+    - A splash of aquavit or herbal schnapps
+
+**Instructions:**
+
+1. Cover the salmon with a thick layer of salt.
+2. Add black pepper, dill, and a splash of aquavit or herbal schnapps.
+3. Leave in the fridge for 12-24 hours.
+4. Rinse everything off before serving/storing.
+
+## Air Fries
+
+[Chris Young recipe](https://www.youtube.com/watch?v=yw--NLjZBNk)
+
+!!! abstract inline "Ingredients"
+    - Fries (avoid modified starches labeled like "extra-crispy")
+    - Water, for soaking
+    - Oil or fat
+    - Salt
+
+**Thicker Fries Instructions:**
+
+1. Soak the fries for 1 minute.
+2. Shake in a plastic box for 30 seconds.
+3. Microwave for 5 minutes. You can blanche instead, but that is harder to get right.
+4. Air fry for 15 minutes at 205°C.
+5. Dress with oil or fat, and salt, then let cool for 1 minute.
+
+**Thinner Fries Instructions:**
+
+1. Soak the fries for 1 minute.
+2. Microwave for 5 minutes. You can blanche instead, but that is harder to get right.
+3. Shake in a plastic box for 30 seconds.
+4. Air fry for 18 minutes at 205°C.
+5. Dress with oil or fat, and salt, then let cool for 3 minutes.
+
+**Thinnest Fries Instructions:**
+
+1. Soak the fries for 1 minute.
+2. Microwave for 30 seconds. You can blanche instead, but that is harder to get right.
+3. Air fry for 18 minutes at 205°C.
+4. Dress with oil or fat, and salt, then let cool for 3 minutes.

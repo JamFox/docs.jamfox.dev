@@ -98,6 +98,27 @@ Collection of main courses.
 8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side.
 9. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
 
+## Vegan Squash Burger
+
+!!! abstract inline "Ingredients"
+    - 2 burger buns
+    - Pesto mayo
+    - Squash, sliced (optional)
+    - Chinese cabbage (napa cabbage)
+    - Tabasco
+    - Truffle sauce, just a touch
+    - Tomato
+    - Caramelized onion
+
+**Instructions:**
+
+1. If using squash, sear the slices in a pan until deeply golden brown on both sides.
+2. Toast the burger buns until lightly browned.
+3. Mix the Chinese cabbage with Tabasco to taste.
+4. Spread pesto mayo on the buns and add just a touch of truffle sauce.
+5. Assemble with the squash, Chinese cabbage, tomato, and caramelized onion.
+6. Close the burger and serve.
+
 ## Tartiflette
 
 !!! abstract inline "Ingredients"
@@ -499,7 +520,7 @@ From: Gordon Ramsay's [Mexican Beef and Jalapeño Quesadillas](https://www.gordo
 
 From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-chicken-curry/#wprm-recipe-container-59001)
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 4 large onions (1,340 g)
     - 4 carrots (380 g)
     - 6 Yukon gold potatoes (864 g)
@@ -509,7 +530,7 @@ From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-c
     - 1,360 g boneless, skinless chicken thighs
     - Freshly ground black pepper
 
-!!! abstract inline "Curry Sauce Ingredients"
+!!! abstract "Curry Sauce Ingredients"
     - 3 Tbsp neutral oil
     - 1,920 ml chicken stock or water
     - 2 Tbsp honey
@@ -517,33 +538,36 @@ From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-c
     - 2 Tbsp ketchup
     - 2 packages Japanese curry roux (400–460 g)
 
-!!! abstract inline "For Serving"
+!!! abstract "For Serving"
     - Cooked Japanese short-grain rice
 
-**Instructions:**
+**Prepare Ingredients:**
 
-1. **Prepare Ingredients:**
-   - Cut onions into thick wedges.
-   - Peel and cut carrots into rolling wedges.
-   - Peel and quarter potatoes, soaking them in water for 15 minutes.
-   - Grate ginger and apple, and mince garlic.
-   - Trim excess fat from chicken thighs, cut into bite-sized pieces, and season with black pepper.
+- Cut onions into thick wedges.
+- Peel and cut carrots into rolling wedges.
+- Peel and quarter potatoes, soaking them in water for 15 minutes.
+- Grate ginger and apple, and mince garlic.
+- Trim excess fat from chicken thighs, cut into bite-sized pieces, and season with black pepper.
 
-2. **Cook Curry:**
-   - Heat oil in a large pot over medium heat. Sauté onions for 5 minutes until translucent.
-   - Add garlic and ginger, mixing well.
-   - Add chicken and cook until no longer pink on the outside.
-   - Pour in chicken stock, then add grated apple, honey, soy sauce, and ketchup.
-   - Add carrots and potatoes. Simmer, covered, on medium-low heat for 15 minutes, stirring occasionally.
+**Cook Curry:**
 
-3. **Add Curry Roux:**
-   - Turn off heat. Dissolve curry roux cubes in a ladleful of cooking liquid, then stir into the pot. Repeat until all roux is incorporated.
-   - Simmer uncovered on medium-low heat for 5–10 minutes, stirring frequently, until thickened.
+- Heat oil in a large pot over medium heat. Sauté onions for 5 minutes until translucent.
+- Add garlic and ginger, mixing well.
+- Add chicken and cook until no longer pink on the outside.
+- Pour in chicken stock, then add grated apple, honey, soy sauce, and ketchup.
+- Add carrots and potatoes. Simmer, covered, on medium-low heat for 15 minutes, stirring occasionally.
 
-4. **Serve:**
-   - Serve curry with steamed Japanese short-grain rice. Optionally garnish with Japanese pickled vegetables.
+**Add Curry Roux:**
+
+- Turn off heat. Dissolve curry roux cubes in a ladleful of cooking liquid, then stir into the pot. Repeat until all roux is incorporated.
+- Simmer uncovered on medium-low heat for 5–10 minutes, stirring frequently, until thickened.
+
+**Serve:**
+
+- Serve curry with steamed Japanese short-grain rice. Optionally garnish with Japanese pickled vegetables.
 
 **Notes:**
+
 - Substitute chicken with beef, pork, shrimp, tofu, or vegetables as desired.
 - Adjust salt to taste if using unsalted curry roux.
 - For russet potatoes, add them in the last 15–20 minutes of cooking to prevent disintegration.
@@ -574,26 +598,28 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
     - Parsley, chopped (for garnish)
     - Cooked Japanese short-grain rice (about 1.5 cups)
 
-**Instructions:**
+**Prepare Ingredients:**
 
-1. **Prepare Ingredients:**
-   - Mince onion, celery, and carrots into small pieces.
-   - Heat olive oil over medium heat. Add crushed garlic and bay leaves.
-   - Sauté onion and celery until almost translucent, then add carrots and cook until tender.
+- Mince onion, celery, and carrots into small pieces.
+- Heat olive oil over medium heat. Add crushed garlic and bay leaves.
+- Sauté onion and celery until almost translucent, then add carrots and cook until tender.
 
-2. **Cook Meat Mixture:**
-   - Add ground beef and pork, breaking it up and cooking until no longer pink.
-   - Season with salt and pepper, then add curry powder and stock. Ensure the liquid covers the ingredients; add more if needed.
-   - Bring to a boil, skim off foam and fat, then reduce heat to medium-low and cook for 5 minutes.
-   - Add tonkatsu sauce, ketchup, and 2 Tbsp butter. Cook until the sauce reduces and the bottom of the pan is visible, about 10 minutes.
+**Cook Meat Mixture:**
 
-3. **Assemble Doria:**
-   - Grease a baking dish with the remaining butter. Place steamed rice in the dish.
-   - Add the meat mixture on top, followed by Mozzarella and Romano cheese. Sprinkle panko on top for a crispy texture.
+- Add ground beef and pork, breaking it up and cooking until no longer pink.
+- Season with salt and pepper, then add curry powder and stock. Ensure the liquid covers the ingredients; add more if needed.
+- Bring to a boil, skim off foam and fat, then reduce heat to medium-low and cook for 5 minutes.
+- Add tonkatsu sauce, ketchup, and 2 Tbsp butter. Cook until the sauce reduces and the bottom of the pan is visible, about 10 minutes.
 
-4. **Broil:**
-   - Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
-   - Garnish with chopped parsley and serve immediately.
+**Assemble Doria:**
+
+- Grease a baking dish with the remaining butter. Place steamed rice in the dish.
+- Add the meat mixture on top, followed by Mozzarella and Romano cheese. Sprinkle panko on top for a crispy texture.
+
+**Broil:**
+
+- Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
+- Garnish with chopped parsley and serve immediately.
 
 ## One-Pan Chicken and Shimeji Plate
 
@@ -652,3 +678,21 @@ Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/rec
 
 - Stir eggs vigorously with chopsticks for fluffy scrambled eggs.
 - A 20cm frying pan with a thick base and glass lid is ideal for single servings and even cooking.
+
+## Simple Fluffy French Breakfast Omelette
+
+!!! abstract inline "Ingredients"
+    - Eggs
+    - Salt
+    - Lemon pepper
+    - Soy sauce
+    - Cheese
+
+**Instructions:**
+
+1. Beat the eggs until fully mixed.
+2. Pour them into a pan and season with salt, lemon pepper, and a splash of soy sauce.
+3. Stir continuously until the eggs begin to catch and lightly stick.
+4. Cover the pan and let the omelette sit for a moment.
+5. Add cheese, fold the omelette over itself, and cover again.
+6. Let it sit until it is still soft but no longer runny, then serve.

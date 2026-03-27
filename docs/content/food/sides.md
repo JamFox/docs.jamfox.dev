@@ -68,3 +68,27 @@ Mix everything and season to taste.
 2. Pour in hot water and stir until dissolved.
 3. Adjust flavor with mirin for sweetness or a drop of vinegar for acidity, if desired.
 4. Add dried seaweed, fish flakes, or a little spice mix to taste.
+
+## Frijoles
+
+!!! abstract inline "Ingredients"
+    - Beans of choice
+    - Stock
+    - Onion
+    - Cumin
+    - Chili of choice
+    - Paprika butter
+    - Garlic butter
+
+**Instructions:**
+
+1. Cook the beans in stock until they are nice and soft.
+2. Fry the onion with cumin and whatever chili you are enjoying at the time.
+3. Add the cooked beans and mix everything together.
+4. Drench with paprika butter and garlic butter just before serving.
+
+**Notes:**
+
+- Works with any sort of bean, but black beans are a classic.
+- Adjust the spices to taste.
+- Butter beans cooked in beer with fennel seeds and ginger are a nice variation.
