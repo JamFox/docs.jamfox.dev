@@ -2,6 +2,8 @@
 title: Algorithm and Recapturing Intentionality
 ---
 
+## Algorithm and Recapturing Intentionality
+
 During the age of information and attention economy I feel like we are being bombarded by just too many unnecessary things, most of which are not things that we chose to have in our attention. Here lies a collection of ideas about reclaiming some time and space through intentionality.
 
 Everything hinges on paying attention, taking a moment to reflect, and noticing what works and what doesn't. Noticing is not automatic. It requires time and space. If time is packed minute to minute, things simply accumulate without reflection. Separate maintenance sessions are needed to step back and think about the design of your daily interactions. The question underneath all of this is simple: what actually serves you? And what provides you value?
