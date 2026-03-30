@@ -120,6 +120,7 @@ A collection of lists of what I believe to be the best of the best from each med
 - [Päva lõpuks, kiigu](https://www.uusteater.ee/lavastused/renatexxxi) by Renate Keerd & EMTA XXXI lend `*`
 - [Planet Alexithymia](https://saal.ee/performance/planet-alexithymia-261/) by Karl Saks `*`
 - Jussikese 7 sõpra by Kristina Preimann, Kristel Zimmer, Edgar Vunš, Markus Auling, Herman PihlakKarl Birnbaum
+- [Musical "Carmen Electra"](https://www.artun.ee/en/calendar/musical-carmen-electra-by-ants1/) by ants1
 
 ## Exhibitions
 
