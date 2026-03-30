@@ -95,6 +95,8 @@ nav:
           - Peru Guide: content/travel/peru-guide.md
       - Design:
           - Design Rules You Can Always Follow: content/design/visual-design-rules-you-can-safely-follow.md
+      - Life:
+          - Algorithm and Recapturing Intentionality: content/extras/intentionality.md
 
 site_name: JamFox's Documentation
 site_author: JamFox
