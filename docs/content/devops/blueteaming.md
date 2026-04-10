@@ -15,3 +15,7 @@ Witr, whyisthisrunning
 Uptime kuma
 
 changedetection.io
+
+### Monitoring
+
+network flows: https://arkime.com/
