@@ -75,7 +75,9 @@ Collection of my favorite drinks.
 
 ## Whisky
 
-- Laphroaig Four Oak
+- Red Breast - Single Pot Still 12 year (complex)
+- Nikka - From The Barrel (quick and fast)
+- Laphroaig - Four Oak (smoky)
 
 ## Liquer
 
