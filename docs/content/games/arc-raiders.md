@@ -1,6 +1,6 @@
 # Arc Raiders
 
-Current map conditions: [Arc Raiders Hub | Events](https://arcraidershub.com/events)
+Current map conditions: [Arc Raiders Map Conditions](https://arcraiders.com/map-conditions)
 
 Loot guides: [Arc Raiders Hub | Guides](https://arcraidershub.com/guides)
 
