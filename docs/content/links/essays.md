@@ -40,6 +40,7 @@ title: "Essays & Articles"
 - [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/) - Venkatesh Rao: It's always optimal to leave some energy aside rather than use it to increase performance in areas where you want higher performance, since your environment is more unpredictable than you think, no matter how unpredictable you already think it is.
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
 - [THE POWER OF NOW - Eckhart Tolle](https://www.youtube.com/watch?v=0ILHWvSZV4E) - Sisyphus 55
+- [I Tried to Become More Awake in 7 Days... Heraclitus Was Right](https://www.youtube.com/watch?v=sFuf1X26268) - alfsvoid: being more present/awake, disposition of self and alignment, thinking about thinking and more.
 
 ### Psychology
 
