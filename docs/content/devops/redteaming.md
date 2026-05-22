@@ -43,26 +43,45 @@ sysctl net.ipv4.ip_forward=1
 
 SOCAT example: `socat TCP4-LISTEN:80,fork TCP4:10.0.0.2:80`
 
+## Documentation
+
+`script` command automatically records terminal buffer to file
+
+Pre-commit runners to "auto"-document: [RWX](https://www.rwx.com/), [taskfile](https://taskfile.dev/) etc
+
 ## Recon/Scan
 
-- **Nmap**: `sudo nmap -sC -sV -vv -oA nmap/<output name> <IP or range>`
+**Nmap**:
 
-- **Burp Suite**: Intercept outgoing requests, send to Repeater to modify and test. Use raw tab to inspect exact request/response.
+- `-oN output.txt` to output only human readable, `-oA` for all formats
+- `-sT` will ignore `--scan-delay` so `-sS` might be the only option if scan delay is needed, however only SYN instead of full TCP is more profilable
+- Noisy and long HTB scan: `sudo nmap -sC -sV -vv -oA nmap/<output name> <IP or range>`
+- Initial quiet-ish TCP scan (SYN): `sudo nmap -Pn -n -sS --max-retries=0 --scan-delay 30s -oA nmap/<output name> -p<Ports> <IP or range>`
+- Initial quiet-ish UDP scan: `sudo nmap -Pn -n -sU --max-retries=0 --scan-delay 30s -oA nmap/<output name> -p<Ports> <IP or range>`
+- Dig in to one port TCP (full): `sudo nmap -Pn -n -sT -sV --max-retries=1 -oA nmap/<output name> -p<Ports> <IP or range>`
+- Dig in to one port UDP: `sudo nmap -Pn -n -sU -sV --max-retries=1 -oA nmap/<output name> -p<Ports> <IP or range>`
+- Instead of specific ports, can also set top ports for a more agressive scan`--top-ports=500`
+- Press V and D or shift+V and shift+D to control verbosirty and debug live
+- `/usr/share/nmap/nmap-services` has list of service speficic scans
+- Set traffic source `-S <IP> -e <iface>`, or `sudo iptables -t nat -A POSTROUTING -o <iface> -d <Destination IP> -j SNAT --to-source <Source IP>`
 
-- **Ffuf**: Repeat saved Burp request for fuzzing:
-  - Example: enumerate valid usernames by filtering error messages  
-    `ffuf -request login.req -request-proto http -w rockyou.txt -fr 'is not recognized as a valid user name'`
+**Burp Suite**: Intercept outgoing requests, send to Repeater to modify and test. Use raw tab to inspect exact request/response.
 
-- **Web Plugin Scans**: Use tools like `wpscan` for WordPress or CMS plugin vulnerabilities.
+**Ffuf**: Repeat saved Burp request for fuzzing
 
-- **Git Exposure**: If `.git` directory is accessible on the server, use `git-dumper` to retrieve repo contents.
+- Example: enumerate valid usernames by filtering error messages: `ffuf -request login.req -request-proto http -w rockyou.txt -fr 'is not recognized as a valid user name'`
 
-- **Source Code Vulnerability Analysis**: Tools like `Snyk` or `opengrep` can scan for insecure code patterns or dependencies.
+**Web Plugin Scans**: Use tools like `wpscan` for WordPress or CMS plugin vulnerabilities.
 
-- **User capabilities**:
-  - Check if user can `sudo`, sometimes will list specific executables if full sudo not possible: `sudo -l`
-  - Find suid executables: `find / -perm -4000 -type f -writable 2>/dev/null`
-  - Check `/etc/shadow` and `/etc/passwd`: use `unshadow` if both available.
+**Git Exposure**: If `.git` directory is accessible on the server, use `git-dumper` to retrieve repo contents.
+
+**Source Code Vulnerability Analysis**: Tools like `Snyk` or `opengrep` can scan for insecure code patterns or dependencies.
+
+**User capabilities**:
+
+- Check if user can `sudo`, sometimes will list specific executables if full sudo not possible: `sudo -l`
+- Find suid executables: `find / -perm -4000 -type f -writable 2>/dev/null`
+- Check `/etc/shadow` and `/etc/passwd`: use `unshadow` if both available.
 
 ## Reverse shell / Proxies / Port forwards
 
@@ -136,6 +155,7 @@ Quick SQL command cheat sheet
 - Mimikatz for Kerberos
 - Remmina for RDP sessions
 - rundll for persistence (hides from Task Manager etc)
+- [Extracted Yara rules](https://github.com/roadwy/DefenderYara) from Windows Defender mpavbase and mpasbase
 
 - **LM (LanManager):** Old, deprecated, no encryption.
 - **NTLM (New Technology LanManager):** Insecure, deprecated. ISO/EITS standards recommend not using it ([EITS documentation](https://eits.ria.ee/et/versioon/2023/eits-poohidokumendid/etalonturbe-kataloog/app-rakendused/app2-kataloogiteenused/app22-active-directory-domain-services/4-lisateave/4-lisateave/42-ruehmapoliitika-turvasaetete-naeidis/)). Vulnerable to Pass-the-Hash attacks.
