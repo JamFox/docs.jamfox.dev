@@ -73,7 +73,7 @@ Pre-commit runners to "auto"-document: [RWX](https://www.rwx.com/), [taskfile](h
 
 **Web Plugin Scans**: Use tools like `wpscan` for WordPress or CMS plugin vulnerabilities.
 
-**Git Exposure**: If `.git` directory is accessible on the server, use `git-dumper` to retrieve repo contents.
+**Accidental exposure**: If `.git` directory is accessible, use `git-dumper` to retrieve repo contents. Also look for `.env`, `.DS_Store`.
 
 **Source Code Vulnerability Analysis**: Tools like `Snyk` or `opengrep` can scan for insecure code patterns or dependencies.
 
@@ -82,6 +82,12 @@ Pre-commit runners to "auto"-document: [RWX](https://www.rwx.com/), [taskfile](h
 - Check if user can `sudo`, sometimes will list specific executables if full sudo not possible: `sudo -l`
 - Find suid executables: `find / -perm -4000 -type f -writable 2>/dev/null`
 - Check `/etc/shadow` and `/etc/passwd`: use `unshadow` if both available.
+
+**Browser extensions**:
+
+- Wappalyzer: passive checks on used stack and versions
+- Shodan: where the website is hosted (country, city), who owns the IP and what other services/ ports are open.
+- DotGit: checks if .git is exposed in visited websites
 
 ## Reverse shell / Proxies / Port forwards
 
