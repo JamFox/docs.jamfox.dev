@@ -61,6 +61,7 @@ nav:
       - content/food/index.md
       - JamFox's:
           - Drinks: content/food/drinks.md
+          - Coffee: content/food/coffee.md
           - Basics: content/food/basics.md
           - Main Courses: content/food/maincourses.md
           - Snacks: content/food/snacks.md
