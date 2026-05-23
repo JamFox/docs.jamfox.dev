@@ -44,3 +44,12 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 2m00s - 2m05s: Gently swirl
 Drawdown finish around 3:00~
 ```
+
+## Iced recipes
+
+**Espresso tonic**:
+
+- Espresso
+- Tonic Water
+- Blueberry Simple Syrup
+- Ice

@@ -4,15 +4,6 @@ title: "Drinks"
 
 Collection of my favorite drinks.
 
-## Coffee
-
-**Espresso tonic**:
-
-- Espresso
-- Tonic Water
-- Blueberry Simple Syrup
-- Ice
-
 ## Wine
 
 ### Red wine
