@@ -19,7 +19,15 @@ Emergency:
 
 - [Lavazza Crema E Aroma](https://www.lavazza.com/en/coffee-beans/crema-aroma)
 
-## V60 techniques
+## Pourover techniques
+
+General notes applicable to all techniques:
+
+- Hot brown water, lack of taste or sour means too coarse. If bitter then too fine.
+- 2:30 is usually too fast, try to hit a soft target around 3-3:30 for draw down time. Finer if faster, coarser for too slow.
+- The closer you pour the deeper the stream penetrates the coffee, the closer the pour the more consistent the extraction
+- 5g/s is a nice sweet spot for pouring speed
+- Pouring kettle can help for a sharper and more consisten stream but should not be needed
 
 ### Hoffman 1 Cup V60 Method
 
@@ -28,7 +36,7 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 - 15g ground coffee
 - 250g boiled water 80-85°C dark, 90-95°C medium, 100°C light
 - Grind: medium-fine (coarser for darker roast)
-  - Kingrinder K6: medium-light roast 60~ clicks
+  - Kingrinder K6: medium-light roast 60-65~ clicks (55 too bitter, over 65 not enough extraction)
 
 ```
 0m00s: Pour 50g of water to bloom
@@ -45,7 +53,46 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 Drawdown finish around 3:00~
 ```
 
+Stronger variant (by grinding "too fine"):
+
+- Everything the same, but grind way finer
+- At the end remove the cup at around 3:00~ like usual and leave the rest to drip away
+- Ideally you would have 215-220g of coffee at the end (as opposed to usual method which leaves you with 250g)
+
+If grind was too coarse:
+
+- Increase amount of pours (split total weight into more chunks)
+- Wait to drip completely between pours
+- You can also increase speed to extract a little more
+- Add additional 50g pour on top of the usual 250g to extract even more (this makes taste weaker too though)
+
+## Immersion techniques
+
+18g beans results in 36-40g of coffee from an espresso machine, 65 to 70g of coffee from immersion techniques to get something "espresso-like".
+
+### Inverted Aeropress
+
+Inverted method for "espresso-like", more stronger taste:
+
+1. Preheat Aeropress
+2. Rinse filter and set aside
+3. Add 18g finely ground coffee
+4. Add 90g of boiled water
+5. Stir carefully but a little agressively to make sure all of the coffee is immersed
+6. Screw the filter on and steep for 90s
+7. Put cup on filter and flip the press with the cup
+8. Swirl to clear clumped sides
+9. Sit for 5s
+10. Press gently (slowly enough to not create a channel that would underextract)
+11. Press til the final end (unlike traditional Aeropress recipe)
+
 ## Milk techniques
+
+Overall milk at 55-65°C, 55°C usually more sweeter. Milk breaks at about 70°C, definitely avoid that.
+
+More fat = better foam usually
+
+Pourover ratio around 200g coffee, 50g milk
 
 ### Chiato Milkplay
 
@@ -83,9 +130,8 @@ Italian technique:
 
 Official technique:
 
-1. Milk at 55-65°C
-2. Start at the centre, barely in at a slight angle (30deg), 5s
-3. Go deeper and slowly towards the edge while keeping a vortex, until sound of milk is more quiet, about 20s (in this stage avoid making any new bubbles!)
+1. Start at the centre, barely in at a slight angle (30deg), 5s
+2. Go deeper and slowly towards the edge while keeping a vortex, until sound of milk is more quiet, about 20s (in this stage avoid making any new bubbles!)
 
 ## Recipes
 
