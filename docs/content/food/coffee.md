@@ -36,7 +36,11 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 - 15g ground coffee
 - 250g boiled water 80-85°C dark, 90-95°C medium, 100°C light
 - Grind: medium-fine (coarser for darker roast)
-  - Kingrinder K6: medium-light roast 60-65~ clicks (55 too bitter, over 65 not enough extraction)
+
+Examples with Kingrinder K6:
+
+- Kingrinder K6: medium-light roast 60-65~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
+- Kingrinder K6: medium-dark roast 60-63 clicks, 90°C
 
 ```
 0m00s: Pour 50g of water to bloom
