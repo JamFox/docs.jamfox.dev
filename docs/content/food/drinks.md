@@ -66,9 +66,33 @@ Collection of my favorite drinks.
 
 ## Whisky
 
-- Red Breast - Single Pot Still 12 year (complex)
+Iirish whisky:
+
+- Red Breast - Single Pot Still 12 year (smooth, complex)
+- Two Stacks - Single Pot Still Triple Barrel (smooth)
+- Teeling - Wonders of Wood (above average non-offensive)
+
+Scotch whisky:
+
+- Richmore blended (non-offensive, simple)
+- Balvenie 14 year Caribbean Cask (from calm to a agressive sharpness)
+
+Japanese whisky:
+
 - Nikka - From The Barrel (quick and fast)
+
+Scotch whisky:
+
 - Laphroaig - Four Oak (smoky)
+
+Bourbon, American whisky:
+
+- Buffalo Trace (easy, but many taste waves)
+- Wild Turkey 101 (hits hard for those really hard days)
+
+Estonian whisky:
+
+- TAMM&RUKIS ex Oloroso Single Cask 78/80
 
 ## Liquer
 
@@ -84,8 +108,9 @@ Collection of my favorite drinks.
 
 ## Gin
 
-- [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano
-- Juniperium Sloe Gin
+- [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano (summer, with ice, water or tonic)
+- Von Berg [Distilled Gin](https://vonbergspirits.com/product/von-berg-distilled-gin/) (summer, with ice, water or tonic)
+- Juniperium Sloe Gin 
 
 ## Sodas
 
