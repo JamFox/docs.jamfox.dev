@@ -42,20 +42,20 @@ Examples with Kingrinder K6:
 - Kingrinder K6: medium-light roast 60-65~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
 - Kingrinder K6: medium-dark roast 60-63 clicks, 90°C
 
-```
-0m00s: Pour 50g of water to bloom
-0m10s - 0m15s: Gently Swirl
-0m00s - 0m45s: Bloom
-0m45s - 1m00s: Pour to 100g total (40%)
-1m00s - 1m10s: Pause
-1m10s - 1m20s: Pour to 150g total (60%)
-1m20s - 1m30s: Pause
-1m30s - 1m40s: Pour to 200g total (80%)
-1m40s - 1m50s: Pause
-1m50s - 2m00s: Pour to 250g total (100%)
-2m00s - 2m05s: Gently swirl
-Drawdown finish around 3:00~
-```
+Recipe:
+
+1. **0m00s**: Pour 50g of water to bloom
+2. **0m10s - 0m15s**: Gently Swirl
+3. **0m00s - 0m45s**: Bloom
+4. **0m45s - 1m00s**: Pour to 100g total (40%)
+5. **1m00s - 1m10s**: Pause
+6. **1m10s - 1m20s**: Pour to 150g total (60%)
+7. **1m20s - 1m30s**: Pause
+8. **1m30s - 1m40s**: Pour to 200g total (80%)
+9. **1m40s - 1m50s**: Pause
+10. **1m50s - 2m00s**: Pour to 250g total (100%)
+11. **2m00s - 2m05s**: Gently swirl
+12. Drawdown should finish around 3:00~
 
 Stronger variant (by grinding "too fine"):
 
@@ -76,7 +76,13 @@ If grind was too coarse:
 
 ### Inverted Aeropress
 
-Inverted method for "espresso-like", more stronger taste:
+Inverted method for "espresso-like", more stronger taste.
+
+Examples:
+
+- Kingrinder K6: medium-light and medium-dark roast, 40 clicks
+
+Recipe:
 
 1. Preheat Aeropress
 2. Rinse filter and set aside
