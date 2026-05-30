@@ -39,8 +39,8 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 
 Examples with Kingrinder K6:
 
-- Kingrinder K6: medium-light roast 60-65~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
-- Kingrinder K6: medium-dark roast 60-63 clicks, 90°C
+- Kingrinder K6: medium-light roast, 60-65~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
+- Kingrinder K6: medium-dark roast, 60-63 clicks, 90°C
 
 Recipe:
 
@@ -80,7 +80,8 @@ Inverted method for "espresso-like", more stronger taste.
 
 Examples:
 
-- Kingrinder K6: medium-light and medium-dark roast, 40 clicks
+- Kingrinder K6: medium-light roast, 40 clicks
+- Kingrinder K6: medium-dark roast, 45 clicks
 
 Recipe:
 
