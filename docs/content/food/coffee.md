@@ -80,8 +80,8 @@ Inverted method for "espresso-like", more stronger taste.
 
 Examples:
 
-- Kingrinder K6: medium-light roast, 40 clicks
-- Kingrinder K6: medium-dark roast, 45 clicks
+- Kingrinder K6: medium-light roast, 39-40 clicks
+- Kingrinder K6: medium-dark roast, 42-43 clicks
 
 Recipe:
 
@@ -134,7 +134,7 @@ Microfoam-ish (not quite, but servicable):
 
 Italian technique:
 
-1. One finger between base and pitcher, slight angle (30deg) 15 sec
+1. One finger between base and pitcher, slight angle (~30deg) 15 sec
 2. Tap and swirl
 3. Transfer to temporary cup and then back to pitcher (so as to mix milk and foam so they won't separate)
 4. Pour immediately
