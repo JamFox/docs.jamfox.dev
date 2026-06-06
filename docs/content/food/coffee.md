@@ -14,6 +14,7 @@ Special:
 
 - [Ristretto](https://www.facebook.com/ristrettocafemovil/) - Pache (espresso, iced, universal)
 - [Brew Brothers Specialty Coffee](https://www.instagram.com/brewbros_cafe) - Bourbon Rojo (espresso)
+- [Cafe Amaia Zagrado](https://amaiazagrado.wordpress.com/) (Light columbian espresso, extremely chocolatey and fruity)
 
 Emergency:
 
@@ -39,8 +40,9 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 
 Examples with Kingrinder K6:
 
-- Kingrinder K6: medium-light roast, 60-63~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
-- Kingrinder K6: medium-dark roast, 57-60~ clicks, 90°C
+- CapriSette Belgique medium-light roast, 57-60~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
+- CapriSette Professional medium-dark roast, 60-63~ clicks, 90°C
+- DAK Halo Berry dark roast, 70 clicks (67 was too fine), 80°C but maybe 70 and 87°C better?
 
 Recipe:
 
@@ -78,10 +80,11 @@ If grind was too coarse:
 
 Inverted method for "espresso-like", more stronger taste.
 
-Examples:
+Examples with Kingrinder K6:
 
-- Kingrinder K6: medium-light roast, 39-40 clicks
-- Kingrinder K6: medium-dark roast, 42-43 clicks
+- CapriSette Belgique medium-light roast, 39-40 clicks
+- CapriSette Professional medium-dark roast, 42-43 clicks
+- DAK Halo Berry dark roast, 45-47 clicks
 
 Recipe:
 
