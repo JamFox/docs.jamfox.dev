@@ -43,13 +43,13 @@ Examples with Kingrinder K6:
 
 - CapriSette Belgique medium-light roast, 57-60~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
 - CapriSette Professional medium-dark roast, 60-63~ clicks, 90°C
-- DAK Halo Berry dark roast, 70 clicks (67 was too fine), 80°C but maybe 70 and 87°C better?
+- DAK Halo Berry dark roast, 70 clicks 85°C had way too late drawdown, maybe 75-80 clicks?
 
 Recipe:
 
 1. **0m00s**: Pour 50g of water to bloom
 2. **0m10s - 0m15s**: Gently Swirl
-3. **0m00s - 0m45s**: Bloom
+3. **0m15s - 0m45s**: Bloom
 4. **0m45s - 1m00s**: Pour to 100g total (40%)
 5. **1m00s - 1m10s**: Pause
 6. **1m10s - 1m20s**: Pour to 150g total (60%)
