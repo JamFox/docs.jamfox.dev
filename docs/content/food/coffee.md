@@ -47,9 +47,10 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 
 Examples with Kingrinder K6:
 
-- CapriSette Belgique medium-light roast, 57-60~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
-- CapriSette Professional medium-dark roast, 60-63~ clicks, 90°C
-- DAK Halo Berry dark roast, 70 clicks 85°C had way too late drawdown, maybe 75-80 clicks?
+- CapriSette - Belgique medium-light roast, 57-60~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
+- CapriSette - Professional medium-dark roast, 60-63~ clicks, 90°C
+- DAK - Halo Berry dark roast, 70 clicks 85°C had way too late drawdown, maybe 75-80 clicks?
+- Lykke - Peru Agua de Nieve 60 clicks, 95°C (use higher!), drawndown at 3.10, could extract more taste
 
 Recipe:
 
@@ -89,9 +90,9 @@ Inverted method for "espresso-like", more stronger taste.
 
 Examples with Kingrinder K6:
 
-- CapriSette Belgique medium-light roast, 39-40 clicks
-- CapriSette Professional medium-dark roast, 42-43 clicks
-- DAK Halo Berry dark roast, 45-47 clicks
+- CapriSette - Belgique medium-light roast, 39-40 clicks
+- CapriSette - Professional medium-dark roast, 42-43 clicks
+- DAK - Halo Berry dark roast, 45-47 clicks
 
 Recipe:
 
