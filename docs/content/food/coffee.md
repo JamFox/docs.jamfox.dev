@@ -21,6 +21,12 @@ Emergency:
 
 - [Lavazza Crema E Aroma](https://www.lavazza.com/en/coffee-beans/crema-aroma)
 
+## Roast guide
+
+![Bean roast characteristic chart](attachments/James_Hoffmann_Coffee_Roasting_Explained_2m52s.png)
+
+![Bean roast color chart](attachments/James_Hoffmann_Coffee_Roasting_Explained_7m52s.png)
+
 ## Pourover techniques
 
 General notes applicable to all techniques:
