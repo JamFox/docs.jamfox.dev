@@ -36,6 +36,7 @@ Collection of my favorite drinks.
 - Prima Pietra Soave - Cantina di Monteforte (w/ pizza or other tomato based)
 - Vigneti Massa 'Montecitorio Derthona' Piedmonte, Italy 2022 (w/ red meat)
 - Vézelay Cuvée Galerne, La Soeur Cadette, Bourgogne, France 2023 (w/ lighter foods)
+- [Ulge Talu](https://ulgetalu.ee/) - Diiva rhubarb wine 2026 (w/ pepper heavy foods, ie cacio e pepe)
 
 ### Yellow wine
 
