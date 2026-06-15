@@ -108,6 +108,54 @@ Recipe:
 10. Press gently (slowly enough to not create a channel that would underextract)
 11. Press til the final end (unlike traditional Aeropress recipe)
 
+### Regular AeroPress
+
+1. 11g coffee (ground at the finer end of medium, assuming this is light roasted coffee. The darker you go the more you may prefer to increase the dose and coarsen the grind.)
+2. Put the filter into the cap. Don't rinse or preheat the brewer (it doesn't make any difference)
+3. Put coffee into the brewer
+4. Place on scales and then add water, aiming to wet all the coffee during pouring. 200g water (100°C for light, 90-95°C medium, 85-90°C dark)
+5. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
+6. Wait 2 minutes
+7. Holding the brewer and the piston, gently swirl the brewer
+8. Wait 30 seconds
+9. Press gently all the way
+
+### French press
+
+1. Grind medium
+2. Add 30g to 500g water 
+3. Sit for 4 minutes
+4. Stir crust and then scoop up foam and coffee bits off the top
+5. Wait 5-8 minutes
+6. Plunge just to underneath the surface and pour gently and carefully.
+
+## Moka pot technique
+
+Constants:
+
+1. Boiling water in the boiler
+2. Full basket of coffee
+3. Avoid sputtering phase by cooling down the chamber under cold water
+
+Variables:
+
+1. The lighter the roast, the finer the ground.
+2. Less filled boiler will brew a bit earlier. Usually, dark roasts -> a bit less water, light roasts -> full boiler
+3. Add aeropress filter if possible
+
+Recipe:
+
+1. Fill lower compartment to the safety valve
+2. Fill the coffe compartment
+3. Preheat the hob with relatively low heat on the gas hob
+4. Assemble the pot and wait
+5. As soon as the liquid starts to flow, turn off the heat. For electric hobs, move it to the edge of the hob.
+
+Troubleshooting, if the sputtering phase starts before you think it's time (not enough coffee out etc):
+
+1. Too fine of a grind 
+2. Too much heat
+
 ## Milk techniques
 
 Overall milk at 55-65°C, 55°C usually more sweeter. Milk breaks at about 70°C, definitely avoid that.
