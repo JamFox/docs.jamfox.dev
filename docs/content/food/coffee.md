@@ -27,6 +27,10 @@ Emergency:
 
 ![Bean roast color chart](attachments/James_Hoffmann_Coffee_Roasting_Explained_7m52s.png)
 
+## Grind guide
+
+Kingrinder K6 settings [rough guide](https://honestcoffeeguide.com/kingrinder-k6-grind-settings/).
+
 ## Pourover techniques
 
 General notes applicable to all techniques:
@@ -90,9 +94,9 @@ Inverted method for "espresso-like", more stronger taste.
 
 Examples with Kingrinder K6:
 
-- CapriSette - Belgique medium-light roast, 39-40 clicks
-- CapriSette - Professional medium-dark roast, 42-43 clicks
-- DAK - Halo Berry dark roast, 60 clicks
+- CapriSette - Belgique medium-light roast, 39-40 clicks (with reusable metal filter)
+- CapriSette - Professional medium-dark roast, 42-43 clicks (with reusable metal filter)
+- DAK - Halo Berry dark roast, 60 clicks (with reusable metal filter)
 
 Recipe:
 
@@ -110,8 +114,15 @@ Recipe:
 
 ### Regular AeroPress
 
+Weirdly enough this [recipe calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffmann-aeropress-recipe), nearing espresso grind levels, however in my experience it actually requires wayyy coarser grind before the bitterness starts to drop and flavors start to show up. Perhaps it is due to the reusable metal filter, a bunch of people recommend using metal *and* paper filter together.
+
+Examples with Kingrinder K6:
+
+- Lykke - Peru Agua de Nieve, 100 clicks, 95°C still too bitter (with reusable metal filter)
+- Father Carpenter - Kenya light roast, 100 clicks, 100°C still too bitter (with reusable metal filter)
+
 1. 11g coffee (ground at the finer end of medium, assuming this is light roasted coffee. The darker you go the more you may prefer to increase the dose and coarsen the grind.)
-2. Put the filter into the cap. Don't rinse or preheat the brewer (it doesn't make any difference)
+2. Put the paper filter into the cap (or use metal *and* paper filter, both). Don't rinse or preheat the brewer (it doesn't make any difference)
 3. Put coffee into the brewer
 4. Place on scales and then add water, aiming to wet all the coffee during pouring. 200g water (100°C for light, 90-95°C medium, 85-90°C dark)
 5. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
