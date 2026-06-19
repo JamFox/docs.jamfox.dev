@@ -88,49 +88,54 @@ If grind was too coarse:
 
 18g beans results in 36-40g of coffee from an espresso machine, 65 to 70g of coffee from immersion techniques to get something "espresso-like".
 
-### Inverted Aeropress
+### Inverted AeroPress
 
-Inverted method for "espresso-like", more stronger taste.
+Inverted method for "espresso-like", more stronger taste. This results in a more uniform taste compared to regular AeroPress method which underextracts in the beginning.
 
 Paper filter preferred, but metal or both together also work.
 
 Examples with Kingrinder K6:
 
-- CapriSette - Belgique medium-light roast, 39-40 clicks (with reusable metal filter)
-- CapriSette - Professional medium-dark roast, 42-43 clicks (with reusable metal filter)
-- DAK - Halo Berry dark roast, 60 clicks (with reusable metal filter)
+- CapriSette - Belgique medium-light roast:
+    - with metal filter: 39-40 clicks 
+- CapriSette - Professional medium-dark roast:
+    - with metal filter: 42-43 clicks
+- DAK - Halo Berry dark roast:
+    - with metal filter or paper filter only: 40 clicks (60 clicks too sour)
 
 Recipe:
 
-1. Preheat Aeropress
-2. Rinse filter and set aside
-3. Add 18g finely ground coffee
-4. Add 90g of boiled water
-5. Stir carefully but a little agressively to make sure all of the coffee is immersed
-6. Screw the filter on and steep for 90s
-7. Put cup on filter and flip the press with the cup
-8. Swirl to clear clumped sides
-9. Sit for 5s
-10. Press gently (slowly enough to not create a channel that would underextract)
-11. Press til the final end (unlike traditional Aeropress recipe)
+1. (Optional) Preheat AeroPress
+2. Add 18g finely ground coffee
+3. Add 90g of boiled water
+4. Stir carefully but a little agressively to make sure all of the coffee is immersed
+5. Screw the filter on and steep for 90s
+6. Put cup on filter and flip the press with the cup
+7. Swirl to clear clumped sides
+8. Sit for 5s
+9. Press gently (slowly enough to not create a channel that would underextract)
+10. Press til the final end (unlike traditional AeroPress recipe)
+11. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
 
 ### Regular AeroPress
 
-This recipe [calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffmann-aeropress-recipe), nearing espresso grind levels and is built around the **paper filter only**.
+This recipe [calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffmann-aeropress-recipe), nearing espresso grind levels and is built around the **paper filter only**. Using the regular filter holder and regular paper filter, it will underextract in the beginning like every other non-inverted AeroPress recipe.
 
 Warning when using only the metal filter: you will find it too bitter even at double coarseness of pourover (100 clicks or more with Kingrinder K6) and 95°C and might find some sour notes too, this is due to the metal filter not holding enough in when seeping and pushing.
 
 Examples with Kingrinder K6:
 
 - Father Carpenter - Kenya light roast:
-  - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
-  - with paper filter only: 40 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
+    - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
+    - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
+
+Recipe:
 
 1. 11g coffee (ground at the finer end of medium, assuming this is light roasted coffee. The darker you go the more you may prefer to increase the dose and coarsen the grind.)
 2. Put the paper filter into the cap (or use metal *and* paper filter, both). Don't rinse or preheat the brewer (it doesn't make any difference)
 3. Put coffee into the brewer
 4. Place on scales and then add water, aiming to wet all the coffee during pouring. 200g water (100°C for light, 90-95°C medium, 85-90°C dark)
-5. (Optional) stir if it seems clumped
+5. (Optional) Stir if it seems clumped
 6. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
 7. Wait 2 minutes (but you may go up to 8-10 minutes)
 8. Holding the brewer and the piston, gently swirl the brewer
@@ -183,6 +188,8 @@ Pourover ratio around 200g coffee, 50g milk
 
 ### Chiato Milkplay
 
+100ml is between MIN line and lower MAX line.
+
 Setting diagram:
 
 ```
@@ -219,6 +226,18 @@ Official technique:
 
 1. Start at the centre, barely in at a slight angle (30deg), 5s
 2. Go deeper and slowly towards the edge while keeping a vortex, until sound of milk is more quiet, about 20s (in this stage avoid making any new bubbles!)
+
+### Chiato Milkplay and Subminimal Nanofoamer combined
+
+This recipe leverages the Milkplay to do the airation consistently and the Nanofoamer to achieve the nanofoam.
+
+1. Fill Milkplay with 100-150ml of milk
+2. Use flat attachment with setting 2 until milk is at 55°C
+3. Transfer to pitcher
+4. Use the Nanofoamer, one finger between base and pitcher, slight angle (~30deg) 15 sec
+5. Tap and swirl
+6. (Optional) Transfer back to Milkplay and then back to pitcher again (this results in more uniform milk)
+7. Pour
 
 ## Recipes
 
