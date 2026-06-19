@@ -102,7 +102,7 @@ Examples with Kingrinder K6:
 - CapriSette - Professional medium-dark roast:
     - with metal filter: 42-43 clicks
 - DAK - Halo Berry dark roast:
-    - with metal filter or paper filter only: 40 clicks (60 clicks too sour)
+    - with metal filter or paper filter only: 35 clicks (40 clicks too sour)
 
 Recipe:
 
