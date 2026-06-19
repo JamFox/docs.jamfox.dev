@@ -40,6 +40,7 @@ General notes applicable to all techniques:
 - The closer you pour the deeper the stream penetrates the coffee, the closer the pour the more consistent the extraction
 - 5g/s is a nice sweet spot for pouring speed
 - Pouring kettle can help for a sharper and more consisten stream but should not be needed
+- The slower the paper the fuller the extraction, with modern filters rinsing is not required
 
 ### Hoffman 1 Cup V60 Method
 
