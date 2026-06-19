@@ -106,17 +106,16 @@ Examples with Kingrinder K6:
 
 Recipe:
 
-1. (Optional) Preheat AeroPress
-2. Add 18g finely ground coffee
-3. Add 90g of boiled water
-4. Stir carefully but a little agressively to make sure all of the coffee is immersed
-5. Screw the filter on and steep for 90s
-6. Put cup on filter and flip the press with the cup
-7. Swirl to clear clumped sides
-8. Sit for 5s
-9. Press gently (slowly enough to not create a channel that would underextract)
-10. Press til the final end (unlike traditional AeroPress recipe)
-11. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
+1. Add 18g finely ground coffee
+2. Add 90g of boiled water
+3. Stir carefully but a little agressively to make sure all of the coffee is immersed
+4. Screw the filter on and steep for 90s
+5. Put cup on filter and flip the press with the cup
+6. Swirl to clear clumped sides
+7. Sit for 5s
+8. Press gently (slowly enough to not create a channel that would underextract)
+9.  Press til the final end (unlike traditional AeroPress recipe)
+10. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
 
 ### Regular AeroPress
 
