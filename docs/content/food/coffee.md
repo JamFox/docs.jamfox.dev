@@ -52,10 +52,10 @@ From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffm
 
 Examples with Kingrinder K6:
 
-- CapriSette - Belgique medium-light roast, 57-60~ clicks (55 too bitter, over 65 not enough extraction), 95-97°C
-- CapriSette - Professional medium-dark roast, 60-63~ clicks, 90°C
+- CapriSette - Belgique "medium-light" dark roast, 57-60~ clicks (55 too bitter, over 65 sour and watery), 95-97°C
+- CapriSette - Professional "medium-dark" dark roast, 60-63~ clicks, 90°C
 - DAK - Halo Berry dark roast, 75-80 clicks 85°C
-- Lykke - Peru Agua de Nieve 65 clicks, 100°C
+- Lykke - Peru Agua de Nieve light roast 65 clicks, 100°C
 
 Recipe:
 
@@ -93,14 +93,16 @@ If grind was too coarse:
 
 Inverted method for "espresso-like", more stronger taste. This results in a more uniform taste compared to regular AeroPress method which underextracts in the beginning.
 
+**This recipe is made for dark and medium roasts**, light roast will come out sour even with more stirring and steeping time.
+
 Paper filter preferred, but metal or both together also work.
 
 Examples with Kingrinder K6:
 
-- CapriSette - Belgique medium-light roast:
-    - with metal filter: 39-40 clicks 
-- CapriSette - Professional medium-dark roast:
-    - with metal filter: 42-43 clicks
+- CapriSette - Belgique "medium-light" dark roast:
+    - with metal filter: 45-50 clicks 
+- CapriSette - Professional "medium-dark" dark roast:
+    - with metal filter: 45-50 clicks
 - DAK - Halo Berry dark roast:
     - with metal filter or paper filter only: 35 clicks (40 clicks too sour)
 
