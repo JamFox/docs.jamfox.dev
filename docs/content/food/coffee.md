@@ -100,9 +100,10 @@ Paper filter preferred, but metal or both together also work.
 Examples with Kingrinder K6:
 
 - CapriSette - Belgique "medium-light" dark roast:
-    - with metal filter: 45-50 clicks 
+    - with metal filter: 40 clicks
+    - with paper filter: 45-50 clicks
 - CapriSette - Professional "medium-dark" dark roast:
-    - with metal filter: 45-50 clicks
+    - with metal filter: 40 clicks
 - DAK - Halo Berry dark roast:
     - with metal filter or paper filter only: 35 clicks (40 clicks too sour)
 
@@ -130,6 +131,8 @@ Examples with Kingrinder K6:
 - Father Carpenter - Kenya light roast:
     - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
     - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
+- Lykke - Peru Agua de Nieve light roast:
+    - with paper filter only: 35 clicks, 100°C
 
 Recipe:
 
