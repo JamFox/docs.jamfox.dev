@@ -132,7 +132,7 @@ Examples with Kingrinder K6:
     - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
     - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
 - Lykke - Peru Agua de Nieve light roast:
-    - with paper filter only: 35 clicks, 100°C
+    - with paper filter only: 34 clicks, 100°C
 
 Recipe:
 
