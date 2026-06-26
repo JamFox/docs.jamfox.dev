@@ -81,6 +81,7 @@ Scotch whisky:
 Japanese whisky:
 
 - Nikka - From The Barrel (quick and fast)
+- Nikka - Coffey Grain (single-pot-still-ish, light floral/berry dance)
 
 Scotch whisky:
 
@@ -94,6 +95,10 @@ Bourbon, American whisky:
 Estonian whisky:
 
 - TAMM&RUKIS ex Oloroso Single Cask 78/80
+  
+Dutch whisky:
+
+- Millstone American Oak (smoky yet without the hard bite, perfect beginner)
 
 ## Liquer
 

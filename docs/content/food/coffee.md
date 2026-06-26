@@ -55,7 +55,7 @@ Examples with Kingrinder K6:
 - CapriSette - Belgique "medium-light" dark roast, 57-60~ clicks (55 too bitter, over 65 sour and watery), 95-97°C
 - CapriSette - Professional "medium-dark" dark roast, 60-63~ clicks, 90°C
 - DAK - Halo Berry dark roast, 75-80 clicks 85°C
-- Lykke - Peru Agua de Nieve light roast 65 clicks, 100°C
+- Lykke - Peru Agua de Nieve light roast 65 clicks, 100-97°C
 
 Recipe:
 
@@ -85,7 +85,7 @@ If grind was too coarse:
 - You can also increase speed to extract a little more
 - Add additional 50g pour on top of the usual 250g to extract even more (this makes taste weaker too though)
 
-## Immersion techniques
+## Aeropress techniques
 
 18g beans results in 36-40g of coffee from an espresso machine, 65 to 70g of coffee from immersion techniques to get something "espresso-like".
 
@@ -146,6 +146,20 @@ Recipe:
 8. Holding the brewer and the piston, gently swirl the brewer
 9. Wait 30 seconds
 10. Press gently all the way (should take 30-60 seconds)
+
+### Zuppa Lungo AeroPress
+
+Recipe:
+
+1. Put the paper filter into the cap, screw the cap on
+2. Drop in 15g of coffee, slightly coarser than espresso
+3. Tamp with a second paper filter using the plunger, remove carefully
+4. (Optional) Drop in metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen)
+5. Pour 150g of water
+6. Let steep 15-30sec
+7. Add plunger and start slow plunge around 60-120sec
+
+## Immersion technique
 
 ### French press
 
