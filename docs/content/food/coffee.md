@@ -56,6 +56,7 @@ Examples with Kingrinder K6:
 - CapriSette - Professional "medium-dark" dark roast, 60-63~ clicks, 90°C
 - DAK - Halo Berry dark roast, 75-80 clicks 85°C
 - Lykke - Peru Agua de Nieve light roast 65 clicks, 100-97°C
+- Father Carpenter - Peru Dry Ferment Honey light roast, 50-53 clicks 100°C
 
 Recipe:
 
