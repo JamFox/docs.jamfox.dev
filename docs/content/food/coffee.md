@@ -113,8 +113,8 @@ Recipe:
 6. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
 7. Wait 2 minutes (but you may go up to 8-10 minutes)
 8. Holding the brewer and the piston, gently swirl the brewer
-9. Wait 30 seconds
-10. Press gently all the way (should take 30-60 seconds)
+9. Wait 30s
+10. Press gently all the way (should take 30-60s)
 
 ### Inverted AeroPress
 
@@ -155,7 +155,7 @@ This method tries to avoid any extra agitation from water pours to extract as mu
 
 Examples:
 
-- Father Carpenter - Peru honey ferment light roast: 33 clicks, 98°C (30 clicks too bitter, 40 too sour)
+- Father Carpenter - Peru honey ferment light roast: 33 clicks, 98-100°C (30 clicks too bitter, 40 too sour)
 
 Recipe:
 
@@ -165,8 +165,8 @@ Recipe:
 4. Tamp with a second paper filter using the plunger, remove carefully to avoid air turbulence messing up the tamped grinds and filter
 5. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
 6. Pour 150g of water, optionally using a long spoon/object to break the water's fall
-7. Let steep 30s or more (without the plunger)
-8. Add plunger and do a slow plunge, around 60-120sec
+7. Let steep 60s or more (without the plunger)
+8. Add plunger, and do a slow plunge, around 60-120s
 
 ## Immersion technique
 
@@ -245,7 +245,7 @@ Microfoam-ish (not quite, but servicable):
 
 Italian technique:
 
-1. One finger between base and pitcher, slight angle (~30deg) 15 sec
+1. One finger between base and pitcher, slight angle (~30deg) 15s
 2. Tap and swirl
 3. Transfer to temporary cup and then back to pitcher (so as to mix milk and foam so they won't separate)
 4. Pour immediately
@@ -260,9 +260,9 @@ Official technique:
 This recipe leverages the Milkplay to do the airation consistently and the Nanofoamer to achieve the nanofoam.
 
 1. Fill Milkplay with 100-150ml of milk
-2. Use flat attachment with setting 2 until milk is at 55°C
+2. Use flat attachment with setting 1 until milk is at 55°C
 3. Transfer to pitcher
-4. Use the Nanofoamer, one finger between base and pitcher, slight angle (~30deg) 15 sec
+4. Use the Nanofoamer, one finger between base and pitcher, slight angle (~30deg) 15s
 5. Tap and swirl
 6. (Optional) Transfer back to Milkplay and then back to pitcher again (this results in more uniform milk)
 7. Pour
