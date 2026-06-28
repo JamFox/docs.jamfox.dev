@@ -4,202 +4,9 @@ title: "Main Courses"
 
 Collection of main courses.
 
-## Blue Cheese Chicken Pie
+## Low effort
 
-!!! abstract inline "Crust Ingredients"
-    - 360g unsalted butter
-    - 650g flour
-    - 200g grated neutral young cheddar
-    - 1 tsp salt
-    - a little less than 1 cup of water
-
-**Crust Instructions:**
-
-1. Pinch the butter, flour and salt into soft but slightly crumbling mass.
-2. Add water and combine evenly. It shouldn't bee crumbling but also not too wet.
-3. Push the dough onto the sides and bottom of the baking tray.
-4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
-5. Keep cold until the filling is ready.
-6. When the filling is ready, put the crust into the oven at 185°C (Tammetõru 200°C) for 10 minutes.
-
-!!! abstract inline "Filling Ingredients"
-    - 600g marinated broiler fillet
-    - 2 yellow onions
-    - 2 red paprika peppers
-    - 200-300g drained pineapple pieces
-    - 200g Royal Blue blue cheese (or other not too neutral)
-    - 400g whipping cream
-    - 2 eggs
-    - 400g grated neutral young cheddar
-
-**Filling Instructions:**
-
-1. Cut broiler fillet into small pieces and sautee until half of the moisture has evaporated.
-2. Add finely diced onions and red peppers and continue sauteeing for 5 minutes.
-3. Move everything from the pan to a big bowl and mix with diced pineapple and blue cheese.
-4. Mix whipping cream with eggs and add everything into the bowl.
-5. Once the crust has been cooked for 10 minutes, add the filling into the crust and cook for another 20 minutes or until golden brown at 185°C (Tammetõru 200°C).
-
-## Bolognese
-
-!!! abstract inline "Ingredients"
-    - 1 tbsp unsalted butter
-    - 50g ham
-    - 2 yellow onions
-    - 1 clove of garlic
-    - 1 carrot
-    - 100ml red wine
-    - 400g minced beef
-    - 100ml chicken stock
-    - 400g tomate paste (Pomi passata di pomodoro is best)
-    - 1 tsp oregano
-    - some nutmeg
-    - sugar
-    - spaghetti
-
-**Instructions:**
-
-1. Melt butter on a large pan.
-2. Sautee diced ham, carrot and onions for 10 minutes.
-3. Add minced beef, crushed clove of garlic and cook for 10 minutes.
-4. Add wine, chicken stock.
-5. Steam while covered on low heat for 15 minutes.
-6. Add tomato paste and season
-7. Cover for another 20 minutes.
-8. Cook some spaghetti.
-9. Add some bolognese to spaghetti.
-10. (optional) Grate some parmesan on top.
-
-## Kert Burger
-
-!!! abstract inline "Ingredients"
-    - 1/8 mild kale
-    - 1 tbsp mayonese
-    - 1 tsp Tabasco classic
-    - 1/4 yellow onion
-    - 1 tsp BBQ sauce
-    - 1 tsp mayonese
-    - 1 tsp ketchup
-    - 1 strip of bacon
-    - 100g minced beef
-    - handful of Cheddar
-    - 2 brioche buns
-    - 1 slice of tomato or pickles
-
-**Instructions:**
-
-1. Dice onion and kale into small pieces, mix with tabasco and mayo.
-2. Mix BBQ sauce, mayo and ketchup.
-3. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides.
-4. Heat a pan, add butter and brown the buns from both sides, set aside.
-5. Next season the bacon with salt, pepper and smoked paprika and cook until fat is rendered, then remove onto paper towels to absorb the fat and keep the bacon crispy.
-6. Add the patty with salt and pepper and cook 4-5 minutes from both sides, add some butter when flipping sides.
-7. On a smaller non stick pan, add cheddar.
-8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side.
-9. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
-
-## Vegan Squash Burger
-
-!!! abstract inline "Ingredients"
-    - 2 burger buns
-    - Pesto mayo
-    - Squash, sliced (optional)
-    - Chinese cabbage (napa cabbage)
-    - Tabasco
-    - Truffle sauce, just a touch
-    - Tomato
-    - Caramelized onion
-
-**Instructions:**
-
-1. If using squash, sear the slices in a pan until deeply golden brown on both sides.
-2. Toast the burger buns until lightly browned.
-3. Mix the Chinese cabbage with Tabasco to taste.
-4. Spread pesto mayo on the buns and add just a touch of truffle sauce.
-5. Assemble with the squash, Chinese cabbage, tomato, and caramelized onion.
-6. Close the burger and serve.
-
-## Tartiflette
-
-!!! abstract inline "Ingredients"
-    - 1kg potatoes
-    - 3 fresh thyme sprigs
-    - 115g thick-cut bacon, cut into 5mm lardons
-    - 2 yellow onions
-    - 120ml dry white wine
-    - 120ml heavy cream or crème fraîche
-    - 450g Reblochon
-
-**Instructions:**
-
-1. Peel and boil the potatoes with salt and thyme spigs (discard after boiled).
-2. Preheat oven to 165°C (Tammetõru 185°C).
-3. Heat bacon over medium-high heat until fat begins to render.
-4. Lower heat to medium and stir occasionally, until fat is mostly rendered and bacon is cooked but not crisp, about 5 minutes.
-5. (optional) If there is not enough fat from the bacon, add about 20g of butter
-6. Add diced onions, season with salt and pepper, and cook until onions have softened but not browned, about 8 minutes.
-7. Add white wine and cook, stirring, until wine has almost fully cooked off, 1 to 2 minutes.
-8. Toss everything together in a bowl and move to a baking dish with cream or crème fraîche.
-9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top.
-10. Bake at 165°C (Tammetõru 185°C) until golden brown, about 40 minutes.
-
-## Wasabi Mayo Beef Tacos
-
-From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
-
-!!! abstract inline "Ingredients"
-    - 2 beef sirloin steaks
-    - 6-8 small tortillas, to serve
-    - 2 tablespoons light miso paste (aka soybean paste)
-    - 2 tablespoons mirin (aka aji-mirin) or rice wine
-    - 1/2 head of Chinese cabbage, finely shredded
-    - 1 or 1 1/2 tablespoons rice vinegar or lemon juice
-    - 1/2 teaspoon sesame oil
-    - 1 teaspoon dried chile flakes
-    - 1/2 teaspoon wasabi (depending on wasabi at hand), to taste
-    - 2 heaping tablespoons mayonnaise
-
-**Instructions:**
-
-1. Set the pan on high with some olive oil.
-2. Season the steaks with salt and pepper, lay away from you on to the pan, and sear while giving the occasional shake to avoid sticking, 2-3 minutes on each side for rare/medium-rare, or until cooked to your liking. Render the fat by tipping the steaks onto their sides and cooking until the fat is golden and crisp, keep basting the steaks as you cook.
-3. While searing, mix the miso paste, mirin or rice wine, sugar, and olive oil, stirring well to dissolve the sugar. Season with salt and pepper and add a tablespoon of water if the mixture needs loosening a little.
-4. Slice the fat off and slip the steaks into the marinade.
-5. Meanwhile, prepare the quick pickled cabbage. Put the Chinese cabbage in a bowl and season with salt and pepper. Add the rice vinegar, sesame oil, and chile flakes. Toss the mixture to coat, then leave to soften slightly for a couple of minutes.
-6. Meanwhile, mix together the wasabi and mayonnaise, taste, and add a little more wasabi if you like a stronger flavor.
-7. Heat the tortillas for 30-60 seconds over a naked gas flame until charred and lightly toasted. Roll them around a rolling pin while they're still hot, and hold until cooled to set in half-moon taco shapes.
-8. Drain the beef of any excess marinade, then slice and place in the tacos. Top with the cabbage and a little wasabi mayo.
-
-## French Tacos
-
-[The Unlikely Rise of the French Tacos](https://www.newyorker.com/magazine/2021/04/19/the-unlikely-rise-of-the-french-tacos), recipe from [You Suck At Cooking](https://youtu.be/vz7gGD0ws4c).
-
-!!! abstract inline "Ingredients"
-    - 1 onion
-    - 2 garlic cloves
-    - 450g ground beef
-    - Some fries
-    - Cream
-    - Gruyere cheese
-    - Other french cheese of choice
-    - Pickled jalapenos
-    - Tortilla wraps
-
-**Instructions:**
-
-1. Slice half of the onion and dice the other half.
-2. Put the 1/2 sliced onion in a pan with some oil on medium heat and cook until brown, set aside.
-3. Put the 1/2 diced onion with crushed and diced garlic in the pan with some oil on medium heat and cook until softened.
-4. Add the ground beef to pan, season with salt and pepper and cook until brown.
-5. Prepare the fries, either in oven or your choice of a fryer.
-6. In a skillet, add cream and warm until it starts to steam a little.
-7. Add the cheese and stir until melted.
-8. Add butter to taste and some flour if needed to thick the sauce.
-9. Combine everything in a tortilla wrap, add some more cheese and wrap it up.
-10. Warm the wrap on a pan on medium heat or on a sandwich grill until the cheese melts.
-11. Et voilà!
-
-## Arayes
+### Arayes
 
 From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr4gXyM) by Internet Shaquille.
 
@@ -245,7 +52,7 @@ From [You're Probably Sleeping on Arayes](https://www.youtube.com/watch?v=1K45Fr
 7. Brush the outside of the pita with olive oil.
 8. Slap them in a charcoal grill, or on a cast iron pan on the stove on medium heat (coals white with grill), or 200C oven until crispy and browned.
 
-## Creamy Chiken Soup
+### Creamy Chiken Soup
 
 From: https://www.melskitchencafe.com/creamy-chicken-soup/
 
@@ -285,7 +92,7 @@ From: https://www.melskitchencafe.com/creamy-chicken-soup/
 - Bouillon: the chicken bouillon (cube, paste or granules) intensifies the overall flavor of the soup. If you leave it out, season well to taste.
 - Potatoes: potatoes make a great addition to this soup. I add peeled, diced potatoes (usually Yukon gold, but any variety would work) with the broth.
 
-## Caesar Salad
+### Caesar Salad
 
 !!! abstract "Salad Ingredients"
     - Some chicken
@@ -329,7 +136,7 @@ From: https://www.melskitchencafe.com/creamy-chicken-soup/
 2. Add croutons and grated cheese and mix some more
 3. Et voilà!
 
-## Low-Effort Miso Ramen
+### Low-Effort Miso Ramen
 
 Partly inspired by [7 Ingredient Restaurant Style Ramen](https://www.youtube.com/watch?v=9gNIqtmYg5o) by Pro Home Cooks.
 
@@ -371,7 +178,318 @@ For toppings, feel free to leave or add things as you like.
 - For green onion: slice into small rings.
 - For eggs: boil for 6 minutes and plop into cold water.
 
-## Tacos with Rajas Con Crema
+### Summer chickpea salad
+
+From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/vegetables/summer-chickpea-salad/).
+
+!!! abstract inline "Ingredients"
+    - 1 small red onion, peeled
+    - 1–2 fresh red chillies, deseeded
+    - 2 handfuls of ripe red or yellow tomatoes
+    - 1 lemon
+    - extra virgin olive oil
+    - sea salt and freshly ground black pepper
+    - 1 x 410g jar or tin of chickpeas, drained, or around 4 large handfuls of soaked and cooked chickpeas
+    - a handful of fresh mint, chopped
+    - a handful of fresh green or purple basil, finely ripped
+    - 100g feta cheese
+
+**Instructions:**
+
+1. Finely slice your red onion.
+2. Finely slice your chillies then roughly chop your tomatoes, mixing them in with the onion and chillies.
+3. Scrape all of this, and the juice, into a bowl and dress with the juice of half a lemon and 3 tablespoons of good extra virgin olive oil. Season to taste.
+4. Heat the chickpeas in a pan, then add 90 per cent of them to the bowl.
+5. Mush up the remaining chickpeas and add these as well – they will give a nice creamy consistency. Allow to marinate for a little while and serve at room temperature.
+6. Just as you're ready to serve, give the salad a final dress with the fresh mint and basil. Taste one last time for seasoning – you may want to add the juice from your remaining lemon half at this point.
+7. Place on a nice serving dish and crumble over the feta cheese.
+
+### Potato Dough Stuffed Patties
+
+!!! abstract inline "Ingredients"
+    - 6 large potatoes, cubed
+    - 1 onion, diced
+    - 1 garlic clove, crushed
+    - 500g ground beef
+    - 50g unsalted butter
+    - 1 egg
+    - 160g wheat flour
+    - Some cheese
+    - Oil for frying
+
+**Instructions:**
+
+1. Boil the cubed potatoes with 1 teaspoon of salt in 1L of water for 20 minutes.
+2. While the potatoes are boiling, saute the diced onion and crushed garlic in a pan. Add the ground beef, 1 teaspoon of salt, and black pepper to taste. Cook until the beef is browned.
+3. Drain the potatoes and transfer them to a bowl. Add the unsalted butter, egg, and wheat flour. Mix until well combined.
+4. Flour your working area and take a portion of the dough to form a fat pancake. Place some of the meat mixture and cheese in the center, then fold the dough over to form a flattened ball.
+5. Heat oil in a pan and fry each ball until golden brown on all sides.
+
+### Hoisin chicken lettuce cups
+
+!!! abstract inline "Ingredients"
+    - Mango puree
+    - Hoisin sauce
+    - Soy sauce
+    - 2 chicken breasts
+    - 1 romaine lettuce
+    - 1 punnet of cress
+
+1. Flatten chicken, season with olive oil, salt, pepper, and cayenne. Leave to marinate.
+2. In bowl combine mango, hoisin and just a little soy into a sauce. Ratios to taste, I prefer something like 1:2 mango:hoisin, then a dash or two of soy.
+3. Grill chicken and cut into strips.
+4. Add everything to a leaf of romaine, and be generous with the sauce (otherwise the lettuce might be a little overpowering)!
+
+**Notes:**
+
+- Alternatively, instead of putting the sauce in the cup: serve sauce in something where the cups can be dipped into!
+
+### One-Pan Chicken and Shimeji Plate
+
+Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603418_%E3%83%81%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%86%E3%83%BC%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
+
+!!! abstract inline "Ingredients"
+    - 150g chicken thighs (for deep frying)
+    - 1/2 pack (75g) shimeji mushrooms (large)
+    - 1 egg
+    - 1/8 head lettuce (about 50g)
+    - 2 slices baguette (1cm thick)
+    - Your favorite dressing, as needed
+    - Grain mustard, as needed
+    - Oil
+    - Salt
+    - Coarsely ground black pepper
+
+**Instructions:**
+
+1. Add 1 tsp oil to a 20cm frying pan. Place chicken skin-side down, sprinkle with 2 pinches of salt, and set over medium heat from cold.
+2. Cut off the roots of the shimeji mushrooms. Crack the egg into a small bowl.
+3. When the chicken is browned, flip it and move to the side. Add shimeji mushrooms (breaking them up) to the pan. Pour the egg into the gap, cover, and steam over low-medium heat for 2–3 minutes.
+4. Sprinkle a pinch of salt over the mushrooms and egg. Turn the mushrooms over, turn off the heat, and sprinkle black pepper over everything.
+5. Insert torn lettuce and baguette slices into the pan. Add dressing to the lettuce if desired, and grain mustard to the chicken.
+
+**Tips:**
+
+- Start heating the pan from cold for even cooking and to avoid rushing.
+- A 20cm frying pan is ideal for a single serving and even cooking.
+- Use a pan with a thick base and a heat-resistant glass lid for best results.
+
+### One-Pan Plate of Pork and Ginger
+
+Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603419_%E8%B1%9A%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E7%84%BC%E3%81%8D%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
+
+!!! abstract inline "Ingredients"
+    - 100g pork belly (thinly sliced)
+    - 1 egg
+    - 1/4 onion (50g)
+    - 1/8 bunch mizuna (25g)
+    - 2 tsp soy sauce
+    - 1 tsp sugar
+    - 1 tsp grated ginger
+    - Mayonnaise, as needed
+    - Sesame oil
+
+**Instructions:**
+
+1. Cut the onion into 5mm wedges. Cut mizuna into 5cm lengths. Cut pork into 6–7cm pieces. Beat the egg. In a small bowl, mix soy sauce, sugar, and grated ginger.
+2. Heat 1 tsp sesame oil in a 20cm frying pan over medium heat. Add pork and cook until the color starts to change. Add onion and continue frying until softened.
+3. Add the soy sauce mixture, stir to combine, and push everything to one side of the pan.
+4. Pour the beaten egg into the empty space, stir roughly, and cook to your preferred doneness.
+5. Turn off the heat, add mizuna, and garnish with mayonnaise.
+
+**Tips:**
+
+- Stir eggs vigorously with chopsticks for fluffy scrambled eggs.
+- A 20cm frying pan with a thick base and glass lid is ideal for single servings and even cooking.
+
+### Simple Fluffy French Breakfast Omelette
+
+!!! abstract inline "Ingredients"
+    - Eggs
+    - Salt
+    - Lemon pepper
+    - Soy sauce
+    - Cheese
+
+**Instructions:**
+
+1. Beat the eggs until fully mixed.
+2. Pour them into a pan and season with salt, lemon pepper, and a splash of soy sauce.
+3. Stir continuously until the eggs begin to catch and lightly stick.
+4. Cover the pan and let the omelette sit for a moment.
+5. Add cheese, fold the omelette over itself, and cover again.
+6. Let it sit until it is still soft but no longer runny, then serve.
+
+### Lazy Cheeseburger Kebabs
+
+From: Food Wishes Chef John's [Lazy Cheeseburger Kebabs](https://www.allrecipes.com/lazy-cheeseburger-kebabs-recipe-11961969)
+
+!!! abstract "Ingredients"
+    - 250g ground beef
+    - 100g grated cheddar cheese
+    - Lavash bread
+    - 1/2 minced yellow onion
+
+!!! abstract inline "Optional secret sauce"
+    - 55g mayo
+    - 1 tablespoon Dijon mustard
+    - 3 tablespoons ketchup
+    - 50g buttermilk
+
+!!! abstract "Secret sauce alternative"
+    - Sourcream
+    - Pickled jalapenos
+    - Fresh bites of paprika
+    - Fresh bites of tomato (lightly salted and peppered)
+  
+**Instructions:**
+
+1. Preheat:
+      1. oven at 230°C
+      2. airfryer at 200°C
+2. Unfold lavash and spread beef in a thin layer, sprinkle minced 1/2 onion
+3. Add salt, pepper, cayenne, cumin, paprika powder or seasoning of your choice
+4. Add grated cheddar
+5. Roll lavash and with a serrated knife cut to comfortable sized rolls
+6. Skewer the rolls with wooden sticks or actual skewers
+7. Brush rolls with butter or oil
+8. Bake:
+      1. in regular mode for around 7 minutes and then turn to broil mode for 2-3 minutes
+      2. 10 minutes in the airfryer
+9. Eat with the secret sauce OR alternative side ingredients
+
+## Medium effort
+
+### Kert Burger
+
+!!! abstract inline "Ingredients"
+    - 1/8 mild kale
+    - 1 tbsp mayonese
+    - 1 tsp Tabasco classic
+    - 1/4 yellow onion
+    - 1 tsp BBQ sauce
+    - 1 tsp mayonese
+    - 1 tsp ketchup
+    - 1 strip of bacon
+    - 100g minced beef
+    - handful of Cheddar
+    - 2 brioche buns
+    - 1 slice of tomato or pickles
+
+**Instructions:**
+
+1. Dice onion and kale into small pieces, mix with tabasco and mayo.
+2. Mix BBQ sauce, mayo and ketchup.
+3. Roll the minced beef into a size that is just barely larger than the patty in diameter and make sure the middle of the patty is thinner than the sides.
+4. Heat a pan, add butter and brown the buns from both sides, set aside.
+5. Next season the bacon with salt, pepper and smoked paprika and cook until fat is rendered, then remove onto paper towels to absorb the fat and keep the bacon crispy.
+6. Add the patty with salt and pepper and cook 4-5 minutes from both sides, add some butter when flipping sides.
+7. On a smaller non stick pan, add cheddar.
+8. When the patty is ready and the cheddar is crispy from one side, put the patty on top of the cheddar and lift the patty with the cheddar to the side.
+9. Assembly is as follows: bottom bun, sauce, bacon, patty with cheese, more sauce, tomato or pickles, salad, top bun.
+
+### Vegan Squash Burger
+
+!!! abstract inline "Ingredients"
+    - 2 burger buns
+    - Pesto mayo
+    - Squash, sliced (optional)
+    - Chinese cabbage (napa cabbage)
+    - Tabasco
+    - Truffle sauce, just a touch
+    - Tomato
+    - Caramelized onion
+
+**Instructions:**
+
+1. If using squash, sear the slices in a pan until deeply golden brown on both sides.
+2. Toast the burger buns until lightly browned.
+3. Mix the Chinese cabbage with Tabasco to taste.
+4. Spread pesto mayo on the buns and add just a touch of truffle sauce.
+5. Assemble with the squash, Chinese cabbage, tomato, and caramelized onion.
+6. Close the burger and serve.
+
+### Tartiflette
+
+!!! abstract inline "Ingredients"
+    - 1kg potatoes
+    - 3 fresh thyme sprigs
+    - 115g thick-cut bacon, cut into 5mm lardons
+    - 2 yellow onions
+    - 120ml dry white wine
+    - 120ml heavy cream or crème fraîche
+    - 450g Reblochon
+
+**Instructions:**
+
+1. Peel and boil the potatoes with salt and thyme spigs (discard after boiled).
+2. Preheat oven to 165°C (Tammetõru 185°C).
+3. Heat bacon over medium-high heat until fat begins to render.
+4. Lower heat to medium and stir occasionally, until fat is mostly rendered and bacon is cooked but not crisp, about 5 minutes.
+5. (optional) If there is not enough fat from the bacon, add about 20g of butter
+6. Add diced onions, season with salt and pepper, and cook until onions have softened but not browned, about 8 minutes.
+7. Add white wine and cook, stirring, until wine has almost fully cooked off, 1 to 2 minutes.
+8. Toss everything together in a bowl and move to a baking dish with cream or crème fraîche.
+9. Cover with slabs of Reblochon rind side up in a way that will melt the cheese evenly on top.
+10. Bake at 165°C (Tammetõru 185°C) until golden brown, about 40 minutes.
+
+### Wasabi Mayo Beef Tacos
+
+From [Gordon Ramsay](https://youtu.be/fETZCWvzkWM).
+
+!!! abstract inline "Ingredients"
+    - 2 beef sirloin steaks
+    - 6-8 small tortillas, to serve
+    - 2 tablespoons light miso paste (aka soybean paste)
+    - 2 tablespoons mirin (aka aji-mirin) or rice wine
+    - 1/2 head of Chinese cabbage, finely shredded
+    - 1 or 1 1/2 tablespoons rice vinegar or lemon juice
+    - 1/2 teaspoon sesame oil
+    - 1 teaspoon dried chile flakes
+    - 1/2 teaspoon wasabi (depending on wasabi at hand), to taste
+    - 2 heaping tablespoons mayonnaise
+
+**Instructions:**
+
+1. Set the pan on high with some olive oil.
+2. Season the steaks with salt and pepper, lay away from you on to the pan, and sear while giving the occasional shake to avoid sticking, 2-3 minutes on each side for rare/medium-rare, or until cooked to your liking. Render the fat by tipping the steaks onto their sides and cooking until the fat is golden and crisp, keep basting the steaks as you cook.
+3. While searing, mix the miso paste, mirin or rice wine, sugar, and olive oil, stirring well to dissolve the sugar. Season with salt and pepper and add a tablespoon of water if the mixture needs loosening a little.
+4. Slice the fat off and slip the steaks into the marinade.
+5. Meanwhile, prepare the quick pickled cabbage. Put the Chinese cabbage in a bowl and season with salt and pepper. Add the rice vinegar, sesame oil, and chile flakes. Toss the mixture to coat, then leave to soften slightly for a couple of minutes.
+6. Meanwhile, mix together the wasabi and mayonnaise, taste, and add a little more wasabi if you like a stronger flavor.
+7. Heat the tortillas for 30-60 seconds over a naked gas flame until charred and lightly toasted. Roll them around a rolling pin while they're still hot, and hold until cooled to set in half-moon taco shapes.
+8. Drain the beef of any excess marinade, then slice and place in the tacos. Top with the cabbage and a little wasabi mayo.
+
+### French Tacos
+
+[The Unlikely Rise of the French Tacos](https://www.newyorker.com/magazine/2021/04/19/the-unlikely-rise-of-the-french-tacos), recipe from [You Suck At Cooking](https://youtu.be/vz7gGD0ws4c).
+
+!!! abstract inline "Ingredients"
+    - 1 onion
+    - 2 garlic cloves
+    - 450g ground beef
+    - Some fries
+    - Cream
+    - Gruyere cheese
+    - Other french cheese of choice
+    - Pickled jalapenos
+    - Tortilla wraps
+
+**Instructions:**
+
+1. Slice half of the onion and dice the other half.
+2. Put the 1/2 sliced onion in a pan with some oil on medium heat and cook until brown, set aside.
+3. Put the 1/2 diced onion with crushed and diced garlic in the pan with some oil on medium heat and cook until softened.
+4. Add the ground beef to pan, season with salt and pepper and cook until brown.
+5. Prepare the fries, either in oven or your choice of a fryer.
+6. In a skillet, add cream and warm until it starts to steam a little.
+7. Add the cheese and stir until melted.
+8. Add butter to taste and some flour if needed to thick the sauce.
+9. Combine everything in a tortilla wrap, add some more cheese and wrap it up.
+10. Warm the wrap on a pan on medium heat or on a sandwich grill until the cheese melts.
+11. Et voilà!
+
+### Tacos with Rajas Con Crema
 
 !!! abstract inline "Rajas Con Crema ingredients"
     - 3 poblano peppers
@@ -406,84 +524,18 @@ For toppings, feel free to leave or add things as you like.
 4. Remove chicken from marinade and place on a ripping hot skillet. Cook until each side has browning and internal temperature reaches 165°F. Once fully cooked, cover with foil and set aside to rest.
 5. Slice into bite sized slices.
 
-!!! abstract inline "Garnish ingredients"
+!!! abstract "Garnish ingredients"
     - Some white onion, diced
     - Cilantro or parsley to taste
     - Feta
 
 **Taco instructions:** Assemble with tortilla, rajas con crema and some cotija or feta cheese, optionally some diced white onion.
 
-## Summer chickpea salad
-
-From Jamie Oliver's [summer chickpea salad](https://www.jamieoliver.com/recipes/vegetables/summer-chickpea-salad/).
-
-!!! abstract inline "Ingredients"
-    - 1 small red onion, peeled
-    - 1–2 fresh red chillies, deseeded
-    - 2 handfuls of ripe red or yellow tomatoes
-    - 1 lemon
-    - extra virgin olive oil
-    - sea salt and freshly ground black pepper
-    - 1 x 410g jar or tin of chickpeas, drained, or around 4 large handfuls of soaked and cooked chickpeas
-    - a handful of fresh mint, chopped
-    - a handful of fresh green or purple basil, finely ripped
-    - 100g feta cheese
-
-**Instructions:**
-
-1. Finely slice your red onion.
-2. Finely slice your chillies then roughly chop your tomatoes, mixing them in with the onion and chillies.
-3. Scrape all of this, and the juice, into a bowl and dress with the juice of half a lemon and 3 tablespoons of good extra virgin olive oil. Season to taste.
-4. Heat the chickpeas in a pan, then add 90 per cent of them to the bowl.
-5. Mush up the remaining chickpeas and add these as well – they will give a nice creamy consistency. Allow to marinate for a little while and serve at room temperature.
-6. Just as you're ready to serve, give the salad a final dress with the fresh mint and basil. Taste one last time for seasoning – you may want to add the juice from your remaining lemon half at this point.
-7. Place on a nice serving dish and crumble over the feta cheese.
-
-## Potato Dough Stuffed Patties
-
-!!! abstract inline "Ingredients"
-    - 6 large potatoes, cubed
-    - 1 onion, diced
-    - 1 garlic clove, crushed
-    - 500g ground beef
-    - 50g unsalted butter
-    - 1 egg
-    - 160g wheat flour
-    - Some cheese
-    - Oil for frying
-
-**Instructions:**
-
-1. Boil the cubed potatoes with 1 teaspoon of salt in 1L of water for 20 minutes.
-2. While the potatoes are boiling, saute the diced onion and crushed garlic in a pan. Add the ground beef, 1 teaspoon of salt, and black pepper to taste. Cook until the beef is browned.
-3. Drain the potatoes and transfer them to a bowl. Add the unsalted butter, egg, and wheat flour. Mix until well combined.
-4. Flour your working area and take a portion of the dough to form a fat pancake. Place some of the meat mixture and cheese in the center, then fold the dough over to form a flattened ball.
-5. Heat oil in a pan and fry each ball until golden brown on all sides.
-
-## Hoisin chicken lettuce cups
-
-!!! abstract inline "Ingredients"
-    - Mango puree
-    - Hoisin sauce
-    - Soy sauce
-    - 2 chicken breasts
-    - 1 romaine lettuce
-    - 1 punnet of cress
-
-1. Flatten chicken, season with olive oil, salt, pepper, and cayenne. Leave to marinate.
-2. In bowl combine mango, hoisin and just a little soy into a sauce. Ratios to taste, I prefer something like 1:2 mango:hoisin, then a dash or two of soy.
-3. Grill chicken and cut into strips.
-4. Add everything to a leaf of romaine, and be generous with the sauce (otherwise the lettuce might be a little overpowering)!
-
-**Notes:**
-
-- Alternatively, instead of putting the sauce in the cup: serve sauce in something where the cups can be dipped into!
-
-## Beef Quesadillas with Salsa
+### Beef Quesadillas with Salsa
 
 From: Gordon Ramsay's [Mexican Beef and Jalapeño Quesadillas](https://www.gordonramsayrestaurants.com/recipes/mexican-beef-and-jalapeno-quesadillas/)
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 2 tbsp olive oil, plus extra for brushing
     - 1 onion, peeled and diced
     - 2 garlic cloves, peeled and crushed
@@ -499,7 +551,7 @@ From: Gordon Ramsay's [Mexican Beef and Jalapeño Quesadillas](https://www.gordo
     - Sea salt and freshly ground black pepper
     - Sour cream, to serve
 
-!!! abstract inline "Salsa Ingredients"
+!!! abstract "Salsa Ingredients"
     - 4 tomatoes, diced
     - 1 red onion, peeled and finely diced
     - Large handful of coriander, roughly chopped
@@ -516,11 +568,11 @@ From: Gordon Ramsay's [Mexican Beef and Jalapeño Quesadillas](https://www.gordo
 7. While the quesadillas are baking, mix all salsa ingredients in a bowl and season to taste.
 8. Remove quesadillas from the oven, cut into wedges, and serve with sour cream and salsa on the side.
 
-## Japanese Chicken Curry
+### Japanese Chicken Curry
 
 From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-chicken-curry/#wprm-recipe-container-59001)
 
-!!! abstract "Ingredients"
+!!! abstract inline "Ingredients"
     - 4 large onions (1,340 g)
     - 4 carrots (380 g)
     - 6 Yukon gold potatoes (864 g)
@@ -572,7 +624,7 @@ From: JustOneCookBook's [Chicken Curry](https://www.justonecookbook.com/simple-c
 - Adjust salt to taste if using unsalted curry roux.
 - For russet potatoes, add them in the last 15–20 minutes of cooking to prevent disintegration.
 
-## Curry Doria
+### Curry Doria
 
 From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-doria-rice-gratin/#wprm-recipe-container-57804)
 
@@ -621,78 +673,71 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 - Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
 - Garnish with chopped parsley and serve immediately.
 
-## One-Pan Chicken and Shimeji Plate
+## High effort
 
-Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603418_%E3%83%81%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%86%E3%83%BC%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
+### Blue Cheese Chicken Pie
+
+!!! abstract inline "Crust Ingredients"
+    - 360g unsalted butter
+    - 650g flour
+    - 200g grated neutral young cheddar
+    - 1 tsp salt
+    - a little less than 1 cup of water
+
+**Crust Instructions:**
+
+1. Pinch the butter, flour and salt into soft but slightly crumbling mass.
+2. Add water and combine evenly. It shouldn't bee crumbling but also not too wet.
+3. Push the dough onto the sides and bottom of the baking tray.
+4. Poke some holes sparsely (about every 5cm) into the crust with a fork.
+5. Keep cold until the filling is ready.
+6. When the filling is ready, put the crust into the oven at 185°C (Tammetõru 200°C) for 10 minutes.
+
+!!! abstract inline "Filling Ingredients"
+    - 600g marinated broiler fillet
+    - 2 yellow onions
+    - 2 red paprika peppers
+    - 200-300g drained pineapple pieces
+    - 200g Royal Blue blue cheese (or other not too neutral)
+    - 400g whipping cream
+    - 2 eggs
+    - 400g grated neutral young cheddar
+
+**Filling Instructions:**
+
+1. Cut broiler fillet into small pieces and sautee until half of the moisture has evaporated.
+2. Add finely diced onions and red peppers and continue sauteeing for 5 minutes.
+3. Move everything from the pan to a big bowl and mix with diced pineapple and blue cheese.
+4. Mix whipping cream with eggs and add everything into the bowl.
+5. Once the crust has been cooked for 10 minutes, add the filling into the crust and cook for another 20 minutes or until golden brown at 185°C (Tammetõru 200°C).
+
+### Bolognese
 
 !!! abstract inline "Ingredients"
-    - 150g chicken thighs (for deep frying)
-    - 1/2 pack (75g) shimeji mushrooms (large)
-    - 1 egg
-    - 1/8 head lettuce (about 50g)
-    - 2 slices baguette (1cm thick)
-    - Your favorite dressing, as needed
-    - Grain mustard, as needed
-    - Oil
-    - Salt
-    - Coarsely ground black pepper
+    - 1 tbsp unsalted butter
+    - 50g ham
+    - 2 yellow onions
+    - 1 clove of garlic
+    - 1 carrot
+    - 100ml red wine
+    - 400g minced beef
+    - 100ml chicken stock
+    - 400g tomate paste (Pomi passata di pomodoro is best)
+    - 1 tsp oregano
+    - some nutmeg
+    - sugar
+    - spaghetti
 
 **Instructions:**
 
-1. Add 1 tsp oil to a 20cm frying pan. Place chicken skin-side down, sprinkle with 2 pinches of salt, and set over medium heat from cold.
-2. Cut off the roots of the shimeji mushrooms. Crack the egg into a small bowl.
-3. When the chicken is browned, flip it and move to the side. Add shimeji mushrooms (breaking them up) to the pan. Pour the egg into the gap, cover, and steam over low-medium heat for 2–3 minutes.
-4. Sprinkle a pinch of salt over the mushrooms and egg. Turn the mushrooms over, turn off the heat, and sprinkle black pepper over everything.
-5. Insert torn lettuce and baguette slices into the pan. Add dressing to the lettuce if desired, and grain mustard to the chicken.
+1. Melt butter on a large pan.
+2. Sautee diced ham, carrot and onions for 10 minutes.
+3. Add minced beef, crushed clove of garlic and cook for 10 minutes.
+4. Add wine, chicken stock.
+5. Steam while covered on low heat for 15 minutes.
+6. Add tomato paste and season
+7. Cover for another 20 minutes.
+8. Cook some spaghetti.
+9. Add some bolognese to spaghetti.
+10. (optional) Grate some parmesan on top.
 
-**Tips:**
-
-- Start heating the pan from cold for even cooking and to avoid rushing.
-- A 20cm frying pan is ideal for a single serving and even cooking.
-- Use a pan with a thick base and a heat-resistant glass lid for best results.
-
-## One-Pan Plate of Pork and Ginger
-
-Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/recipe/603419_%E8%B1%9A%E3%81%97%E3%82%87%E3%81%86%E3%81%8C%E7%84%BC%E3%81%8D%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.html) by Ryuta Kijima.
-
-!!! abstract inline "Ingredients"
-    - 100g pork belly (thinly sliced)
-    - 1 egg
-    - 1/4 onion (50g)
-    - 1/8 bunch mizuna (25g)
-    - 2 tsp soy sauce
-    - 1 tsp sugar
-    - 1 tsp grated ginger
-    - Mayonnaise, as needed
-    - Sesame oil
-
-**Instructions:**
-
-1. Cut the onion into 5mm wedges. Cut mizuna into 5cm lengths. Cut pork into 6–7cm pieces. Beat the egg. In a small bowl, mix soy sauce, sugar, and grated ginger.
-2. Heat 1 tsp sesame oil in a 20cm frying pan over medium heat. Add pork and cook until the color starts to change. Add onion and continue frying until softened.
-3. Add the soy sauce mixture, stir to combine, and push everything to one side of the pan.
-4. Pour the beaten egg into the empty space, stir roughly, and cook to your preferred doneness.
-5. Turn off the heat, add mizuna, and garnish with mayonnaise.
-
-**Tips:**
-
-- Stir eggs vigorously with chopsticks for fluffy scrambled eggs.
-- A 20cm frying pan with a thick base and glass lid is ideal for single servings and even cooking.
-
-## Simple Fluffy French Breakfast Omelette
-
-!!! abstract inline "Ingredients"
-    - Eggs
-    - Salt
-    - Lemon pepper
-    - Soy sauce
-    - Cheese
-
-**Instructions:**
-
-1. Beat the eggs until fully mixed.
-2. Pour them into a pan and season with salt, lemon pepper, and a splash of soy sauce.
-3. Stir continuously until the eggs begin to catch and lightly stick.
-4. Cover the pan and let the omelette sit for a moment.
-5. Add cheese, fold the omelette over itself, and cover again.
-6. Let it sit until it is still soft but no longer runny, then serve.

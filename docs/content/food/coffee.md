@@ -15,7 +15,10 @@ Special:
 - [Ristretto](https://www.facebook.com/ristrettocafemovil/) - Pache (espresso, iced, universal)
 - [Brew Brothers Specialty Coffee](https://www.instagram.com/brewbros_cafe) - Bourbon Rojo (espresso)
 - [Cafe Amaia Zagrado](https://amaiazagrado.wordpress.com/) (light columbian espresso, extremely chocolatey and fruity even in espresso form)
-- [DAK](https://www.dakcoffeeroasters.com/) Halo Berry (dark roast acidic berry splash)
+- [DAK](https://www.dakcoffeeroasters.com/) - Halo Berry (dark roast acidic berry splash)
+
+Best of the best:
+
 - [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate)
 
 Emergency:
@@ -164,8 +167,8 @@ Recipe:
 3. Tap and shake to level the grinds
 4. Tamp with a second paper filter using the plunger, remove carefully to avoid air turbulence messing up the tamped grinds and filter
 5. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
-6. Pour 150g of water, optionally using a long spoon/object to break the water's fall
-7. Let steep 60s or more (without the plunger)
+6. Pour 150g of water, optionally using a long spoon/object to soften the water's fall even further
+7. Let steep 60s or more (without the plunger to avoid early pressure)
 8. Add plunger, and do a slow plunge, around 60-120s
 
 ## Immersion technique
