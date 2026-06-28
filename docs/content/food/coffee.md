@@ -14,8 +14,9 @@ Special:
 
 - [Ristretto](https://www.facebook.com/ristrettocafemovil/) - Pache (espresso, iced, universal)
 - [Brew Brothers Specialty Coffee](https://www.instagram.com/brewbros_cafe) - Bourbon Rojo (espresso)
-- [Cafe Amaia Zagrado](https://amaiazagrado.wordpress.com/) (Light columbian espresso, extremely chocolatey and fruity)
+- [Cafe Amaia Zagrado](https://amaiazagrado.wordpress.com/) (light columbian espresso, extremely chocolatey and fruity even in espresso form)
 - [DAK](https://www.dakcoffeeroasters.com/) Halo Berry (dark roast acidic berry splash)
+- [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate)
 
 Emergency:
 
@@ -88,11 +89,36 @@ If grind was too coarse:
 
 ## Aeropress techniques
 
-18g beans results in 36-40g of coffee from an espresso machine, 65 to 70g of coffee from immersion techniques to get something "espresso-like".
+### Regular AeroPress
+
+This recipe [calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffmann-aeropress-recipe), nearing espresso grind levels and is built around the **paper filter only**. Using the regular filter holder and regular paper filter, it will underextract in the beginning like every other non-inverted AeroPress recipe.
+
+Warning when using only the metal filter: you will find it too bitter even at double coarseness of pourover (100 clicks or more with Kingrinder K6) and 95°C and might find some sour notes too, this is due to the metal filter not holding enough in when seeping and pushing.
+
+Examples with Kingrinder K6:
+
+- Father Carpenter - Kenya light roast:
+    - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
+    - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
+- Lykke - Peru Agua de Nieve light roast:
+    - with paper filter only: 34 clicks, 100°C
+
+Recipe:
+
+1. 11g coffee (ground at the finer end of medium, assuming this is light roasted coffee. The darker you go the more you may prefer to increase the dose and coarsen the grind.)
+2. Put the paper filter into the cap (or use metal *and* paper filter, both). Don't rinse or preheat the brewer (it doesn't make any difference)
+3. Put coffee into the brewer
+4. Place on scales and then add water, aiming to wet all the coffee during pouring. 200g water (100°C for light, 90-95°C medium, 85-90°C dark)
+5. (Optional) Stir if it seems clumped
+6. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
+7. Wait 2 minutes (but you may go up to 8-10 minutes)
+8. Holding the brewer and the piston, gently swirl the brewer
+9. Wait 30 seconds
+10. Press gently all the way (should take 30-60 seconds)
 
 ### Inverted AeroPress
 
-Inverted method for "espresso-like", more stronger taste. This results in a more uniform taste compared to regular AeroPress method which underextracts in the beginning.
+Inverted method for "espresso-like", more stronger taste. This also results in a more uniform taste compared to regular AeroPress method which underextracts in the beginning. 18g beans results in 36-40g of coffee from an espresso machine, 65 to 70g of coffee from immersion techniques to get something "espresso-like".
 
 **This recipe is made for dark and medium roasts**, light roast will come out sour even with more stirring and steeping time.
 
@@ -121,44 +147,26 @@ Recipe:
 9.  Press til the final end (unlike traditional AeroPress recipe)
 10. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
 
-### Regular AeroPress
+### Zuppa Lunga AeroPress
 
-This recipe [calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffmann-aeropress-recipe), nearing espresso grind levels and is built around the **paper filter only**. Using the regular filter holder and regular paper filter, it will underextract in the beginning like every other non-inverted AeroPress recipe.
+Otherwise known as SOUP (es**S**presso, **O**nly **U**n**P**ressurized, and yeah, this acronym's a bit stupid) or the "oreo method".
 
-Warning when using only the metal filter: you will find it too bitter even at double coarseness of pourover (100 clicks or more with Kingrinder K6) and 95°C and might find some sour notes too, this is due to the metal filter not holding enough in when seeping and pushing.
+This method tries to avoid any extra agitation from water pours to extract as much coffee essence/nectar without any astringency, so it works best with fruity, sweet, extra process light roasts.
 
-Examples with Kingrinder K6:
+Examples:
 
-- Father Carpenter - Kenya light roast:
-    - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
-    - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
-- Lykke - Peru Agua de Nieve light roast:
-    - with paper filter only: 34 clicks, 100°C
-
-Recipe:
-
-1. 11g coffee (ground at the finer end of medium, assuming this is light roasted coffee. The darker you go the more you may prefer to increase the dose and coarsen the grind.)
-2. Put the paper filter into the cap (or use metal *and* paper filter, both). Don't rinse or preheat the brewer (it doesn't make any difference)
-3. Put coffee into the brewer
-4. Place on scales and then add water, aiming to wet all the coffee during pouring. 200g water (100°C for light, 90-95°C medium, 85-90°C dark)
-5. (Optional) Stir if it seems clumped
-6. Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
-7. Wait 2 minutes (but you may go up to 8-10 minutes)
-8. Holding the brewer and the piston, gently swirl the brewer
-9. Wait 30 seconds
-10. Press gently all the way (should take 30-60 seconds)
-
-### Zuppa Lungo AeroPress
+- Father Carpenter - Peru honey ferment light roast: 33 clicks, 98°C (30 clicks too bitter, 40 too sour)
 
 Recipe:
 
 1. Put the paper filter into the cap, screw the cap on
 2. Drop in 15g of coffee, slightly coarser than espresso
-3. Tamp with a second paper filter using the plunger, remove carefully
-4. (Optional) Drop in metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen)
-5. Pour 150g of water
-6. Let steep 15-30sec
-7. Add plunger and start slow plunge around 60-120sec
+3. Tap and shake to level the grinds
+4. Tamp with a second paper filter using the plunger, remove carefully to avoid air turbulence messing up the tamped grinds and filter
+5. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
+6. Pour 150g of water, optionally using a long spoon/object to break the water's fall
+7. Let steep 30s or more (without the plunger)
+8. Add plunger and do a slow plunge, around 60-120sec
 
 ## Immersion technique
 
