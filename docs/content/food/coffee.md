@@ -61,6 +61,7 @@ Examples with Kingrinder K6:
 - DAK - Halo Berry dark roast, 75-80 clicks 85°C
 - Lykke - Peru Agua de Nieve light roast 65 clicks, 100-97°C
 - Father Carpenter - Peru Dry Ferment Honey light roast, 50-53 clicks 100°C
+- Father Carpenter - Peru honey ferment light roast: 53-55 clicks, 98-100°C (60 too sour)
 
 Recipe:
 
@@ -159,6 +160,7 @@ This method tries to avoid any extra agitation from water pours to extract as mu
 Examples:
 
 - Father Carpenter - Peru honey ferment light roast: 33 clicks, 98-100°C (30 clicks too bitter, 40 too sour)
+- Lykke - Peru Agua de Nieve light roast: 35 clicks, 98°C (30 too bitter)
 
 Recipe:
 
