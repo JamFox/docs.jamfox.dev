@@ -159,7 +159,7 @@ This method tries to avoid any extra agitation from water pours to extract as mu
 
 Examples:
 
-- Father Carpenter - Peru honey ferment light roast: 33 clicks, 98-100°C (30 clicks too bitter, 40 too sour)
+- Father Carpenter - Peru honey ferment light roast: 28 clicks, 98-100°C (30 too sour)
 - Lykke - Peru Agua de Nieve light roast: 35 clicks, 98°C (30 too bitter)
 
 Recipe:
@@ -170,8 +170,7 @@ Recipe:
 4. Tamp with a second paper filter using the plunger, remove carefully to avoid air turbulence messing up the tamped grinds and filter
 5. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
 6. Pour 150g of water, optionally using a long spoon/object to soften the water's fall even further
-7. Let steep 60s or more (without the plunger to avoid early pressure)
-8. Add plunger, and do a slow plunge, around 60-120s
+7. Add plunger, and do a slow plunge, around 60-120s
 
 ## Immersion technique
 
