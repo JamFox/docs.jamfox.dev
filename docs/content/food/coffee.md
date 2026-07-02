@@ -158,7 +158,9 @@ This method tries to avoid any extra agitation from water pours to extract as mu
 
 Examples:
 
-- Father Carpenter - Peru honey ferment light roast: 26-27 clicks, 98-100°C (28 too sour)
+- Father Carpenter - Peru honey ferment light roast: 
+    - without "sour pass": 28 clicks, 98-100°C (27 too bitter, 30 too sour)
+    - with "sour pass": 28 clicks, 98-100°C too bitter
 - Lykke - Peru Agua de Nieve light roast: 35 clicks, 98°C (30 too bitter)
 
 Recipe:
@@ -167,9 +169,10 @@ Recipe:
 2. Drop in 15g of coffee, slightly coarser than espresso
 3. Tap and shake to level the grinds
 4. Tamp with a second paper filter using the plunger, remove carefully to avoid air turbulence messing up the tamped grinds and filter
-5. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
-6. Pour 150g of water, optionally using a long spoon/object to soften the water's fall even further
-7. Add plunger, and do a slow plunge, around 60-120s
+5. (Optional "sour pass") Add 10-15g room temp water, push it out with plunger in at around 1-2cm, down until top filter looks dry-ish, then take plunger out again and dump the resulting sour extraction
+6. (Optional) Drop in a metal filter to avoid the second filter from floating up (higher the temp, the more likely this will happen due to more CO2 release)
+7. Pour 150g of water, optionally using a long spoon/object to soften the water's fall even further
+8. Add plunger, and do a slow plunge, around 60-120s
 
 ## Immersion technique
 
