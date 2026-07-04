@@ -131,7 +131,7 @@ Examples with Kingrinder K6:
 
 - CapriSette - Belgique "medium-light" dark roast:
     - with metal filter: 40 clicks
-    - with paper filter: 45-50 clicks
+    - with paper filter: 50 clicks
 - CapriSette - Professional "medium-dark" dark roast:
     - with metal filter: 40 clicks
 - DAK - Halo Berry dark roast:
@@ -158,9 +158,7 @@ This method tries to avoid any extra agitation from water pours to extract as mu
 
 Examples:
 
-- Father Carpenter - Peru honey ferment light roast: 
-    - without "sour pass": 28 clicks, 98-100°C (27 too bitter, 30 too sour)
-    - with "sour pass": 28-35 clicks, 100°C too bitter
+- Father Carpenter - Peru honey ferment light roast: 40-45 clicks, 100°C send it through twice or go extra slow
 - Lykke - Peru Agua de Nieve light roast: 35 clicks, 98°C (30 too bitter)
 
 Recipe:
