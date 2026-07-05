@@ -150,6 +150,19 @@ Recipe:
 9.  Press til the final end (unlike traditional AeroPress recipe)
 10. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
 
+### Coffee Compass AeroPress Method
+
+"... there's also reason to be wary of many of the more popular AeroPress recipes circulating out there. Many call for more an absurd amount of coffee, often a 10:1 ratio, or even stronger. While I'm sure that many of these recipes with the right coffee could make an interesting, even delicious cup of coffee, for people in the real world, who are using their hard-earned cash to purchase coffee, I question such an inefficient recipe. If you can make a delicious cup of coffee with 15 grams of coffee, why on earth would you waste another 5–7 grams?"
+
+1. Grind 15 grams of coffee - medium-coarse grind setting.
+2. Place paper filter, may use two
+3. Briskly add 225ml of boiling hot water.
+4. Quickly, but carefully, place plunger in the Aeropress to create a vacuum
+5. Sit for 30-60s
+6. Remove plunger and gently break the crust with a spoon, then place the plunger back in to recreate that vacuum
+7. Sit for 2-3min
+8. Push slowly and stop at hiss
+
 ### Zuppa Lunga AeroPress
 
 Otherwise known as SOUP (es**S**presso, **O**nly **U**n**P**ressurized, and yeah, this acronym's a bit stupid) or the "oreo method".
