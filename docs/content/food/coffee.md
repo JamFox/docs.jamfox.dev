@@ -172,7 +172,43 @@ Recipe:
 7. Pour 150g of water, optionally using a long spoon/object to soften the water's fall even further
 8. Add plunger, and do a slow plunge and stop when hitting "the hiss", around 60-120s
 
-## Immersion technique
+## Immersion techniques
+
+### Hoffman V60 Switch
+
+1. Add 15g coffee
+2. Rinse filter
+3. Pour 30g to 45g water, swirl
+4. Pour the remaining 250g total
+5. At 2:00 give the slurry a stir in both directions
+6. Open the switch at 2:15
+
+### V60 Switch Consistent (Coffee Chronicler)
+
+20g, 320ml or 15g / 240ml, medium-fine grind
+
+Pouring structure: 
+1. Open switch and pour 50% total water volume
+2. Let drain and then close the switch
+3. Pour rest of the water
+4. Steep 2min
+5. Open Switch and enjoy
+
+### Lance Hedrick V60 Switch Samo Bloom
+
+Colder temp bloom allegedly leads to more preserved volatiles, volatile aeromatics that would otherwise evaporate. Might help if using lighter honey/natural beans.
+
+15g medium-coarse coffee, 250g Water
+
+1. Close switch, pour 50g water @ 75°C
+2. Add coffee, tare scale
+3. Stir gently and then let sit for 1:30
+4. Pour 100g water @ 90-95°C over spoon on bed
+5. Gently excavate bed
+6. Open switch, let drain fully
+7. Close switch, pour to 200g @ 90-95°C over spoon on bed
+8. Gently excavate bed
+9. Gentle swirl open switch to drain fully
 
 ### French press
 
