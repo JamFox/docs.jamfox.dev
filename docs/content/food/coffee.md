@@ -46,6 +46,16 @@ General notes applicable to all techniques:
 - Pouring kettle can help for a sharper and more consisten stream but should not be needed
 - The slower the paper the fuller the extraction, with modern filters rinsing is not required
 
+Salami shot of pours:
+
+1. Bloom, first "activation", more sour, main tastes
+2. Main tastes
+3. More bitter notes
+4. "Tea" and warm water
+5. Warm water, dilution
+
+![Salami shot graph](attachments/Lance_Hedrick_Salami_9m07s.png)
+
 ### Hoffman 1 Cup V60 Method
 
 From: [A Better 1 Cup V60 Technique](https://youtu.be/1oB1oDrDkHM) - James Hoffmann
