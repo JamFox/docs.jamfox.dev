@@ -71,6 +71,7 @@ Examples with Kingrinder K6:
 - DAK - Halo Berry dark roast, 75-80 clicks 85°C
 - Lykke - Peru Agua de Nieve light roast 65 clicks, 100-97°C
 - Father Carpenter - Peru honey ferment light roast: 53-55 clicks, 98-100°C (60 too sour)
+- Father Carpenter - Kenya light roast: 45 clicks 100°C (50 too sour)
 
 Recipe:
 
@@ -85,7 +86,7 @@ Recipe:
 9. **1m40s - 1m50s**: Pause
 10. **1m50s - 2m00s**: Pour to 250g total (100%)
 11. **2m00s - 2m05s**: Gently swirl
-12. Drawdown should finish around 3:00~
+12. Drawdown should finish around 3m or more depending on the bean
 
 Stronger variant (by grinding "too fine"):
 
