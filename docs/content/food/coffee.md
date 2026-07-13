@@ -107,6 +107,8 @@ Examples with Kingrinder K6:
 
 - Father Carpenter - Kenya light roast: 
     - using V60 Neo, 45 clicks 100°C (slightly too sour)
+- Kalve - Peru Huabal:
+    - using V60 Neo, 55 clicks 99-98°C (slightly too bitter and clogged)
 
 Recipe:
 
@@ -275,6 +277,16 @@ Troubleshooting, if the sputtering phase starts before you think it's time (not 
 
 1. Too fine of a grind 
 2. Too much heat
+
+## Cupping technique
+
+The oldschool way
+
+1. 10g of coffee
+2. Ground medium
+3. 180g water straight off the boil
+4. Crack at 4:00, and clean the top
+5. Taste from 15:00 until 45:00
 
 ## Milk techniques
 
