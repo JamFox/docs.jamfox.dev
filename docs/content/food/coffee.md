@@ -75,17 +75,17 @@ Examples with Kingrinder K6:
 
 Recipe:
 
-1. **0m00s**: Pour 50g of water to bloom
-2. **0m10s - 0m15s**: Gently Swirl
-3. **0m15s - 0m45s**: Bloom
-4. **0m45s - 1m00s**: Pour to 100g total (40%)
-5. **1m00s - 1m10s**: Pause
-6. **1m10s - 1m20s**: Pour to 150g total (60%)
-7. **1m20s - 1m30s**: Pause
-8. **1m30s - 1m40s**: Pour to 200g total (80%)
-9. **1m40s - 1m50s**: Pause
-10. **1m50s - 2m00s**: Pour to 250g total (100%)
-11. **2m00s - 2m05s**: Gently swirl
+1. Pour 50g of water to bloom
+2. Gently Swirl
+3. Bloom 30 sec
+4. Pour to 100g total (40%)
+5. Pause 10 sec
+6. Pour to 150g total (60%)
+7. Pause 10 sec
+8. Pour to 200g total (80%)
+9. Pause 10 sec
+10. Pour to 250g total (100%)
+11. Gently swirl
 12. Drawdown should finish around 3m or more depending on the bean
 
 Stronger variant (by grinding "too fine"):
@@ -107,6 +107,8 @@ Examples with Kingrinder K6:
 
 - Father Carpenter - Kenya light roast: 
     - using V60 Neo, 45 clicks 100°C (slightly too sour)
+
+Recipe:
 
 1. Rinse filter
 2. Add 15g coffee
@@ -205,7 +207,7 @@ Recipe:
 
 ### Coffee Compass AeroPress Method
 
-"... there's also reason to be wary of many of the more popular AeroPress recipes circulating out there. Many call for more an absurd amount of coffee, often a 10:1 ratio, or even stronger. While I'm sure that many of these recipes with the right coffee could make an interesting, even delicious cup of coffee, for people in the real world, who are using their hard-earned cash to purchase coffee, I question such an inefficient recipe. If you can make a delicious cup of coffee with 15 grams of coffee, why on earth would you waste another 5–7 grams?"
+"...there's also reason to be wary of many of the more popular AeroPress recipes circulating out there. Many call for more an absurd amount of coffee, often a 10:1 ratio, or even stronger. While I'm sure that many of these recipes with the right coffee could make an interesting, even delicious cup of coffee, for people in the real world, who are using their hard-earned cash to purchase coffee, I question such an inefficient recipe. If you can make a delicious cup of coffee with 15 grams of coffee, why on earth would you waste another 5-7 grams?"
 
 1. Grind 15 grams of coffee - medium-coarse grind setting.
 2. Place paper filter, may use two
