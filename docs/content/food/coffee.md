@@ -6,11 +6,7 @@ Notes on coffee ☕
 
 ## Favorite Beans
 
-Everyday:
-
-- [OA No1](https://oa-coffee.com/product/heakohv/oa-no1/)
-
-Special:
+Specialty:
 
 - [Ristretto](https://www.facebook.com/ristrettocafemovil/) - Pache (espresso, iced, universal)
 - [Brew Brothers Specialty Coffee](https://www.instagram.com/brewbros_cafe) - Bourbon Rojo (espresso)
@@ -24,6 +20,7 @@ Best of the best:
 Emergency:
 
 - [Lavazza Crema E Aroma](https://www.lavazza.com/en/coffee-beans/crema-aroma)
+- [OA No1](https://oa-coffee.com/product/heakohv/oa-no1/)
 
 ## Roast guide
 
