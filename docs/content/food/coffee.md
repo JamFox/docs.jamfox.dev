@@ -40,7 +40,7 @@ General notes applicable to all techniques:
 - 2:30 is usually too fast, try to hit a soft target around 3-3:30 for draw down time. Finer if faster, coarser for too slow.
 - The closer you pour the deeper the stream penetrates the coffee, the closer the pour the more consistent the extraction
 - 5g/s is a nice sweet spot for pouring speed
-- Pouring kettle can help for a sharper and more consisten stream but should not be needed
+- Pouring kettle can help for a sharper and more consisten stream but should not be needed if pouring close to the vessel
 - The slower the paper the fuller the extraction, with modern filters rinsing is not required
 
 Salami shot of pours:
@@ -120,10 +120,12 @@ Recipe:
 
 20g, 320ml or 15g / 240ml, medium-fine grind
 
+The bigger the dose, the longer the timings should be, add 30s to each stage per 10-15g.
+
 Pouring structure:
 
 1. Open switch and pour 50% total water volume (pouring 30-40% here can work very well too)
-2. Let drain and then close the switch
+2. Let drain and then close the switch at 45s-ish (close faster, around 25s, for more sweetness, less acidic)
 3. Pour rest of the water
 4. Steep 2min
 5. Open Switch and enjoy
@@ -145,6 +147,15 @@ Colder temp bloom allegedly leads to more preserved volatiles, volatile aeromati
 9. Gentle swirl open switch to drain fully
 
 ## Aeropress techniques
+
+General tips:
+
+- Metal filter will let through too many fines, paper is preferrable for more consistent and balanced result.
+- Stirring front to back is better than swirling in circular motions, former leads to a flatter bed, latter creates a mound.
+- Plunger can create a vacuum when pressed in and pulled outwards slightly, this can mitigate inconsistent taste where first end is underextracted compared to the rest of the shot.
+- Inverted methods require caution, all the trapped CO2 will contribute to pushing the plunger out when turning the AeroPress around.
+- Many recipes call for very low temperatures, but be wary as these usually fall in to two very different categories: variations on the original recipe which try to make things consistent but "plain"; and competition recipes which aim for weird unextracted tastes to pull out unexplored taste profiles for judges who have been tasting coffee for their entire lifetimes. For the average person the first category can work, but will leave a lot of tastes unextracted; the second can be very hard to dial in and understand.
+- If all shots seem to turn out sour, you can explore discarding the first 20g of the shot away with lower temperature.
 
 ### Regular AeroPress
 
