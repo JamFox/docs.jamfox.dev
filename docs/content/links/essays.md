@@ -41,6 +41,7 @@ title: "Essays & Articles"
 - [Text is All You Need](https://studio.ribbonfarm.com/p/text-is-all-you-need) - Venkatesh Rao
 - [THE POWER OF NOW - Eckhart Tolle](https://www.youtube.com/watch?v=0ILHWvSZV4E) - Sisyphus 55
 - [I Tried to Become More Awake in 7 Days... Heraclitus Was Right](https://www.youtube.com/watch?v=sFuf1X26268) - alfsvoid: being more present/awake, disposition of self and alignment, thinking about thinking and more.
+- [A Philosopher’s One-Word Theory to Explain Why the World Feels So Weird](https://www.derekthompson.org/p/a-philosophers-one-word-theory-to) - Derek Thompson: How it came to be that we seem to have an implicit theory of attention that treats it as a resource to manage top-down, and how that has led as away from our local context(s).
 
 ### Psychology
 
