@@ -105,7 +105,7 @@ Examples with Kingrinder K6:
 - Father Carpenter - Kenya light roast: 
     - using V60 Neo, 45 clicks 100°C (slightly too sour)
 - Kalve - Peru Huabal:
-    - using V60 Neo, 55 clicks 99-98°C (slightly too bitter and clogged)
+    - using V60 Neo, 60 clicks 96°C (slightly too bitter)
 
 Recipe:
 
@@ -122,7 +122,7 @@ Recipe:
 
 Pouring structure:
 
-1. Open switch and pour 50% total water volume
+1. Open switch and pour 50% total water volume (pouring 30-40% here can work very well too)
 2. Let drain and then close the switch
 3. Pour rest of the water
 4. Steep 2min
