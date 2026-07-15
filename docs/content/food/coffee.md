@@ -163,13 +163,13 @@ This recipe [calls for a fine grind](https://aeroprecipe.com/recipes/james-hoffm
 
 Warning when using only the metal filter: you will find it too bitter even at double coarseness of pourover (100 clicks or more with Kingrinder K6) and 95°C and might find some sour notes too, this is due to the metal filter not holding enough in when seeping and pushing.
 
-Examples with Kingrinder K6:
+Examples with Kingrinder K6 (estimated click size should be 55 clicks):
 
 - Father Carpenter - Kenya light roast:
-    - with metal and paper filter: 35-25 clicks, 97-100°C still too sour
-    - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) 
+    - with metal and paper filter: 35-25 clicks, 97-100°C still too sour (maybe confusing sour with bitter here)
+    - with paper filter only: 38 clicks, 97-100°C (35 clicks too bitter, 45 too sour) (maybe confusing sour with bitter here)
 - Lykke - Peru Agua de Nieve light roast:
-    - with paper filter only: 34 clicks, 100°C
+    - with paper filter only: 34 clicks, 100°C (maybe confusing sour with bitter here)
 
 Recipe:
 
@@ -192,7 +192,7 @@ Inverted method for "espresso-like", more stronger taste. This also results in a
 
 Paper filter preferred, but metal or both together also work.
 
-Examples with Kingrinder K6:
+Examples with Kingrinder K6 (estimated click size should be 50 clicks):
 
 - CapriSette - Belgique "medium-light" dark roast:
     - with metal filter: 40 clicks
@@ -216,6 +216,10 @@ Recipe:
 10. (Optional) Add 100ml of prepared milk OR 100-160ml of 80°C water to get it closer to a pourover
 
 ### Coffee Compass AeroPress Method
+
+Examples with Kingrinder K6 (estimated click size should be 85 clicks):
+
+- Kalve - Brazil Bugundes Community light roast: 80 clicks, 96°C
 
 "...there's also reason to be wary of many of the more popular AeroPress recipes circulating out there. Many call for more an absurd amount of coffee, often a 10:1 ratio, or even stronger. While I'm sure that many of these recipes with the right coffee could make an interesting, even delicious cup of coffee, for people in the real world, who are using their hard-earned cash to purchase coffee, I question such an inefficient recipe. If you can make a delicious cup of coffee with 15 grams of coffee, why on earth would you waste another 5-7 grams?"
 
