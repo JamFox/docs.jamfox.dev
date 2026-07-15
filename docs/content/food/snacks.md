@@ -180,3 +180,40 @@ Best when sick :P
 2. Microwave for 30 seconds. You can blanche instead, but that is harder to get right.
 3. Air fry for 18 minutes at 205°C.
 4. Dress with oil or fat, and salt, then let cool for 3 minutes.
+
+## Summer burrata bread snacks
+
+!!! abstract "Burrata Spread Ingredients"
+    - 450 g burrata cheese, drained
+    - 1.5 g salt (or to taste)
+    - 30 ml milk
+    - 60 ml olive oil
+
+**Burrata spread instructions:**
+
+1. For whipped burrata, add burrata, salt, milk, and olive oil to a blender or blender cup
+2. Blend on High until light and fluffy.
+3. Cover and leave in the fridge until needed.
+
+!!! abstract "Peach & Basil Ingredients"
+    - 2 ripe peaches, cut into 6 mm thick slices (or more as needed)
+    - 12 basil leaves, cut into chiffonade (thin ribbons)
+    - Flaky sea salt, to taste
+
+!!! abstract "Tomato, Basil & Aged Balsamic Ingredients"
+    - 120 ml aged balsamic vinegar
+    - 24 cherry tomatoes, sliced
+    - 12 basil leaves, cut into chiffonade (thin ribbons)
+    - Flaky sea salt, to taste
+
+!!! abstract "Prosciutto & Fig Ingredients"
+    - 85 g thinly sliced prosciutto
+    - 80 g fig jam
+    - Freshly ground black pepper, to taste
+
+**Sandwich instructions:**
+
+1. Toast bread in a pan with olive oil
+2. Add burrata spread
+3. Add ingredients from any of the three variations
+4. Et voila!
