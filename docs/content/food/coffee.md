@@ -134,6 +134,10 @@ Pouring structure:
 
 Colder temp bloom allegedly leads to more preserved volatiles, volatile aeromatics that would otherwise evaporate. Might help if using lighter honey/natural beans.
 
+Examples with Kingrinder K6:
+
+- Father Carpenter - Peru honey ferment light roast: 70 clicks, 94°C (good but lacking stronger body)
+
 15g medium-coarse coffee, 250g Water
 
 1. Close switch, pour 50g water @ 75°C
