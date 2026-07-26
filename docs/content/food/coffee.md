@@ -12,10 +12,14 @@ Specialty:
 - [Brew Brothers Specialty Coffee](https://www.instagram.com/brewbros_cafe) - Bourbon Rojo (espresso)
 - [Cafe Amaia Zagrado](https://amaiazagrado.wordpress.com/) (light columbian espresso, extremely chocolatey and fruity even in espresso form)
 - [DAK](https://www.dakcoffeeroasters.com/) - Halo Berry (dark roast acidic berry splash)
+- [Renegade Beans](https://www.renegadebeans.com/) - DAGA
+- [the brick](https://www.thebrickcoffee.ee/)
+- [Paper Mill](https://papermill.coffee/)
+- [Shokunin](https://shokunin.coffee/)
 
 Best of the best:
 
-- [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate)
+- [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate, tea-like)
 
 Emergency:
 
