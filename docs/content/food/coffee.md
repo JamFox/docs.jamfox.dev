@@ -14,12 +14,14 @@ Specialty:
 - [DAK](https://www.dakcoffeeroasters.com/) - Halo Berry (dark roast acidic berry splash)
 - [Renegade Beans](https://www.renegadebeans.com/) - DAGA
 - [the brick](https://www.thebrickcoffee.ee/)
-- [Paper Mill](https://papermill.coffee/)
 - [Shokunin](https://shokunin.coffee/)
+- [Paper Mill](https://papermill.coffee/) - Migoti Hill Burundi
+- [Rocket Bean](https://rocketbean.com/)
 
 Best of the best:
 
 - [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate, tea-like)
+- [Paper Mill](https://papermill.coffee/) - Etago Kenya (funky, nuanced, black tea background + a dance of fruity flavors in front, very specific)
 
 Emergency:
 
