@@ -37,8 +37,14 @@ Collection of my favorite drinks.
 - Vigneti Massa 'Montecitorio Derthona' Piedmonte, Italy 2022 (w/ red meat)
 - Vézelay Cuvée Galerne, La Soeur Cadette, Bourgogne, France 2023 (w/ lighter foods)
 - [Ulge Talu](https://ulgetalu.ee/) - Diiva rhubarb wine 2026 (w/ pepper heavy foods, ie cacio e pepe)
+- [Villa Huesgen - By the Glass](https://www.vivino.com/en/huesgen-by-the-glass-riesling/w/1170356) - Riesling (sharp cutting pleasant acidity, w/ olives/artichokes etc)
+- [Nau Mai](https://www.vivino.com/en/nau-mai-sauvignon-blanc/w/5972113) - Sauvignon Blanc (tad too much sweetness turns into a balanced dance with acidity when eaten with pizza)
 
-### Yellow wine
+### Rose
+
+- [Biserno](https://www.vivino.com/en/biserno-rissoa/w/12446969) - Rissoa (5-6°C on a hot day w/ nothing else)
+
+### Yellow/Orange wine
 
 - Vin Jaune Arbois - Chateau Bethanie (w/ fondue etc)
 - La Source, Racines Rebelles, Moselle, Luxembourg 2022 (w/ fat heavy)
@@ -64,6 +70,11 @@ Collection of my favorite drinks.
 - Orion Shokunin Southern Wheat
 - Sierra Andina Mama Killa
 - Puhaste Confusion Matrix (w/ tacos, other mexican food)
+- Pohjala Golden Plum Gose (w/ balanced "umami-ful" food)
+
+## Dessert Beer
+
+- Mezpils Coffee Stout
 
 ## Whisky
 
@@ -226,3 +237,11 @@ Dutch whisky:
 - .75oz (22.5ml) Ginger Syrup
 - .5oz (15ml) Lime Juice
 - Top Soda Water or Ginger Beer
+
+### Pourover Spritz
+
+- 90ml club soda
+- 60ml pourover (w/ 1:15 ratio)
+- 20ml Campari
+
+Note: balance club soda and pourover according to coffee tasting notes and coffee/water ratio
