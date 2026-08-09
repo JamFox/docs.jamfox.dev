@@ -71,17 +71,19 @@ Collection of my favorite drinks.
 - Sierra Andina Mama Killa
 - Puhaste Confusion Matrix (w/ tacos, other mexican food)
 - Pohjala Golden Plum Gose (w/ balanced "umami-ful" food)
+- Birra Moretti (also it's 0% counterpart)
 
 ## Dessert Beer
 
-- Mezpils Coffee Stout
+- Mezpils Coffee Stout (feat. Rocket Bean)
 
 ## Whisky
 
 Iirish whisky:
 
 - Red Breast - Single Pot Still 12 year (smooth, complex)
-- Two Stacks - Single Pot Still Triple Barrel (smooth)
+- Two Stacks - Single Pot Still Triple Barrel (smooth and simple)
+- Two Stacks - The First Cut (sweet to complexity, approachable)
 - Teeling - Wonders of Wood (above average non-offensive)
 
 Scotch whisky:
