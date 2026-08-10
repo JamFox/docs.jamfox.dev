@@ -15,13 +15,14 @@ Specialty:
 - [Renegade Beans](https://www.renegadebeans.com/) - DAGA
 - [the brick](https://www.thebrickcoffee.ee/)
 - [Shokunin](https://shokunin.coffee/)
-- [Paper Mill](https://papermill.coffee/) - Migoti Hill Burundi
+- [Paper Mill](https://papermill.coffee/)
 - [Rocket Bean](https://rocketbean.com/)
 
 Best of the best:
 
 - [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate, tea-like)
 - [Paper Mill](https://papermill.coffee/) - Etago Kenya (funky, nuanced, black tea background + a dance of fruity flavors in front, very specific)
+- [Paper Mill](https://papermill.coffee/) - Migoti Hill Burundi (superbly balanced with a very defined pleasant green apple acidity, crowdpleaser)
 
 Emergency:
 
