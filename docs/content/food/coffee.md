@@ -17,12 +17,17 @@ Specialty:
 - [Shokunin](https://shokunin.coffee/)
 - [Paper Mill](https://papermill.coffee/)
 - [Rocket Bean](https://rocketbean.com/)
+- [Santa](https://santacoffee.es/en/)
+- [Next Level](https://nextlevelspecialtycoffee.com/en)
 
 Best of the best:
 
 - [Father Carpenter](https://fathercarpenter.com/) - Peru honey ferment light roast (velvety and delicate, tea-like)
 - [Paper Mill](https://papermill.coffee/) - Etago Kenya (funky, nuanced, black tea background + a dance of fruity flavors in front, very specific)
 - [Paper Mill](https://papermill.coffee/) - Migoti Hill Burundi (superbly balanced with a very defined pleasant green apple acidity, crowdpleaser)
+- Next Level - Panama Lamastus natural: layered fruits, cooling ball probably helped a lot with preserving the layers, bias towards pleasant acidity due to Spain water but extremely balanced overall
+- Next Level - Chiri Chill washed: lightest tasting espresso ever, surprisingly just as pleasant as its acidic strength
+- Santa - Mexico Ameca washed: middle taste pleasantly bitter bias, turns smoothly over to fruity acidity, stronger but creamy body
 
 Emergency:
 

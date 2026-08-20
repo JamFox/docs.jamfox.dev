@@ -39,6 +39,8 @@ Collection of my favorite drinks.
 - [Ulge Talu](https://ulgetalu.ee/) - Diiva rhubarb wine 2026 (w/ pepper heavy foods, ie cacio e pepe)
 - [Villa Huesgen - By the Glass](https://www.vivino.com/en/huesgen-by-the-glass-riesling/w/1170356) - Riesling (sharp cutting pleasant acidity, w/ olives/artichokes etc)
 - [Nau Mai](https://www.vivino.com/en/nau-mai-sauvignon-blanc/w/5972113) - Sauvignon Blanc (tad too much sweetness turns into a balanced dance with acidity when eaten with pizza)
+- José Pariente - Verdejo 2025/2024: fresh, refreshing, fruity, citrus. With 1 year rest, peaks and valleys are smoothed out, more nuanced and delicate. Fresh more for hot weather outdoors, rested more for pairings and colder temps too. 
+- José Pariente - Sauvignon 2025: tropical and refreshing type, more than perfect with salty chorizo
 
 ### Rose
 
@@ -48,6 +50,7 @@ Collection of my favorite drinks.
 
 - Vin Jaune Arbois - Chateau Bethanie (w/ fondue etc)
 - La Source, Racines Rebelles, Moselle, Luxembourg 2022 (w/ fat heavy)
+- Vinos Bio Pedro Olivares - 2 Arcal: weird yellow/orange (even though it's categorized under white), pairs well with salty foods/avocado
 
 ### Dessert wine
 
@@ -72,6 +75,9 @@ Collection of my favorite drinks.
 - Puhaste Confusion Matrix (w/ tacos, other mexican food)
 - Pohjala Golden Plum Gose (w/ balanced "umami-ful" food)
 - Birra Moretti (also it's 0% counterpart)
+- Victoria Malaga - simple good pilsen
+- Victoria Malacati - Malaga-like, but more nuance and body, fruity, simple wheat beer
+- Alhambra Reserva 1925 - best pilsen?
 
 ## Dessert Beer
 
