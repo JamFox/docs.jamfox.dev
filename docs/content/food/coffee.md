@@ -318,6 +318,13 @@ The oldschool way
 4. Crack at 4:00, and clean the top
 5. Taste from 15:00 until 45:00
 
+Hoffman way
+
+1. 6g ground coffee to 100ml
+2. 100°C water
+3. At 4min, break crust and scrape remains
+4. Wait 10min to cool
+
 ## Milk techniques
 
 Overall milk at 55-65°C, 55°C usually more sweeter. Milk breaks at about 70°C, definitely avoid that.
