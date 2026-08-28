@@ -75,9 +75,10 @@ Collection of my favorite drinks.
 - Puhaste Confusion Matrix (w/ tacos, other mexican food)
 - Pohjala Golden Plum Gose (w/ balanced "umami-ful" food)
 - Birra Moretti (also it's 0% counterpart)
-- Victoria Malaga - simple good pilsen
+- Victoria Malaga - simple good pilsen (also it's 0% counterpart)
 - Victoria Malacati - Malaga-like, but more nuance and body, fruity, simple wheat beer
 - Alhambra Reserva 1925 - best pilsen?
+- Biere Pacifique - balanced light blend
 
 ## Dessert Beer
 
