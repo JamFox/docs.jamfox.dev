@@ -120,6 +120,7 @@ I am not super committed to always keeping it up to date, so as new updates add 
 
 | Class   | Car                          | Fun |
 |---------|------------------------------|-----|
+| S1, S2, X | Nissan R32 - Riderz Edition | Drift car on blue setup, actually competitive for hotlapping while drifiting too. |
 | A, S1     | Ford Mustang RTR-X           | Gains grip as fast as it loses it, flips often. Very fun with full HRZ or blue setups. |
 | A, S1, S2 | BMW M1 Procar (1979)         | Very good handling paired with slight oversteery madness on full blue setup. |
 | A, S1, S2 | Ariel Atom 500 V8              | Lightest car in the game so full red setup is infinite grip. |
@@ -197,6 +198,12 @@ I am not super committed to always keeping it up to date, so as new updates add 
 | S2      | Audi R8 V10                  |              |                        |                    |                                                                                           |  
 | S2      | Lancia LC2                   | Tech         | Blue/HRZ               | Medium-hard        | Grip god, but has exponential turning / input delay.                                      |  
 | S2      | McLaren F1                   |              |                        |                    |                                                                                           |  
+| S1, S2, X | Dodge Challenger Hellcat - Riderz | Speed/Drag | Red/Green         | Medium             |                                                                                           |
+| S1, S2, X | Nissan R32 - Riderz        | Mixed        | Red/Blue               | Medium/Very Hard   | Drift car on blue, balanced on red                                                        |
+| S1, S2, X | Lamborghini Murcielago - Riderz | Speed/Mixed | Blue/Red           | Medium             |                                                                                           |
+| S1, S2, X | Ford GT - Riderz           | Mixed/Tech   | Red                    | Medium             |                                                                                           |
+| S1, S2, X | Mclaren 720S - Riderz      | -            | -                      | -                  |                                                                                           |
+| S1, S2, X | Nissan R34 - Riderz        | -            | -                      | -                  |                                                                                           |
 | X       | Koenigsegg One:1             | Speed        | Red                    | Easy speed/Medium other | Best for ez City Perimeter                                                           |  
 | X       | Ferrari FXX-K                | Mixed        | Blue/Red/HRZ           | Easy               | The jack-of-all-trades - good at everything, master of none.                              |  
 | X       | Hennessey F5                 | Mixed        | Stock only             | Hard               | A wild slidy ride - speed management is everything. Best with a controller.               |  

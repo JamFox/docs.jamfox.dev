@@ -28,6 +28,7 @@ Best of the best:
 - Next Level - Panama Lamastus natural: layered fruits, cooling ball probably helped a lot with preserving the layers, bias towards pleasant acidity due to Spain water but extremely balanced overall
 - Next Level - Chiri Chill washed: lightest tasting espresso ever, surprisingly just as pleasant as its acidic strength
 - Santa - Mexico Ameca washed: middle taste pleasantly bitter bias, turns smoothly over to fruity acidity, stronger but creamy body
+- Paper Mill - Lot 20 Orange Kenya koji orange co-ferment: amazing marriage of typical koji taste profile with added orange nuance
 
 Emergency:
 

@@ -79,6 +79,8 @@ Collection of my favorite drinks.
 - Victoria Malacati - Malaga-like, but more nuance and body, fruity, simple wheat beer
 - Alhambra Reserva 1925 - best pilsen?
 - Biere Pacifique - balanced light blend
+- Põhjala Taevas - bright and gentle wheat beer
+- Anderson's Catch Up! Chili gose - chilli gose, perfect with mexican food
 
 ## Dessert Beer
 
@@ -137,6 +139,7 @@ Dutch whisky:
 - [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano (summer, with ice, water or tonic)
 - Von Berg [Distilled Gin](https://vonbergspirits.com/product/von-berg-distilled-gin/) (summer, with ice, water or tonic)
 - Juniperium Sloe Gin 
+- Peninuki Raspberry Gin: raspberry notes taken to campari/whisky style bitterness
 
 ## Sodas
 
