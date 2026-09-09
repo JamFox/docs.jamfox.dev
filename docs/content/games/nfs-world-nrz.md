@@ -201,7 +201,7 @@ I am not super committed to always keeping it up to date, so as new updates add 
 | S1, S2, X | Dodge Challenger Hellcat - Riderz | Speed/Drag | Red/Green         | Medium             |                                                                                           |
 | S1, S2, X | Nissan R32 - Riderz        | Mixed        | Red/Blue               | Medium/Very Hard   | Drift car on blue, balanced on red                                                        |
 | S1, S2, X | Lamborghini Murcielago - Riderz | Speed/Mixed | Blue/Red           | Medium             |                                                                                           |
-| S1, S2, X | Ford GT - Riderz           | Mixed/Tech   | Red                    | Medium             |                                                                                           |
+| S1, S2, X | Ford GT - Riderz           | Mixed/Tech   | Blue                   | Medium             |                                                                                           |
 | S1, S2, X | Mclaren 720S - Riderz      | -            | -                      | -                  |                                                                                           |
 | S1, S2, X | Nissan R34 - Riderz        | -            | -                      | -                  |                                                                                           |
 | X       | Koenigsegg One:1             | Speed        | Red                    | Easy speed/Medium other | Best for ez City Perimeter                                                           |  
