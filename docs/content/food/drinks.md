@@ -79,6 +79,7 @@ Collection of my favorite drinks.
 - Victoria Malacati - Malaga-like, but more nuance and body, fruity, simple wheat beer
 - Alhambra Reserva 1925 - best pilsen?
 - Biere Pacifique - balanced light blend
+- Käbliku Absurd - india pale ale with strong body, balanced but veering towards acidic side
 - Põhjala Taevas - bright and gentle wheat beer
 - Anderson's Catch Up! Chili gose - chilli gose, perfect with mexican food
 
