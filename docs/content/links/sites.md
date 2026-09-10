@@ -19,6 +19,7 @@ Discover new sites:
 
 ## Favorite web designs
 
+- [gwern.net](https://gwern.net/) - literally the best design ever
 - [acko.net](https://acko.net/)
 - [bikobatanari.art](https://www.bikobatanari.art/)
 - [charm.sh](https://charm.sh/)
