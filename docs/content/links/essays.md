@@ -24,6 +24,7 @@ title: "Essays & Articles"
 - [The Philosophy of Uncle Iroh: What does it mean to be a man?](https://www.youtube.com/watch?v=SezGJNNZmtI) - Hello Future Me
 - [The Unparalleled Brilliance of Pathologic 2's Mythology](https://www.youtube.com/watch?v=Uk3Dm3OTNY4) - Max Derrat
 - [Who’s Afraid of Modern Art: Vandalism, Video Games, and Fascism](https://youtu.be/v5DqmTtCPiQ) - Jacob Geller
+- [Gaming's Infectious Era](https://www.youtube.com/watch?v=LWz7u1sf67U) - Jacob Geller
 
 ### Philosophy
 
