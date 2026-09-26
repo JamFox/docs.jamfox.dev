@@ -41,6 +41,11 @@ Collection of my favorite drinks.
 - [Nau Mai](https://www.vivino.com/en/nau-mai-sauvignon-blanc/w/5972113) - Sauvignon Blanc (tad too much sweetness turns into a balanced dance with acidity when eaten with pizza)
 - José Pariente - Verdejo 2025/2024: fresh, refreshing, fruity, citrus. With 1 year rest, peaks and valleys are smoothed out, more nuanced and delicate. Fresh more for hot weather outdoors, rested more for pairings and colder temps too. 
 - José Pariente - Sauvignon 2025: tropical and refreshing type, more than perfect with salty chorizo
+- Madonnabruna - Rivafiorita Passerina: balanced dry, great on it's own
+- Madonnabruna - 2022 Pecorino DOC "Spera di Luce": amazing with pizza
+- Lamblin & Fils - Bourgogne Aligoté: strong acidity, feel very 'full', great with cheese
+- Marqués de Reinosa - Tempranillo Blanco: white wine from red grape, amazingly balanced in sweetness, acidity and body
+- Azienda Agricola Nicola di Sipio - Pecorino: amazing with fatty/cheesy food and amazing on it's own, lot's of taste 'waves'
 
 ### Rose
 
@@ -55,6 +60,10 @@ Collection of my favorite drinks.
 ### Dessert wine
 
 - Muri - Koji Rice Series 1 (non-alcoholic, w/ dessert)
+
+### Sparkling wine
+
+- Cantina Sociale Trento - Santacolomba Brut Nature: with fondue, leaves incredible aftertastes
 
 ### Champagne
 
@@ -123,6 +132,10 @@ Dutch whisky:
 
 - Millstone American Oak (smoky yet without the hard bite, perfect beginner)
 
+## Schnapps
+
+- Põhjala - Beer Schnapps: surprisingly light and balanced for something so strong, weirdly approaches 100% agave tequilas with it's profile
+
 ## Liquer
 
 - Jack Daniel's Tennessee Honey
@@ -152,6 +165,7 @@ Dutch whisky:
 ## Energy Drinks
 
 - Monster White
+- Monster Keen Peach
 - Boss Rainbow Mountain Blend
 
 ## Cocktails
