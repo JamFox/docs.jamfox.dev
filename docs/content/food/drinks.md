@@ -46,6 +46,7 @@ Collection of my favorite drinks.
 - Lamblin & Fils - Bourgogne Aligoté: strong acidity, feel very 'full', great with cheese
 - Marqués de Reinosa - Tempranillo Blanco: white wine from red grape, amazingly balanced in sweetness, acidity and body
 - Azienda Agricola Nicola di Sipio - Pecorino: amazing with fatty/cheesy food and amazing on it's own, lot's of taste 'waves'
+- Arensbak - Blanc (proxy wine, non-alcoholic): great with olives and spicy cured meats, not good on it's own
 
 ### Rose
 
