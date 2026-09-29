@@ -9,6 +9,8 @@ title: Homepage
 
 Where I gather bits and pieces I find valuable for myself and potentially for you!
 
+~Created~ ~with~ ~[Zensical](https://zensical.org/)!~
+
 *[you]: You are awesome!
 
 ---

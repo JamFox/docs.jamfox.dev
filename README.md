@@ -9,8 +9,4 @@ JamFox's Documentation Site
 
 A place to gather notes and documentation. Deployed by GitHub Actions.
 
-Created with [Mkdocs](https://www.mkdocs.org/) and beautified with [Material](https://squidfunk.github.io/mkdocs-material/).
-
-## Usage
-
-Check and use the Makefile for all the available commands.
+Created with [Zensical](https://zensical.org/).
