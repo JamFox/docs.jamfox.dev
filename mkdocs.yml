@@ -120,21 +120,16 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-    - header.autohide
-    #- navigation.expand
     - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
     - navigation.top
     - navigation.tabs.sticky
+    - navigation.prune
     - content.tabs.link
-    - search.share
     - content.code.annotate
     - content.code.copy
-    - content.action.view
-    - navigation.indexes
-    - navigation.prune
-    #- toc.integrate
+    - content.action.view # View source button
+    - content.tooltips
+    #- toc.integrate # Add ToC to the left navigation panel
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -145,14 +140,14 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
   font:
-    text: "Noto Sans"
-    code: "Roboto Mono"
+    text: "Recursive"
+    code: "Recursive"
 
 plugins:
   - search
@@ -180,6 +175,7 @@ markdown_extensions:
   - admonition
   - meta
   - md_in_html
+  - abbr
   - attr_list
   - tables
   - pymdownx.critic
@@ -213,14 +209,13 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
-extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
-
 extra_css:
   - stylesheets/extra.css
 
+copyright: "ඞ Biodigital jazz, man..."
+
 extra:
+  generator: false
   social:
     - icon: fontawesome/solid/house
       link: https://jamfox.dev/

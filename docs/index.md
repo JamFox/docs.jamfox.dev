@@ -7,16 +7,18 @@ title: Homepage
 
 # Welcome to JamFox's docs
 
-Welcome to my documentation playground, where I gather valuable bits and pieces for myself and potentially for others.
+Where I gather bits and pieces I find valuable for myself and potentially for you!
 
-Here's an overview of what's what:
+*[you]: You are awesome!
 
-[**🖥️ HomeLab**](content/homelab/index.md) - Anything directly related to the homelab infrastructure.
+---
 
-[**👨‍💻 DevOps**](content/devops/index.md) - General technical system administration and devops documentation.
+[**HomeLab**](content/homelab/index.md) - Anything directly related to the homelab infrastructure.
 
-[**🍲 Food & Drinks**](content/food/index.md) - Anything related to food, drinks, cooking and recipes.
+[**DevOps**](content/devops/index.md) - General technical system administration and devops documentation.
 
-[**🔗 Links**](content/links/index.md) - Links of all shapes and sizes, from interesting stuff I have found to other documentation.
+[**Food & Drinks**](content/food/index.md) - Anything related to food, drinks, cooking and recipes.
+
+[**Links**](content/links/index.md) - Links of all shapes and sizes, from interesting stuff I have found to other documentation.
 
 [**Extras**](content/extras/index.md) - Other miscellaneous stuff.
