@@ -85,6 +85,7 @@ Stripped down version of flowstatevideo's [Better Adventures+](https://www.curse
 
 - Clutter
 - Supplementaries
+- Big Sign Writer
 
 ### Visual/atmosphere
 
