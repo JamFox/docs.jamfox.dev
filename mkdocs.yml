@@ -50,7 +50,8 @@ nav:
           - Vault with AD: content/devops/vaultad.md
           - Vault with Kerberos: content/devops/vaultkrb.md
           - Mozilla SOPS: content/devops/sops.md
-      - Networking: content/devops/networking.md
+      - Networking: 
+          - content/devops/networking.md
       - Storage:
           - Ceph: content/devops/ceph.md
       - AI:
@@ -129,8 +130,7 @@ theme:
     - content.footnote.tooltips # Show tooltips for footnotes on hover
     - content.tabs.link         # Allow tabbed content blocks to link directly to their selected tab
     - content.tooltips          # Show tooltips on hover for glossary-like or icon-based content
-    #- navigation.indexes        # Show index pages for sections in the navigation
-    - navigation.sections       # Make top-level sections expand/collapse in the sidebar
+    #- navigation.sections       # Render side nav sections as groups not as collapsible items
     - navigation.tabs           # Show top-level sections as tabs across the top bar
     - navigation.tabs.sticky    # Keep the tab bar visible while scrolling
     - navigation.top            # Add a "back to top" button in the top-right corner
