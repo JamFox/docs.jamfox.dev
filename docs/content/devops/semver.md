@@ -1,5 +1,6 @@
 ---
 title: "Automated releases & commit styles"
+icon: lucide/tag
 date: "2022-03-30"
 ---
 

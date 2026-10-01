@@ -1,5 +1,6 @@
 ---
 title: Extras
+icon: lucide/layers
 ---
 
 !!! info "Site Sources"

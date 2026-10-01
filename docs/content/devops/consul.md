@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Consul"
+icon: lucide/network
 ---
 
 !!! info

@@ -1,5 +1,6 @@
 ---
 title: "Podcasts"
+icon: lucide/headphones
 ---
 
 - [Cox n' Crendor Show](https://soundcloud.com/coxncrendor)

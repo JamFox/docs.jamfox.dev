@@ -8,14 +8,14 @@ depends = ['serve']
 
 [tasks.install]
 description = 'Install deps'
-depends = ['install-pip', 'install-npm']
-run = 'echo "If playwright needs to be upgraded, change version in package.json"'
+depends = ['install-pip']
 alias = 'i'
 
 [tasks.install-npm]
 run = [
     'npm install',
     'npx playwright install chromium',
+    'echo "If playwright needs to be upgraded, change version in package.json"',
 ]
 hide = true
 

@@ -1,5 +1,6 @@
 ---
 title: "Papa's Snacks"
+icon: lucide/cookie
 ---
 
 ### Mighty breakfast apple sandwich

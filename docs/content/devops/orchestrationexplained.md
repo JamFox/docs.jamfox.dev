@@ -1,5 +1,6 @@
 ---
 title: "Orchestration Fundamentals Explained Simply"
+icon: lucide/workflow
 ---
 
 At some point, when I first started my path down the journey of DevOps and managing IT infrastructure at enterprise level, my team was tasked with deploying a containerized web app for storing documents. Catch being that no-one on the team knew anything about running containerized applications. But no problem!

@@ -1,5 +1,6 @@
 ---
 title: "Mozilla SOPS"
+icon: lucide/lock-keyhole
 ---
 
 !!! info

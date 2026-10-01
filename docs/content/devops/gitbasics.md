@@ -1,5 +1,6 @@
 ---
 title: "Git For Beginners"
+icon: lucide/git-branch
 ---
 
 Git solves the problem of tracking changes and this is useful regardless of whether you are working in a team or not. Imagine having saves and quick saves similar to video games, but for your code. This is in essence, what git will provide. You will be able to choose which save point (or **commit** in git's case) to go back to whenever needed. It's worth noting that git is not GitLab or GitHub which use git in their core and build on top of it. For working on any code, configuration or scripts my philosophy is this: **if it's not on git, it doesn't exist**.

@@ -1,5 +1,6 @@
 ---
 title: "Essays & Articles"
+icon: lucide/notebook-pen
 ---
 
 ## Links

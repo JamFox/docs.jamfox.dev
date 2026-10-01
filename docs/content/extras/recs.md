@@ -1,5 +1,6 @@
 ---
 title: Recommendations
+icon: lucide/book-heart
 ---
 
 A collection of recommendation lists.

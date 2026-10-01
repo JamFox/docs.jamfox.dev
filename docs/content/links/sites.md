@@ -1,5 +1,6 @@
 ---
 title: "Sites"
+icon: lucide/globe
 ---
 
 Make your own sites:

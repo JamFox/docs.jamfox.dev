@@ -1,5 +1,6 @@
 ---
 title: "Prompt Engineering"
+icon: lucide/message-square-code
 ---
 
 !!! info

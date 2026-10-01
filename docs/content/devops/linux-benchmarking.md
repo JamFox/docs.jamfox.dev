@@ -1,14 +1,9 @@
 ---
-title: "Benchmarking and Performance Testing"
+title: "Linux Benchmarking"
+icon: lucide/gauge
 ---
 
-!!! info
-    [Kubernetes Docs](https://kubernetes.io/docs/home/) |
-    [Cloud Native Landscape](https://landscape.cncf.io/) |
-    [Kubernetes Secrets threat model](https://www.macchaffee.com/blog/2022/k8s-secrets/) |
-    [Managing Kubernetes without losing your cool](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/)
-
-### Full Suite Testing
+## Full Suite Testing
 
 [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite/blob/master/documentation/phoronix-test-suite.md)
 
@@ -46,13 +41,13 @@ Selected tests:
     sh phoronix-test-suite benchmark disk
     ```
 
-### Disk performance testing with FIO
+## Disk performance testing with FIO
 
 [Flexible I/O tester docs](https://fio.readthedocs.io/en/latest/fio_doc.html)
 [fio output explained](https://tobert.github.io/post/2014-04-17-fio-output-explained.html)
 [ArsTechnica fio recommended tests](https://arstechnica.com/gadgets/2020/02/how-fast-are-your-disks-find-out-the-open-source-way-with-fio/)
 
-#### Single 4KiB random write process
+### Single 4KiB random write process
 
 This is a single process doing random 4K writes. This is where the pain really, really lives; it's basically the worst possible thing you can ask a disk to do. Where this happens most frequently in real life: copying home directories and dotfiles, manipulating email stuff, some database operations, source code trees.
 
@@ -61,7 +56,7 @@ fio --filename=sdX --name=random-write --ioengine=posixaio --rw=randwrite --bs=4
 ```
 
 
-#### 16 parallel 64KiB random write processes
+### 16 parallel 64KiB random write processes
 
 This time, we're creating 16 separate 256MB files (still totaling 4GB, when all put together) and we're issuing 64KB blocksized random write operations. We're doing it with sixteen separate processes running in parallel, and we're queuing up to 16 simultaneous asynchronous ops before we pause and wait for the OS to start acknowledging their receipt. This is a pretty decent approximation of a significantly busy system. It's not doing any one particularly nasty thing—like running a database engine or copying tons of dotfiles from a user's home directory—but it is coping with a bunch of applications doing moderately demanding stuff all at once.
 
@@ -71,7 +66,7 @@ This is also a pretty good, slightly pessimistic approximation of a busy, multi-
 fio --filename=sdX --name=random-write --ioengine=posixaio --rw=randwrite --bs=64k --size=256m --numjobs=16 --iodepth=16 --runtime=60 --time_based --end_fsync=1
 ```
 
-#### Single 1MiB random write process
+###  Single 1MiB random write process
 
 This is pretty close to the best-case scenario for a real-world system doing real-world things. No, it's not quite as fast as a single, truly contiguous write... but the 1MiB blocksize is large enough that it's quite close. Besides, if literally any other disk activity is requested simultaneously with a contiguous write, the "contiguous" write devolves to this level of performance pretty much instantly, so this is a much more realistic test of the upper end of storage performance on a typical system.
 

@@ -1,5 +1,6 @@
 ---
 title: "Ansible User's Guide to Saltstack"
+icon: lucide/server-cog
 date: "2022-02-10"
 ---
 

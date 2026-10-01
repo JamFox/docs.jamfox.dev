@@ -1,5 +1,6 @@
 ---
 title: "Food"
+icon: lucide/chef-hat
 ---
 
 Anything related to food, cooking and recipes is documented in this section.

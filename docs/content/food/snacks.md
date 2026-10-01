@@ -1,5 +1,6 @@
 ---
 title: "Snacks"
+icon: lucide/cookie
 ---
 
 Collection of snack recipes.

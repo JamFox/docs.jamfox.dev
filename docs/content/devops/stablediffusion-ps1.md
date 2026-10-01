@@ -1,5 +1,6 @@
 ---
 title: "Playstation Filter Using Stable Diffusion"
+icon: lucide/image
 date: "2024-04-07"
 ---
 

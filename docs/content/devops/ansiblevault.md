@@ -1,5 +1,6 @@
 ---
 title: "Ansible Vault"
+icon: lucide/lock-keyhole
 ---
 
 !!! info

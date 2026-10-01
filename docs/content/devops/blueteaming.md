@@ -1,5 +1,6 @@
 ---
 title: "Blue Teaming"
+icon: lucide/shield-check
 ---
 
 ## Tools

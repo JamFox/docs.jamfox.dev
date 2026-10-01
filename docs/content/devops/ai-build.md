@@ -1,3 +1,7 @@
+---
+icon: lucide/brain-circuit
+---
+
 # AI
 
 - [AI on Demand EU](https://aiod.eu/)

@@ -1,5 +1,6 @@
 ---
 title: "Ceph Storage"
+icon: lucide/database
 ---
 
 !!! info

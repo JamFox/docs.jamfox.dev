@@ -1,5 +1,6 @@
 ---
 title: "Sharing Runners To Multiple GitLab groups/projects"
+icon: lucide/git-branch
 ---
 
 For some Runners with specific functionality it is more cost effective to share the Runners to multiple projects as opposed to each team hosting their own Runner. But this specific functionality might need to be restricted and can not be available globally on a GitLab instance. The following will describe the process of sharing Runners to multiple projects.

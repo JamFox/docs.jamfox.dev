@@ -1,5 +1,6 @@
 ---
 title: "Automated OpenStack image builds with Packer and GitLab CI/CD"
+icon: lucide/package-check
 date: "2022-05-19"
 ---
 

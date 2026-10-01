@@ -1,5 +1,6 @@
 ---
 title: "Planespotting"
+icon: lucide/plane
 ---
 
 !!! info

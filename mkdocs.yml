@@ -3,21 +3,19 @@ nav:
   - Home: index.md
   - HomeLab:
       - content/homelab/index.md
-      - Servers:
+      - Hardware:
           - Synology DS220+: content/homelab/ds220.md
           - GMKtec K10: content/homelab/gmkteck10.md
       - Radio:
           - Planespotting: content/homelab/planespotting.md
       - Operating systems:
-          - Proxmox VE: content/homelab/proxmox.md
           - Raspberry Pi: content/homelab/rpi.md
       - Configuration Management:
           - Ansible: content/homelab/ansible.md
-      - Hosting:
+      - Networking: 
           - Dnsmasq: content/homelab/dnsmasq.md
-          - Podman: content/homelab/podman.md
-      - Games: 
-          - Minecraft Servers: content/homelab/minecraft.md
+      - Gameservers: 
+          - Minecraft Server: content/homelab/minecraft.md
       - Archive:
           - JamLab Nomad: content/homelab/jamlabnomad.md
           - HP DL380 G9: content/homelab/dl380g9.md
@@ -29,7 +27,7 @@ nav:
           - Git DOs & DON'Ts: content/devops/gitdos.md
           - Precommit: content/devops/precommit.md
       - Performance Testing & Benchmarking:
-          - Performance Testing & Benchmarking: content/devops/performance-testing-benchmarking.md
+          - Linux Benchmarking: content/devops/linux-benchmarking.md
       - Configuration Management:
           - Ansible User's Guide to Saltstack: content/devops/saltstack-for-ansible.md
           - Ansible Vault: content/devops/ansiblevault.md
@@ -39,6 +37,10 @@ nav:
       - GitLab:
           - OpenStack Packer GitLab CI/CD: content/devops/packerci.md
           - Sharing Runners To Multiple Projects: content/devops/gitlabrunnershare.md
+      - Containers:
+          - Podman: content/devops/podman.md
+      - Hypervisors:
+          - Proxmox VE: content/devops/proxmox.md
       - Orchestration:
           - Orchestration Fundamentals Explained Simply: content/devops/orchestrationexplained.md
           - Hashicorp Consul: content/devops/consul.md
@@ -120,16 +122,19 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.tabs.sticky
-    - navigation.prune
-    - content.tabs.link
-    - content.code.annotate
-    - content.code.copy
-    - content.action.view # View source button
-    - content.tooltips
-    #- toc.integrate # Add ToC to the left navigation panel
+    - content.action.view       # "View source" button
+    - content.code.annotate     # Enable code annotations/inline comments in fenced code blocks
+    - content.code.copy         # Add a copy button to code blocks
+    - content.code.select       # Add a selection button to code blocks
+    - content.footnote.tooltips # Show tooltips for footnotes on hover
+    - content.tabs.link         # Allow tabbed content blocks to link directly to their selected tab
+    - content.tooltips          # Show tooltips on hover for glossary-like or icon-based content
+    #- navigation.indexes        # Show index pages for sections in the navigation
+    - navigation.sections       # Make top-level sections expand/collapse in the sidebar
+    - navigation.tabs           # Show top-level sections as tabs across the top bar
+    - navigation.tabs.sticky    # Keep the tab bar visible while scrolling
+    - navigation.top            # Add a "back to top" button in the top-right corner
+    - search.highlight          # Highlight search matches in the page results
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

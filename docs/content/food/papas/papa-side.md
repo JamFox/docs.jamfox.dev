@@ -1,5 +1,6 @@
 ---
 title: "Papa's Sides, Sauces & Spice Mixes"
+icon: lucide/soup
 ---
 
 ### Caponata

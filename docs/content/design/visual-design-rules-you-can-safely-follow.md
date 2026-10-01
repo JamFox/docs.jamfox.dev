@@ -1,5 +1,6 @@
 ---
 title: "Visual Design Rules You Can Safely Follow"
+icon: lucide/palette
 ---
 
 [Original article](https://anthonyhobday.com/sideprojects/saferules/)

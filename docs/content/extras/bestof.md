@@ -1,5 +1,6 @@
 ---
 title: Best Of
+icon: lucide/trophy
 ---
 
 A collection of lists of what I believe to be the best of the best from each medium. The lists are in alphabetical order. Items marked with an asterisk `*` are considered 10/10.

@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Terraform"
+icon: lucide/blocks
 ---
 
 !!! info

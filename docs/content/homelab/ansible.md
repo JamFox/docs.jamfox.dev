@@ -1,5 +1,6 @@
 ---
 title: "Ansible"
+icon: lucide/server-cog
 ---
 
 !!! info

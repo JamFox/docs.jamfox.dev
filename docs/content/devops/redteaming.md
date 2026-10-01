@@ -1,5 +1,6 @@
 ---
 title: "Red Teaming"
+icon: lucide/swords
 ---
 
 !!! info

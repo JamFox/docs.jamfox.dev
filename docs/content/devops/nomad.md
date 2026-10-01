@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Nomad"
+icon: lucide/compass
 ---
 
 !!! info

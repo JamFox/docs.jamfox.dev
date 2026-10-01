@@ -1,5 +1,6 @@
 ---
 title: "Sides, Sauces & Spice Mixes"
+icon: lucide/soup
 ---
 
 Collection of sauces, sides & spice mix recipes.

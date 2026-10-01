@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Vault integration with AD and SSH signing"
+icon: lucide/key-round
 date: "2021-12-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "HomeLab"
+icon: lucide/server
 ---
 
 Anything directly related to the homelab infrastructure is documented in this section.

@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 title: Homepage
+icon: lucide/house
 ---
 
 # Welcome to JamFox's docs

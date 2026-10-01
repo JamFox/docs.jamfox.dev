@@ -1,5 +1,6 @@
 ---
 title: "Procrastination"
+icon: lucide/hourglass
 ---
 
 - [9/21](https://www.youtube.com/watch?v=kPwG6L73-VU&list=PLhT8ACQdPzpwkpvnvvPf6jCfWxEPmn-Kk) - Demi Adejuyigbe

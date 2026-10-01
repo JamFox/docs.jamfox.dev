@@ -1,5 +1,6 @@
 ---
 title: "Papa's Main Courses"
+icon: lucide/utensils
 ---
 
 ### Hoisin chicken

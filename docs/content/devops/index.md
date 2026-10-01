@@ -1,5 +1,6 @@
 ---
 title: "DevOps"
+icon: lucide/terminal
 ---
 
 General technical system administration and devops documentation.

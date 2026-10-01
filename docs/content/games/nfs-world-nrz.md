@@ -1,3 +1,7 @@
+---
+icon: lucide/car
+---
+
 # Need for Speed World NRZ Guide
 
 Need for Speed World NRZ (NightRiderz) is a fan-made revival of the classic Need for Speed World, offering players an enhanced experience with new features, events, and customization options. This guide is designed to help both new and experienced players navigate the game, maximize their rewards, and master advanced techniques also gives me a place to put notes and interesting information.

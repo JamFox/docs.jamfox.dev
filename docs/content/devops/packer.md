@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Packer"
+icon: lucide/package
 ---
 
 !!! info

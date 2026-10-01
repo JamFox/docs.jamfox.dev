@@ -1,5 +1,6 @@
 ---
 title: "GMKtec NucBox K10"
+icon: lucide/hard-drive
 ---
 
 !!! info

@@ -1,5 +1,6 @@
 ---
 title: "Basics"
+icon: lucide/book-open
 ---
 
 Collection of basic cooking techniques and instructions.

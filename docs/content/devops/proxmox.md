@@ -1,5 +1,6 @@
 ---
 title: "Proxmox VE"
+icon: lucide/server
 ---
 
 !!! info

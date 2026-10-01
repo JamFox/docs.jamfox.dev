@@ -1,3 +1,6 @@
+---
+icon: lucide/map-pin
+---
 
 ## General
 

@@ -1,5 +1,6 @@
 ---
 title: "JamLab Nomad"
+icon: lucide/compass
 ---
 
 ## JamLab Nomad Architecture

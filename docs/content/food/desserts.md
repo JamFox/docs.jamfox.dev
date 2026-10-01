@@ -1,5 +1,6 @@
 ---
 title: "Desserts"
+icon: lucide/cake-slice
 ---
 
 Collection of dessert recipes.

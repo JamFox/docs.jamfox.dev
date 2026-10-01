@@ -1,5 +1,6 @@
 ---
 title: "Papa's Desserts"
+icon: lucide/cake-slice
 ---
 
 ### Emme pontsikud

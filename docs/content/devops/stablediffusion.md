@@ -1,5 +1,6 @@
 ---
 title: "Stable Diffusion"
+icon: lucide/image
 ---
 
 !!! info

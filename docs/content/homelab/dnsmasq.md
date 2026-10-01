@@ -1,5 +1,6 @@
 ---
 title: "Dnsmasq"
+icon: lucide/network
 ---
 
 !!! info

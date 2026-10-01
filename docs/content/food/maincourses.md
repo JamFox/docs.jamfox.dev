@@ -1,5 +1,6 @@
 ---
 title: "Main Courses"
+icon: lucide/utensils
 ---
 
 Collection of main courses.

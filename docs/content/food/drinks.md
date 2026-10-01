@@ -1,5 +1,6 @@
 ---
 title: "Drinks"
+icon: lucide/glass-water
 ---
 
 Collection of my favorite drinks.

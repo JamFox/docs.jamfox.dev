@@ -1,5 +1,6 @@
 ---
 title: "Networking"
+icon: lucide/network
 ---
 
 ## Firewalld

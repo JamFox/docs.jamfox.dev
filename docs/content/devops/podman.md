@@ -1,5 +1,6 @@
 ---
 title: "Podman Rootless for Homelab"
+icon: lucide/box
 ---
 
 !!! info

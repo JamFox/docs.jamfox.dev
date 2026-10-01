@@ -1,5 +1,6 @@
 ---
 title: "Raspberry Pi"
+icon: lucide/cpu
 ---
 
 !!! info

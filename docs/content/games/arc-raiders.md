@@ -1,3 +1,7 @@
+---
+icon: lucide/crosshair
+---
+
 # Arc Raiders
 
 Current map conditions: [Arc Raiders Map Conditions](https://arcraiders.com/map-conditions)

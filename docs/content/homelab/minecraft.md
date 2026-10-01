@@ -1,5 +1,6 @@
 ---
 title: "Minecraft Servers"
+icon: lucide/blocks
 ---
 
 !!! info

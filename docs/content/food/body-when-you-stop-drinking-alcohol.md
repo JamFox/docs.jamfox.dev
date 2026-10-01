@@ -1,5 +1,6 @@
 ---
 title: "What Happens When You Stop Consuming Alcohol"
+icon: lucide/heart-pulse
 ---
 
 The molecule ethanol is what makes you feel drunk. It does this by binding to receptors in your brain. Most notably ethanol binds to glutamate neurotransmitters, which in turn causes the brain to respond

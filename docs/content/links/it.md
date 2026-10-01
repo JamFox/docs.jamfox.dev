@@ -1,5 +1,6 @@
 ---
 title: "IT"
+icon: lucide/server
 ---
 
 ## Links

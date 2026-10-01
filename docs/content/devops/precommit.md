@@ -1,5 +1,6 @@
 ---
 title: "Pre-commit"
+icon: lucide/git-commit-horizontal
 date: "2022-03-30"
 ---
 

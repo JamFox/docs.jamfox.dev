@@ -1,5 +1,6 @@
 ---
 title: Algorithm and Recapturing Intentionality
+icon: lucide/brain
 ---
 
 ## Algorithm and Recapturing Intentionality

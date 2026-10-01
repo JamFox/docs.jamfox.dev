@@ -1,5 +1,6 @@
 ---
 title: "Hashicorp Vault integration with Kerberos/LDAP"
+icon: lucide/key-round
 date: "2022-05-15"
 ---
 

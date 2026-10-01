@@ -1,5 +1,6 @@
 ---
 title: "Coffee"
+icon: lucide/coffee
 ---
 
 Notes on coffee ☕

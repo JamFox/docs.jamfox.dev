@@ -1,5 +1,6 @@
 ---
 title: Piracy
+icon: lucide/skull
 ---
 
 [r/Piracy Megathread](https://rentry.co/megathread)

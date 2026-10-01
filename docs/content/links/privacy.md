@@ -1,5 +1,6 @@
 ---
 title: "Privacy"
+icon: lucide/shield
 ---
 
 ## Browser extensions

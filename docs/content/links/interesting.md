@@ -1,5 +1,6 @@
 ---
 title: "Interesting"
+icon: lucide/sparkles
 ---
 
 - [10 rules of productive online communication - gen Z edition](https://manyonepercents.substack.com/p/productive-online-communication-gen-z) - Tuấn Mon

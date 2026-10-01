@@ -1,3 +1,7 @@
+---
+icon: lucide/gauge
+---
+
 # PC Optimizations
 
 - [Win11Debloat by Raphire](https://github.com/Raphire/Win11Debloat) – for quick and convenient Windows 11 setup.

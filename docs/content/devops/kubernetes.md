@@ -1,5 +1,6 @@
 ---
 title: "Kubernetes"
+icon: lucide/boxes
 ---
 
 !!! info

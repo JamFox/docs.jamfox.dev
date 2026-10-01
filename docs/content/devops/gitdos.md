@@ -1,5 +1,6 @@
 ---
 title: "Git DOs and DONTs"
+icon: lucide/git-pull-request
 date: "2022-03-30"
 ---
 
