@@ -1,6 +1,5 @@
 ---
-title: "Food"
-icon: lucide/chef-hat
+title: "Food index"
 ---
 
 Anything related to food, cooking and recipes is documented in this section.
