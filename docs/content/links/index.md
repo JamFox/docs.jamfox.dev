@@ -10,6 +10,14 @@ Links of all shapes and sizes, from interesting stuff I have found to other docu
 
 [Project Farm](https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng)
 
+## Deals
+
+[TecTec](https://tectec.ee/)
+
+[Resale](https://resale.ee/)
+
+[Steam Group Buys](https://steamcommunity.com/groups/groupbuys) & [gg.deals](https://gg.deals/)
+
 ## Useful links
 
 [Online text to diagram tools](https://xosh.org/text-to-diagram/)
