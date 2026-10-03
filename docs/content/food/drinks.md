@@ -157,6 +157,12 @@ Dutch whisky:
 - Juniperium Sloe Gin 
 - Peninuki Raspberry Gin: raspberry notes taken to campari/whisky style bitterness
 
+## Tea
+
+- Tokubetsu - Gentle Sencha (Danouen, Makinohara, Shizuoka, Japan): gentle really is the best word for it
+- Global Hut - Iron Staff (2007 Sheng Puerh Iron Discus Cake): from light ramps to a smoky strong end/aftertaste
+- Renegade Tea - Red Sunrise (Oolong, Georgian loose leaf, 2025 Rioni batch nr 126): silky, creamy
+
 ## Sodas
 
 - Sprite
