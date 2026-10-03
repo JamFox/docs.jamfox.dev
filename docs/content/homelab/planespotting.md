@@ -17,3 +17,7 @@ icon: lucide/plane
 ## SDR
 
 [RTLSDR and general SDR beginner guide](https://www.youtube.com/watch?v=pjoUpIlQEXk) by sn0ren.
+
+## Live spotting
+
+[EETN Spotter](https://www.youtube.com/@EETNSpotter) 24/7ish stream
