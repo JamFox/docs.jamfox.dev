@@ -22,15 +22,16 @@ icon: lucide/skull
 
 ## Books
 
-- [Anna's Archive](https://annas-archive.org/)
+URL pointing to Wikipedia since that usually has the latest domain names:
+
+- [Anna's Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)
+- [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis)
+- [Sci Hub](https://en.wikipedia.org/wiki/Sci-Hub)
 - [Audiobookbay](http://audiobookbay.nl/)
 
 !!! info "Audiobookbay without an account"
     To get the torrent magnet, locate the `infohash` field of from your torrent info and paste into your torrent client using the following format: `magnet:?xt=urn:btih:infohash`. For example: if the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
 
-- [libgen.fun](http://libgen.fun/)
-- [libgen.rs](https://libgen.rs/)
-- [Sci Hub](https://sci-hub.se/)
 
 ## Anime
 
