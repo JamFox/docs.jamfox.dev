@@ -218,3 +218,57 @@ Best when sick :P
 2. Add burrata spread
 3. Add ingredients from any of the three variations
 4. Et voila!
+
+## One-Egg Benedict with No-Egg 'Hollandaise'
+
+From [chef John's One-Egg Breakfast series](https://www.allrecipes.com/one-egg-benedict-with-no-egg-hollandaise-recipe-12071735).
+
+!!! abstract "Ingredients"
+    - ½ English muffin, toasted
+    - 5 g unsalted butter
+    - 1 slice Canadian bacon (back bacon)
+    - 1 large egg
+    - 30 ml water
+
+!!! abstract inline "No-Egg Hollandaise Ingredients"
+    - 15 ml water
+    - 15 ml lemon juice, or to taste
+    - 1 pinch cayenne pepper
+    - 1 pinch salt
+    - 30 g cold butter, cut into small pieces
+    - Snipped chives for garnish (optional)
+
+**Instructions:**
+
+1. Place the toasted English muffin half on a plate. Melt the butter in a pan over medium-high heat. Add the Canadian bacon and brown lightly on both sides, about 1 minute. Place it on the muffin.
+2. Add the egg and 30 ml water to the pan, then cover tightly. Steam until it reaches your desired doneness, about 1½ minutes for a runny yolk. For a neater appearance, trim the edges of the egg white with a spatula and tuck them underneath. Transfer the egg onto the bacon and tent the plate with foil to keep warm while you make the sauce.
+3. For the sauce, add 15 ml water and the lemon juice to the pan and turn the heat to high. Add a pinch each of cayenne and salt, and wait for the liquid to simmer. Swirl the pan to deglaze the bottom, then turn off the heat. Add the butter pieces and swirl until the butter melts and the sauce emulsifies.
+4. Spoon the sauce over the egg and garnish with chives and more cayenne, if desired.
+
+## One-Egg Shakshuka
+
+From [chef John's One-Egg Breakfast series](https://www.allrecipes.com/one-egg-shakshuka-recipe-12071643).
+
+!!! abstract "Ingredients"
+    - 15 ml olive oil
+    - 60 ml sliced green onion
+    - 1.25 ml kosher salt
+    - 2.5 ml ground cumin
+    - 2.5 ml smoked paprika
+    - 0.6 ml ground turmeric
+    - 0.6 ml dried oregano
+    - 0.6 ml freshly ground black pepper
+    - 1 pinch cayenne pepper
+    - 120 ml sliced hot peppers and/or sweet peppers
+    - 240 ml chopped fresh tomatoes
+    - 1 large egg
+    - 30 g crumbled feta cheese
+    - 30 g chopped fresh parsley or cilantro
+    - Toasted sliced bread to serve alongside
+
+## Directions
+
+1. Add olive oil to a skillet over medium-high heat and add green onions. When green onions start to sizzle, add salt, cumin, paprika, turmeric, oregano, black pepper, and cayenne. Cook, stirring for about a minute. Add peppers and tomatoes and stir everything to combine.
+2. Continue cooking, stirring occasionally, until tomatoes soften and get saucy, and peppers become as tender as you like, 3 to 8 minutes. If the sauce is too thick, just add a splash of water. When you’re happy with the sauce, use a spoon to make a well in the center, and transfer the egg into the well. Carefully use the tip of the spoon to spread the white out a little, away from the yolk.
+3. Cover and cook until egg is as done as you like, 1 to 2 minutes. The egg will continue to cook in the hot sauce as you serve, so it is generally a good idea to undercook slightly; it will finish cooking when you break the yolk and stir it into the sauce.
+4. Garnish the top with crumbled feta, and freshly chopped parsley or cilantro. Serve with toast to scoop up the sauce and egg.

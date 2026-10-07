@@ -3,7 +3,7 @@ title: "Papa's Sides, Sauces & Spice Mixes"
 icon: lucide/soup
 ---
 
-### Caponata
+## Caponata
 
 Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipandfeast.com/eggplant-caponata/) (also in [video recipe form](https://www.youtube.com/watch?v=yLWvHvLrdEk)).
 
@@ -51,7 +51,7 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
 11. Add in the eggplant and pine nuts and cook for 3 more minutes to ensure the caponata is well mixed.  Be careful while mixing in the eggplant to avoid mashing it too much.  A gentle stir with a wooden spoon is all that’s required.
 12. Finally, add a 1/4 cup of chopped fresh parsley, give it one more stir, and a taste test.  Adjust salt, pepper, and sugar if necessary.  If satisfied, let it cool, then place it in a container and refrigerate.
 
-### Cauliflower with cheese
+## Cauliflower with cheese
 
 !!! abstract "Ingredients"
     - Cauliflower
@@ -71,7 +71,7 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
 3. Cover the cauliflower with the mixture and bake at 180 degrees for 15-20 minutes.
 4. Grate Gruyere and Emmental cheese and add to the cauliflower with lemon peels. 5 minutes in the oven
 
-### Couscous
+## Couscous
 
 !!! abstract "Ingredients"
     - Boiled Couscous
@@ -80,7 +80,8 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
     - Parsley
     - Mint, coriander
     - Sumach or chili powder
-### Piri piri sauce
+
+## Piri piri sauce
 
 !!! abstract "Ingredients"
     - Chopped onion
@@ -94,7 +95,7 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
     - Sugar 1 tsp
     - Chopped parsley
 
-### French dip
+## French dip
 
 !!! abstract "Ingredients"
     - Butter
@@ -114,7 +115,7 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
 3. Add beef broth, demi-glace and reduce by a third.
 4. Chop in the tarragon.
 
-### Jerk seasoning mix
+## Jerk seasoning mix
 
 !!! abstract "Ingredients"
     - Hot chilies
@@ -130,3 +131,17 @@ Inspired by and adjusted from [Eggplant Caponata With Raisins](https://www.sipan
     - Cinnamon 1 tsp
     - Smoked paprika 1 tsp
     - Muscovado sugar 2 spoons
+
+## Star anise carrots
+
+!!! abstract "Ingredients"
+    - Carrots
+    - Star anise
+    - Butter
+    - Salt
+    - Pepper
+    - Sugar
+
+1. Halve the carrots and cut them into bite-sized pieces.
+2. Add the carrots to a pan with butter, salt, pepper, sugar, and star anise.
+3. Cover and cook without lifting the lid until ready.

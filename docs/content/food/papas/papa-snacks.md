@@ -3,7 +3,7 @@ title: "Papa's Snacks"
 icon: lucide/cookie
 ---
 
-### Mighty breakfast apple sandwich
+## Mighty breakfast apple sandwich
 
 It has been said to cure depression and invigorate even the most tired of souls who have been up on feet for days without eating.
 
@@ -35,7 +35,7 @@ It has been said to cure depression and invigorate even the most tired of souls 
 7. Draw squiggles of Japanese mayonnaise on the bread, add a sprinkle of onion flakes and top with about 3mm apple slices.
 8. Et voilà!
 
-### Hot-Smoked Fish "Salad"
+## Hot-Smoked Fish "Salad"
 
 Every time you're hosting for a group there's bound to be someone like me says things like "I don't really like seafood..." Well, this recipe is perfect for converting people to the Dark Side of seafood because it doesn't really taste very *fishy*. Fortunately it's dead simple to make so it will be no problem if the seafood-haters guests come looking for seconds.
 
@@ -57,14 +57,14 @@ Best served on ciabatta or equivalent bread.
 5. Slap the "salad" on some ciabatta or equivalent alternative and watch even the seafood haters devour it.
 6. Et voilà!
 
-### Pickles
+## Pickles
 
 !!! abstract "Ingredients (for a 3L jar)"
     - 1.5 tbsp of sugar
     - 2 tablespoons of salt
     - 3 tablespoons of vinegar
 
-### Truffle-bacon sandwich
+## Truffle-bacon sandwich
 
 !!! abstract "Ingredients"
     - Bread

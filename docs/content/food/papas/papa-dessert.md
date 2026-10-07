@@ -3,7 +3,7 @@ title: "Papa's Desserts"
 icon: lucide/cake-slice
 ---
 
-### Emme pontsikud
+## Emme pontsikud
 
 !!! abstract "Ingredients"
     - Curd - 2 packs
@@ -11,7 +11,7 @@ icon: lucide/cake-slice
     - Egg 4 pcs
     - Cooking soda
 
-### Emme vahvlid
+## Emme vahvlid
 
 !!! abstract "Ingredients"
     - 200g of butter

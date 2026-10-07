@@ -303,6 +303,33 @@ Adapted from [Today's Cooking Beginner's Recipe](https://www.kyounoryouri.jp/rec
 - Stir eggs vigorously with chopsticks for fluffy scrambled eggs.
 - A 20cm frying pan with a thick base and glass lid is ideal for single servings and even cooking.
 
+### Gyudon
+
+!!! abstract inline "Ingredients"
+    - 454g thinly sliced beef (such as ribeye)
+    - 1 yellow onion (about 225g)
+    - 2 green onions
+    - 240ml dashi
+    - 4 tbsp sake (or dry sherry, Chinese rice wine, or water)
+    - 4 tbsp mirin (or 4 tbsp sake or water plus 4 tsp sugar)
+    - 6 tbsp soy sauce
+    - 2 tbsp sugar, or to taste
+    - 4 servings cooked Japanese short-grain rice
+    - Pickled red ginger, for garnish
+
+**Notes:**
+
+- You can slice the meat easier if you freeze a block of fresh chuck or rib eye beef for 10 minutes to 1 hour and then slice.
+
+**Instructions:**
+
+1. Thinly slice the onion. Cut the green onions diagonally into thin slices. Cut the beef into pieces about 8cm wide.
+2. In a large, cold frying pan, stir together the dashi, sake, mirin, soy sauce, and sugar until the sugar dissolves.
+3. Separate the onion layers and spread them throughout the broth. Separate the beef slices and arrange them over the onion.
+4. Cover the pan and bring to a simmer over medium heat. Reduce the heat to low and cook, covered, for 3–4 minutes, skimming any scum or excess fat from the broth.
+5. Sprinkle the green onions over the beef, cover, and cook for another minute.
+6. Divide the cooked rice among bowls. Drizzle with some pan sauce, top with the beef and onion, and add more sauce to taste. Garnish with pickled red ginger.
+
 ### Simple Fluffy French Breakfast Omelette
 
 !!! abstract inline "Ingredients"
@@ -358,6 +385,129 @@ From: Food Wishes Chef John's [Lazy Cheeseburger Kebabs](https://www.allrecipes.
       1. in regular mode for around 7 minutes and then turn to broil mode for 2-3 minutes
       2. 10 minutes in the airfryer
 9. Eat with the secret sauce OR alternative side ingredients
+
+### Chorizo & White Bean Skillet
+
+From [Andy Cooks](https://www.andy-cooks.com/blogs/recipes/chorizo-white-bean-skillet)
+
+!!! abstract inline "Ingredients"
+    - 1 chorizo sausage (about 180-200g) or swap for tomatoes
+    - ½ tbsp olive oil
+    - 1 tin (400g) white beans, drained but not rinsed
+    - ½ tsp chicken stock powder
+    - 60g baby spinach
+    - 1 egg
+    - Salt and black pepper, to taste
+    - ⅓ baguette
+
+**Instructions:**
+
+1. Slice the chorizo lengthwise, then cut it into 1cm thick pieces.
+2. Heat a frying pan over medium-high heat. Add the olive oil and cook the chorizo for 3-4 minutes, turning occasionally, until the fat renders and the pieces are golden brown. Once the pan stops producing much more fat or begins to smoke slightly, that is a good sign it is ready for the beans.
+3. Add the drained beans and stir to warm through. Pour in 50ml water and sprinkle over the chicken stock powder, then bring the mixture to a simmer.
+4. Add 2-3 grinds of black pepper, a pinch of salt, and the baby spinach. Make a small well in the centre of the pan and crack in the egg. Sprinkle the yolk lightly with salt and cook until the white is opaque.
+5. Turn off the heat and taste the beans. Adjust the seasoning as needed.
+6. Serve with a portion of baguette and enjoy.
+
+### Cajun Chicken Alfredo
+
+From [Andy Cooks](https://www.andy-cooks.com/blogs/recipes/cajun-chicken-alfredo)
+
+!!! abstract inline "Ingredients"
+    - 2 courgettes
+    - 1 boneless, skinless chicken breast
+    - 15ml olive oil
+    - 7.5ml Cajun spice blend
+    - 100g dried fettuccine
+    - 100ml thickened or double cream
+    - 30g Parmesan cheese
+    - Salt, to taste
+
+**Instructions:**
+
+1. Bring a medium pot of lightly salted water to a boil.
+2. Halve the courgettes lengthwise, then slice on an angle into pieces about 1cm thick. Slice the chicken into strips of a similar thickness.
+3. Heat the olive oil in a medium saucier over high heat. Add the chicken, ¼ tsp salt, Cajun seasoning and courgettes, then stir to combine.
+4. Add the pasta to the boiling water and cook for 8-12 minutes, or until al dente, following the packet instructions.
+5. Once the chicken is golden brown and the courgettes begin to sweat, reduce the heat to medium and add the cream. Simmer for 6-7 minutes, stirring occasionally, until the chicken is cooked through and the cream has thickened and become glossy. Taste and adjust the seasoning, then reduce the heat to low until the pasta is ready.
+6. Use tongs to transfer the cooked pasta directly into the chicken and sauce. Finely grate the Parmesan over it, toss to combine and serve.
+
+### Ground Lamb Curry
+
+From [Andy Cooks](https://www.andy-cooks.com/blogs/recipes/ground-lamb-curry-for-one-keema)
+
+!!! abstract inline "Ingredients"
+    - 1 brown onion
+    - 5 cloves garlic
+    - 20g fresh ginger
+    - 15ml peanut or neutral-flavoured oil
+    - 200g lamb mince
+    - ½ tsp garam masala
+    - ¼ tsp ground chilli
+    - ½ tsp ground cumin
+    - 1½ tsp ground coriander
+    - 400g tinned crushed tomatoes
+    - 70g fresh or frozen peas
+    - Salt, to taste
+    - 180g steamed rice, to serve
+
+**Instructions:**
+
+1. Peel and finely dice the onion. Peel the garlic and ginger, then finely grate both.
+2. Place a medium saucier or saucepan over high heat. Add the oil and, once hot, add the onion with ¼ tsp salt. Cook for 2 minutes, stirring often, until translucent.
+3. Add the lamb mince, grated ginger, garlic and ground spices. Stir and sear until fragrant and the mince is lightly browned.
+4. Add the tomatoes and 50ml water. Stir, reduce the heat to a medium simmer and cook for 8 minutes.
+5. Add the peas and cook until soft: 4 minutes for fresh peas or 2 minutes for frozen peas.
+6. Taste and adjust the seasoning. Serve over steamed rice.
+
+### Universal Meat Mix
+
+!!! abstract inline "Ingredients"
+    - 1lb 90/10 ground beef
+    - 1 small onion
+    - 1 red bell pepper, deseeded
+    - 1 bunch parsley, stems removed
+    - 1 heaping tsp kosher salt
+    - 1 tbsp kebab seasoning
+
+**Instructions:**
+
+1. Finely mince the onion, bell pepper and parsley. Drain off the liquid.
+2. Combine the minced vegetables with the beef, kosher salt and kebab seasoning.
+3. Use for beyti, kebabs, arayes or burgers.
+
+### Pollo Saltado
+
+From Peru!
+
+!!! abstract "Ingredients (Serves 4)"
+    - 900g chicken breast
+    - 1.5 tsp cumin
+    - Salt, to season
+    - 1.5 red onions, cut into thick slices
+    - 3 tomatoes, deseeded and cut into strips
+    - ½ bunch coriander, chopped
+    - 2 tbsp vegetable oil, for cooking
+
+!!! abstract "Beef Sauce"
+    - ⅔ cup beef stock
+    - 4 tbsp soy sauce
+    - 1.5 tbsp red wine vinegar
+    - 1.5 tbsp yellow chilli paste
+    - 1.5 tsp oyster sauce
+
+!!! abstract inline "To Serve"
+    - 1 cup cooked white rice
+    - ½ bag beer-battered fries, cooked according to packet instructions
+    - Finely chopped coriander, to garnish
+
+**Instructions:**
+
+1. Cut the chicken into strips and season with cumin and salt. Whisk together the beef stock, soy sauce, red wine vinegar, yellow chilli paste and oyster sauce.
+2. Heat the vegetable oil in a large pan or wok over high heat. Stir-fry the chicken until browned and cooked through, then set aside.
+3. Add the onion to the pan and stir-fry until just softened. Add the tomatoes and chopped coriander and cook briefly, taking care not to break up the tomatoes.
+4. Return the chicken to the pan, pour in the sauce and toss until everything is heated through.
+5. Serve with the cooked rice and fries, garnished with finely chopped coriander.
 
 ## Medium effort
 
@@ -674,6 +824,45 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 - Preheat oven to broil for 5 minutes. Broil for 2–3 minutes until the cheese melts and the top is golden brown. Alternatively, bake until golden brown.
 - Garnish with chopped parsley and serve immediately.
 
+### One-Pan Golden Butter Chicken
+
+From [chef John](https://www.allrecipes.com/one-pan-golden-butter-chicken-recipe-12059688).
+
+!!! abstract "Ingredients"
+    - 15ml vegetable oil, plus 5ml, divided
+    - 28g unsalted butter, divided
+    - 1 medium yellow onion, diced
+    - 7g salt, plus more to taste
+    - 680g skinless, boneless chicken thighs, cut into 4cm pieces
+    - 7g garam masala
+    - 2g ground cumin
+    - 2g smoked paprika
+    - 1g ground turmeric
+    - 0.3g ground cinnamon
+    - 0.3g cayenne pepper
+    - 15g freshly grated or finely minced fresh ginger
+    - 4 cloves garlic, finely crushed
+    - 65g tomato paste
+    - 120ml chicken broth
+    - 240ml heavy cream
+    - 15g torn cilantro leaves
+    - 370g basmati rice (optional)
+    - 30g salt, for the rice
+    - 1 bay leaf
+    - 2 green cardamom pods
+    - 2.8L water, for the rice
+
+1. Add 15ml vegetable oil and 14g butter to a skillet set over medium-high heat. Add onion and salt, and cook, stirring, until the onion starts to turn translucent, 2–3 minutes. Add the chicken and arrange the pieces in a single layer.
+2. Sear the chicken for about 2 minutes. Sprinkle evenly with garam masala, cumin, smoked paprika, turmeric, cinnamon, and cayenne. Mix the spices into the chicken and cook, stirring, for another 2 minutes.
+3. Make a space in the center of the pan and drizzle in the remaining 5ml vegetable oil. Add ginger and garlic to the oil and sizzle for about 30 seconds, stirring. Mix into the chicken and cook, stirring, for another minute.
+4. Make a space in the center and add the tomato paste. Cook, stirring in the center of the pan, for about 30 seconds, then mix into the chicken and cook until the paste starts to caramelize onto the bottom of the pan, about 2 minutes.
+5. Stir in chicken broth and cream, scraping any caramelization off the bottom of the pan. When the mixture comes to a simmer, reduce heat to medium-low and simmer until the sauce thickens slightly, 3–4 minutes.
+6. Reduce heat to low and stir in the remaining 14g butter. Taste and add more salt if needed. Serve with cilantro, over basmati rice if desired.
+7. To make the optional rice, rinse it in a bowl of cold water, draining and repeating until the water is almost clear. Cover with fresh water and soak for 20 minutes.
+8. Bring 2.8L water to a simmer. Add the rice salt, bay leaf, and cardamom pods.
+9. Drain the soaked rice and add it to the simmering water. Stir and cook for 7½ minutes at a rapid simmer, stirring occasionally.
+10. Drain the rice and let it sit for 30 seconds. Transfer to a pot or container and cover tightly. Let it steam for 6 minutes, then fluff with a fork.
+
 ## High effort
 
 ### Blue Cheese Chicken Pie
@@ -694,7 +883,7 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 5. Keep cold until the filling is ready.
 6. When the filling is ready, put the crust into the oven at 185°C (Tammetõru 200°C) for 10 minutes.
 
-!!! abstract inline "Filling Ingredients"
+!!! abstract "Filling Ingredients"
     - 600g marinated broiler fillet
     - 2 yellow onions
     - 2 red paprika peppers
@@ -714,7 +903,7 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 
 ### Bolognese
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 1 tbsp unsalted butter
     - 50g ham
     - 2 yellow onions
@@ -742,3 +931,52 @@ From: JustOneCookBook's [Curry Doria](https://www.justonecookbook.com/curry-dori
 9. Add some bolognese to spaghetti.
 10. (optional) Grate some parmesan on top.
 
+### Beef Quesabirria Pizza
+
+[From chef John](https://www.allrecipes.com/beef-quesabirria-pizza-recipe-11996000)
+
+!!! abstract "Pizza dough ingredients"
+    - 7g active dry yeast
+    - 355ml warm water
+    - 5ml honey
+    - 15ml olive oil
+    - 500g bread flour
+    - 7g kosher salt
+
+!!! abstract "Beef birria ingredients"
+    - 30ml olive oil
+    - ½ large onion, roughly chopped
+    - 2.5cm piece fresh ginger, thinly sliced
+    - 10g kosher salt
+    - 3 cloves garlic, peeled
+    - 25ml ground chili powder, or to taste
+    - 5ml dried Mexican oregano
+    - 5ml ground cumin
+    - 2.5ml freshly ground black pepper
+    - 1.25ml ground cinnamon
+    - 0.6ml ground cloves
+    - 400g crushed fire-roasted tomatoes
+    - 240ml water
+    - 900g beef chuck, cut into 5cm pieces
+    - 1 carrot, chopped
+    - 1 celery stalk, chopped
+    - 60ml white vinegar
+    - 15ml honey
+    - 2 bay leaves
+    - 600ml beef broth, divided
+    - 170g mozzarella, grated
+    - 170g Monterey Jack, grated
+    - 150g pickled red Fresno chilies
+    - 75g pickled pepperoncini peppers
+    - 1 small white onion, diced
+    - 15g fresh cilantro leaves
+    - lime wedges (optional)
+
+**Instructions:**
+
+1. For the pizza dough, add the yeast, water, and honey to the bowl of a stand mixer. Let sit for 10 minutes. Add the olive oil, flour, and salt, and knead with the dough hook until a smooth, elastic dough forms, 4 to 5 minutes.
+2. Remove the dough from the bowl, roll into a ball, rub with a little olive oil, and place back in the bowl. Cover and let rise until doubled in size, about 1 hour. Punch down the dough and divide into 4 portions. Use immediately or refrigerate until needed; let warm up for 30 minutes before using.
+3. For the beef birria, add the olive oil to a soup pot or Dutch oven over medium-high heat. Add the onion, ginger, and salt, and sauté until the onion starts to turn translucent, 3 to 4 minutes. Add the garlic, chili powder, oregano, cumin, black pepper, cinnamon, and cloves, and cook, stirring, for 1 minute.
+4. Add the tomatoes and water; stir, scraping any caramelization off the bottom of the pan. Add the beef, carrot, celery, vinegar, honey, bay leaves, and 240ml beef broth. Stir and bring to a simmer. Cover tightly, reduce the heat to low, and simmer for 1½ hours, stirring occasionally.
+5. Remove the cover and continue cooking, stirring occasionally, until the meat is tender and the sauce has reduced and thickened, 1½ to 2 hours more. While the meat simmers, skim off some of the fat that rises to the top and reserve for later.
+6. Use a slotted spoon to remove the meat to a bowl and set aside.

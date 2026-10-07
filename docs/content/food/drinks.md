@@ -176,6 +176,24 @@ Dutch whisky:
 - Monster Keen Peach
 - Boss Rainbow Mountain Blend
 
+## Recipes
+
+### DIY Strong Zero
+
+**Ingredients**
+
+!!! abstract "Ingredients"
+    - 700 ml vodka
+    - 8 lemons
+    - Sugar, equal in weight to the lemon peels
+
+**Instructions:**
+
+1. Peel the lemons, avoiding as much of the white pith as possible. Weigh the peels and combine them with an equal weight of sugar in a sealed bag. Refrigerate for at least 1 day.
+2. Juice the lemons and set the juice aside.
+3. After at least 1 day, squeeze the peels in the bag to extract the lemon-sugar syrup. Strain if desired.
+4. Mix the syrup and lemon juice with the vodka. If the sugar has not dissolved, gently warm the syrup and juice together, then let them cool completely before adding the vodka. Do not boil.
+
 ## Cocktails
 
 ### The "one bottle bar" aka spritz cocktails

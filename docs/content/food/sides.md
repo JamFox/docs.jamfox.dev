@@ -45,7 +45,7 @@ From [Babish - Nachos](https://www.bingingwithbabish.com/recipes/nachos)
 
 ## Pico de gallo
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 453.59 g tomatoes, (3-4 medium), diced
     - 1/2 medium onion, (1 cup chopped)
     - 1 jalapeno pepper, seeded and finely minced (optional)
@@ -56,7 +56,7 @@ Mix everything and season to taste.
 
 ## Miso soup
 
-!!! abstract inline "Ingredients"
+!!! abstract "Ingredients"
     - 1 tsp dashi granules
     - 1 tsp miso (white, red, or mixed)
     - Optional: a splash of mirin for sweetness
@@ -93,3 +93,62 @@ Mix everything and season to taste.
 - Works with any sort of bean, but black beans are a classic.
 - Adjust the spices to taste.
 - Butter beans cooked in beer with fennel seeds and ginger are a nice variation.
+
+## Soy Butter French Fries
+
+From [Chefs Labo](https://www.chefslabo.com/)
+
+!!! abstract inline "Ingredients"
+    - 200 g frozen French fries
+    - 15 g unsalted butter, melted
+    - 1 tsp (5 ml) soy sauce
+    - 1/2 sheet nori
+    - Salt and black pepper, to taste
+
+**Instructions:**
+
+1. Melt the butter.
+2. Blend the nori sheet in a food processor or crumble it finely by hand, then mix with the soy sauce.
+3. Toss the freshly cooked, hot fries with salt, black pepper, the nori-soy mixture, and melted butter.
+
+## French Fries with Cheesy Curry Sauce
+
+From [Chefs Labo](https://www.chefslabo.com/)
+
+!!! abstract inline "Ingredients"
+    - 200 g frozen French fries
+    - 2-3 pinches salt
+
+    **Curry sauce:**
+    - 1 g kombu (or 0.5 g MSG)
+    - 25 g Japanese curry roux
+    - 100 g onion, finely chopped
+    - 25 g mozzarella cheese
+
+**Instructions:**
+
+1. Add 1 g of kombu or 0.5 g of MSG to 220 ml of water.
+2. Heat oil in a pan and cook the onion until browned.
+3. If using kombu, remove it. Gradually add the kombu or MSG water as needed to keep the onion from drying out.
+4. Once the onion is ready, add all the remaining water and the curry roux. Stir until the roux dissolves.
+5. Add the mozzarella and season to taste.
+6. Transfer the sauce to a mixer and blend until smooth and uniform.
+7. Cook the fries according to the package directions, then pour the sauce over the fresh, hot fries.
+
+## Feta & Cream Cheese Dip
+
+!!! abstract "Ingredients"
+    - 200 g feta, softened
+    - 200 g cream cheese, softened
+    - 1 clove garlic, grated
+    - 1/2 lemon, juiced
+    - 1-2 Tbsp olive oil
+    - (optional) chili
+    - Optional: parsley, dill, or mint, finely chopped
+
+**Instructions:**
+
+1. Blend or mash the feta and cream cheese together until smooth.
+2. Stir in the garlic, lemon juice, and olive oil until creamy.
+3. Season with chili and a little black pepper.
+4. Spoon into a bowl and finish with more olive oil and herbs, then serve with chips, vegetables, or warm flatbread.

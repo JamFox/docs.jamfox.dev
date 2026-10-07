@@ -3,7 +3,7 @@ title: "Papa's Main Courses"
 icon: lucide/utensils
 ---
 
-### Hoisin chicken
+## Hoisin chicken
 
 !!! abstract "Ingredients"
     - 2 packs of chicken thigh meat
@@ -15,7 +15,7 @@ icon: lucide/utensils
     - Hoisin sauce
     - Soy, water, starch
 
-### Butter chicken
+## Butter chicken
 
 !!! abstract "Pork Ingredients"
     - Pork neck chop
@@ -33,7 +33,7 @@ icon: lucide/utensils
 
 Fry separately and combine.
 
-### Bresse chicken
+## Bresse chicken
 
 !!! abstract "Ingredients"
     - Whole chicken
@@ -49,7 +49,7 @@ Fry separately and combine.
 1. Season the chicken breast with salt and white pepper and put it in the oven at 180 degrees for 30 minutes.
 2. Fry the buns and wings in butter, salt and white pepper, garlic, bouquet garni (leek, sprig of thyme), onion, mushrooms, then add flour and white wine, cream and a little vinegar.
 
-### Korean Crispy Chicken
+## Korean Crispy Chicken
 
 !!! abstract "Chiken Ingredients"
     - Chicken thigh meat
@@ -64,7 +64,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
     - Sesame oil
     - Sesame seeds
 
-### Coucou au cidre
+## Coucou au cidre
 
 !!! abstract "Ingredients"
     - Chicken
@@ -78,7 +78,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 2. Add the shallots, calvados (flambé), cider, creme fraiche, chicken stock
 3. Simmer for 30 minutes.
 
-### Coq au vin
+## Coq au vin
 
 !!! abstract inline "Ingredients"
     - Chicken
@@ -99,7 +99,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 8. Remove the yolk from one egg, add about 100ml of cream to the egg yolk and beat until combined, then pour into the pan.
 9. Add chicken and chopped parsley.
 
-### Shaksuka
+## Shaksuka
 
 !!! abstract "Ingredients"
     - Onions
@@ -122,7 +122,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 6. Add eggs on top and cook covered.
 7. Remove from pan adn add feta cheese before serving.
 
-### Shaurma (Israeli charcoal-grilled meat)
+## Shaurma (Israeli charcoal-grilled meat)
 
 !!! abstract "Marinade Ingredients"
     - Lemon juice
@@ -135,7 +135,7 @@ Fry for 8 minutes in 160-degree oil and a second time at 190 degrees.
 
 Combine and marinate the meat to be grilled in it.
 
-### Lemon chicken
+## Lemon chicken
 
 !!! abstract "Ingredients"
     - Chicken
@@ -153,7 +153,7 @@ Combine and marinate the meat to be grilled in it.
 5. Place in the oven at 150 degrees for 90 minutes.
 6. Remove from the oven and set aside to cool. Put some weight on.
 
-### Chicken pasta with sun-dried tomato pesto
+## Chicken pasta with sun-dried tomato pesto
 
 !!! abstract "Chicken Ingredients"
     - 1 large onion
@@ -174,7 +174,7 @@ Combine and marinate the meat to be grilled in it.
 3. Combine the pesto ingredients in a blender.
 4. Serve pasta separately with pesto, to be added on top.
 
-### Japanese Macaroni Gratin
+## Japanese Macaroni Gratin
 
 Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecookbook.com/macaroni-gratin/).
 
@@ -197,7 +197,7 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 
 1. Bake in 230 degree oven
 
-### Not-Japanese Macaroni Gratin
+## Not-Japanese Macaroni Gratin
 
 Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecookbook.com/macaroni-gratin/).
 
@@ -218,7 +218,7 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 
 1. Bake in 230 degree oven
 
-### Ginger-Garlic Ribs
+## Ginger-Garlic Ribs
 
 !!! abstract "Marinade Ingredients"
     - A thumb of grated ginger
@@ -238,7 +238,7 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
 5. Take the foil off, add the saved marinade back on top, then leave in the oven with the grilling function at 220C.
 6. Take out when brown and slightly, just barely charred at the edges of the bones.
 
-### Pomegranate soya chicken
+## Pomegranate soya chicken
 
 !!! abstract "Chicken Ingredients"
     - 1.5kg chicken
@@ -257,7 +257,7 @@ Loosely inspired by [Just One Cookbook's Macaroni Gratin](https://www.justonecoo
     - Starch
     - Water
 
-### Okonomiyaki
+## Okonomiyaki
 
 From [Joshua Weissman](https://www.joshuaweissman.com/post/okonomiyaki).
 
@@ -351,7 +351,7 @@ From [Joshua Weissman](https://www.joshuaweissman.com/post/okonomiyaki).
     - 2 tsp ground chipotle
     - 1 tsp dried oregano
     - 2 tbsp olive oil
-    - some parsley or coriander leafs0
+    - some parsley or coriander leafs
 
 !!! abstract inline "Sauce Ingredients"
     - 2 dl fat yogurt
@@ -372,3 +372,24 @@ From [Joshua Weissman](https://www.joshuaweissman.com/post/okonomiyaki).
 11. Mix in the sauce
 12. Serve with some parsley or coriander
 13. Et voila!
+
+## Slow-roasted pork neck
+
+!!! abstract "Ingredients"
+    - Pork neck
+    - Mustard
+    - Salt
+
+!!! abstract "Marinade Ingredients"
+    - Ginger
+    - Garlic
+    - Salt and pepper
+    - Soy sauce
+    - Rice vinegar
+    - Syrup or honey
+    - Miso
+
+1. Season the pork neck with mustard and salt.
+2. Mix the marinade ingredients. Set aside a little sauce for brushing after cooking, then coat the pork with the rest and marinate for a few hours.
+3. Put it in the oven in the morning at 90C for 6–7 hours, or even 9 hours, until the internal temperature reaches 78C.
+4. Brush with the reserved sauce after cooking.
