@@ -8,7 +8,8 @@ icon: lucide/box
     [Rocky Linux 10 Podman](https://docs.rockylinux.org/10/gemstones/containers/podman/) |
     [Use of Podman in a Rootless environment](https://github.com/containers/podman/blob/main/docs/tutorials/rootless_tutorial.md?plain=1) |
     [machinectl manual](https://www.man7.org/linux/man-pages/man1/machinectl.1.html) |
-    [podman-docker](https://packages.debian.org/sid/podman-docker)
+    [podman-docker](https://packages.debian.org/sid/podman-docker) | 
+    [unpriviliged user vs `--userns=auto`](https://github.com/podman-container-tools/podman/discussions/13728)
 
 ## Usage
 
@@ -54,3 +55,16 @@ Use `:z` or `:Z` volume mount options (mount argument as `/data/appdata:/appdata
 
 `:z` – Use when the volume is shared between multiple containers.
 `:Z` – Use when the volume is private to a single container.
+
+## Inter container security
+
+If you run two containers as a rootless user, they run in the same user namespace so they can attack each other from a User Namespace point of view.
+
+If you run two containers as root with podman run `--userns=auto`, then they run in unigue user namespace and are isolated. Caveats include ensuring storage and network access to all containers that work together, ie from one compose.
+
+This can also be set in the configuration file:
+
+```
+[containers]
+userns = "auto"
+```
