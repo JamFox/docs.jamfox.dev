@@ -152,10 +152,16 @@ Dutch whisky:
 
 ## Gin
 
-- [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano (summer, with ice, water or tonic)
-- Von Berg [Distilled Gin](https://vonbergspirits.com/product/von-berg-distilled-gin/) (summer, with ice, water or tonic)
+- [Gin del Sospiri](https://www.sospiribotanicheveneziane.com/) - Gin Veneziano: summer, with ice, water or tonic
+- Von Berg [Distilled Gin](https://vonbergspirits.com/product/von-berg-distilled-gin/): summer, with ice, water or tonic
 - Juniperium Sloe Gin 
 - Peninuki Raspberry Gin: raspberry notes taken to campari/whisky style bitterness
+- Bertha’s Revenge Irish Milk Gin: creamy unexpected blanaced madness
+- Del Professore Gin - either Gin à La Madame or Monsieur
+
+## Akvavit or aquavit
+
+- OUK Hiiumaa Akvavit 41.5%: halfway between gin and whiskey, yet not quite
 
 ## Tea
 
